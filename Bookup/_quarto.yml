@@ -1,0 +1,82 @@
+project:
+  type: book
+
+execute:
+  freeze: auto
+
+book:
+  title: "Civil Procedure"
+  subtitle: "An Open-Source Casebook"
+  author:
+  - name: Eric M. Fink
+    email: efink@elon.edu
+    affiliations:
+      - name: Elon University School of Law
+        address: 201 North Greene Street
+        city: Greensboro
+        state: NC
+        postal-code: 27278
+  license: "CC BY NC SA"
+  url: https://www.emfink.net/CivProBook
+  repo-url: https://github.com/EricMFink/CivProBook
+  repo-actions: [issue]
+  downloads: [pdf]
+  search: true
+  reader-mode: true
+  bread-crumbs: false
+  sidebar:
+    style: "docked"
+  chapters:
+    - index.qmd
+    - 01-Front/frontmatter.qmd
+    - 01-Front/preface.qmd
+    - part: "Content"
+      chapters:
+        - 02-Main/chap1.qmd
+        - 02-Main/chap2.qmd
+        - 02-Main/chap3.qmd
+        - 02-Main/chap4.qmd
+        - 02-Main/chap5.qmd
+        - 02-Main/chap6.qmd
+        - 02-Main/chap7.qmd
+        - 02-Main/chap8.qmd
+        - 03-Back/references.qmd
+        - 03-Back/ack.qmd
+        - 03-Back/colophon.qmd
+
+bibliography: ./bib/CivProBook.yaml
+csl: ./bib/casebook-bibliography.csl
+
+format:
+  bookup-html:
+    header-includes: |
+      <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+      <style>@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');</style>
+    lang: "en-US"
+    css: casebook.css
+    backgroundcolor: FloralWhite
+    sidebarbackgroundcolor: FloralWhite
+    mainfont: "Literata"
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    number-depth: 3
+    reference-location: margin
+    citation-location: document
+  pdf:
+    header-includes: |
+      <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+      <style>@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');</style>
+    lang: "en-US"
+    css: casebook.css
+    backgroundcolor: FloralWhite
+    sidebarbackgroundcolor: FloralWhite
+    mainfont: "Literata"
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    number-depth: 3
+    reference-location: margin
+    citation-location: document

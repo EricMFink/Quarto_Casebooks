@@ -120,7 +120,7 @@ references:
   citation-key: PaceTimmermannsRanch2014
   container-title: F. 3d
   issued:
-    - literal: Argued October 29, 2014
+    - year: 2014
   page: '748'
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
@@ -190,7 +190,7 @@ references:
   citation-key: AmadorCountyCal2014
   container-title: F. 3d
   issued:
-    - literal: Argued October 9, 2014
+    - year: 2014
   page: '901'
   title: Amador County, Cal. v. Us Dept. of the Interior
   type: legal_case
@@ -215,23 +215,23 @@ references:
   type: legal_case
   volume: '95'
 
-- id: InternationalShoeCo107
+- id: InternationalShoeCo1945
   authority: U.S.
-  citation-key: InternationalShoeCo107
+  citation-key: InternationalShoeCo1945
   container-title: US
   issued:
-    - year: 107
+    - year: 1945
   page: '310'
   title: International Shoe Co. v. Washington
   type: legal_case
   volume: '326'
 
-- id: McGeeInternationalLife50
+- id: McGeeInternationalLife1957
   authority: U.S.
-  citation-key: McGeeInternationalLife50
+  citation-key: McGeeInternationalLife1957
   container-title: US
   issued:
-    - year: 50
+    - year: 1957
   page: '220'
   title: McGee v. International Life Ins. Co.
   type: legal_case
@@ -242,7 +242,7 @@ references:
   citation-key: WorldWideVolkswagenCorp1979
   container-title: US
   issued:
-    - literal: Argued October 3, 1979
+    - year: 1979
   page: '286'
   title: World-Wide Volkswagen Corp. v. Woodson
   type: legal_case
@@ -253,7 +253,7 @@ references:
   citation-key: FordMotorCo2020
   container-title: US
   issued:
-    - literal: Argued October 7, 2020
+    - year: 2021
   page: '351'
   title: Ford Motor Co. v. Mont Eighth Judicial Dist. Court
   type: legal_case
@@ -275,7 +275,7 @@ references:
   citation-key: NBAPropertiesInc2022
   container-title: F. 4th
   issued:
-    - literal: Argued April 7, 2022
+    - year: 2022
   page: '614'
   title: NBA Properties, Inc. v. Hanwjh
   type: legal_case
@@ -286,7 +286,7 @@ references:
   citation-key: DaimlerAgBauman2013
   container-title: US
   issued:
-    - literal: Argued October 15, 2013
+    - year: 2014
   page: '117'
   title: Daimler Ag v. Bauman
   type: legal_case
@@ -297,7 +297,7 @@ references:
   citation-key: CarnivalCruiseLines1991
   container-title: US
   issued:
-    - literal: Argued January 15, 1991
+    - year: 1991
   page: '585'
   title: Carnival Cruise Lines, Inc. v. Shute
   type: legal_case
@@ -308,18 +308,18 @@ references:
   citation-key: MalloryNorfolkSouthern2022
   container-title: US
   issued:
-    - literal: Argued November 8, 2022
+    - year: 2023
   page: '122'
   title: Mallory v. Norfolk Southern Ry. Co.
   type: legal_case
   volume: '600'
 
-- id: LouisvilleNashvilleCo37
+- id: LouisvilleNashvilleCo1908
   authority: U.S.
-  citation-key: LouisvilleNashvilleCo37
+  citation-key: LouisvilleNashvilleCo1908
   container-title: US
   issued:
-    - year: 37
+    - year: 1908
   page: '149'
   title: Louisville & Nashville R. Co. v. Mottley
   type: legal_case
@@ -337,12 +337,12 @@ references:
   title: Ottawa Township Board of Trustees v. New Par
   type: legal_case
 
-- id: MineWorkersGibbs243
+- id: MineWorkersGibbs1966
   authority: U.S.
-  citation-key: MineWorkersGibbs243
+  citation-key: MineWorkersGibbs1966
   container-title: US
   issued:
-    - year: 243
+    - year: 1966
   page: '715'
   title: Mine Workers v. Gibbs
   type: legal_case
@@ -353,7 +353,7 @@ references:
   citation-key: ExxonMobilCorp2005
   container-title: US
   issued:
-    - literal: Argued March 1, 2005
+    - year: 2005
   page: '546'
   title: Exxon Mobil Corp. v. Allapattah Services, Inc.
   type: legal_case
@@ -404,34 +404,34 @@ references:
   type: legal_case
   volume: '41'
 
-- id: ErieCoTompkins367
+- id: ErieCoTompkins1938
   authority: U.S.
-  citation-key: ErieCoTompkins367
+  citation-key: ErieCoTompkins1938
   container-title: US
   issued:
-    - year: 367
+    - year: 1938
   page: '64'
   title: Erie R. Co. v. Tompkins
   type: legal_case
   volume: '304'
 
-- id: ByrdBlueRidge57
+- id: ByrdBlueRidge1958
   authority: U.S.
-  citation-key: ByrdBlueRidge57
+  citation-key: ByrdBlueRidge1958
   container-title: US
   issued:
-    - year: 57
+    - year: 1958
   page: '525'
   title: Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.
   type: legal_case
   volume: '356'
 
-- id: HannaPlumer171
+- id: HannaPlumer1967
   authority: U.S.
-  citation-key: HannaPlumer171
+  citation-key: HannaPlumer1967
   container-title: US
   issued:
-    - year: 171
+    - year: 1967
   page: '460'
   title: Hanna v. Plumer
   type: legal_case
@@ -573,7 +573,7 @@ references:
   citation-key: HunterEarthgrainsCo2001
   container-title: F. 3d
   issued:
-    - literal: Argued October 31, 2001
+    - year: 2001
   page: '144'
   title: Hunter v. Earthgrains Co. Bakery
   type: legal_case
@@ -589,7 +589,7 @@ references:
       day: 23
   jurisdiction: MD North Carolina
   page: '466'
-  title: Williams v. the Estates Llc
+  title: Williams v. The Estates LLC
   type: legal_case
   volume: '663'
 
@@ -625,7 +625,7 @@ references:
   citation-key: TaylorSturgell2008
   container-title: US
   issued:
-    - literal: Argued April 16, 2008
+    - year: 2008
   page: '880'
   title: Taylor v. Sturgell
   type: legal_case
@@ -701,7 +701,7 @@ references:
   citation-key: ParklaneHosieryCo1978
   container-title: US
   issued:
-    - literal: Argued October 30, 1978
+    - year: 1978
   page: '322'
   title: Parklane Hosiery Co. v. Shore
   type: legal_case
@@ -729,7 +729,7 @@ references:
   citation-key: GrableSonsMetal2005
   container-title: US
   issued:
-    - literal: Argued April 18, 2005
+    - year: 2005
   page: '308'
   title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
   type: legal_case
@@ -1015,4 +1015,215 @@ references:
   title: Rules of Decision Act
   type: legislation
   volume: '28'
+
+- id: Teton1940
+  author:
+    - family: Teton
+      given: Alfred B.
+  citation-key: Teton1940
+  container-title: Illinois Law Review
+  issued:
+    - year: 1940
+  page: '519'
+  title: The Story of Swift v. Tyson
+  type: article-journal
+  volume: '35'
+
+- id: LaPiana1986
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: LaPiana
+      given: William P.
+  citation-key: LaPiana1986
+  container-title: Suffolk University Law Review
+  container-title-short: Suffolk U. L. Rev.
+  issue: '4'
+  issued:
+    - year: 1986
+  language: eng
+  page: 771-832
+  source: HeinOnline
+  title: >-
+    Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
+    the Idea of Law in Antebellum America
+  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/sufflr20&i=801
+  volume: '20'
+
+- id: Kuhn2012
+  abstract: "A good book may have the power to change the way we see the world, but a great book actually becomes part of our daily consciousness, pervading our thinking to the point that we take it for granted, and we forget how provocative and challenging its ideas once were—and still are. The Structure of Scientific Revolutions is that kind of book. When it was first published in 1962, it was a landmark event in the history and philosophy of science. Fifty years later, it still has many lessons to teach. With The Structure of Scientific Revolutions, Kuhn challenged long-standing linear notions of scientific progress, arguing that transformative ideas don’t arise from the day-to-day, gradual process of experimentation and data accumulation but that the revolutions in science, those breakthrough moments that disrupt accepted thinking and offer unanticipated ideas, occur outside of “normal science,” as he called it. Though Kuhn was writing when physics ruled the sciences, his ideas on how scientific revolutions bring order to the anomalies that amass over time in research experiments are still instructive in our biotech age. This new edition of Kuhn’s essential work in the history of science includes an insightful introduction by Ian Hacking, which clarifies terms popularized by Kuhn, including paradigm and incommensurability, and applies Kuhn’s ideas to the science of today. Usefully keyed to the separate sections of the book, Hacking’s introduction provides important background information as well as a contemporary context. \_Newly designed, with an expanded index, this edition will be eagerly welcomed by the next generation of readers seeking to understand the history of our perspectives on science."
+  author:
+    - family: Kuhn
+      given: Thomas S.
+    - family: Hacking
+      given: Ian
+  citation-key: Kuhn2012
+  event-place: Chicago ; London
+  ISBN: 978-0-226-45812-0
+  issued:
+    - year: 2012
+  language: English
+  number-of-pages: '264'
+  publisher: University of Chicago Press
+  publisher-place: Chicago ; London
+  source: Amazon
+  title: 'The Structure of Scientific Revolutions: 50th Anniversary Edition'
+  title-short: The Structure of Scientific Revolutions
+  type: book
+
+- id: Rutherglen2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: Rutherglen2001
+  container-title: The Supreme Court Review
+  DOI: 10.1086/scr.2001.3109692
+  ISSN: 0081-9557
+  issued:
+    - year: 2001
+      month: 1
+  page: 347-374
+  publisher: The University of Chicago Press
+  source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
+  title: International Shoe and the Legacy of Legal Realism
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/scr.2001.3109692
+  volume: '2001'
+
+- id: Sawyer2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Sawyer
+      given: Logan Everett III
+  citation-key: Sawyer2001
+  container-title: George Mason Law Review
+  container-title-short: Geo. Mason L. Rev.
+  issue: '1'
+  issued:
+    - year: 2001
+    - year: 2002
+  language: eng
+  page: 59-96
+  source: HeinOnline
+  title: >-
+    Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence
+    and the Road to International Shoe
+  title-short: Jurisdiction, Jurisprudence, and Legal Change
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
+  volume: '10'
+
+- id: Marcus2009
+  author:
+    - family: Marcus
+      given: David
+  citation-key: Marcus2009
+  container-title: Ga. L. Rev.
+  container-title-short: Ga. L. Rev.
+  issued:
+    - year: 2009
+  page: '433'
+  publisher: HeinOnline
+  title: >-
+    The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
+    Law Reform
+  type: article-journal
+  volume: '44'
+
+- id: Casto1987
+  author:
+    - family: Casto
+      given: William R
+  citation-key: Casto1987
+  container-title: Tul. L. Rev.
+  container-title-short: Tul. L. Rev.
+  issued:
+    - year: 1987
+  page: '907'
+  publisher: HeinOnline
+  title: Erie Doctrine and the Structure of Constitutional Revolutions
+  type: article-journal
+  volume: '62'
+
+- id: Holmes2020
+  abstract: >-
+    The Common Law is Oliver Wendell Holmes' most sustained work of
+    jurisprudence. In it the careful reader will discern traces of his later
+    thought as found in both his legal opinions and other writings. At the
+    outset of The Common Law Holmes posits that he is concerned with
+    establishing that the common law can meet the changing needs of society
+    while preserving continuity with the past. A common law judge must be
+    creative, both in determining society's current needs and in discerning how
+    best to address these needs in a way that is continuous with past judicial
+    decisions. In this way, the law evolves by moving out of its past, adapting
+    to the needs of the present, and establishing a direction for the future. To
+    Holmes' way of thinking, this approach is superior to imposing order in
+    accordance with a philosophical position or theory because the law would
+    thereby lose the flexibility it requires in responding to the needs and
+    demands of disputing parties as well as society as a whole.
+  author:
+    - family: Holmes
+      given: Oliver Wendell
+  citation-key: Holmes2020
+  DOI: 10.4324/9780429338908
+  event-place: New York
+  ISBN: 978-0-429-33890-8
+  issued:
+    - year: 2020
+      month: 2
+      day: 18
+  number-of-pages: '365'
+  publisher: Routledge
+  publisher-place: New York
+  title: The Common Law
+  type: book
+
+- id: Warren1923
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  archive: JSTOR
+  author:
+    - family: Warren
+      given: Charles
+  citation-key: Warren1923
+  container-title: Harvard Law Review
+  DOI: 10.2307/1328407
+  ISSN: 0017811X
+  issue: '1'
+  issued:
+    - year: 1923
+  page: 49-132
+  publisher: The Harvard Law Review Association
+  title: New Light on the History of the Federal Judiciary Act of 1789
+  type: article-journal
+  URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
+  volume: '37'
+
+- id: Frye2018
+  author:
+    - family: Frye
+      given: Brian L
+  citation-key: Frye2018
+  container-title: Akron L. Rev.
+  container-title-short: Akron L. Rev.
+  issued:
+    - year: 2018
+  page: '531'
+  publisher: HeinOnline
+  title: The Ballad of Harry James Tompkins
+  type: article-journal
+  volume: '52'
 ...

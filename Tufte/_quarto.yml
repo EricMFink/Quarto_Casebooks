@@ -2,24 +2,38 @@ project:
     type: tufte
 book:
   open-graph: true
-  site-url: https://fredguth.github.io/tufte-quarto/
-  repo-url: https://github.com/fredguth/tufte-quarto/
-  repo-actions: [edit, issue]
-  title: |
-    Tufte-Quarto Project Type\
-    Documentation
-  title-short: Tufte-Quarto # title-short is used in the pdf head
-  output-file: TufteStyledBook # outputs: docs/TufteStyledBook.pdf
-  author: Fred Guth
-  publisher: The Publisher
-  date-format: MMMM, YYYY
+  site-url: https://www.emfink.net/CivProCasebook
+  repo-url: https://github.com/EricMFink/CivProCasebook/
+  repo-actions: [issue]
+  title: Civil Procedure
+  subtitle: An Open-Source Casebook
+  title-short: Civil Procedure # title-short is used in the pdf head
+  output-file: CivProCasebook # outputs: docs/TufteStyledBook.pdf
+  author:
+  - name: Eric M. Fink
+    email: efink@elon.edu
+    affiliations:
+      - name: Elon University School of Law
+        address: 201 North Greene Street
+        city: Greensboro
+        state: North Carolina
+        postal-code: 27278
+  date-format: MMMM YYYY
   license: "CC BY"
   chapters:
     - index.qmd
-    - 02-Main/customizing.qmd
-    - 02-Main/known_issues.qmd
-    - part: about.qmd
+    - 01-Front/frontmatter.qmd
+    - 01-Front/preface.qmd
+    - part: "Content"
       chapters:
+        - 02-Main/chap1.qmd
+        - 02-Main/chap2.qmd
+        - 02-Main/chap3.qmd
+        - 02-Main/chap4.qmd
+        - 02-Main/chap5.qmd
+        - 02-Main/chap6.qmd
+        - 02-Main/chap7.qmd
+        - 02-Main/chap8.qmd
         - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
