@@ -2,7 +2,7 @@
 
 ## An Open-Source Casebook 
 
-Created with [Quarto](https://quarto.org) using the [`casebook-quarto`](INSERT REPO URL) custom format. 
+Created with [Quarto](https://quarto.org) using the [`casebook-quarto`](https://github.com/EricMFink/casebook-quarto) custom format. 
 
 Prepared by [Eric M. Fink](https://www.emfink.net/ElonLaw/) for Civil Procedure course at [Elon University School of Law](https://www.elon.edu/u/law/).
 
