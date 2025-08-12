@@ -1,0 +1,17 @@
+format:
+  html:
+    header-includes: |
+      <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">    
+    backgroundcolor: FloralWhite
+    sidebarbackgroundcolor: FloralWhite
+    mainfont: "athelas"
+    toc: true
+    toc-depth: 4
+    toc-location: left
+    number-sections: true
+    number-depth: 3
+    css: casebook-tufte.css
+    reference-location: margin
+    citation-location: document
+    bibliography: CivProBook.yaml
+    csl: casebook-bibliography.csl
