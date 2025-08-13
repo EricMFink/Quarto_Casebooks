@@ -12,6 +12,10 @@
 
 (b) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
 
+:::
+
+::: {.legal-code}
+
 #### Fed. R. Civ. P. Rule 42
 
 (a) Consolidation. If actions before the court involve a common question of law or fact, the court may:

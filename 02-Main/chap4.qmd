@@ -10,6 +10,10 @@
 
 The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; 
 
+:::
+
+::: {.legal-code}
+
 #### 28 U.S.C. §1331
 
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
@@ -199,6 +203,10 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 #### U.S. Constitution, art.III, §2
 
 The judicial power shall extend to all cases;--between citizens of different states; and between a state, or the citizens thereof, and foreign states, citizens or subjects.
+
+:::
+
+::: {.legal-code}
 
 #### 28 U.S.C. §1332
 
@@ -693,19 +701,9 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 
 (b) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
-#### 28 U.S.C. §1447
+:::
 
-[Procedure after removal generally]{.legal-code-h1}
-
-(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
-
-(b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
-
-(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
-
-(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
-
-(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
+::: {.legal-code}
 
 #### 28 U.S.C. §1445
 
@@ -720,6 +718,24 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 (c) A civil action in any State court arising under the workmen's compensation laws of such State may not be removed to any district court of the United States.
 
 (d) A civil action in any State court arising under section 40302[In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender.]{.aside} of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
+
+:::
+
+::: {.legal-code}
+
+#### 28 U.S.C. §1447
+
+[Procedure after removal generally]{.legal-code-h1}
+
+(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
+
+(b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
+
+(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+
+(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
+
+(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
 :::
 

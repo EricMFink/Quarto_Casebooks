@@ -137,6 +137,10 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 > (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
+:::
+
+::: {.legal-code}
+
 #### Fed. R. Civ. P. Rule 9 {#rule9}
 
 (a) Capacity or Authority to Sue; Legal Existence.
@@ -407,6 +411,10 @@ Although the analysis of the control element does not depend on the presence or 
   
 > (2) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
+:::
+
+::: {.legal-code}
+
 #### Fed. R. Civ. P. Rule 12 {#rule12b}
 
 (b) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
@@ -567,6 +575,11 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 > (3) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
 
+:::
+
+## Amended Pleadings
+
+::: {.legal-code}
 
 #### Fed. R. Civ. P. Rule 15 {#rule15}
 

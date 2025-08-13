@@ -16,7 +16,6 @@ Source code: [github.com/EricMFink/CivProBook](https://github.com/EricMFink/CivP
 
 _Version 4.1, August 2025_
 
----
 
 :::
 

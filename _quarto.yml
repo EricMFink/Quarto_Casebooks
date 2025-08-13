@@ -28,9 +28,12 @@ book:
     style: "docked"
   chapters:
     - index.qmd
-    - 01-Front/frontmatter.qmd
-    - 01-Front/preface.qmd
-    - part: "Content"
+    - part: "Front Matter"
+      chapters:
+        - 01-Front/license.qmd
+        - 01-Front/epigraph.qmd
+        - 01-Front/preface.qmd
+    - part: "Chapters"
       chapters:
         - 02-Main/chap1.qmd
         - 02-Main/chap2.qmd
@@ -50,6 +53,7 @@ csl: ./bib/casebook-bibliography.csl
 format:
   bookup-html:
     header-includes: |
+      <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
       <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -59,7 +63,7 @@ format:
     sidebarbackgroundcolor: FloralWhite
     mainfont: "Literata"
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     toc-location: left
     number-sections: true
     number-depth: 3

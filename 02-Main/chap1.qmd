@@ -264,11 +264,19 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 (b\) Any such rule creating, abolishing, or modifying an evidentiary privilege shall have no force or effect unless approved by Act of Congress.
 
+:::
+
+::: {.legal-code}
+
 ####  Fed. R. Civ. P. Rule 1
 
 [Scope and Purpose]{.legal-code-h1}
 
 These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
+
+:::
+
+::: {.legal-code}
 
 ####  Fed. R. Civ. P. Rule 2 
 

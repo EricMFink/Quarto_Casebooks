@@ -18,6 +18,8 @@ The Rules of Decision Act applies to cases in which federal courts hear claims t
 
 #### [@SwiftTyson1842]
 
+::: {.editor-comment}
+
 [Summary of Facts]{.note-h2}
 
 _George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_ 
@@ -28,7 +30,9 @@ _Swift then sought payment on the bill of exchange from Tyson, who refused on th
 
 [^Swiftc]: Swift may have been in cahoots with the swindlers: "The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape." [@LaPiana1986]: 796.
 
----
+[{{< fa gavel >}}]{.center-icon-large}
+
+:::
 
 [Justice STORY delivered the opinion of the Court.]{.case-judge}
 
