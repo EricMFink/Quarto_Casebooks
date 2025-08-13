@@ -104,6 +104,7 @@ Where the defendant interposes a claim as a counterclaim and a valid and final j
 ### Judgment on the Merits
 
 #### [@JohnsonSpencer2020]
+
 [HOLMES, Circuit Judge]{.case-judge}
 
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. §1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"), and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
@@ -190,7 +191,7 @@ In the following discussion, as indicated, we focus on whether the 1991 Action p
 
 The parties dispute whether the 1991 Action is entitled to claim-preclusive effect and, more specifically, whether it constituted a "full and fair opportunity to litigate." Mr. Johnson also argues that, even if the 1991 Action might give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject both arguments and, thus, uphold the district court's dismissal of the claims against Cheyenne and the Estate, i.e., the parties to the 1991 Action.
 
-> _i. The "Full and Fair Opportunity to Litigate" Requirement_
+[_i. The "Full and Fair Opportunity to Litigate" Requirement_]{.case-h5}
 
 The "full and fair opportunity to litigate" inquiry is a "narrow exception" that "applies only where the requirements of due process were not afforded---where a party shows 'a deficiency that would undermine the fundamental fairness of the original proceedings.'" "The fairness of the prior proceeding 'is determined by examining any procedural limitations, the party's incentive to fully litigate the claim, and whether effective litigation was limited by the nature or relationship of the parties.'" Here, Mr. Johnson argues, that the district court's decision in the 1991 Action to convene a bench trial instead of a jury trial was a procedural limitation that denied him a "full and fair opportunity to litigate" his claims. We disagree.
 
@@ -202,7 +203,7 @@ As in _Hanley_, so too here. Mr. Johnson had a full and fair opportunity to liti
 
 In sum, it is clear to us that Mr. Johnson cannot escape from the claim-preclusive effect of the 1991 Action based on a procedural argument that was previously litigated and adjudicated in that action and that he had an opportunity to appeal before that judgment became final. Consequently, we reject Mr. Johnson's contention that the 1991 Action did not provide him with a "full and fair opportunity to litigate."
 
-> _ii. Cheyenne and the Estate carried their burden on the claim-preclusion defense._
+[_ii. Cheyenne and the Estate carried their burden on the claim-preclusion defense._]{.case-h5}
 
 Mr. Johnson also contends that, even if the 1991 Action could give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject this argument.
 
@@ -214,7 +215,7 @@ It is beyond cavil that claim preclusion is an affirmative defense, as to which 
 
 In sum, we reject Mr. Johnson's argument that Cheyenne and the Estate have failed to muster legally sufficient proof to establish claim preclusion as to the 1991 Action.
 
-> _iii. Heck v. Humphrey Redux_
+[_iii. Heck v. Humphrey Redux_]{.case-h5}
 
 Mr. Johnson also returns to an iteration of his _Heck_ argument. He argues that, under _Heck_, he could not have brought the claims in his 2017 Action until he was exonerated in 2013 and so the district court erred in deeming those claims precluded by his earlier actions. 
 
@@ -232,7 +233,7 @@ In sum, we hold that the claims in the 2017 Action against Cheyenne and the Esta
 
 With respect to the 1992 Action, Mr. Johnson primarily disputes the first element of claim preclusion, i.e., whether there was "a final judgment on the merits." We recount the relevant procedural history before agreeing with Mr. Johnson that the 1992 Action was not adjudicated "on the merits" and, therefore, did not have claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's dismissal of the claims against Officer Spencer---the only defendant in the 1992 Action---and remand for further proceedings on those claims. Because we conclude that the 1992 Action was not adjudicated "on the merits," we need not entertain Mr. Johnson's separate argument that the 1992 Action did not afford him a "full and fair opportunity to litigate."
 
-> _i. Relevant Procedural History_
+[_i. Relevant Procedural History_]{.case-h5}
 
 Mr. Johnson's 1992 Action was a §1983 suit alleging that Officer Spencer violated his due-process rights by providing false testimony about his eyeglasses at his criminal trial. The district court dismissed the complaint sua sponte with prejudice as frivolous, (1) noting that in the 1991 Action it had "concluded there were no facts justifying the plaintiff's claims that his constitutional rights were violated" and (2) holding that "the present complaint was simply another attempt by plaintiff to revisit the same claim that has previously been dismissed." The court reviewed the exhibits that Mr. Johnson had submitted with his complaint and concluded that they did not "establish even the slightest indication that Officer Spencer made false, or inconsistent statements at the trial." The court, in conclusion, observed that Mr. Johnson had "made no new argument in his complaint" and, thus, held that his complaint was "frivolous and completely devoid of merit." 
 
@@ -240,7 +241,7 @@ Further, the district court stated that "even assuming Mr. Johnson's constitutio
 
 On appeal from that judgment, we noted that the district court "dismissed the action as factually frivolous" and affirmed on the ground that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." 
 
-> _ii. The "On the Merits" Requirement_
+[_ii. The "On the Merits" Requirement_]{.case-h5}
 
 As mentioned, a successful claim-preclusion defense requires "a final judgment on the merits in the earlier action." Mr. Johnson argues that the 1992 Action was not an adjudication "on the merits" because the suit was dismissed as frivolous. We agree.
 
@@ -290,7 +291,6 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 (2) To seek remedies or forms of relief not demanded in the first action.
 
 :::
-
 
 #### [@HernandezAssetAcceptance2013]
 
@@ -474,7 +474,7 @@ The 1998 Agreement between Stan Lee and SLMI has been the subject of numerous ca
 
 Notably, in 2010, the Southern District of New York held that the 1998 Agreement was terminated by Stan Lee in 2001 per his correspondence with SLMI indicating that SLMI breached the salary and benefit provisions in the agreement. Furthermore, the court held that the statute of limitations to challenge the termination had lapsed by 2010, and that, even if not expressly terminated, the 1998 Agreement had expired in 2005 pursuant to California Labor Code section 2855a, which limits the duration of personal services contracts to seven years. 
 
-In 2012, Judge Wilson of the Central District of California addressed the 1998 Agreement as well. In that action, SLMI sued Stan Lee and others alleging that Stan Lee and Marvel were infringing on the 1998 Agreement because Stan Lee had "assigned all copyrights and trademarks associated with all characters and comic books that he authored, including the iconic characters that he created during his tenure at Marvel" to SLMI. The court granted defendants' motion to dismiss on the grounds that SLMI's claims were barred by res judicata. Tellingly, the court concluded "that there is a compelling public interest in bringing this matter to a close." 
+In 2012, Judge Wilson of the Central District of California addressed the 1998 Agreement as well. In that action, SLMI sued Stan Lee and others alleging that Stan Lee and Marvel were infringing on the 1998 Agreement because Stan Lee had "assigned all copyrights and trademarks associated with all characters and comic books that he authored, including the iconic characters that he created during his tenure at Marvel" to SLMI. The court granted defendants' motion to dismiss on the grounds that SLMI's claims were barred by res judicata. Tellingly, the court concluded "that there is a compelling public interest in bringing this matter to a close." 
 
 In 2013, the District of Colorado cited the aforementioned cases and similarly held that claims to enforce the 1998 Agreement were precluded by collateral estoppel. 
 
@@ -490,7 +490,7 @@ POW moves to dismiss all of JC Lee's claims arguing that her claims are barred b
 
 Third, the parties in the current action must be identical to or in privity with the parties from the prior actions. _Abadin_ was filed by SLMI's shareholders derivatively on behalf of SLMI against Marvel Entertainment, Inc. and others. In _SLMI II,_ SLMI filed suit against the Walt Disney Corporation and others. In the matter before the Court, JC Lee, in her role as the trustee of Stan Lee's estate, files suit against POW. As the parties are not identical, they must be in privity for res judicata to apply. "Privity may exist if there is substantial identity between parties, that is, when there is sufficient commonality of interest." The Ninth Circuit has stated that "privity is a flexible concept dependent on the particular relationship between the parties." For example, "privity between parties exists when a party is so identified in interest with a party to former litigation that he represents precisely the same right in respect to the subject matter involved."
 
-Here, JC Lee asserts that she was not a party to the prior suits and argues, without support, that she is not in privity with SLMI. However, she concedes that she has "joined forces" with SLMI and is the successor in interest to Stan Lee, the assignor of SLMI's rights per the parties to the 1998 Agreement. Indeed, JC Lee alleges that legal title to Stan Lee's "name and likeness and creator rights" remain with SLMI and files this suit seeking declaratory relief of SLMI's rights. JC Lee seeks to enforce the same contractual provision as in _Abadin_ and _SLMI,_ making the same argument that by signing the 1998 Agreement, Stan Lee assigned his intellectual property to SLMI, and seeks the same relief. Thus, JC Lee and SLMI are in privity.
+Here, JC Lee asserts that she was not a party to the prior suits and argues, without support, that she is not in privity with SLMI. However, she concedes that she has "joined forces" with SLMI and is the successor in interest to Stan Lee, the assignor of SLMI's rights per the parties to the 1998 Agreement. Indeed, JC Lee alleges that legal title to Stan Lee's "name and likeness and creator rights" remain with SLMI and files this suit seeking declaratory relief of SLMI's rights. JC Lee seeks to enforce the same contractual provision as in _Abadin_ and _SLMI,_ making the same argument that by signing the 1998 Agreement, Stan Lee assigned his intellectual property to SLMI, and seeks the same relief. Thus, JC Lee and SLMI are in privity.
 
 Even where parties are in privity, the Court must consider whether the interests of the party absent in the prior action were adequately represented. In _Headwaters Inc.,_ the Ninth Circuit considered the notice the nonparty had and the level of protection the district court afforded the nonparty's interests. Here, JC Lee, a nonparty in _Abadin_ and _SLMI,_ asserts that her interest is to "vindicate and clear title to Stan Lee's intellectual property" as assigned by the 1998 Agreement. As the prior courts considered this very question and JC Lee is no stranger to this dispute, JC Lee's interests were adequately represented. Accordingly, the Court finds the third factor satisfied.
 
@@ -547,7 +547,7 @@ The Commonwealth then moved to dismiss, and the district court granted the motio
 
 Before the magistrate judge, the Commonwealth sought to stay this action pending final resolution of Passaro's state-court appeals, arguing that the state-court judgment could have preclusive effect on this case. Passaro responded that, while he disagreed that the state-court action would have any preclusive effect, he did not object to a stay. The court granted the stay, which remained in place until May 2018.
 
-After the stay was lifted, the Commonwealth moved for summary judgment, arguing that the state-court proceedings had claim-preclusive effect on Passaro's discrimination and retaliation claims under Title VII. The district court agreed and entered judgment for the Commonwealth.
+After the stay was lifted, the Commonwealth moved for summary judgment, arguing that the state-court proceedings had claim-preclusive effect on Passaro's discrimination and retaliation claims under Title VII. The district court agreed and entered judgment for the Commonwealth.
 
 Passaro timely appeals. He argues that the district court erred in dismissing his ADA claim because the Commonwealth has waived its state sovereign immunity. He also argues that claim preclusion does not bar his Title VII claims, asserting that the Commonwealth also waived this defense and, alternatively, that claim preclusion does not apply.
 
@@ -743,8 +743,6 @@ The state court found that on January 3, 2013, the Partnership conveyed title to
 > Alan, Barbara, the Family Partnership, and another defendant all engaged in fraud by conveying the real property and improvements located at 10324 Decoursey from the Family Partnership to Kyle without consideration to defraud creditors. Alan, Barbara, the Family Partnership, and another defendant agreed to and did act in concert and participation with one another to transfer the real property and improvements located at 10324 Decoursey Pike to Kyle for the purpose of defrauding BOK;
 > 
 > As a direct and proximate result of the fraudulent transfer and acts of Alan, Barbara, and the Family Partnership, BOK has been damaged in the amount of Ninety Thousand Dollars ($90,000.00), which is the value of the property fraudulently transferred according to the Certification of Consideration completed and filled out by the Defendants, and judgment is hereby entered in favor of BOK and against Alan, Barbara, and the Family Partnership, jointly and severally in the amount of Ninety Thousand Dollars ($90,000.00);
-> 
-> . . .
 > 
 > Alan, Barbara, the Family Partnership, and another defendant all violated KRS §§378.010 & 378.020 by transferring 10324 Decoursey without consideration and with the intent to defraud BOK.
 
@@ -972,18 +970,25 @@ Under Hudson state law, a claim by an employee for injuries sustained in the cou
 
 Guy brings a workers’ compensation claim for the injury to his foot. Sterling Cooper defends against the workers’ compensation claim on two grounds: 
 
-1. Guy negligently failed to move out of the way from the approaching mower.
-2. The accident was the fault of Elke, which designed the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
+> 1. Guy negligently failed to move out of the way from the approaching mower.
+> 
+> 2. The accident was the fault of Elke, which designed the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
 
 The Workers’ Compensation Claims Board makes the following findings of fact & conclusions of law:
 
-1. Guy was injured while attending a work-related function at Sterling Cooper’s office.
-2. The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
-3. Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
-4. While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
-5. The mower was not defective in its design. 
-6. The mower did not include any warning against operation indoors or while intoxicated. 
-7. As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
+> 1. Guy was injured while attending a work-related function at Sterling Cooper’s office.
+> 
+> 2. The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
+> 
+> 3. Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
+> 
+> 4. While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
+> 
+> 5. The mower was not defective in its design. 
+> 
+> 6. The mower did not include any warning against operation indoors or while intoxicated. 
+> 
+> 7. As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
 
 Based on these findings, the Board granted Guy’s claim. Sterling Cooper appeals the Board’s decision to the Hudson Court of Appeals, which affirms the Board’s ruling. Under Hudson law, when a decision by the Board has been affirmed on appeal, the Board’s decision has the same preclusive effect as a court judgment. 
 

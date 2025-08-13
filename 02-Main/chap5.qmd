@@ -1,4 +1,4 @@
-# Choice of Governing Law in Federal Court
+# Choice of Governing Law
 
 ## The Rules of Decision Act
 
@@ -138,7 +138,7 @@ The fallacy underlying the rule declared in _Swift v. Tyson_ is made clear by Mr
 
 Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an unconstitutional assumption of powers by courts of the United States which no lapse of time or respectable array of opinion should make us hesitate to correct." In disapproving that doctrine we do not hold unconstitutional §34 of the Federal Judiciary Act of 1789 or any other Act of Congress. We merely declare that in applying the doctrine this Court and the lower courts have invaded rights which in our opinion are reserved by the Constitution to the several States.
 
-_Fourth_.[On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938). For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see [@Frye2018]{.aside} The defendant contended that by the common law of Pennsylvania as declared by its highest court [ * * * ], the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
+_Fourth_.[On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see [@Frye2018]]{.aside} The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
 ##### Note: Substance and Procedure under _Erie_
 
@@ -247,13 +247,13 @@ On February 6, 1963, petitioner, a citizen of Ohio, filed her complaint in the D
 
 > The summons and complaint shall be served together. The plaintiff shall furnish the person making service with such copies as are necessary. Service shall be made as follows:
 >
-> > (1) Upon an individual other than an infant or an incompetent person, by delivering a copy of the summons and of the complaint to him personally or by leaving copies thereof at his dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.
+> > (1\) Upon an individual other than an infant or an incompetent person, by delivering a copy of the summons and of the complaint to him personally or by leaving copies thereof at his dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.
 
 Respondent filed his answer on February 26, alleging, _inter alia_, that the action could not be maintained because it had been brought "contrary to and in violation of the provisions of Massachusetts General Laws (Ter. Ed.) Chapter 197, Section 9." That section provides:
 
 > Except as provided in this chapter, an executor or administrator shall not be held to answer to an action by a creditor of the deceased which is not commenced within one year from the time of his giving bond for the performance of his trust, or to such an action which is commenced within said year unless before the expiration thereof the writ in such action has been served by delivery in hand upon such executor or administrator or service thereof accepted by him or a notice stating the name of the estate, the name and address of the creditor, the amount of the claim and the court in which the action has been brought has been filed in the proper registry of probate.
 
-On October 17, 1963, the District Court granted respondent's motion for summary judgment, citing _Ragan v. Merchants Transfer Co._, 337 U. S. 530, and _Guaranty Trust Co. v. York_, 326 U. S. 99, in support of its conclusion that the adequacy of the service was to be measured by §9, with which, the court held, petitioner had not complied. On appeal, petitioner admitted noncompliance with §9, but argued that Rule 4(d)(1) defines the method by which service of process is to be effected in diversity actions. The Court of Appeals for the First Circuit, finding that "[r]elatively recent amendments [to §9] evince a clear legislative purpose to require personal notification within the year," concluded that the conflict of state and federal rules was over "a substantive rather than a procedural matter," and unanimously affirmed. Because of the threat to the goal of uniformity of federal procedure posed by the decision below, we granted certiorari.
+On October 17, 1963, the District Court granted respondent's motion for summary judgment, citing _Ragan v. Merchants Transfer Co._ and _Guaranty Trust Co. v. York_ in support of its conclusion that the adequacy of the service was to be measured by §9, with which, the court held, petitioner had not complied. On appeal, petitioner admitted noncompliance with §9, but argued that Rule 4(d)(1) defines the method by which service of process is to be effected in diversity actions. The Court of Appeals for the First Circuit, finding that "[r]elatively recent amendments [to §9] evince a clear legislative purpose to require personal notification within the year," concluded that the conflict of state and federal rules was over "a substantive rather than a procedural matter," and unanimously affirmed. Because of the threat to the goal of uniformity of federal procedure posed by the decision below, we granted certiorari.
 
 We conclude that the adoption of Rule 4(d)(1), designed to control service of process in diversity actions, neither exceeded the congressional mandate embodied in the Rules Enabling Act nor transgressed constitutional bounds, and that the Rule is therefore the standard against which the District Court should have measured the adequacy of the service. Accordingly, we reverse the decision of the Court of Appeals.
 
@@ -266,8 +266,6 @@ The Rules Enabling Act, 28 U.S.C. §2072, provides, in pertinent part:
 Under the cases construing the scope of the Enabling Act, Rule 4(d)(1) clearly passes muster. Prescribing the manner in which a defendant is to be notified that a suit has been instituted against him, it relates to the "practice and procedure of the district courts."
 
 > The test must be whether a rule really regulates procedure,---the judicial process for enforcing rights and duties recognized by substantive law and for justly administering remedy and redress for disregard or infraction of them.
-
-_Sibbach v. Wilson & Co._, 312 U. S. 1, 14.
 
 In _Mississippi Pub. Corp. v. Murphree_, 326 U. S. 438, this Court upheld Rule 4(f), which permits service of a summons anywhere within the State (and not merely the district) in which a district court sits:
 
@@ -362,7 +360,7 @@ The Court held oral argument during which it sua sponte raised the issue of the 
 
 Rule 15(a) sets the general standard for amending pleadings in Federal court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend "shall be freely given when justice so requires." The determination as to whether to grant leave to amend is entrusted to the sound discretion of the trial court.The Eighth Circuit has held that although amendment of a pleading "should be allowed liberally to ensure that a case is decided on its merits there is no absolute right to amend."
 
-Denial of leave to amend may be justified by "undue delay, bad faith on the part of the moving party, futility of the amendment or unfair prejudice to the opposing party." "Denial of a motion for leave to amend on the basis of futility means the district court has reached the legal conclusion that the amended complaint could not withstand a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure. Accordingly, in reviewing a denial of leave to amend we ask whether the proposed amended complaint states a cause of action under the _Twombly_ pleading standard."[The _Twombly_ standard and Fed. R. Civ. P. 12(b)(6) are covered in the unit on pleading.]{.aside}
+Denial of leave to amend may be justified by "undue delay, bad faith on the part of the moving party, futility of the amendment or unfair prejudice to the opposing party." "Denial of a motion for leave to amend on the basis of futility means the district court has reached the legal conclusion that the amended complaint could not withstand a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure. Accordingly, in reviewing a denial of leave to amend we ask whether the proposed amended complaint states a cause of action under the _Twombly_ pleading standard."[The _Twombly_ standard and Fed. R. Civ. P. 12(b)(6) are covered in Chap. 6.]{.aside}
 
 On a motion to dismiss filed pursuant to Rule 12(b)(6), the Court must take the well-pleaded allegations of a claim as true, and construe the pleading, and all reasonable inferences arising therefrom, most favorably to the pleader. To survive a motion to dismiss, a claim "must contain sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" A claim is facially plausible "when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged."
 
@@ -374,15 +372,15 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 
 > Punitive damages shall be allowed in civil actions only upon clear and convincing evidence that the acts of the defendant show deliberate disregard for the rights or safety of others.
 >
-> (b) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
+> (b\) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
 >
-> > (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
+> > (1\) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
 >
-> > (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
+> > (2\) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
 Courts in the District of Minnesota have historically applied the state statute, Minn. Stat. §549.191, rather than Rule 15, to motions to amend to add a claim for punitive damages, in diversity actions, such as the present action. However, this practice has come under scrutiny over the last couple years in light of the apparent conflict between the Minnesota statute and Rule 15.
 
-Indeed, courts have recently taken another look at the practice and analyzed whether Rule 15 or Minn. Stat. §549.191 should be applied in view of the 2010 United States Supreme Court's decision in _Shady Grove Assocs., P.A. v. Allstate Ins. Co._, 559 U.S. 393 (2010). The large majority of these courts now apply Rule 15 instead of Minn. Stat. §549.191 when considering motions to add punitive damage claims.
+Indeed, courts have recently taken another look at the practice and analyzed whether Rule 15 or Minn. Stat. §549.191 should be applied in view of the 2010 United States Supreme Court's decision in _Shady Grove Assocs., P.A. v. Allstate Ins. Co._. The large majority of these courts now apply Rule 15 instead of Minn. Stat. §549.191 when considering motions to add punitive damage claims.
 
 "_Shady Grove_ instructs that 'a federal court exercising diversity jurisdiction should not apply a state law or rule if (1) a Federal Rule of Civil Procedure 'answers the same question' as the state law or rule and (2) the Federal Rule does not violate the Rules Enabling Act.'" Five of the Supreme Court justices in _Shady Grove_ concluded that the first step in the analysis looks to whether the federal rule directly conflicts with the state law, which occurs where the federal rule "answers the question in dispute." If it does, Rule 15 applies---Minn. Stat. §549.191 notwithstanding--- "unless it exceeds statutory authorization or Congress's rulemaking power."
 
@@ -448,7 +446,7 @@ After reading the ad, Carlill buys a Carbolic Smoke Ball and uses it as directed
 Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges that Carbolic's ad made false claims about the health benefits of the Smoke Ball, that Carbolic knew those claims were false, and that Carbolic made those claims with an intent to induce consumers to buy the product. In the complaint, Carlill requests the following relief:  
 
 - $80,000 in punitive and compensatory damages, and 
-- a permanent injunction prohibiting Carbolic from continuing to run ads making fraudulent claims about the Carbolic Smoke Ball's health benefits.
+- a permanent injunction prohibiting Carbolic from making false claims about the Carbolic Smoke Ball's health benefits.
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 

@@ -14,7 +14,7 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 Source code: [github.com/EricMFink/CivProBook](https://github.com/EricMFink/CivProBook) 
 
-_Version 4.0, September 2025_
+_Version 4.1, August 2025_
 
 ---
 

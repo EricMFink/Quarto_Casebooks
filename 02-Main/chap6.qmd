@@ -181,7 +181,7 @@ A half-century later, a pair of Supreme Court decisions jettisoned the _Conley_ 
 
 [1. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)]{.case-h2}
 
-In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. §1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
+In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. §1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint[You can read the complaint [here](../exhibits/Twombly-complaint.pdf).]{.aside} alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
 
 > In the absence of any meaningful competition between [the defendants] in one another's markets, and in light of the parallel course of conduct that each engaged in to prevent competition from [other providers] within their respective local telephone and/or high speed internet services markets and the other facts and market circumstances alleged above, Plaintiffs allege upon information and belief that Defendants have entered into a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets and have agreed not to compete with one another and otherwise allocated customers and markets to one another.
 
@@ -1197,9 +1197,9 @@ As a result of this incident, Mackendrick has lost all of the toes on his left f
 
 Mackendrick hires you to represent him in a suit over his injury. You conclude that Mackendrick has two viable claims: 
 
-a. A claim against Sadler for her negligence in operating the mower. Under the applicable law, this claim requires that the plaintiff show (1) that the defendant breached a duty of care owed to the plaintiff, (2) that the plaintiff suffered harm, and (3) that the defendant's breach was the proximate cause of the plaintiff's injury. 
-
-b. A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence ("respondeat superior"). Under the applicable law, this claim requires that the plaintiff show that (1) the plaintiff was injured by an employee of the defendant, (2) that the employee was acting within the scope of their employment, and (3) that the employee's activity benefitted the employer.
+> A claim against Sadler for her negligence in operating the mower. Under the applicable law, this claim requires that the plaintiff show (1) that the defendant breached a duty of care owed to the plaintiff, (2) that the plaintiff suffered harm, and (3) that the defendant's breach was the proximate cause of the plaintiff's injury. 
+> 
+> A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence ("respondeat superior"). Under the applicable law, this claim requires that the plaintiff show that (1) the plaintiff was injured by an employee of the defendant, (2) that the employee was acting within the scope of their employment, and (3) that the employee's activity benefitted the employer.
 
 What facts must you allege in the complaint to satisfy the pleading requirements under the FRCP? Are there any additional facts, beyond those provided above, that you would need? 
 
@@ -1211,27 +1211,29 @@ Olson sues Sterling Cooper in federal court, asserting a claim for wrongful term
 
 Olson's complaint includes the following allegations: 
 
-> 1. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
-
-> 2. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
-
-> 3. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
-
-> 4. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
-
-> 5. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
-
-> 6. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
-
-> 7. Defendant fired Olson without cause, in breach of her employment contract. 
-
-> 8. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
+> 1. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
+> 
+> 2. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
+> 
+> 3. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
+> 
+> 4. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
+> 
+> 5. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
+> 
+> 6. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
+> 
+> 7. Defendant fired Olson without cause, in breach of her employment contract. 
+> 
+> 8. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
 
 Under Hudson state law, the elements of a claim for wrongful termination in breach of an employment contract are as follows: 
 
-1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
-2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
-3. The employer terminated the plaintiff's employment without cause during the contract term. 
+> 1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
+> 
+> 2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
+> 
+> 3. The employer terminated the plaintiff's employment without cause during the contract term. 
 
 Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12(b)(6), asserting that the allegations in the complaint are insufficient to state a claim for breach of contract. 
 
@@ -1245,7 +1247,7 @@ Sobotka filed a Complaint, which included the following paragraph:
 
 > ¶5. A motor-driven vehicle known as a forklift or chisel, owned, operated and controlled by the defendant, its agents, servants and employees, was so negligently and carelessly managed that the same did come into contact with the plaintiff causing him to sustain the injuries more fully hereinafter set forth.
 
-Sobotka and his attorney based these allegations on the fact that the forklift was marked "B.P.I." and that Motley told Sobotka he was employed by BPI. In fact, BPI had sold its freight-moving operations to another company, Charm City Contractors (CCC), several months before the accident. BPI continued to own the forklift, but leased it to CCC. Following the sale of operations, BPI's freight-moving employees, including Motley, became CCC's employees. However, for some reason, Motley was unaware of that change. 
+Sobotka and his attorney based these allegations on the fact that the forklift was marked "B.P.I." and that Motley told Sobotka he was employed by BPI. In fact, BPI had sold its freight-moving operations to another company, Charm City Contractors (CCC), several months before the accident. BPI continued to own the forklift, but leased it to CCC. Following the sale of operations, BPI's freight-moving employees, including Motley, became CCC's employees. However, for some reason, Motley was unaware of that change. 
 
 BPI and CCC were insured by the same company, Harbor Liability, Inc. (HLI). CCC had reported the accident to HLI, which opened a claim. Upon receiving the complaint, BPI forwarded it to HLI, noting that Motley was employed by CCC at the time of the accident and suggesting that CCC, rather than BPI, should be the proper defendant. 
 
@@ -1261,4 +1263,4 @@ BPI objects, and files its own motion for leave to amend its answer to admit tha
 
 [^rule12f]: Because more than 21 days have passed since BPI served its answer, it is too late for a motion to strike under FRCP Rule 12(f): "Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act: (1) on its own; or (2) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading."
 
-_How should the court rule?_
+_How should the court rule?_ See [Zielinski v. Philadelphia Piers](https://scholar.google.com/scholar_case?case=6925145899226984414), 139 F. Supp. 408 (E.D. Pa. 1956)

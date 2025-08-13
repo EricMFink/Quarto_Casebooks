@@ -58,9 +58,10 @@ references:
   issued:
     - year: 1980
   page: '631'
-  title: 'The emergence and transformation of disputes: Naming, blaming, claiming…'
-  title-short: The emergence and transformation of disputes
+  title: 'The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…'
+  title-short: The Emergence and Transformation of Disputes
   type: article-journal
+  URL: https://www.jstor.org/stable/3053505
   volume: '15'
 
 - id: Butterick2015
@@ -156,6 +157,7 @@ references:
   title: 'The Structure of Scientific Revolutions: 50th Anniversary Edition'
   title-short: The Structure of Scientific Revolutions
   type: book
+  URL: https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en
 
 - id: Rutherglen2001
   accessed:
@@ -221,6 +223,7 @@ references:
     The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
     Law Reform
   type: article-journal
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102
   volume: '44'
 
 - id: Casto1987
@@ -236,6 +239,8 @@ references:
   publisher: HeinOnline
   title: Erie Doctrine and the Structure of Constitutional Revolutions
   type: article-journal
+  URL: >-
+    https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
   volume: '62'
 
 - id: Holmes2020
@@ -307,5 +312,27 @@ references:
   publisher: HeinOnline
   title: The Ballad of Harry James Tompkins
   type: article-journal
+  URL: https://uknowledge.uky.edu/law_facpub/639/
   volume: '52'
+
+- id: Perdue1987
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue1987
+  container-title: Washington Law Review
+  issue: '3'
+  issued:
+    - year: 1987
+      month: 7
+      day: 1
+  page: '479'
+  source: COinS
+  title: >-
+    Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and
+    Pennoyer Reconsidered
+  title-short: Sin, Scandal, and Substantive Due Process
+  type: article-journal
+  URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
+  volume: '62'
 ...

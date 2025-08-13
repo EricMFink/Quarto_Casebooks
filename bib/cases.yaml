@@ -674,4 +674,16 @@ references:
   title: Stout v. Vincent
   type: legal_case
   volume: '717'
+
+- id: ZielinskiPhiladelphiaPiersA.No.15153
+  authority: Dist. Court
+  citation-key: ZielinskiPhiladelphiaPiersA.No.15153
+  container-title: F. Supp.
+  issued:
+    - literal: A. No. 15153
+  jurisdiction: ED Pennsylvania
+  page: '408'
+  title: Zielinski v. Philadelphia Piers
+  type: legal_case
+  volume: '139'
 ...

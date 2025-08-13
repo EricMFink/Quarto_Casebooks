@@ -92,7 +92,9 @@ State trial courts go by a variety of names: Superior Court,[^state-courts1a] Ci
 
 [Appellate Courts]{.note-h2}
 
-Most states also have at least one intermediate appellate court, usually called the Court of Appeals (exceptions include the Superior Court, Appellate Division in New Jersey, the Supreme Court, Appellate Division in New York, and the Superior and Commonwealth Courts in Pennsylvania). In some states [^state-courts2a], the intermediate appellate court is divided into geographic districts, similar to the federal appellate circuits. Nine states [^state-courts2b] have no intermediate appellate court. Alabama and Tennessee have separate intermediate appellate courts for civil and criminal cases. Pennsylvania has a special intermediate appellate court (the Commonwealth Court) with jurisdiction over certain civil cases involving state and local government, and another (the Superior Court) for other civil appeals and all criminal appeals.
+Most states also have at least one intermediate appellate court, usually called the Court of Appeals[^state-courts2]. In some states,[^state-courts2a] the intermediate appellate court is divided into geographic districts, similar to the federal appellate circuits. Nine states [^state-courts2b] have no intermediate appellate court. Alabama and Tennessee have separate intermediate appellate courts for civil and criminal cases. Pennsylvania has a special intermediate appellate court (the Commonwealth Court) with jurisdiction over certain civil cases involving state and local government, and another (the Superior Court) for other civil appeals and all criminal appeals.
+
+[^state-courts2]: Exceptions include the Superior Court, Appellate Division in New Jersey, the Supreme Court, Appellate Division in New York, and the Superior and Commonwealth Courts in Pennsylvania
 
 [^state-courts2a]: Arizona, California, Florida, Illinois, Indiana, Louisiana, Missouri, New York, Ohio, Tennessee, Texas, Washington, and Wisconsin.
 
