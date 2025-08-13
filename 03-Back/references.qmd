@@ -1,6 +1,4 @@
-# Bibliography {.unnumbered .unlisted}
-
-## Cases
+# Bibliography {.unnumbered}
 
 ::: {#refs}
 :::
