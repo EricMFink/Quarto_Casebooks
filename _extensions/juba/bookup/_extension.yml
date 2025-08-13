@@ -7,14 +7,4 @@ contributes:
     common:
       toc: true
     html:
-      theme:
-        light: [bookup.scss]
-        dark: [bookup.scss, bookup_dark.scss]
-    html+dark:
-      theme:
-        dark: [bookup.scss, bookup_dark.scss]
-        light: [bookup.scss]
-    html+lightonly:
-       theme: bookup.scss
-    html+darkonly:
-       theme: [bookup.scss, bookup_dark.scss]
+      theme: [bookup.scss]
