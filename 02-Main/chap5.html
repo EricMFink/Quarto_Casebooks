@@ -60,7 +60,9 @@ div.csl-indent {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-31860ea56660bfdc7f8d6d525572b50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-762d9b8789d221498b74ff5065802b08.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -88,12 +90,14 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
 <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&amp;family=Noto+Sans+JP:wght@100..900&amp;display=swap" rel="stylesheet">
 
 
+<link rel="stylesheet" href="../casebook.css">
 </head>
 
 <body class="nav-sidebar docked slimcontent quarto-light">
@@ -145,27 +149,44 @@ div.csl-indent {
  <span class="menu-text">Home</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../01-Front/frontmatter.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Front Matter</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../01-Front/preface.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Preface</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Content</span></a>
+ <span class="menu-text">Front Matter</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-Front/license.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">License</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-Front/epigraph.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Epigraph</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-Front/preface.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Chapters</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../02-Main/chap1.html" class="sidebar-item-text sidebar-link">
@@ -217,7 +238,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../03-Back/references.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Bibliography</span></a>
+ <span class="menu-text">Sources</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -240,10 +261,21 @@ div.csl-indent {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#the-rules-of-decision-act" id="toc-the-rules-of-decision-act" class="nav-link active" data-scroll-target="#the-rules-of-decision-act"><span class="header-section-number">5.1</span> The Rules of Decision Act</a></li>
-  <li><a href="#the-rules-enabling-act" id="toc-the-rules-enabling-act" class="nav-link" data-scroll-target="#the-rules-enabling-act"><span class="header-section-number">5.2</span> The Rules Enabling Act</a></li>
+  <li><a href="#the-rules-of-decision-act" id="toc-the-rules-of-decision-act" class="nav-link active" data-scroll-target="#the-rules-of-decision-act"><span class="header-section-number">5.1</span> The Rules of Decision Act</a>
+  <ul>
+  <li><a href="#u.s.c.-1652" id="toc-u.s.c.-1652" class="nav-link" data-scroll-target="#u.s.c.-1652">28 U.S.C. §1652</a></li>
+  <li><a href="#swifttyson1842" id="toc-swifttyson1842" class="nav-link" data-scroll-target="#swifttyson1842"><span class="citation" data-cites="SwiftTyson1842"><em>Swift v. Tyson</em> (U.S. 1842)</span></a></li>
+  <li><a href="#eriecotompkins1938" id="toc-eriecotompkins1938" class="nav-link" data-scroll-target="#eriecotompkins1938"><span class="citation" data-cites="ErieCoTompkins1938"><em>Erie R. Co. v. Tompkins</em> (U.S. 1938)</span></a></li>
+  <li><a href="#byrdblueridge1958" id="toc-byrdblueridge1958" class="nav-link" data-scroll-target="#byrdblueridge1958"><span class="citation" data-cites="ByrdBlueRidge1958"><em>Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.</em> (U.S. 1958)</span></a></li>
+  </ul></li>
+  <li><a href="#the-rules-enabling-act" id="toc-the-rules-enabling-act" class="nav-link" data-scroll-target="#the-rules-enabling-act"><span class="header-section-number">5.2</span> The Rules Enabling Act</a>
+  <ul>
+  <li><a href="#u.s.c.-2072" id="toc-u.s.c.-2072" class="nav-link" data-scroll-target="#u.s.c.-2072">28 U.S.C. §2072</a></li>
+  <li><a href="#hannaplumer1967" id="toc-hannaplumer1967" class="nav-link" data-scroll-target="#hannaplumer1967"><span class="citation" data-cites="HannaPlumer1967"><em>Hanna v. Plumer</em> (U.S. 1967)</span></a></li>
+  <li><a href="#dolphinkickboxingco2020" id="toc-dolphinkickboxingco2020" class="nav-link" data-scroll-target="#dolphinkickboxingco2020"><span class="citation" data-cites="DolphinKickboxingCo2020"><em>Dolphin Kickboxing Co. v. Franchoice, Inc.</em> (D. Minn. 2020)</span></a></li>
+  </ul></li>
   <li><a href="#chapter-review" id="toc-chapter-review" class="nav-link" data-scroll-target="#chapter-review"><span class="header-section-number">5.3</span> Chapter Review</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#analyzing-choice-of-law-under-erie-and-hanna" id="toc-analyzing-choice-of-law-under-erie-and-hanna" class="nav-link" data-scroll-target="#analyzing-choice-of-law-under-erie-and-hanna"><span class="header-section-number">5.3.1</span> Analyzing Choice of Law Under Erie and Hanna</a></li>
   <li><a href="#review-questions" id="toc-review-questions" class="nav-link" data-scroll-target="#review-questions"><span class="header-section-number">5.3.2</span> Review Questions</a></li>
   </ul></li>
@@ -289,10 +321,12 @@ div.csl-indent {
 </section>
 <section id="swifttyson1842" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="swifttyson1842"><span class="citation" data-cites="SwiftTyson1842"><a href="../03-Back/references.html#ref-SwiftTyson1842" role="doc-biblioref"><em>Swift v. Tyson</em> (U.S. 1842)</a></span></h4>
+<div class="editor-comment page-columns page-full">
 <p><span class="note-h2">Summary of Facts</span></p>
 <p><em>George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></em></p>
 <div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;A bill of exchange … is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date.” <a href="https://www.law.cornell.edu/wex/bill_of_exchange">Wex Legal Dictionary</a>.</p></div><div id="fn2"><p><sup>2</sup>&nbsp;Swift may have been in cahoots with the swindlers: “The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift’s status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape.” <span class="citation" data-cites="LaPiana1986"><a href="../03-Back/references.html#ref-LaPiana1986" role="doc-biblioref">William P. LaPiana, Swift v. Tyson and the Brooding Omnipresence in the Sky (1986)</a></span>: 796.</p></div></div><p><em>Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship.</em></p>
-<hr>
+<p><span class="center-icon-large"><i class="fa-solid fa-gavel" aria-label="gavel"></i></span></p>
+</div>
 <p><span class="case-judge">Justice STORY delivered the opinion of the Court.</span></p>
 <p>There is no doubt, that a bonâ fide holder of a negotiable instrument for a valuable consideration, without any notice of facts which impeach its validity as between the antecedent parties, if he takes it under an endorsement made before the same becomes due, holds the title unaffected by these facts, and may recover thereon, although as between the antecedent parties the transaction may be without any legal validity. This is a doctrine so long and so well established, and so essential to the security of negotiable paper, that it is laid up among the fundamentals of the law, and requires no authority or reasoning to be now brought in its support. As little doubt is there, that the holder of any negotiable paper, before it is due, is not bound to prove that he is a bonâ fide holder for a valuable consideration, without notice; for the law will presume that, in the absence of all rebutting proofs, and therefore it is incumbent upon the defendant to establish by way of defence satisfactory proofs of the contrary, and thus to overcome the primâ facie title of the plaintiff.</p>
 <p>In the present case, the plaintiff is a bonâ fide holder without notice for what the law deems a good and valid consideration, that is, for a pre-existing debt; and the only real question in the cause is, whether, under the circumstances of the present case, such a pre-existing debt constitutes a valuable consideration in the sense of the general rule applicable to negotiable instruments. We say, under the circumstances of the present case, for the acceptance having been made in New York, the argument on behalf of the defendant is, that the contract is to be treated as a New York contract, and therefore to be governed by the laws of New York, as expounded by its Courts, as well upon general principles, as by the express provisions of the [Rules of Decision Act]. And then it is further contended, that by the law of New York, as thus expounded by its Courts, a pre-existing debt does not constitute, in the sense of the general rule, a valuable consideration applicable to negotiable instruments.</p>
@@ -305,7 +339,7 @@ div.csl-indent {
 <p>True law is right reason in agreement with nature; it is of universal application, unchanging and everlasting; It is a sin to try to alter this law, nor is it allowable to attempt to repeal any part of it, and it is impossible to abolish it entirely. We cannot be freed from its obligations by senate or people, and we need not look outside ourselves for an expounder or interpreter of it. And there will not be different laws at Rome and at Athens, or different laws now and in the future, but one eternal and unchangeable law will be valid for all nations and all times, and there will be one master and ruler, that is, God, over us all, for he is the author of this law, its promulgator, and its enforcing judge. Whoever is disobedient is fleeing from himself and denying his human nature, and by reason of this very fact he will suffer the worst penalties, even if he escapes what is commonly considered punishment.</p>
 </blockquote>
 <p>During the late 19th and early 20th centuries, the legal field experienced a paradigm shift,<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> with concepts and methods associated with legal <a href="https://plato.stanford.edu/archives/fall2009/entries/legal-positivism/">positivism</a>, <a href="https://lsolum.typepad.com/legal_theory_lexicon/2006/09/legal_theory_le_2.html">realism</a>, and <a href="https://lsolum.typepad.com/legaltheory/2018/07/legal-theory-lexicon-pragmatism.html">pragmatism</a> challenging the previously dominant paradigm of natural law and formalism. Cases like <em>Erie</em> and <em>International Shoe</em>, along with the adoption of the Federal Rules of Civil Procedure, were significant moments in this jurisprudential revolution.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
-<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;A paradigm shift is a transformation in the fundamental assumptions, theories, and practice of a scientific or professional community. “When the transition is completed, the profession will have changed its view of the field, its methods, and its goals.” <span class="citation" data-cites="Kuhn2012"><a href="../03-Back/references.html#ref-Kuhn2012" role="doc-biblioref">Thomas S. Kuhn &amp; Ian Hacking, <em>The Structure of Scientific Revolutions</em> (2012)</a></span>: 84-85.</p></div><div id="fn5"><p><sup>5</sup>&nbsp;See, e.g. <span class="citation" data-cites="Rutherglen2001"><a href="../03-Back/references.html#ref-Rutherglen2001" role="doc-biblioref">George Rutherglen, International Shoe and the Legacy of Legal Realism (2001)</a></span>; <span class="citation" data-cites="Sawyer2001"><a href="../03-Back/references.html#ref-Sawyer2001" role="doc-biblioref">Logan Everett III Sawyer, Jurisdiction, Jurisprudence, and Legal Change (2001–2002)</a></span>; <span class="citation" data-cites="Marcus2009"><a href="../03-Back/references.html#ref-Marcus2009" role="doc-biblioref">David Marcus, The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform (2009)</a></span>; <span class="citation" data-cites="Casto1987"><a href="../03-Back/references.html#ref-Casto1987" role="doc-biblioref">William R Casto, Erie Doctrine and the Structure of Constitutional Revolutions (1987)</a></span>.</p></div></div><p>Among those leading the charge was Oliver Wendell Holmes, Jr., whose work as a legal scholar and opinions as a Supreme Court Justice advanced a positivist understanding of law and pragmatist approach to judicial decision-making, and laid the groundwork for overturning <em>Swift</em>.</p>
+<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;A paradigm shift is a transformation in the fundamental assumptions, theories, and practice of a scientific or professional community. “When the transition is completed, the profession will have changed its view of the field, its methods, and its goals.” <span class="citation" data-cites="Kuhn2012"><a href="../03-Back/references.html#ref-Kuhn2012" role="doc-biblioref">Thomas S. Kuhn &amp; Ian Hacking, <em>The Structure of Scientific Revolutions</em> (2012)</a></span>: 84-85.</p></div><div id="fn5"><p><sup>5</sup>&nbsp;See, e.g. <span class="citation" data-cites="Rutherglen2001"><a href="../03-Back/references.html#ref-Rutherglen2001" role="doc-biblioref">George Rutherglen, International Shoe and the Legacy of Legal Realism (2001)</a></span>; <span class="citation" data-cites="Sawyer2001"><a href="../03-Back/references.html#ref-Sawyer2001" role="doc-biblioref">Logan Everett Sawyer III, Jurisdiction, Jurisprudence, and Legal Change (2001–2002)</a></span>; <span class="citation" data-cites="Marcus2009"><a href="../03-Back/references.html#ref-Marcus2009" role="doc-biblioref">David Marcus, The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform (2009)</a></span>; <span class="citation" data-cites="Casto1987"><a href="../03-Back/references.html#ref-Casto1987" role="doc-biblioref">William R Casto, Erie Doctrine and the Structure of Constitutional Revolutions (1987)</a></span>.</p></div></div><p>Among those leading the charge was Oliver Wendell Holmes, Jr., whose work as a legal scholar and opinions as a Supreme Court Justice advanced a positivist understanding of law and pragmatist approach to judicial decision-making, and laid the groundwork for overturning <em>Swift</em>.</p>
 <p>Oliver Wendall Holmes, <em>The Common Law</em>, 1-2 (1881):</p>
 <blockquote class="blockquote">
 <p>The life of the law has not been logic: it has been experience. The felt necessities of the time, the prevalent moral and political theories, intuitions of public policy, avowed or unconscious, even the prejudices which judges share with their fellow-men, have had a good deal more to do than the syllogism in determining the rules by which men should be governed. The law embodies the story of a nation’s development through many centuries, and it cannot be dealt with as if it contained only the axioms and corollaries of a book of mathematics. In order to know what it is, we must know what it has been, and what it tends to become. We must alternately consult history and existing theories of legislation. But the most difficult labor will be to understand the combination of the two into new products at every stage. The substance of the law at any given time pretty nearly corresponds, so far as it goes, with what is then understood to be convenient; but its form and machinery, and the degree to which it is able to work out desired results, depend very much upon its past.</p>
@@ -638,7 +672,7 @@ David Marcus, <em><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1
 George Rutherglen, <em><a href="https://doi.org/10.1086/scr.2001.3109692">International Shoe and the Legacy of Legal Realism</a></em>, 2001 <span class="smallcaps">The Supreme Court Review</span> 347 (2001)
 </div>
 <div id="ref-Sawyer2001" class="csl-entry" role="listitem">
-Logan Everett III Sawyer, <em><a href="https://heinonline.org/HOL/P?h=hein.journals/gmlr10&amp;i=69">Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe</a></em>, 10 <span class="smallcaps">Geo. Mason L. Rev.</span> 59 (2001–2002)
+Logan Everett Sawyer III, <em><a href="https://heinonline.org/HOL/P?h=hein.journals/gmlr10&amp;i=69">Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe</a></em>, 10 <span class="smallcaps">Geo. Mason L. Rev.</span> 59 (2001–2002)
 </div>
 </div>
 </section>
