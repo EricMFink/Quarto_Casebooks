@@ -17,8 +17,8 @@ book:
         state: NC
         postal-code: 27278
   license: "CC BY NC SA"
-  url: https://www.emfink.net/CivProBook
-  repo-url: https://github.com/EricMFink/CivProBook
+  url: https://www.emfink.net/CivProCasebook
+  repo-url: https://github.com/EricMFink/CivProCasebook
   repo-actions: [issue]
   downloads: [pdf]
   search: true
