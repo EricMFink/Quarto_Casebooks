@@ -1591,7 +1591,9 @@ header {
 
 /* REAR MATTER */
 /* References */
-div.csl-bib-body { }
+div.csl-bib-body {
+  font-weight: 300;
+}
 div.csl-entry {
   clear: both;
 }
@@ -1625,6 +1627,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
+}
 
 /* Colophon */
 .colophon {
@@ -1693,10 +1696,10 @@ body:not(.floating) {
 /* SPECIAL STYLES */
 
 /* Colors */
-.theme-color { /* emulates link */
+.theme-color {
     color: $theme-color;
 }
-.link-color { /* emulates link */
+.link-color { 
     color: $link-color;
 }
 .contrast {
@@ -1710,7 +1713,7 @@ body:not(.floating) {
 }
 
 /* Span Styles */
-.margin-note { /* emulates link */
+.margin-note { 
 	font-family: $font-family-sans-serif;
     color: $margin-note-color;
 	font-weight: 300;
