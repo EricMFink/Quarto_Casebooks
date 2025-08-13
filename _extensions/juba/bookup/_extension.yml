@@ -6,8 +6,6 @@ contributes:
   formats:
     common:
       toc: true
-      filters: [embed-fonts.lua]
-      embed-fonts: true
     html:
       theme:
         light: [bookup.scss]
