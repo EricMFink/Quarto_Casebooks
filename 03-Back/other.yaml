@@ -1,0 +1,338 @@
+---
+references:
+- id: Kafka1915
+  author:
+    - family: Kafka
+      given: Franz
+  citation-key: Kafka1915
+  issued:
+    - year: 1915
+  title: Before the Law
+  title-short: Before the Law
+  translator:
+    - family: Johnston
+      given: Ian
+  type: manuscript
+  URL: https://www.kafka-online.info/before-the-law.html
+
+- id: Dickens2003
+  author:
+    - family: Dickens
+      given: Charles
+  citation-key: Dickens2003
+  event-place: London New York
+  ISBN: 978-0-14-143972-3
+  issued:
+    - year: 2003
+  language: English
+  number-of-pages: '1036'
+  publisher: Penguin Classics
+  publisher-place: London New York
+  title: Bleak House
+  type: book
+  URL: https://standardebooks.org/ebooks/charles-dickens/bleak-house
+
+- id: aousc_nd
+  author:
+    - family: Administrative Office of the U.S. Courts
+      given: ''
+  citation-key: aousc_nd
+  issued:
+    - literal: n.d.
+  title: Understanding the Federal Courts
+  title-short: Understanding the Federal Courts
+  type: document
+  URL: >-
+    https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
+
+- id: Felstiner1980
+  author:
+    - family: Felstiner
+      given: William
+    - family: Abel
+      given: Richard
+    - family: Sarat
+      given: Austin
+  citation-key: Felstiner1980
+  container-title: Law & Society Review
+  issued:
+    - year: 1980
+  page: '631'
+  title: 'The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…'
+  title-short: The Emergence and Transformation of Disputes
+  type: article-journal
+  URL: https://www.jstor.org/stable/3053505
+  volume: '15'
+
+- id: Butterick2015
+  author:
+    - family: Butterick
+      given: Matthew
+  citation-key: Butterick2015
+  event-place: Houston, TX
+  ISBN: 978-1-59839-262-3
+  issued:
+    - year: 2015
+  language: English
+  number-of-pages: '240'
+  publisher: Thomson Reuters
+  publisher-place: Houston, TX
+  title: Typography for Lawyers 2nd
+  type: book
+  URL: https://typographyforlawyers.com
+
+- id: Metzler2017
+  author:
+    - family: Metzler
+      given: Jack
+  citation-key: Metzler2017
+  container-title: The Journal of Appellate Practice and Process
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 10
+      day: 1
+  page: '143'
+  source: COinS
+  title: Cleaning Up Quotations
+  type: article-journal
+  URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
+  volume: '18'
+
+- id: Teton1940
+  author:
+    - family: Teton
+      given: Alfred B.
+  citation-key: Teton1940
+  container-title: Illinois Law Review
+  issued:
+    - year: 1940
+  page: '519'
+  title: The Story of Swift v. Tyson
+  type: article-journal
+  volume: '35'
+
+- id: LaPiana1986
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: LaPiana
+      given: William P.
+  citation-key: LaPiana1986
+  container-title: Suffolk University Law Review
+  container-title-short: Suffolk U. L. Rev.
+  issue: '4'
+  issued:
+    - year: 1986
+  language: eng
+  page: 771-832
+  source: HeinOnline
+  title: >-
+    Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
+    the Idea of Law in Antebellum America
+  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/sufflr20&i=801
+  volume: '20'
+
+- id: Kuhn2012
+  abstract: "A good book may have the power to change the way we see the world, but a great book actually becomes part of our daily consciousness, pervading our thinking to the point that we take it for granted, and we forget how provocative and challenging its ideas once were—and still are. The Structure of Scientific Revolutions is that kind of book. When it was first published in 1962, it was a landmark event in the history and philosophy of science. Fifty years later, it still has many lessons to teach. With The Structure of Scientific Revolutions, Kuhn challenged long-standing linear notions of scientific progress, arguing that transformative ideas don’t arise from the day-to-day, gradual process of experimentation and data accumulation but that the revolutions in science, those breakthrough moments that disrupt accepted thinking and offer unanticipated ideas, occur outside of “normal science,” as he called it. Though Kuhn was writing when physics ruled the sciences, his ideas on how scientific revolutions bring order to the anomalies that amass over time in research experiments are still instructive in our biotech age. This new edition of Kuhn’s essential work in the history of science includes an insightful introduction by Ian Hacking, which clarifies terms popularized by Kuhn, including paradigm and incommensurability, and applies Kuhn’s ideas to the science of today. Usefully keyed to the separate sections of the book, Hacking’s introduction provides important background information as well as a contemporary context. \_Newly designed, with an expanded index, this edition will be eagerly welcomed by the next generation of readers seeking to understand the history of our perspectives on science."
+  author:
+    - family: Kuhn
+      given: Thomas S.
+    - family: Hacking
+      given: Ian
+  citation-key: Kuhn2012
+  event-place: Chicago ; London
+  ISBN: 978-0-226-45812-0
+  issued:
+    - year: 2012
+  language: English
+  number-of-pages: '264'
+  publisher: University of Chicago Press
+  publisher-place: Chicago ; London
+  source: Amazon
+  title: 'The Structure of Scientific Revolutions: 50th Anniversary Edition'
+  title-short: The Structure of Scientific Revolutions
+  type: book
+  URL: https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en
+
+- id: Rutherglen2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: Rutherglen2001
+  container-title: The Supreme Court Review
+  DOI: 10.1086/scr.2001.3109692
+  ISSN: 0081-9557
+  issued:
+    - year: 2001
+      month: 1
+  page: 347-374
+  publisher: The University of Chicago Press
+  source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
+  title: International Shoe and the Legacy of Legal Realism
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/scr.2001.3109692
+  volume: '2001'
+
+- id: Sawyer2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Sawyer
+      given: Logan Everett III
+  citation-key: Sawyer2001
+  container-title: George Mason Law Review
+  container-title-short: Geo. Mason L. Rev.
+  issue: '1'
+  issued:
+    - year: 2001
+    - year: 2002
+  language: eng
+  page: 59-96
+  source: HeinOnline
+  title: >-
+    Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence
+    and the Road to International Shoe
+  title-short: Jurisdiction, Jurisprudence, and Legal Change
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
+  volume: '10'
+
+- id: Marcus2009
+  author:
+    - family: Marcus
+      given: David
+  citation-key: Marcus2009
+  container-title: Ga. L. Rev.
+  container-title-short: Ga. L. Rev.
+  issued:
+    - year: 2009
+  page: '433'
+  publisher: HeinOnline
+  title: >-
+    The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
+    Law Reform
+  type: article-journal
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102
+  volume: '44'
+
+- id: Casto1987
+  author:
+    - family: Casto
+      given: William R
+  citation-key: Casto1987
+  container-title: Tul. L. Rev.
+  container-title-short: Tul. L. Rev.
+  issued:
+    - year: 1987
+  page: '907'
+  publisher: HeinOnline
+  title: Erie Doctrine and the Structure of Constitutional Revolutions
+  type: article-journal
+  URL: >-
+    https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
+  volume: '62'
+
+- id: Holmes2020
+  abstract: >-
+    The Common Law is Oliver Wendell Holmes' most sustained work of
+    jurisprudence. In it the careful reader will discern traces of his later
+    thought as found in both his legal opinions and other writings. At the
+    outset of The Common Law Holmes posits that he is concerned with
+    establishing that the common law can meet the changing needs of society
+    while preserving continuity with the past. A common law judge must be
+    creative, both in determining society's current needs and in discerning how
+    best to address these needs in a way that is continuous with past judicial
+    decisions. In this way, the law evolves by moving out of its past, adapting
+    to the needs of the present, and establishing a direction for the future. To
+    Holmes' way of thinking, this approach is superior to imposing order in
+    accordance with a philosophical position or theory because the law would
+    thereby lose the flexibility it requires in responding to the needs and
+    demands of disputing parties as well as society as a whole.
+  author:
+    - family: Holmes
+      given: Oliver Wendell
+  citation-key: Holmes2020
+  DOI: 10.4324/9780429338908
+  event-place: New York
+  ISBN: 978-0-429-33890-8
+  issued:
+    - year: 2020
+      month: 2
+      day: 18
+  number-of-pages: '365'
+  publisher: Routledge
+  publisher-place: New York
+  title: The Common Law
+  type: book
+
+- id: Warren1923
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  archive: JSTOR
+  author:
+    - family: Warren
+      given: Charles
+  citation-key: Warren1923
+  container-title: Harvard Law Review
+  DOI: 10.2307/1328407
+  ISSN: 0017811X
+  issue: '1'
+  issued:
+    - year: 1923
+  page: 49-132
+  publisher: The Harvard Law Review Association
+  title: New Light on the History of the Federal Judiciary Act of 1789
+  type: article-journal
+  URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
+  volume: '37'
+
+- id: Frye2018
+  author:
+    - family: Frye
+      given: Brian L
+  citation-key: Frye2018
+  container-title: Akron L. Rev.
+  container-title-short: Akron L. Rev.
+  issued:
+    - year: 2018
+  page: '531'
+  publisher: HeinOnline
+  title: The Ballad of Harry James Tompkins
+  type: article-journal
+  URL: https://uknowledge.uky.edu/law_facpub/639/
+  volume: '52'
+
+- id: Perdue1987
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue1987
+  container-title: Washington Law Review
+  issue: '3'
+  issued:
+    - year: 1987
+      month: 7
+      day: 1
+  page: '479'
+  source: COinS
+  title: >-
+    Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and
+    Pennoyer Reconsidered
+  title-short: Sin, Scandal, and Substantive Due Process
+  type: article-journal
+  URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
+  volume: '62'
+...

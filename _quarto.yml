@@ -47,8 +47,8 @@ book:
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
 
-bibliography: ./bib/CivProBook.yaml
 csl: ./bib/casebook-bibliography.csl
+bibliography: ./bib/CivProBook.yaml
 
 format:
   bookup-html:
@@ -69,3 +69,4 @@ format:
     number-depth: 3
     reference-location: margin
     citation-location: document
+    csl: ./bib/casebook-bibliography.csl
