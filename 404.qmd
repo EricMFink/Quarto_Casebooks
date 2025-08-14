@@ -1,5 +1,7 @@
-# 404
+---
+title: "404: Page Not Found"
+---
 
-![](../img/benjamin.jpg)
+[![](./img/benjamin.jpg)]{.gevalt-img}
 
 [Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben]{.gevalt-caption}
