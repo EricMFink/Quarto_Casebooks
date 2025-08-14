@@ -1,0 +1,852 @@
+/* HTML & BODY */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: "Literata",serif;
+	color: #191919;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.3;
+	text-align: left;
+	margin: 0 0 0 0;
+	background-color: #fffaf0;
+    quotes: "‘" "’";
+}
+
+/* HEADINGS */
+/* Chapter */
+h1 {
+	font-family: "Adelle-Sans",sans-serif;
+	color: #8c2e24;
+    font-size: 2.5rem;
+    font-style: normal;
+	font-weight: 600;
+    line-height: 1.2;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+    border: none;
+}
+/* Section */
+h2 {
+	font-family: "Adelle-Sans",sans-serif;
+	color: #8c2e24;
+    font-size: 2.0rem;
+	font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	margin: 3rem 0 0 0;
+	padding: 0 0 0 0;
+    border: none;
+}
+/* Subsection */
+h3 {
+    font-family: "Literata",serif;
+	color: #8c2e24;
+    font-size: 1.7rem;
+	font-style: italic;
+	font-weight: 400;
+    line-height: 1.2;
+	margin: 2rem 0 0 0;
+	padding: 0 0 0 0;
+    border: none;
+
+}
+/* Title and cite of incorporated materials */
+h4 {
+    font-family: "Literata",serif;
+	color: #8c2e24;
+    font-size: 1.4rem;
+    font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	margin: 1.5rem 0 0rem 0;
+	padding: 0 0 0 0;
+	max-width: 40rem;
+	border-bottom: 1px solid #8c2e24;
+}
+/* Heading for editor's notes */
+h5 {
+    font-family: "Literata",serif;
+	color: #8c2e24;
+    font-size: 1.2rem;
+    font-style: normal;
+	font-weight: 500;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1.5rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+}
+/* Headings in Cases */
+.case-judge {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1.1rem;
+    font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1rem 0 .5rem 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.case-h1 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1.1rem;
+    font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	text-align: center;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.case-h2 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.2;
+	text-align: center;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.case-h3 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.1;
+	text-align: center;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.case-h4 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.1;
+	text-align: center;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.case-h5 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: .9rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.1;
+	text-align: center;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+
+.title .chapter-number {
+    color: #8c2e24;
+    font-size: inherit;
+    margin-right: .5rem;
+}
+
+/* Body Text */
+p {
+    font-size: 1rem;
+    margin: .5rem 0 .5rem 0;
+	max-width: 40rem;
+}
+
+/* Links */
+a {
+	color: #8c2e24;
+    text-decoration: none;
+}
+/* unvisited link */
+a:link {
+	color: #8c2e24;
+}
+/* visited link */
+a:visited {
+	color: #8c2e24;
+}
+/* mouse over link */
+a:hover {
+	color: #4b9cd3 !important;
+}
+/* selected link */
+a:active {
+	color: #8c2e24;
+}
+p > a, cite > a, span > a {
+    color: #8c2e24;
+    text-decoration: none;
+}
+/* Wrap long URLs in references */
+#refs a {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Blockquotes */
+.blockquote {
+    margin: .5rem 0 .5rem 0;
+    padding: 0 2rem 0 2rem;
+	max-width: 40rem;
+	border: none;
+}
+.blockquote p {
+	color: #191919;
+    font-size: 0.9rem;
+    font-style: normal;
+	line-height: 1.3;
+	max-width: 40rem;
+}
+
+/* Comments within cases */
+.editor-comment {
+	font-family: "Adelle-Sans",sans-serif;
+	font-size: .8rem;
+}
+.editor-comment p {
+	font-family: "Adelle-Sans",sans-serif;
+	font-size: .8rem;
+	font-style: italic;
+	padding: 0 2rem .0 2rem;
+}
+.editor-comment-divider {	
+    color: #8c2e24;
+    font-size: 2rem;
+	text-align: center;
+	margin: 0 auto 0 auto;
+    display: block;
+}
+.editor-comment-divider p {	
+    color: #8c2e24;
+    font-size: 2rem;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	width: 100%;
+}
+
+/* Notes following cases */
+.note-h1 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1.1rem;
+    font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1.7rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.note-h2 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.note-h3 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.1;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.note-h4 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.1;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+
+/* LEGAL CODE: Indented subsections in statutes, etc. */
+.legal-code {
+	font-family: "Literata",serif;
+	color: #191919;
+	font-size: .9rem;
+	max-width: 40rem;
+}
+.legal-code-h1 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: 1rem;
+    font-style: normal;
+	font-weight: 400;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1.5rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.legal-code-h2 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: .9rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.legal-code-h3 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: .9rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.1;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.legal-code-h4 {
+    font-family: "Literata",serif;
+    color: #191919;
+    font-size: .9rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.1;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.legal-code p {
+	font-size: .9rem;
+}
+.legal-code blockquote {
+	font-size: .9rem !important;
+    margin: .5rem 0 .5rem 0;
+    padding: 0 0 0 1rem;
+	width: inherit;
+	border: none;
+}
+.legal-code blockquote p {
+	font-size: .9rem !important;
+    margin: .5rem 0 .5rem 0;
+    padding: 0 0 0 1rem;
+	width: inherit;
+	border: none;
+}
+
+/* Side & Margin notes*/
+.column-margin.column-container p {
+	font-size: .7rem;
+	line-height: 1.2;
+	margin: 0 0 .2rem 0;
+}
+.margin-aside { 
+	font-family: "Adelle-Sans",sans-serif;
+    color: #006400;
+	font-size: .8rem;
+	font-weight: 300;
+}
+/* Lists */
+/*
+ol, ul {
+    font-size: .9rem;
+    font-weight: 300;
+	max-width: 40rem;
+    margin: 0.5rem 0 0.5rem 1rem;
+    padding: 0 0 0 1rem !important;
+}
+ul {
+    list-style-type: disc;
+}
+li {
+    font-size: .9rem;
+    line-height: 1.3;
+	max-width: 40rem;
+    margin-bottom: 0.5rem;
+}
+.li p {
+    font-size: .9rem;
+    line-height: 1.3;
+	text-align: left;
+	max-width: 40rem;
+}
+	*/
+/* Unstyled Lists*/
+.unstyled ul {
+	margin: 1rem 0 1rem 1rem;
+    list-style-type: none;
+}
+.unstyled li {
+    padding-left: .5rem;
+}
+
+/* Divider */
+hr {
+    border-top: 2px solid #8c2e24;
+    max-width: 40rem;
+    margin: 2rem 0 1rem 0;
+}
+
+/* License */
+.license {
+    font-family: "Literata",serif;
+    font-size: .9rem;
+    text-align: left;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.license i {
+	font-size: .9rem;
+	margin: 0 0 0 0;
+}
+.license p {
+    font-size: .9rem;
+	font-weight: 300;
+    text-align: left;
+    line-height: 1.2;
+	margin: .5 0 .5rem 0;
+	padding: 0 0 0 0;
+}
+.license h2 {
+    font-family: "Literata",serif;
+	color: #191919;
+    font-size: .9rem;
+	font-weight: 300;
+	margin: 4rem 0 0 0;
+	padding: 0 0 0 0;
+}
+.license h3 {
+    font-family: "Literata",serif;
+	color: #191919;
+    font-size: .9rem;
+	font-style: normal;
+	font-weight: 300;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.license h4 {
+    font-family: "LFT-Etica Mono",monospace;
+	color: #191919;
+    font-size: .9rem;
+	font-style: normal;
+	font-weight: 300;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border: none;
+}
+.license h5 {
+	color: #191919;
+    font-size: .9rem;
+	font-weight: 300;
+	margin: 1rem 0 0 0;
+	padding: 0 0 0 0;
+	border: none;
+}
+
+/* Epigraph */
+.epigraph {
+	margin: 1rem 0 5rem 0 !important;
+	padding: 1rem 0 0 0 !important;
+}
+/* Epigraph Quote */
+.epigraph .blockquote {
+	font-size: .9rem !important;
+    text-align: left !important;
+    line-height: 1.3 !important;
+    margin: 0.25rem 0;
+    padding: 0.35rem 10px;
+    position: relative !important;
+    border: none !important;
+}
+.epigraph .blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #8c2e24;
+}
+.epigraph .blockquote p {
+	font-size: .9rem !important;
+    font-style: italic !important;
+	font-weight: 300;
+    text-align: left !important;
+    margin: 0 0 0 0 !important;
+	padding: 0 0 0 1rem !important;
+    display: block;
+}
+/* Epigraph Citation */
+.epigraph p {
+	font-size: .9rem !important;
+	font-weight: 300;
+    text-align: right !important;
+    margin: 0 0 1rem 0 !important;
+	padding: 0 0 0 0 !important;
+}
+
+/* REAR MATTER */
+/* References */
+div.csl-bib-body {
+  font-weight: 300;
+}
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  font-size: .9rem;
+  font-weight: 300;
+  line-height: 1.3;
+  margin-left:2em;
+  margin-bottom: 1rem;
+  text-indent:-2em;
+	& a:link {
+		color: #8c2e24 !important;
+	}
+	& a:visited {
+		color: #8c2e24 !important;
+	}
+	& a:hover {
+		color: #8c2e24 !important;
+	}
+	& a:active {
+		color: #8c2e24 !important;
+	}
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+
+/* Colophon */
+.colophon {
+    font-family: "Literata",serif;
+    font-size: 0.8rem;
+    text-align: left;
+}
+.colophon p {
+    font-size: 1rem;
+    text-align: left;
+    line-height: 1.3;
+}
+
+/* FOOTER */
+footer {
+	background: #fffaf0;
+}
+footer.footer .nav-footer, #quarto-header > nav {
+	background: #fffaf0;
+}
+.nav-footer .nav-footer-center {
+	background: #fffaf0;
+}
+
+/* Icons */
+
+.fa-classic, .fa-regular, .fa-solid, .far, .fas {
+	font-family: "Font Awesome 6 Free";
+    color: #8c2e24;
+	font-style: normal;
+	font-weight: 900;
+	line-height: 1;
+	font-variant: normal;
+	text-rendering: auto;
+	display: var(--fa-display,inline-block);
+}
+.center-icon {
+	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
+		text-align: center;
+		margin: 0 auto 0 auto;
+		width: 100%;
+	}
+}
+.center-icon-large {
+	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
+	    font-size: 1.25rem;
+		text-align: center;
+		margin: 0 auto 0 auto;
+		width: 100%;
+	}
+}
+
+/* SPECIAL STYLES */
+/* Colors */
+.theme-color {
+    color: #8c2e24;
+}
+.link-color { 
+    color: #8c2e24;
+}
+.contrast {
+    color: #8c2e24;
+}
+
+/* Span Styles */
+.margin-note { 
+	font-family: "Adelle-Sans",sans-serif;
+    color: #006400;
+	font-weight: 300;
+}
+.large {
+    font-size: 1.3rem;
+}
+.larger {
+    font-size: 1.5rem;
+}
+.largest {
+    font-size: 1.7rem;
+}
+.small {
+    font-size: 0.9rem;
+}
+.smaller {
+    font-size: 0.8rem;
+}
+.center {
+	text-align: center;
+}
+.sans-serif {
+    font-family: "Adelle-Sans",sans-serif;
+    font-style: normal;
+}
+.mono-face {
+    font-family: "LFT-Etica Mono",monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+.japanese {
+    font-family: "Noto Sans JP",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* TUFTE STYLES */
+
+.column-margin figcaption, .margin-caption, div.aside, aside, .column-margin {
+    color: #191919;
+    font-size: .625rem;
+}
+
+.sidebar-item-container .chapter-number {
+    color: #191919;
+    font-size: .7rem;
+}
+
+.title .chapter-number {
+	color: inherit; 
+    font-size: 1.5rem;
+    margin-right: 2rem;
+}
+
+.header-section-number {
+	color: inherit; 
+    font-size: inherit;
+    margin-right: .5rem;
+}
+
+header .chapter-title {
+    text-transform: none;
+    font-size: 1rem;
+    letter-spacing: normal;
+}
+
+.sidebar {
+    font-family: "Adelle-Sans",sans-serif;
+    
+}
+
+.sidebar-navigation li a {
+	text-decoration: none;
+	color: #333333;
+	font-weight: 300;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.sidebar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.navbar-brand {
+    font-family: "Adelle-Sans",sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+.sidebar-header > div > div > a > i {
+display: none
+}
+
+.navbar-brand > a{
+    color: #8c2e24;
+}
+.sidebar nav[role=doc-toc] ul {
+    font-size: .8rem;
+}
+.sidebar nav[role=doc-toc] ul>li>a.active {
+    border-left: 1px solid #8c2e24;
+    color: #8c2e24 !important;
+}
+.sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 1px solid #8c2e24;
+    color: #8c2e24 !important;
+}
+
+.sidebar-title {
+    font-family: "Adelle-Sans",sans-serif;
+	color: #8c2e24; 
+    font-size: .7rem;
+    font-style: normal;
+    line-height: 1.12rem;
+    text-transform: uppercase;
+    letter-spacing: .11em;
+    margin-top: .25rem;
+    padding-bottom: .5rem;
+    visibility: visible;
+}
+.quarto-secondary-nav-title, .title {
+    font-family: "Adelle-Sans",sans-serif;
+	color: #8c2e24; 
+    font-size: 1.5rem;
+    font-style: normal;
+    line-height: 1.25em; 
+    text-transform: uppercase;
+    letter-spacing: .125em;
+    padding-top: .825rem
+    
+}
+.quarto-secondary-nav-title {
+    font-size: 1.1rem;
+}
+
+.panel-caption, .figure-caption, figcaption {
+    color: #191919;
+    font-size: .825rem;
+	text-align: center;
+    margin-bottom: .825rem;
+}
+
+.theorem-title {
+    margin-right: 1.5rem;
+}
+
+#fig-cover img {
+    background-color: #fffff8;
+    border: 1px solid #555;
+}
+
+.figure-img {
+    margin: auto;
+}
+
+.quarto-figure {
+	position: relative;
+	margin: 1.5rem auto 1.5rem auto;
+}
+
+#quarto-sidebar {
+    background: transparent;
+}
+
+#quarto-sidebar.show {
+    background: #fffff8;
+}
+
+div.sidebar-item-container .active, div.sidebar-item-container :hover, div.sidebar-item-container .show>.nav-link, div.sidebar-item-container .sidebar-link>code {
+    color: #8c2e24;
+}
+
+nav[role=doc-toc] {
+    padding-bottom: 100px;
+}
+
+.sans-serif  {
+    font-family: "Adelle-Sans",sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+}
