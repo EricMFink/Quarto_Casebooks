@@ -4,7 +4,7 @@
 
 ::: {.legal-code}
 
-#### [@USConst] U.S. Constitution 
+#### [@USConst_nd]
 
 [Amendment V]{.legal-code-h1}
 
