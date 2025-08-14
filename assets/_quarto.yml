@@ -17,8 +17,8 @@ book:
         state: NC
         postal-code: 27278
   license: "CC BY NC SA"
-  url: https://www.emfink.net/CivProBook
-  repo-url: https://github.com/EricMFink/CivProBook
+  url: https://www.emfink.net/CivProCasebook
+  repo-url: https://github.com/EricMFink/CivProCasebook
   repo-actions: [issue]
   downloads: [pdf]
   search: true
@@ -28,9 +28,12 @@ book:
     style: "docked"
   chapters:
     - index.qmd
-    - 01-Front/frontmatter.qmd
-    - 01-Front/preface.qmd
-    - part: "Content"
+    - part: "Front Matter"
+      chapters:
+        - 01-Front/license.qmd
+        - 01-Front/epigraph.qmd
+        - 01-Front/preface.qmd
+    - part: "Chapters"
       chapters:
         - 02-Main/chap1.qmd
         - 02-Main/chap2.qmd
@@ -44,12 +47,13 @@ book:
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
 
-bibliography: ./bib/CivProBook.yaml
 csl: ./bib/casebook-bibliography.csl
+bibliography: ./bib/CivProBook.yaml
 
 format:
   bookup-html:
     header-includes: |
+      <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
       <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -60,27 +64,10 @@ format:
     sidebarbackgroundcolor: FloralWhite
     mainfont: "Literata"
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     toc-location: left
     number-sections: true
     number-depth: 3
     reference-location: margin
     citation-location: document
-  pdf:
-    header-includes: |
-      <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
-    lang: "en-US"
-    css: casebook.css
-    backgroundcolor: FloralWhite
-    sidebarbackgroundcolor: FloralWhite
-    mainfont: "Literata"
-    toc: true
-    toc-depth: 3
-    toc-location: left
-    number-sections: true
-    number-depth: 3
-    reference-location: margin
-    citation-location: document
+    csl: ./bib/casebook-bibliography.csl

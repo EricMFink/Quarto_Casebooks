@@ -1,9 +1,5 @@
-
-
 ::: {.content-hidden unless-format="revealjs"}
 # Home {.unnumbered}
 :::
 
 ![](img/cover.png)
-
-## [Placeholder to force display of repo-actions in sidebar]{.invisible}
