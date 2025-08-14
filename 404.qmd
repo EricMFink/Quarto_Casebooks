@@ -4,4 +4,4 @@ title: "404: Page Not Found"
 
 [![](./img/benjamin.jpg)]{.gevalt-img}
 
-[Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben]{.gevalt-caption}
+[[Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben](https://walter-benjamin.online/)]{.gevalt-caption}
