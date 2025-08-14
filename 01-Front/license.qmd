@@ -2,15 +2,15 @@
 
 ::: {.license}
 
-{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}} 
+[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-All original content is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"> Creative Commons Attribution NonCommercial ShareAlike 4.0 International License</a>.
+All original content is licensed under a [Creative Commons Attribution NonCommercial ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Eric M. Fink
 ### Associate Professor of Law
 ### Elon University School of Law
 ### Greensboro, North Carolina 27408
-#### <a href="https://www.emfink.net/ElonLaw/"><span class="mono-face">https://www.emfink.net/ElonLaw</span></a>
+#### [[emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)]{.mono-face}
 
 ##### Source code: [[github.com/EricMFink](https://github.com/EricMFink/CivProBook)]{.mono-face}
 

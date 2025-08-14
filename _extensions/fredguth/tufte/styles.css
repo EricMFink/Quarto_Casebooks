@@ -514,6 +514,38 @@ hr {
 	border: none;
 }
 
+/* Preface */
+
+.preface-h2 {
+    font-family: "Adelle-Sans",sans-serif;
+    color: #8c2e24;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
+	text-align: left;
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+    list-style: outside none none !important;
+	display: block;
+}
+.preface-h3 {
+    font-family: "Literata",serif;
+    color: #8c2e24;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.2;
+	text-align: left;
+    margin: .5rem 0 0 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    border: none;
+	display: block;
+}
+
 /* Epigraph */
 .epigraph {
 	margin: 1rem 0 5rem 0 !important;
@@ -530,14 +562,14 @@ hr {
     border: none !important;
 }
 .epigraph .blockquote:before {
+    color: #8c2e24;
+    font-size: 80px;
     display: block;
     padding-left: 10px;
     content: "\201C";
-    font-size: 80px;
     position: absolute;
     left: -20px;
     top: -20px;
-    color: #8c2e24;
 }
 .epigraph .blockquote p {
 	font-size: .9rem !important;
@@ -698,6 +730,37 @@ footer.footer .nav-footer, #quarto-header > nav {
     font-weight: 400;
     font-style: normal;
 }
+.button {
+  display: inline-block;
+  background: #fffff8;
+  border-radius: 4px;
+  font-family: "Adelle Sans";
+  font-size: 80%;
+  color: #191919;
+  padding: 4px 6px;
+}
+
+/* 404 PAGE */
+.gevalt {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.gevalt img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	width: 50%;
+}
+.gevalt-caption {
+    font-family: "Literata",serif;
+    color: #8c2e24;
+	font-weight: 300;
+	font-size: 1.3rem;
+	font-style: italic;
+	text-align: center;
+	margin: 1rem
+}
 
 /* TUFTE STYLES */
 
@@ -739,6 +802,17 @@ header .chapter-title {
 	color: #333333;
 	font-weight: 300;
 }
+
+.sidebar-title .sidebar-tools-main {
+	margin-top: .5rem;
+
+}
+.sidebar-tools-main {
+	display: flex;
+	margin: 2rem 0 0 0;
+	order: 2;
+}
+
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .sidebar::-webkit-scrollbar {
@@ -843,10 +917,4 @@ div.sidebar-item-container .active, div.sidebar-item-container :hover, div.sideb
 
 nav[role=doc-toc] {
     padding-bottom: 100px;
-}
-
-.sans-serif  {
-    font-family: "Adelle-Sans",sans-serif;
-    font-style: normal;
-    text-transform: uppercase;
 }

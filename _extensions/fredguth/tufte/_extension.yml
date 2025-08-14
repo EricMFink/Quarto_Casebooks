@@ -7,6 +7,26 @@ contributes:
     project:
       type: book
       output-dir: docs
+    book:
+      open-graph: true
+      author:
+      - name: Eric M. Fink
+        email: efink@elon.edu
+        affiliations:
+          - name: Elon University School of Law
+            address: 201 North Greene Street
+            city: Greensboro
+            state: North Carolina
+            postal-code: 27278
+      filters:
+        - style-text
+      date-format: MMMM YYYY
+      license: "CC BY NC SA"
+      repo-actions: [issue]
+      downloads: [pdf]
+      page-footer:
+          center: 
+            - text: "Last updated: {{< modified >}}"
     format:
       html:
         page-layout: full
@@ -31,3 +51,4 @@ contributes:
               <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
               <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
               <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
+          

@@ -1,0 +1,14 @@
+Include in YAML:
+
+body-header: | 
+  This page brought to you by <https://example.com>
+margin-header: |
+  ![Logo image](/img/logo.png)
+body-footer: | 
+  [{{< fa brands creative-commons >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/) Created by [Eric M. Fink](https://github.com/EricMFink). Last updated: {{< meta last-modified >}}
+margin-footer: |
+![Logo image](/img/logo.png)
+
+
+
+
