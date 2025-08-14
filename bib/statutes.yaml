@@ -252,7 +252,6 @@ references:
   language: en
   title: U.S. Const., art. III, § 1
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 
 - id: FRCP8
   citation-key: FRCP8
@@ -268,7 +267,6 @@ references:
   language: en
   title: U.S. Const., art. III, § 2
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 
 - id: USConst_artIII
   accessed:
@@ -279,7 +277,6 @@ references:
   language: en
   title: U.S. Const., art. III
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 
 - id: USConst_amend5
   accessed:
@@ -290,7 +287,6 @@ references:
   language: en
   title: U.S. Const., amend. V
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 
 - id: USConst_amend14
   accessed:
@@ -301,7 +297,6 @@ references:
   language: en
   title: U.S. Const., amend. XIV
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 
 - id: USConst_nd
   accessed:
@@ -312,5 +307,4 @@ references:
   language: en
   title: U.S. Const.
   type: document
-  URL: https://www.law.cornell.edu/constitution/articleiii
 ...

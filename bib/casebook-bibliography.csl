@@ -102,6 +102,7 @@
       <else-if type="legislation">
 	  		<group delimiter=" ">
         	<text variable="title" suffix=", "/>
+			<text variable="volume"/>
         	<text variable="container-title"/>
         	<text variable="section" prefix="§ "/>
 		</group>
