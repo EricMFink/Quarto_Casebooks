@@ -4,7 +4,7 @@
 
 ::: {.legal-code}
 
-#### 28 U.S.C. §1652
+#### [@RDA_nd]
 
 [State laws as rules of decision]{.legal-code-h1}
 
@@ -229,7 +229,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ::: {.legal-code}
 
-#### 28 U.S.C. §2072 
+#### [@RulesEnablingAct_nd]
 
 [Rules of procedure and evidence; power to prescribe]{.legal-code-h1}
 

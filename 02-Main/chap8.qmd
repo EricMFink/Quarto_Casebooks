@@ -4,7 +4,7 @@
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 56 {#rule56a}
+#### [@FRCP56_nd]
 
 (a\) Motion for Summary Judgment or Partial Summary Judgment. A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 
@@ -122,7 +122,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 56 {#rule56c}
+#### [@FRCP56_nd]
 
 (c\) Procedures.
 

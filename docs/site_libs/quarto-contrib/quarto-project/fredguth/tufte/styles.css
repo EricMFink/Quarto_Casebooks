@@ -407,8 +407,9 @@ p > a, cite > a, span > a {
 
 /* Side & Margin notes*/
 .column-margin.column-container p {
-	font-size: .8rem;
-	margin-bottom: 0;
+	font-size: .7rem;
+	line-height: 1.2;
+	margin: 0 0 .2rem 0;
 }
 .margin-aside { 
 	font-family: "Adelle-Sans",sans-serif;
@@ -801,12 +802,6 @@ display: none
 }
 .quarto-secondary-nav-title {
     font-size: 1.1rem;
-}
-
-@media (min-width:1280px) {
-    .blockquote p {
-        padding-left: 4cm;
-    }
 }
 
 .panel-caption, .figure-caption, figcaption {

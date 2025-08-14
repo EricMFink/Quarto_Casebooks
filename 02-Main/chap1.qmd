@@ -10,15 +10,17 @@ Before the law sits a gatekeeper. To this gatekeeper comes a man from the countr
 
 ### Federal Courts
 
-#### U.S. Constitution, Article III
+#### [@USConst_nd]
 
 ::: {.legal-code}
 
-[Section 1]{.legal-code-h1}
+[Article III]{.legal-code-h1}
+
+[Section 1]{.legal-code-h2}
 
 The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.
 
-[Section 2]{.legal-code-h1}
+[Section 2]{.legal-code-h2}
 
 The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
 
@@ -208,7 +210,7 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 ## The Federal Rules of Civil Procedure 
 
-####  The Rules Enabling Act, 28 U.S.C. §2071 et seq.
+#### [@RulesEnablingAct_nd]
 
 ::: {.legal-code}
 
@@ -268,7 +270,7 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 ::: {.legal-code}
 
-####  Fed. R. Civ. P. Rule 1
+#### [@FRCP1_nd]
 
 [Scope and Purpose]{.legal-code-h1}
 
@@ -278,7 +280,7 @@ These rules govern the procedure in all civil actions and proceedings in the Uni
 
 ::: {.legal-code}
 
-####  Fed. R. Civ. P. Rule 2 
+#### [@FRCP2_nd]
 
 [One Form of Action]{.legal-code-h1}
 

@@ -4,15 +4,11 @@
 
 ::: {.legal-code}
 
-#### U.S. Constitution 
+#### [@USConst] U.S. Constitution 
 
 [Amendment V]{.legal-code-h1}
 
 No person shall ... be deprived of life, liberty, or property, without due process of law; ....
-
-:::
-
-::: {.legal-code}
 
 [Amendment XIV, sec. 1]{.legal-code-h1}
 

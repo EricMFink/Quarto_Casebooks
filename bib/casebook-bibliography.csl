@@ -99,6 +99,13 @@
           </group>
         </group>
       </else-if>
+      <else-if type="legislation">
+	  		<group delimiter=" ">
+        	<text variable="title" suffix=", "/>
+        	<text variable="container-title"/>
+        	<text variable="section" prefix="§ "/>
+		</group>
+      </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">
           <text variable="title" text-case="title" font-style="italic"/>
@@ -247,6 +254,9 @@
 				<text macro="issuance" prefix="(" suffix=")"/>
 			</group>
         </if>
+		<else-if type="legislation">
+        	<text macro="source"/>
+        </else-if>
         <else>
         <group delimiter=" ">
           <text macro="author" suffix=", "/>

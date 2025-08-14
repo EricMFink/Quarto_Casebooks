@@ -4,7 +4,7 @@
 
 ### Permissive Joinder of Claims
 
-#### Fed. R. Civ. P. Rule 18
+#### [@FRCP18_nd]
 
 ::: {.legal-code}
 
@@ -16,7 +16,7 @@
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 42
+#### [@FRCP42_nd]
 
 (a) Consolidation. If actions before the court involve a common question of law or fact, the court may:
 
@@ -72,7 +72,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ### Permissive Joinder of Parties
 
-#### Fed. R. Civ. P. Rule 20
+#### [@FRCP20_nd]
 
 ::: {.legal-code}
 
@@ -146,7 +146,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ### Counterclaims
 
-#### Fed. R. Civ. P. Rule 13(a), (b), & (h)
+#### [@FRCP13_nd]
 
 ::: {.legal-code}
 
@@ -170,9 +170,9 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ::: 
 
-#### Jones v. Ford Motor Credit, 358 F.3d 205 (2d Cir. 2004)
+#### [@JonesFordMotor2004]
 
-**NEWMAN, Circuit Judge**
+[NEWMAN, Circuit Judge]{.case-judge}
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. §1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 
@@ -208,7 +208,7 @@ We agree with the District Court that the debt collection counterclaims were per
 
 
 
-#### Ginwright v. Exeter Finance, No. TDC-16-0565 (D. Md. 2016)
+#### [@GinwrightExeterFinance2017]
 
 [CHUANG, District Judge]{.case-judge}
 
@@ -257,7 +257,7 @@ The Court's conclusion is consistent with those of several district courts that 
 Exeter's citation to a single district court case reaching the contrary conclusion, _Horton v. Calvary Portfolio Servs.,_ (S.D. Cal. 2014), is unpersuasive. In _Horton,_ the court applied the "logical relationship" test, followed by the United States Court of Appeals for the Ninth Circuit in determining whether a counterclaim is compulsory or permissive, which differs from the Fourth Circuit's four-part inquiry. Moreover, other courts applying a logical relationship test have concluded that a breach of contract counterclaim to a TCPA claim is permissive.
 
 
-#### Pace v. Timmermann's Ranch, 795 F.3d 748 (7th Cir. 2015)
+#### [@PaceTimmermannsRanch2014]
 
 [RIPPLE, Circuit Judge]{.case-judge}
 
@@ -351,7 +351,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ### Crossclaims
 
-#### Fed. R. Civ. P. Rule 13(g) & (h)
+#### [@FRCP13_nd]
 
 ::: {.legal-code}
 
@@ -361,7 +361,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ::: 
 
-#### Kirkcaldy v. Richmond County Bd. of Ed., 212 F.R.D. 289 (M.D.N.C. 2002) 
+#### [@KirkcaldyRichmondCounty2002]
 
 [BEATY, District Judge]{.case-judge}
 
@@ -409,7 +409,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ### Third-Party Defendants
 
-#### Fed. R. Civ. P. Rule 14
+#### [@FRCP14_nd]
 
 ::: {.legal-code}
 
@@ -499,7 +499,7 @@ Liability insurance is a common type of contractual indemnification agreement. S
 
 A right of contribution allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. The right of contribution may be governed by common law or statute. You will learn more about joint & several liability, and contribution among joint tortfeasers, in your Torts class.
 
-#### Lehman v. Revolution Portfolio, 166 F.3d 389 (1st Cir. 1999)
+#### [@LehmanRevolutionPortfolio1999]
 
 [SELYA, Circuit Judge]{.case-judge}
 
@@ -538,7 +538,7 @@ As a fallback position, Roffman suggests that the third-party complaint against 
 There is, moreover, a broader point. A district court must oversee third-party practice with the core purpose of Rule 14(a) in mind: avoiding unnecessary duplication and circuity of action. Requiring a district court to determine the merits of all defenses potentially available to the original defendant as a precondition to allowing that defendant to file a third-party complaint would frustrate this purpose and countervail the efficient allocation of judicial resources. Thus, as long as a third-party action falls within the general contours limned by Rule 14(a), does not contravene customary jurisdictional and venue requirements, and will not work unfair prejudice, a district court should not preclude its prosecution. So here.
 
 
-#### Kirkcaldy v. Richmond County Bd. of Ed., 212 F.R.D. 289 (M.D.N.C. 2002)
+#### [@KirkcaldyRichmondCounty2002]
 
 [BEATY, District Judge]{.case-judge}
 
@@ -570,7 +570,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ### Required Parties
 
-#### Fed. R. Civ. P. Rule 19
+#### [@FRCP19_nd]
 
 ::: {.legal-code}
 
@@ -614,7 +614,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ::: 
 
-#### Camacho v. Major League Baseball, 297 F.R.D. 457 (S.D. Cal. 2013)
+#### [@CamachoMajorLeague2013]
 
 [LORENZ, District Judge]{.case-judge}
 
@@ -686,7 +686,7 @@ Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fa
 
 Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three---out.
 
-#### Sullivan-Blake v. FedEx Ground Package System, Inc., Civil Action No. 18-1698 (W.D. Pa. Jan. 31, 2020)
+#### [@SullivanBlakeFedexGround2020]
 
 [PATRICIA L. DODGE, Magistrate Judge]{.case-judge}
 
@@ -738,7 +738,7 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 ### Intervention
 
-#### Fed. R. Civ. P. Rule 24
+#### [@FRCP24_nd]
 
 ::: {.legal-code}
 
@@ -760,7 +760,7 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 ::: 
 
-#### Buck v. Gordon, 959 F.3d 219 (6th Cir. 2020)
+#### [@BuckGordon2020]
 
 [GRIFFIN, Circuit Judge]{.case-judge}
 
@@ -848,7 +848,7 @@ District courts are afforded wide latitude to determine whether a party with a c
 
 [^Dumont3]: (n.5 in opinion) We also note that when St. Vincent intervened into the _Dumont_ litigation, it was in the exact position the Dumonts are now. In other words, if the Dumonts raise "only Michigan's claims or defenses for it," as St. Vincent suggests, then the same was also true of its position in the prior case.
 
-#### Amador County v. U.S. Dept. of the Interior, 772 F.3d 901 (D.C. Cir. 2014)
+#### [@AmadorCountyCal2014]
 
 [SENTELLE, Senior Circuit Judge]{.case-judge}
 

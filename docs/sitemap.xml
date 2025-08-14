@@ -2,27 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.emfink.net/CivProCasebook/index.html</loc>
-    <lastmod>2025-08-14T00:48:09.076Z</lastmod>
+    <lastmod>2025-08-14T03:01:31.373Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/01-Front/license.html</loc>
     <lastmod>2025-08-13T15:18:34.676Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/CivProCasebook/01-Front/epigraph.html</loc>
-    <lastmod>2025-08-13T15:08:40.261Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.emfink.net/CivProCasebook/01-Front/preface.html</loc>
-    <lastmod>2025-08-13T13:20:18.774Z</lastmod>
+    <lastmod>2025-08-14T02:06:24.457Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap1.html</loc>
-    <lastmod>2025-08-13T14:59:15.305Z</lastmod>
+    <lastmod>2025-08-14T02:57:50.460Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap2.html</loc>
-    <lastmod>2025-08-13T14:31:38.667Z</lastmod>
+    <lastmod>2025-08-14T03:04:37.656Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap3.html</loc>
@@ -30,23 +26,23 @@
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap4.html</loc>
-    <lastmod>2025-08-13T14:31:33.182Z</lastmod>
+    <lastmod>2025-08-14T02:27:42.135Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap5.html</loc>
-    <lastmod>2025-08-13T13:55:38.977Z</lastmod>
+    <lastmod>2025-08-14T02:29:24.451Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap6.html</loc>
-    <lastmod>2025-08-13T14:31:27.125Z</lastmod>
+    <lastmod>2025-08-14T02:34:22.899Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap7.html</loc>
-    <lastmod>2025-08-13T14:31:24.409Z</lastmod>
+    <lastmod>2025-08-14T02:37:38.685Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/02-Main/chap8.html</loc>
-    <lastmod>2025-08-13T14:29:00.661Z</lastmod>
+    <lastmod>2025-08-14T02:38:26.962Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/CivProCasebook/03-Back/references.html</loc>
@@ -59,5 +55,9 @@
   <url>
     <loc>https://www.emfink.net/CivProCasebook/03-Back/colophon.html</loc>
     <lastmod>2025-08-13T05:55:17.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.emfink.net/CivProCasebook/01-Front/epigraph.html</loc>
+    <lastmod>2025-08-13T15:08:40.261Z</lastmod>
   </url>
 </urlset>

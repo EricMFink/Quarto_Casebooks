@@ -4,7 +4,7 @@
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §13
+#### [@R2J13_nd]
 
 [Requirement of Finality]{.legal-code--h1}
 
@@ -14,7 +14,7 @@ The rules of res judicata are applicable only when a final judgment is rendered.
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §14
+#### [@R2J14_nd] 
 
 [Effective Date of Final Judgment]{.legal-code--h1}
 
@@ -24,7 +24,7 @@ For purposes of res judicata, the effective date of a final judgment is the date
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §15
+#### [@R2J15_nd]
 
 [Inconsistent Judgments]{.legal-code--h1}
 
@@ -34,7 +34,7 @@ When in two actions inconsistent final judgments are rendered, it is the later, 
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §16
+#### [@R2J16_nd]
 
 [Judgment Based Upon a Judgment That Is Subsequently Reversed]{.legal-code--h1}
 
@@ -46,7 +46,7 @@ A judgment based on an earlier judgment is not nullified automatically by reason
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §17
+#### [@R2J17_nd]
 
 [Effects of Former Adjudication—General Rules]{.legal-code--h1}
 
@@ -60,7 +60,7 @@ A valid and final personal judgment is conclusive between the parties, except on
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §18
+#### [@R2J18_nd]
 
 [Judgment for Plaintiff—The General Rule of Merger]{.legal-code--h1}
 
@@ -73,7 +73,7 @@ When a valid and final personal judgment is rendered in favor of the plaintiff:
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §19
+#### [@R2J19_nd]
 
 [Judgment for Defendant—The General Rule of Bar]{.legal-code--h1}
 
@@ -83,7 +83,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §20
+#### [@R2J20_nd]
 
 [Judgment for Defendant—Exceptions to the General Rule of Bar]{.legal-code--h1}
 
@@ -101,7 +101,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §21
+#### [@R2J21_nd]
 
 [Judgment for Defendant on His Counterclaim]{.legal-code--h1}
 
@@ -113,7 +113,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §22
+#### [@R2J22_nd]
 
 [Effect of Failure to Interpose Counterclaim]{.legal-code--h1}
 
@@ -129,7 +129,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §23
+#### [@R2J23_nd]
 
 [Judgment for Plaintiff on Defendant’s Counterclaim]{.legal-code--h1}
 
@@ -306,7 +306,7 @@ We acknowledge the terrible reality that Mr. Johnson must have faced during the 
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §24
+#### [@R2J24_nd]
 
 [Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting"]{.legal-code--h1}
 
@@ -320,7 +320,7 @@ The general rule of this Section is exemplified in §25, and is subject to the e
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §25
+#### [@R2J25_nd]
 
 [§Exemplifications of General Rule Concerning Splitting]{.legal-code--h1}
 
@@ -541,7 +541,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §26
+#### [@R2J26_nd] 
 
 [Exceptions to the General Rule Concerning Splitting]{.legal-code--h1}
 
@@ -625,7 +625,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §17
+#### [@R2J17_nd]
 
 [Effects of Former Adjudication—General Rules]{.legal-code--h1}
 
@@ -637,7 +637,7 @@ A valid and final personal judgment is conclusive between the parties, except on
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §27
+#### [@R2J27_nd]
 
 [Issue Preclusion—General Rule]{.legal-code--h1}
 
@@ -647,7 +647,7 @@ When an issue of fact or law is actually litigated and determined by a valid and
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §28
+#### [@R2J28_nd]
 
 [Exceptions to the General Rule of Issue Preclusion]{.legal-code--h1}
 
@@ -922,7 +922,7 @@ For the foregoing reasons, we hold that an issue is "actually litigated" for pur
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments §29
+#### [@R2J29_nd] 
 
 [Issue Preclusion in Subsequent Litigation with Others]{.legal-code--h1}
 

@@ -23,9 +23,9 @@ references:
   title: Fed. R. Civ. P. Rule 3
   type: document
 
-- id: FRCP8_nd
-  citation-key: FRCP8_nd
-  title: Fed. R. Civ. P. Rule 8
+- id: FRCP7
+  citation-key: FRCP7
+  title: Fed. R. Civ. P. Rule 7
   type: document
 
 - id: FRCP9_nd
@@ -242,4 +242,75 @@ references:
   title: Rules of Decision Act
   type: legislation
   volume: '28'
+
+- id: USConst_art3sec1
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_art3sec1
+  language: en
+  title: U.S. Const., art. III, § 1
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
+
+- id: FRCP8
+  citation-key: FRCP8
+  title: Fed. R. Civ. P. Rule 8
+  type: document
+
+- id: USConst_art3sec2
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_art3sec2
+  language: en
+  title: U.S. Const., art. III, § 2
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
+
+- id: USConst_artIII
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_artIII
+  language: en
+  title: U.S. Const., art. III
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
+
+- id: USConst_amend5
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_amend5
+  language: en
+  title: U.S. Const., amend. V
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
+
+- id: USConst_amend14
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_amend14
+  language: en
+  title: U.S. Const., amend. XIV
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
+
+- id: USConst_nd
+  accessed:
+    - year: 2025
+      month: 8
+      day: 14
+  citation-key: USConst_nd
+  language: en
+  title: U.S. Const.
+  type: document
+  URL: https://www.law.cornell.edu/constitution/articleiii
 ...

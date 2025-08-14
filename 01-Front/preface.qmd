@@ -26,7 +26,7 @@ You can report typographical errors or technical issues by using the button at t
 
 ### Sidenotes & Margin Notes
 
-Following the style of [Edward Tufte](https://www.edwardtufte.com/tufte/), this book uses sidenotes and margin notes in place of traditional footnotes or endnotes. These appear in the right-hand margin, avoiding the need to jump through hyperlinks or scroll to the note text. 
+Following the style of [Edward Tufte](https://www.edwardtufte.com/tufte/), this book uses sidenotes and margin notes in place of traditional footnotes or endnotes. These appear in the right-hand margin, avoiding the need to jump through hyperlinks or scroll to the note text.
 
 Numbered sidenotes[^sidenote] are used for footnotes in the source materials (with original note numbering indicated in parentheses). 
 

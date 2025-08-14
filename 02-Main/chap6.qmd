@@ -4,11 +4,11 @@
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 3 {#rule3}
+#### [@FRCP3_nd]
 
 A civil action is commenced by filing a complaint with the court.
 
-#### Fed. R. Civ. P. Rule 7 {#rule7}
+#### [@FRCP7]
 
 (a) Pleadings. Only these pleadings are allowed:
 
@@ -44,7 +44,7 @@ A civil action is commenced by filing a complaint with the court.
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 8 {#rule8d-e}
+#### [@FRCP8]
 
 (d) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
 
@@ -56,7 +56,7 @@ A civil action is commenced by filing a complaint with the court.
 
 (e) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-#### Fed. R. Civ. P. Rule 10 {#rule10}
+#### [@FRCP10_nd]
 
 (a) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 
@@ -64,7 +64,7 @@ A civil action is commenced by filing a complaint with the court.
 
 (c) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-#### Fed. R. Civ. P. Rule 12 {#rule12e-f}
+#### [@FRCP12_nd]
 
 (e) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
 
@@ -127,7 +127,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 8 {#rule8a}
+#### [@FRCP8]
 
 (a) Claim for Relief. A pleading that states a claim for relief must contain:
 
@@ -141,7 +141,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 9 {#rule9}
+#### [@FRCP9_nd]
 
 (a) Capacity or Authority to Sue; Legal Existence.
 
@@ -349,7 +349,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 8 {#rule8b}
+#### [@FRCP8]
 
 (b) Defenses; Admissions and Denials.
 
@@ -415,7 +415,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 12 {#rule12b}
+#### [@FRCP12_nd]
 
 (b) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
 
@@ -523,7 +523,7 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 12 {#rule12a-g-h}
+#### [@FRCP12_nd]
 
 (a) Time to Serve a Responsive Pleading.
 
@@ -581,7 +581,7 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 15 {#rule15}
+#### [@FRCP15_nd]
 
 (a) Amendments Before Trial.
 
@@ -799,7 +799,7 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 ::: {.legal-code}
 
-#### Fed. R. Civ. P. Rule 11 {#rule11}
+#### [@FRCP11_nd]
 
 [Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions]{.legal-code-h1}
 
