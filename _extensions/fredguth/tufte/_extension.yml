@@ -21,7 +21,6 @@ contributes:
         - style-text
       date-format: MMMM YYYY
       license: "CC BY NC SA"
-      repo-actions: [issue]
       downloads: [pdf]
       page-footer:
           center: 
