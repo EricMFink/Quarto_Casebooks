@@ -5,6 +5,7 @@ book:
   site-url: https://www.emfink.net/CivProCasebook
   repo-url: https://github.com/EricMFink/CivProCasebook/
   repo-actions: [issue]
+  downloads: [pdf]
   title: Civil Procedure
   subtitle: An Open-Source Casebook
   title-short: Civil Procedure # title-short is used in the pdf head
