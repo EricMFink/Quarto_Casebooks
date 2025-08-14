@@ -4,9 +4,9 @@
 
 ::: {.legal-code}
 
-#### [@RDA_nd]
+#### The Rules Enabling Act, 28 U.S.C. § 1652
 
-[State laws as rules of decision]{.legal-code-h1}
+[State laws as rules of decision]{.note-h1}
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
@@ -229,15 +229,15 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ::: {.legal-code}
 
-#### [@RulesEnablingAct_nd]
+#### The Rules Enabling Act, 28 U.S.C. §2071
 
-[Rules of procedure and evidence; power to prescribe]{.legal-code-h1}
+[Rules of procedure and evidence; power to prescribe]{.note-h1}
 
-(a) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
+(a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
 
-(b) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
+(b\) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
 
-(c) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
+(c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 
 :::
 
@@ -336,7 +336,7 @@ It remains to apply what has been said to the present case. The Massachusetts ru
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-[I. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
+[I\. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -358,7 +358,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-[II. LEGAL STANDARD]{.case-h1}
+[II\. LEGAL STANDARD]{.case-h1}
 
 The Court held oral argument during which it sua sponte raised the issue of the appropriate standard for adding punitive damages claims. Both parties had initially addressed in their written submissions the appropriateness of amending the Complaint to add a claim for punitive damages under Minnesota Statutes Sections 549.191 and 549.20. The Court ordered the parties to file supplemental pleadings with respect to their positions regarding whether Minn. Stat. §549.191, or Rule 15 of the Federal Rules of Civil Procedure, applies to a motion to amend to add a claim for punitive damages. Both parties filed supplemental briefs and agree, based on recent decisions within this District, that Rule 15, and not Minn. Stat. §549 applies to the present motion to amend. That said, the parties disagree about whether the proposed amended complaint plausibly sets forth a claim for punitive damages under Minn. Stat. §549.20.
 
@@ -384,7 +384,7 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 
 Courts in the District of Minnesota have historically applied the state statute, Minn. Stat. §549.191, rather than Rule 15, to motions to amend to add a claim for punitive damages, in diversity actions, such as the present action. However, this practice has come under scrutiny over the last couple years in light of the apparent conflict between the Minnesota statute and Rule 15.
 
-Indeed, courts have recently taken another look at the practice and analyzed whether Rule 15 or Minn. Stat. §549.191 should be applied in view of the 2010 United States Supreme Court's decision in _Shady Grove Assocs., P.A. v. Allstate Ins. Co._. The large majority of these courts now apply Rule 15 instead of Minn. Stat. §549.191 when considering motions to add punitive damage claims.
+Indeed, courts have recently taken another look at the practice and analyzed whether Rule 15 or Minn. Stat. §549.191 should be applied in view of the 2010 United States Supreme Court's decision in _Shady Grove Assocs., P.A\. v. Allstate Ins. Co._. The large majority of these courts now apply Rule 15 instead of Minn. Stat. §549.191 when considering motions to add punitive damage claims.
 
 "_Shady Grove_ instructs that 'a federal court exercising diversity jurisdiction should not apply a state law or rule if (1) a Federal Rule of Civil Procedure 'answers the same question' as the state law or rule and (2) the Federal Rule does not violate the Rules Enabling Act.'" Five of the Supreme Court justices in _Shady Grove_ concluded that the first step in the analysis looks to whether the federal rule directly conflicts with the state law, which occurs where the federal rule "answers the question in dispute." If it does, Rule 15 applies---Minn. Stat. §549.191 notwithstanding--- "unless it exceeds statutory authorization or Congress's rulemaking power."
 
@@ -421,7 +421,7 @@ Accordingly, the Court will apply the Rule 15 standard in determining whether to
 
 [Question 1]{.note-h1}
 
-Peggy was employed by Sterling Cooper, P.C. She had a written employment contract specifying a three year term of employment, during which Sterling Cooper could not terminate Peggy's employment except for cause. The contract specifies that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
+Peggy was employed by Sterling Cooper, P.C\. She had a written employment contract specifying a three year term of employment, during which Sterling Cooper could not terminate Peggy's employment except for cause. The contract specifies that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
 
 Before the contract term ended, Peggy was fired. Her boss, Don, told her the reason was poor performance, but Peggy believes the real reason was her rejection of Don's repeated and unwelcome advances. 
 

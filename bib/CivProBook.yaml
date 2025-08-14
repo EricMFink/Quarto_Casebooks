@@ -197,14 +197,6 @@ references:
   type: legal_case
   volume: '772'
 
-- id: RulesEnablingAct_nd
-  citation-key: RulesEnablingAct_nd
-  container-title: U.S.C.
-  section: 2071, et. seq.
-  title: Rules Enabling Act
-  type: legislation
-  volume: '28'
-
 - id: PennoyerNeff1878
   authority: U.S.
   citation-key: PennoyerNeff1878
@@ -782,241 +774,6 @@ references:
   URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
   volume: '18'
 
-- id: FRCP1_nd
-  citation-key: FRCP1_nd
-  title: Fed. R. Civ. P. Rule 1
-  type: document
-
-- id: FRCP2_nd
-  citation-key: FRCP2_nd
-  title: Fed. R. Civ. P. Rule 2
-  type: document
-
-- id: FRCP3_nd
-  citation-key: FRCP3_nd
-  title: Fed. R. Civ. P. Rule 3
-  type: document
-
-- id: FRCP7
-  citation-key: FRCP7
-  title: Fed. R. Civ. P. Rule 7
-  type: document
-
-- id: FRCP9_nd
-  citation-key: FRCP9_nd
-  title: Fed. R. Civ. P. Rule 9
-  type: document
-
-- id: FRCP10_nd
-  citation-key: FRCP10_nd
-  title: Fed. R. Civ. P. Rule 10
-  type: document
-
-- id: FRCP11_nd
-  citation-key: FRCP11_nd
-  title: Fed. R. Civ. P. Rule 11
-  type: document
-
-- id: FRCP12_nd
-  citation-key: FRCP12_nd
-  title: Fed. R. Civ. P. Rule 12
-  type: document
-
-- id: FRCP13_nd
-  citation-key: FRCP13_nd
-  title: Fed. R. Civ. P. Rule 13
-  type: document
-
-- id: FRCP14_nd
-  citation-key: FRCP14_nd
-  title: Fed. R. Civ. P. Rule 14
-  type: document
-
-- id: FRCP15_nd
-  citation-key: FRCP15_nd
-  title: Fed. R. Civ. P. Rule 15
-  type: document
-
-- id: FRCP18_nd
-  citation-key: FRCP18_nd
-  title: Fed. R. Civ. P. Rule 18
-  type: document
-
-- id: FRCP42_nd
-  citation-key: FRCP42_nd
-  title: Fed. R. Civ. P. Rule 42
-  type: document
-
-- id: FRCP14_nd
-  citation-key: FRCP14_nd
-  title: Fed. R. Civ. P. Rule 14
-  type: document
-
-- id: FRCP15_nd
-  citation-key: FRCP15_nd
-  title: Fed. R. Civ. P. Rule 15
-  type: document
-
-- id: FRCP18_nd
-  citation-key: FRCP18_nd
-  title: Fed. R. Civ. P. Rule 18
-  type: document
-
-- id: FRCP19_nd
-  citation-key: FRCP19_nd
-  title: Fed. R. Civ. P. Rule 19
-  type: document
-
-- id: FRCP20_nd
-  citation-key: FRCP20_nd
-  title: Fed. R. Civ. P. Rule 20
-  type: document
-
-- id: FRCP24_nd
-  citation-key: FRCP24_nd
-  title: Fed. R. Civ. P. Rule 24
-  type: document
-
-- id: FRCP56_nd
-  citation-key: FRCP56_nd
-  title: Fed. R. Civ. P. Rule 56
-  type: document
-
-- id: R2J13_nd
-  citation-key: R2J13_nd
-  title: Rest. (2d) of Judgments §13
-  type: document
-
-- id: R2J14_nd
-  citation-key: R2J14_nd
-  title: Rest. (2d) of Judgments §14
-  type: document
-
-- id: R2J15_nd
-  citation-key: R2J15_nd
-  title: Rest. (2d) of Judgments §15
-  type: document
-
-- id: R2J16_nd
-  citation-key: R2J16_nd
-  title: Rest. (2d) of Judgments §16
-  type: document
-
-- id: R2J17_nd
-  citation-key: R2J17_nd
-  title: Rest. (2d) of Judgments §17
-  type: document
-
-- id: R2J18_nd
-  citation-key: R2J18_nd
-  title: Rest. (2d) of Judgments §18
-  type: document
-
-- id: R2J19_nd
-  citation-key: R2J19_nd
-  title: Rest. (2d) of Judgments §19
-  type: document
-
-- id: R2J20_nd
-  citation-key: R2J20_nd
-  title: Rest. (2d) of Judgments §20
-  type: document
-
-- id: R2J21_nd
-  citation-key: R2J21_nd
-  title: Rest. (2d) of Judgments §21
-  type: document
-
-- id: R2J22_nd
-  citation-key: R2J22_nd
-  title: Rest. (2d) of Judgments §22
-  type: document
-
-- id: R2J23_nd
-  citation-key: R2J23_nd
-  title: Rest. (2d) of Judgments §23
-  type: document
-
-- id: R2J24_nd
-  citation-key: R2J24_nd
-  title: Rest. (2d) of Judgments §24
-  type: document
-
-- id: R2J25_nd
-  citation-key: R2J25_nd
-  title: Rest. (2d) of Judgments §25
-  type: document
-
-- id: R2J26_nd
-  citation-key: R2J26_nd
-  title: Rest. (2d) of Judgments §26
-  type: document
-
-- id: R2J27_nd
-  citation-key: R2J27_nd
-  title: Rest. (2d) of Judgments §27
-  type: document
-
-- id: R2J28_nd
-  citation-key: R2J28_nd
-  title: Rest. (2d) of Judgments §28
-  type: document
-
-- id: R2J29_nd
-  citation-key: R2J29_nd
-  title: Rest. (2d) of Judgments §29
-  type: document
-
-- id: 1331_nd
-  citation-key: 1331_nd
-  container-title: U.S.C.
-  section: '1331'
-  type: legislation
-  volume: '28'
-
-- id: 1332_nd
-  citation-key: 1332_nd
-  container-title: U.S.C.
-  section: '1332'
-  type: legislation
-  volume: '28'
-
-- id: 1367_nd
-  citation-key: 1367_nd
-  container-title: U.S.C.
-  section: '1367'
-  type: legislation
-  volume: '28'
-
-- id: 1441_nd
-  citation-key: 1441_nd
-  container-title: U.S.C.
-  section: '1441'
-  type: legislation
-  volume: '28'
-
-- id: 1445_nd
-  citation-key: 1445_nd
-  container-title: U.S.C.
-  section: '1445'
-  type: legislation
-  volume: '28'
-
-- id: 1447_nd
-  citation-key: 1447_nd
-  container-title: U.S.C.
-  section: '1447'
-  type: legislation
-  volume: '28'
-
-- id: RDA_nd
-  citation-key: RDA_nd
-  container-title: U.S.C.
-  section: '1652'
-  title: Rules of Decision Act
-  type: legislation
-  volume: '28'
-
 - id: Teton1940
   author:
     - family: Teton
@@ -1266,44 +1023,22 @@ references:
   type: legal_case
   volume: '139'
 
-- id: USConst_art3sec1
-  citation-key: USConst_art3sec1
+- id: Johnson1912
+  author:
+    - family: Johnson
+      given: E. Polk
+  citation-key: Johnson1912
+  issued:
+    - year: 1912
   language: en
-  title: U.S. Const., art. III, § 1
-  type: document
-
-- id: FRCP8
-  citation-key: FRCP8
-  title: Fed. R. Civ. P. Rule 8
-  type: document
-
-- id: USConst_art3sec2
-  citation-key: USConst_art3sec2
-  language: en
-  title: U.S. Const., art. III, § 2
-  type: document
-
-- id: USConst_artIII
-  citation-key: USConst_artIII
-  language: en
-  title: U.S. Const., art. III
-  type: document
-
-- id: USConst_amend5
-  citation-key: USConst_amend5
-  language: en
-  title: U.S. Const., amend. V
-  type: document
-
-- id: USConst_amend14
-  citation-key: USConst_amend14
-  language: en
-  title: U.S. Const., amend. XIV
-  type: document
-
-- id: USConst_nd
-  citation-key: USConst_nd
-  language: en
-  title: U.S. Const.
-  type: document
+  number-of-pages: '854'
+  publisher: Lewis Publishing Company
+  source: Google Books
+  title: >-
+    A History of Kentucky and Kentuckians: The Leaders and Representative Men in
+    Commerce, Industry and Modern Activities
+  title-short: A History of Kentucky and Kentuckians
+  type: book
+  URL: >-
+    https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1144.w.2.1.0_421
 ...

@@ -93,19 +93,14 @@ h5 {
     margin: 1rem 0 .5rem 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
 	display: block;
 }
 .case-h1 {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: 1.1rem;
-    font-style: normal;
-	font-weight: 400;
-    line-height: 1.2;
+	font-weight: 500;
+    line-height: 1;
 	text-align: center;
-    margin: 1rem 0 0 0;
+    margin: 0 0 0 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
     border: none;
@@ -113,14 +108,12 @@ h5 {
 	display: block;
 }
 .case-h2 {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: 1.1rem;
-    font-style: italic;
+    font-style: italic !important;
     font-weight: 300;
-    line-height: 1.2;
+    line-height: 1;
 	text-align: center;
-    margin: 1rem 0 0 0;
+    margin: .0 0 0 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
     border: none;
@@ -128,48 +121,35 @@ h5 {
 	display: block;
 }
 .case-h3 {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: 1rem;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 1.1;
+    font-weight: 400;
+    line-height: 1;
 	text-align: center;
-    margin: 1rem 0 0 0;
+    margin: 0 0 0 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
 	display: block;
 }
 .case-h4 {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: 1rem;
-    font-style: normal;
+    font-style: italic;
     font-weight: 300;
-    line-height: 1.1;
+    line-height: 1;
 	text-align: center;
-    margin: 1rem 0 0 0;
+    margin: 0 0 0 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
 	display: block;
 }
 .case-h5 {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: .9rem;
-    font-style: italic;
+    font-style: italic !important;
     font-weight: 300;
-    line-height: 1.1;
+    line-height: 1;
 	text-align: center;
     margin: 1rem 0 0 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
 	display: block;
 }
 
@@ -264,7 +244,7 @@ p > a, cite > a, span > a {
     color: #191919;
     font-size: 1.1rem;
     font-style: normal;
-	font-weight: 400;
+	font-weight: 500;
     line-height: 1.2;
 	text-align: left;
     margin: 1.7rem 0 0 0;
@@ -277,7 +257,7 @@ p > a, cite > a, span > a {
 .note-h2 {
     font-family: "Literata",serif;
     color: #191919;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-style: italic;
     font-weight: 300;
     line-height: 1.2;
@@ -321,102 +301,16 @@ p > a, cite > a, span > a {
 }
 
 /* LEGAL CODE: Indented subsections in statutes, etc. */
-.legal-code {
-	font-family: "Literata",serif;
-	color: #191919;
-	font-size: .9rem;
-	max-width: 40rem;
-}
-.legal-code-h1 {
-    font-family: "Literata",serif;
-    color: #191919;
-    font-size: 1rem;
-    font-style: normal;
-	font-weight: 400;
-    line-height: 1.2;
-	text-align: left;
-    margin: 1.5rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.legal-code-h2 {
-    font-family: "Literata",serif;
-    color: #191919;
-    font-size: .9rem;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 1.2;
-	text-align: left;
-    margin: 1rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.legal-code-h3 {
-    font-family: "Literata",serif;
-    color: #191919;
-    font-size: .9rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.1;
-	text-align: left;
-    margin: 1rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.legal-code-h4 {
-    font-family: "Literata",serif;
-    color: #191919;
-    font-size: .9rem;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 1.1;
-	text-align: left;
-    margin: 1rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.legal-code p {
-	font-size: .9rem;
-}
-.legal-code blockquote {
-	font-size: .9rem !important;
-    margin: .5rem 0 .5rem 0;
-    padding: 0 0 0 1rem;
-	width: inherit;
-	border: none;
-}
-.legal-code blockquote p {
-	font-size: .9rem !important;
-    margin: .5rem 0 .5rem 0;
-    padding: 0 0 0 1rem;
-	width: inherit;
-	border: none;
+.legal-code ul { 
+	list-style-type: none;
 }
 
-/* Side & Margin notes*/
-.column-margin.column-container p {
-	font-size: .7rem;
-	line-height: 1.2;
-	margin: 0 0 .2rem 0;
+/*
+.legal-code li { 
+	width: inherit;
 }
-.margin-aside { 
-	font-family: "Adelle-Sans",sans-serif;
-    color: #006400;
-	font-size: .8rem;
-	font-weight: 300;
-}
+*/
+
 /* Lists */
 /*
 ol, ul {
@@ -783,6 +677,17 @@ footer.footer .nav-footer, #quarto-header > nav {
 .column-margin figcaption, .margin-caption, div.aside, aside, .column-margin {
     color: #191919;
     font-size: .625rem;
+}
+/* Side & Margin notes*/
+.column-margin.column-container p {
+    font-size: .625rem;
+	line-height: 1.2;
+	margin: 0 0 .2rem 0;
+}
+.margin-aside { 
+	font-family: "Adelle-Sans",sans-serif;
+    color: #006400;
+	font-weight: 300;
 }
 
 .sidebar {

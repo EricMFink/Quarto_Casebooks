@@ -4,39 +4,39 @@
 
 ::: {.legal-code}
 
-#### [@FRCP3_nd]
+#### Fed. R. Civ. P. Rule 3
 
 A civil action is commenced by filing a complaint with the court.
 
-#### [@FRCP7]
+#### Fed. R. Civ. P. Rule 7
 
-(a) Pleadings. Only these pleadings are allowed:
+(a\) Pleadings. Only these pleadings are allowed:
 
-> (1) a complaint;
+- (1\) a complaint;
 
-> (2) an answer to a complaint;
+- (2\) an answer to a complaint;
 
-> (3) an answer to a counterclaim designated as a counterclaim;
+- (3\) an answer to a counterclaim designated as a counterclaim;
 
-> (4) an answer to a crossclaim;
+- (4\) an answer to a crossclaim;
 
-> (5) a third-party complaint;
+- (5\) a third-party complaint;
 
-> (6) an answer to a third-party complaint; and
+- (6\) an answer to a third-party complaint; and
 
-> (7) if the court orders one, a reply to an answer.
+- (7\) if the court orders one, a reply to an answer.
 
-(b) Motions and Other Papers.
+(b\) Motions and Other Papers.
 
-> (1) In General. A request for a court order must be made by motion. The motion must:
+- (1\) In General. A request for a court order must be made by motion. The motion must:
 
-> > (A) be in writing unless made during a hearing or trial;
+	- (A\) be in writing unless made during a hearing or trial;
 	
-> > (B) state with particularity the grounds for seeking the order; and
+	- (B\) state with particularity the grounds for seeking the order; and
 
-> > (C) state the relief sought.
+	- (C\) state the relief sought.
 
-> (2) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
+- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
 :::
 
@@ -44,35 +44,35 @@ A civil action is commenced by filing a complaint with the court.
 
 ::: {.legal-code}
 
-#### [@FRCP8]
+#### Fed. R. Civ. P. Rule 8
 
-(d) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
+(d\) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
 
-> (1) _In General._ Each allegation must be simple, concise, and direct. No technical form is required.
+- (1\) _In General._ Each allegation must be simple, concise, and direct. No technical form is required.
 
-> (2) _Alternative Statements of a Claim or Defense._ A party may set out 2 or more statements of a claim or defense alternatively or hypothetically, either in a single count or defense or in separate ones. If a party makes alternative statements, the pleading is sufficient if any one of them is sufficient.
+- (2\) _Alternative Statements of a Claim or Defense._ A party may set out 2 or more statements of a claim or defense alternatively or hypothetically, either in a single count or defense or in separate ones. If a party makes alternative statements, the pleading is sufficient if any one of them is sufficient.
 
-> (3) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
+- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
 
-(e) Construing Pleadings. Pleadings must be construed so as to do justice.
+(e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-#### [@FRCP10_nd]
+#### Fed. R. Civ. P. Rule 10
 
-(a) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
+(a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 
-(b) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
+(b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 
-(c) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
+(c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-#### [@FRCP12_nd]
+#### Fed. R. Civ. P. Rule 12
 
-(e) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
+(e\) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
 
-(f) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
+(f\) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
 
-> (1) on its own; or
+- (1\) on its own; or
 
-> (2) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
+- (2\) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
 
 :::
 
@@ -93,13 +93,13 @@ Each page of plaintiff's complaint appears on an e-filing which is dominated by 
 
 [SHELLY D. DICK, CHIEF DISTRICT JUDGE]{.case-judge}
 
-<p class="case-h1">I. BACKGROUND</h1>
+<p class="case-h1">I\. BACKGROUND</h1>
 
 [Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability.]
 
-<p class="case-h1">II. LAW AND ANALYSIS</h1>
+<p class="case-h1">II\. LAW AND ANALYSIS</h1>
 
-<p class="case-h2">A. Legal Standards</h2>
+<p class="case-h2">A\. Legal Standards</h2>
 
 The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss: [See §3 Claims for Relief.]{.aside} "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
 
@@ -107,7 +107,7 @@ Rule 12(e) provides that a motion for more definite statement may be filed when 
 
 As other courts have noted, "the line between Rule 12(b)(6) and Rule 12(e)'s pleading standards is a blurry one." Regarding the relationship between the two, it has been observed that "an implausible claim may well be stated intelligibly enough to enable the framing of a response, and a plausible claim, which would survive a Rule 12(b)(6) motion, may be pleaded vaguely enough to make response impossible, which would make it vulnerable to a Rule 12(e) motion." 
 
-<p class="case-h2">B. Plaintiff's Allegations</h2>
+<p class="case-h2">B\. Plaintiff's Allegations</h2>
 
 In separate paragraphs, Plaintiff's Petition for Damages [The plaintiff originally filed his suit in Louisiana state court, where "Petition for Damages" is the term used for a civil complaint. The case was removed to federal court based on diversity of citizenship.]{.aside} identifies and introduces each Defendant by name and corporate status, as well as their addresses and agents for service of process. Apart from the singular introductory paragraphs, there is no additional information in the Petition regarding ARTCO or ADM. As to the other moving Defendants, Plaintiff additionally alleges that Riverside and Phoenix Bulk, "either individually, collectively, or in combination ... owned, operated, assumed contractual responsibility, or otherwise exercised significant control over the M/V EVA PARIS and/or its shipment of bulk concrete, to which Plaintiff was assigned and aboard which Plaintiff was injured." 
 
@@ -127,41 +127,41 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ::: {.legal-code}
 
-#### [@FRCP8]
+#### Fed. R. Civ. P. Rule 8
 
-(a) Claim for Relief. A pleading that states a claim for relief must contain:
+(a\) Claim for Relief. A pleading that states a claim for relief must contain:
 
-> (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
 
-> (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
+- (2\) a short and plain statement of the claim showing that the pleader is entitled to relief; and
 
-> (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
+- (3\) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
 :::
 
 ::: {.legal-code}
 
-#### [@FRCP9_nd]
+#### Fed. R. Civ. P. Rule 9
 
-(a) Capacity or Authority to Sue; Legal Existence.
+(a\) Capacity or Authority to Sue; Legal Existence.
 
-> (1) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
+- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
 
-> > (A) a party's capacity to sue or be sued;
+	- (A\) a party's capacity to sue or be sued;
 
-> > (B) a party's authority to sue or be sued in a representative capacity; or
+	- (B\) a party's authority to sue or be sued in a representative capacity; or
 
-> > (C) the legal existence of an organized association of persons that is made a party.
+	- (C\) the legal existence of an organized association of persons that is made a party.
 
-> (2) _Raising Those Issues._ To raise any of those issues, a party must do so by a specific denial, which must state any supporting facts that are peculiarly within the party's knowledge.
+- (2\) _Raising Those Issues._ To raise any of those issues, a party must do so by a specific denial, which must state any supporting facts that are peculiarly within the party's knowledge.
 
-(b) Fraud or Mistake; Conditions of Mind. In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
+(b\) Fraud or Mistake; Conditions of Mind. In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
 
-(c) Conditions Precedent. In pleading conditions precedent, it suffices to allege generally that all conditions precedent have occurred or been performed. But when denying that a condition precedent has occurred or been performed, a party must do so with particularity.
+(c\) Conditions Precedent. In pleading conditions precedent, it suffices to allege generally that all conditions precedent have occurred or been performed. But when denying that a condition precedent has occurred or been performed, a party must do so with particularity.
 
-(f) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
+(f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
 
-(g) Special Damages. If an item of special damage is claimed, it must be specifically stated.
+(g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
 :::
 
@@ -183,7 +183,7 @@ In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(
 
 A half-century later, a pair of Supreme Court decisions jettisoned the _Conley_ "no set of facts" standard and adopted a more demanding approach. 
 
-[1. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)]{.case-h2}
+[1\. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)]{.case-h2}
 
 In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. §1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint[You can read the complaint [here](../exhibits/Twombly-complaint.pdf).]{.aside} alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
 
@@ -197,7 +197,7 @@ The Court held that the allegations in the complaint were insufficient to state 
  
 To assess whether the inference of an agreement was plausible, the majority considered "an obvious alternative explanation": While the alleged parallel conduct was "consistent with conspiracy," it was, in the majority's view, "as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market." Finding that "the plaintiffs here have not nudged their claims across the line from conceivable to plausible," the majority concluded that "their complaint must be dismissed."
 
-[2. Ashcroft v. Iqbal, 556 U.S. 662 (2009)]{.case-h2}
+[2\. Ashcroft v. Iqbal, 556 U.S. 662 (2009)]{.case-h2}
 
 Javaid Iqbal sued various federal government officials, including former Attorney General John Ashcroft and FBI Director Robert Mueller, over his arrest and detention as a "a person 'of high interest' to the September 11 investigation". Iqbal, a citizen of Pakistan and a Muslim, alleged that Ashcroft and Mueller "adopted an unconstitutional policy that subjected him to harsh conditions of confinement on account of his race, religion, or national origin." 
 
@@ -349,89 +349,89 @@ Although the analysis of the control element does not depend on the presence or 
 
 ::: {.legal-code}
 
-#### [@FRCP8]
+#### Fed. R. Civ. P. Rule 8
 
-(b) Defenses; Admissions and Denials.
+(b\) Defenses; Admissions and Denials.
 
-> (1) In General. In responding to a pleading, a party must:
+- (1\) In General. In responding to a pleading, a party must:
 
-> > (A) state in short and plain terms its defenses to each claim asserted against it; and
+	- (A\) state in short and plain terms its defenses to each claim asserted against it; and
 
-> > (B) admit or deny the allegations asserted against it by an opposing party.
+	- (B\) admit or deny the allegations asserted against it by an opposing party.
 
-> (2) Denials---Responding to the Substance. A denial must fairly respond to the substance of the allegation.
+- (2\) Denials---Responding to the Substance. A denial must fairly respond to the substance of the allegation.
 
-> (3) General and Specific Denials. A party that intends in good faith to deny all the allegations of a pleading---including the jurisdictional grounds---may do so by a general denial. A party that does not intend to deny all the allegations must either specifically deny designated allegations or generally deny all except those specifically admitted.
+- (3\) General and Specific Denials. A party that intends in good faith to deny all the allegations of a pleading---including the jurisdictional grounds---may do so by a general denial. A party that does not intend to deny all the allegations must either specifically deny designated allegations or generally deny all except those specifically admitted.
 	
-> (4) Denying Part of an Allegation. A party that intends in good faith to deny only part of an allegation must admit the part that is true and deny the rest.
+- (4\) Denying Part of an Allegation. A party that intends in good faith to deny only part of an allegation must admit the part that is true and deny the rest.
 	
-> (5) Lacking Knowledge or Information. A party that lacks knowledge or information sufficient to form a belief about the truth of an allegation must so state, and the statement has the effect of a denial.
+- (5\) Lacking Knowledge or Information. A party that lacks knowledge or information sufficient to form a belief about the truth of an allegation must so state, and the statement has the effect of a denial.
 	
-> (6) Effect of Failing to Deny. An allegation---other than one relating to the amount of damages---is admitted if a responsive pleading is required and the allegation is not denied. If a responsive pleading is not required, an allegation is considered denied or avoided.
+- (6\) Effect of Failing to Deny. An allegation---other than one relating to the amount of damages---is admitted if a responsive pleading is required and the allegation is not denied. If a responsive pleading is not required, an allegation is considered denied or avoided.
 	
-(c) Affirmative Defenses.
+(c\) Affirmative Defenses.
 	
-> (1) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
+- (1\) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
 
-> > • accord and satisfaction; 
+	- • accord and satisfaction; 
   
-> > • arbitration and award;
+	- • arbitration and award;
 
-> > • assumption of risk;
+	- • assumption of risk;
 
-> > • contributory negligence;
+	- • contributory negligence;
 
-> > • duress;
+	- • duress;
 
-> > • estoppel;
+	- • estoppel;
 
-> > • failure of consideration;
+	- • failure of consideration;
 
-> > • fraud;
+	- • fraud;
 
-> > • illegality;
+	- • illegality;
 
-> > • injury by fellow servant;
+	- • injury by fellow servant;
 
-> > • laches;
+	- • laches;
 
-> > • license;
+	- • license;
 
-> > • payment;
+	- • payment;
 
-> > • release;
+	- • release;
 
-> > • res judicata;
+	- • res judicata;
 
-> > • statute of frauds;
+	- • statute of frauds;
 
-> > • statute of limitations; and
+	- • statute of limitations; and
 
-> > • waiver.
+	- • waiver.
   
-> (2) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
+- (2\) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
 :::
 
 ::: {.legal-code}
 
-#### [@FRCP12_nd]
+#### Fed. R. Civ. P. Rule 12
 
-(b) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
+(b\) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
 
-> (1) lack of subject-matter jurisdiction;
+- (1\) lack of subject-matter jurisdiction;
 
-> (2) lack of personal jurisdiction;
+- (2\) lack of personal jurisdiction;
 
-> (3) improper venue;
+- (3\) improper venue;
 
-> (4) insufficient process;
+- (4\) insufficient process;
 
-> (5) insufficient service of process;
+- (5\) insufficient service of process;
 
-> (6) failure to state a claim upon which relief can be granted; and
+- (6\) failure to state a claim upon which relief can be granted; and
 
-> (7) failure to join a party under Rule 19.
+- (7\) failure to join a party under Rule 19.
 
 A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
 
@@ -447,7 +447,7 @@ This is a diversity action governed by Illinois law in which Plaintiff Reis Robo
 
 [BACKGROUND]{.case-h1}
 
-[1. Reis's Allegations]{.case-h3}
+[1\. Reis's Allegations]{.case-h3}
 
 The following facts are taken from Reis's complaint. Reis, an Illinois corporation, manufactures and supplies industrial robotics equipment. Concept, a Michigan corporation, manufactures and supplies automotive parts. On or about February 24, 2005, the parties entered into a contractual arrangement for Concept to purchase from Reis a robotic laser cutting machine (the "Laser") and associated fixtures for trimming three separate automotive parts: the Hush Panel, JS Dash Silencer, and JS Dash Close Out Panel. The pertinent contract documents are an "Order Acknowledgment" executed by Reis and an "Amended Purchase Order" executed by Concept. For ease of reference, we refer to these documents collectively as "the Agreement."
 
@@ -461,7 +461,7 @@ In November 2005, Concept informed Reis that Concept had terminated the JS Dash 
 
 The parties agree that Concept has paid' Reis $588,600 to date. Reis asserts that Concept has breached the Agreement by failing to pay a remaining balance of $264,300 plus interest. Concept denies that it owes Reis any additional money under the Agreement. 
 
-[2. Concept's Allegations]{.case-h3}
+[2\. Concept's Allegations]{.case-h3}
 
 The following additional facts are gleaned from Concept's "Answer, Affirmative Defenses and Counterclaim." Concept alleges that prior to entering the Agreement, the parties engaged in extensive negotiations regarding the specifications of the Laser, particularly the Laser's cutting speed, also called "cycle time," meaning the time required to complete one part. Throughout the negotiations, Reis, through its sales manager Dino Chece, allegedly made various oral and written promises to Concept indicating that the Laser would trim the JS Dash Silencer parts at a cycle time of 60-70 seconds per part or faster. Relying on these promises by Reis, Concept entered into the Agreement. 
 
@@ -483,7 +483,7 @@ Concept also raises counterclaims against Reis for: (1) fraudulent inducement; (
 
 We turn first to Reis's motion to strike and dismiss various portions of Concept's affirmative defenses.
 
-[I. Legal Standard]{.case-h1}
+[I\. Legal Standard]{.case-h1}
 
 Federal Rule of Civil Procedure 12(f) permits the Court to strike "any insufficient defense or any redundant, immaterial, impertinent or scandalous matter." Fed.R.Civ.P. 12(f). Motions to strike are generally disfavored because of their potential to delay proceedings. Nonetheless, a motion to strike can be a useful means of removing "unnecessary clutter" from a case, which will in effect expedite the proceedings. 
 
@@ -491,7 +491,7 @@ Affirmative defenses are pleadings and, as such, are subject to all the same ple
 
 This Court applies a three-part test for examining the sufficiency of an affirmative defense. First, we determine whether the matter is appropriately pled as an affirmative defense Second, we determine whether the defense is adequately pled under Federal Rules of Civil Procedure 8 and 9. _Id._ Third, we evaluate the sufficiency of the defense pursuant to a standard identical to Federal Rule of Civil Procedure 12(b)(6). Before granting a motion to strike an affirmative defense, the Court must be convinced that there are no unresolved questions of fact, that any questions of law are clear, and that under no set of circumstances could the defense succeed. Additionally, in a case premised on diversity jurisdiction, "the legal and factual sufficiency of an affirmative defense is examined with reference to state law." With these principles in mind, we turn to the specific arguments raised in the motion.
 
-[II. Analysis]{.case-h1}
+[II\. Analysis]{.case-h1}
 
 For its first affirmative defense Concept asserts: "The complaint fails to state a claim upon which relief can be granted." Reis argues that this is not a proper affirmative defense. There is some debate in this District regarding whether "failure to state a claim" may be raised as an affirmative defense or instead must be raised by separate motion. Notably, as one court in this District has observed, although failure to state a claim, may not meet the technical definition of an affirmative defense, Form 20 of the Federal Rules of Civil Procedure's Appendix of Forms lists "failure to state a claim" as a model defense. Rule 84 specifically authorizes the use of the model defenses contained in the Forms. Fed.R.Civ.P. 84. In light of Rule 84 and Form 20, we find authority under the Federal Rules to permit an affirmative defense based on failure to state a claim.
 
@@ -523,57 +523,57 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ::: {.legal-code}
 
-#### [@FRCP12_nd]
+#### Fed. R. Civ. P. Rule 12
 
-(a) Time to Serve a Responsive Pleading.
+(a\) Time to Serve a Responsive Pleading.
 
-> (1) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
+- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
 
-> > (A) A defendant must serve an answer:
+	- (A\) A defendant must serve an answer:
 
-> > > (i) within 21 days after being served with the summons and complaint; or
+		- (i\) within 21 days after being served with the summons and complaint; or
 
-> > > (ii) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
+		- (ii\) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
 
-> > (B) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
+	- (B\) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
 
-> > (C) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
+	- (C\) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
 
-> (4) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
+- (4\) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
 
-> > (A) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
+	- (A\) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
 
-> > (B) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
+	- (B\) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
 
-(g) Joining Motions.
+(g\) Joining Motions.
 
-> (1) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
+- (1\) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
 
-> (2) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
+- (2\) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
 
-> (3) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
+- (3\) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
 
-(h) Waiving and Preserving Certain Defenses.
+(h\) Waiving and Preserving Certain Defenses.
 
-> (1) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
+- (1\) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
 
-> > (A) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
+	- (A\) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
 
-> > (B) failing to either:
+	- (B\) failing to either:
 
-> > > (i) make it by motion under this rule; or
+		- (i\) make it by motion under this rule; or
 
-> > > (ii) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
+		- (ii\) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
 
-> (2) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
+- (2\) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
 
-> > (A) in any pleading allowed or ordered under Rule 7(a);
+	- (A\) in any pleading allowed or ordered under Rule 7(a);
 
-> > (B) by a motion under Rule 12(c); or
+	- (B\) by a motion under Rule 12(c); or
 
-> > (C) at trial.
+	- (C\) at trial.
 
-> (3) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
+- (3\) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
 
 :::
 
@@ -581,39 +581,39 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ::: {.legal-code}
 
-#### [@FRCP15_nd]
+#### Fed. R. Civ. P. Rule 15
 
-(a) Amendments Before Trial.
+(a\) Amendments Before Trial.
 
-> (1) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
+- (1\) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
 
-> > (A) 21 days after serving it, or
+	- (A\) 21 days after serving it, or
 
-> > (B) if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
+	- (B\) if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
 
-> (2) _Other Amendments._ In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
+- (2\) _Other Amendments._ In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
 
-> (3) _Time to Respond._ Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
+- (3\) _Time to Respond._ Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
 
-(b) Amendments During and After Trial.
+(b\) Amendments During and After Trial.
 
-> (1) _Based on an Objection at Trial._ If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
+- (1\) _Based on an Objection at Trial._ If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
 
-> > (2) _For Issues Tried by Consent._ When an issue not raised by the pleadings is tried by the parties’ express or implied consent, it must be treated in all respects as if raised in the pleadings. A party may move—at any time, even after judgment—to amend the pleadings to conform them to the evidence and to raise an unpleaded issue. But failure to amend does not affect the result of the trial of that issue.
+	- (2\) _For Issues Tried by Consent._ When an issue not raised by the pleadings is tried by the parties’ express or implied consent, it must be treated in all respects as if raised in the pleadings. A party may move—at any time, even after judgment—to amend the pleadings to conform them to the evidence and to raise an unpleaded issue. But failure to amend does not affect the result of the trial of that issue.
 
-(c) Relation Back of Amendments.
+(c\) Relation Back of Amendments.
 
-> (1) _When an Amendment Relates Back._ An amendment to a pleading relates back to the date of the original pleading when:
+- (1\) _When an Amendment Relates Back._ An amendment to a pleading relates back to the date of the original pleading when:
 
-> > (A) the law that provides the applicable statute of limitations allows relation back;
+	- (A\) the law that provides the applicable statute of limitations allows relation back;
 
-> > (B) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
+	- (B\) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
 
-> > (C) the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
+	- (C\) the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
 
-> > > (i) received such notice of the action that it will not be prejudiced in defending on the merits; and
+		- (i\) received such notice of the action that it will not be prejudiced in defending on the merits; and
 
-> > > (ii) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
+		- (ii\) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
 
 :::
 
@@ -627,7 +627,7 @@ This matter is before the court on Defendant Allstate Insurance Company’s Moti
 
 [BACKGROUND]{.case-h1}
 
-On January 4, 2004, Plaintiff Kathryn Shiftlet’s mobile home and personal belongings were destroyed by fire. At the time of the fire, Plaintiff’s mobile home was covered under an insurance policy provided by Allstate Insurance. On November 3, 2004, Plaintiff initiated this action against Defendant Allstate Insurance for breach of contract, bad faith, and violation of [the S.C. insurance claims practices statute], after Allstate allegedly wrongfully denied Plaintiff’s claim.
+On January 4, 2004, Plaintiff Kathryn Shiftlet’s mobile home and personal belongings were destroyed by fire. At the time of the fire, Plaintiff’s mobile home was covered under an insurance policy provided by Allstate Insurance. On November 3, 2004, Plaintiff initiated this action against Defendant Allstate Insurance for breach of contract, bad faith, and violation of [the S.C\. insurance claims practices statute], after Allstate allegedly wrongfully denied Plaintiff’s claim.
 
 Defendant Allstate originally filed its answer to the original complaint on December 6, 2004. Then, on May 31, 2005, Plaintiff amended the original complaint with the leave of the court. On June 3, 2005, Defendant filed its answer to the Amended Complaint, including a motion to join Mr. Shiftlet as a necessary party or, if that is not feasible, that the action be dismissed. On November 10, 2005, Defendant filed a motion to amend its answer to the Amended Complaint so as to include the defense of arson. Five days after Defendant filed this motion to amend, the court adopted, with the consent of both parties, a Second Amended Scheduling Order. This Order specified that any amended pleadings would be due by December 15, 2005 and that discovery was to be completed by March 1, 2006.
 
@@ -654,7 +654,7 @@ It is therefore ORDERED, for the foregoing reasons, that Defendant’s Motion to
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-[I. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
+[I\. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -676,7 +676,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-[II. LEGAL STANDARD]{.case-h1}
+[II\. LEGAL STANDARD]{.case-h1}
 
 Rule 15(a) sets the general standard for amending pleadings in Federal court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend "shall be freely given when justice so requires." The determination as to whether to grant leave to amend is entrusted to the sound discretion of the trial court.The Eighth Circuit has held that although amendment of a pleading "should be allowed liberally to ensure that a case is decided on its merits there is no absolute right to amend."
 
@@ -686,21 +686,21 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 
 > Punitive damages shall be allowed in civil actions only upon clear and convincing evidence that the acts of the defendant show deliberate disregard for the rights or safety of others.
 >
-> (b) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
+> (b\) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
 >
-> > (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
+> > (1\) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
 >
-> > (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
+> > (2\) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
-[III. ANALYSIS]{.case-h1}
+[III\. ANALYSIS]{.case-h1}
 
 With respect to Rule 15, Defendants argue that the Motion should be denied because it is futile. Plaintiffs' amendment is not futile if the proposed amended complaint contains "sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Here, the question is whether the proposed amended complaint plausibly alleges facts showing that the acts of Defendants show deliberate disregard for the rights or safety of others where:
 
 > A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
 >
-> (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
+> (1\) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
 >
-> (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
+> (2\) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
 Under these criteria, "a defendant operates with 'deliberate disregard' by acting with intent or indifference to threaten the rights or safety of others." As such, "the mere existence of negligence or of gross negligence does not rise to the level required so as to warrant a claim for punitive damages." Moreover, Plaintiffs must allege that Defendants were aware of a high probability that their conduct would cause injury to Plaintiffs. Put another way, the Court looks to whether the allegations in the proposed amended complaint plausibly allege that Defendants knew of facts, or intentionally disregarded facts, that created a high probability that Defendants' actions would harm the rights or safety of Plaintiffs.
 
@@ -726,7 +726,7 @@ Appellant contends that her doctor violated Georgia's informed consent law by fa
 
 [FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
 
-Appellant, Judith Moore, was suffering from a partial blockage of her left common carotid artery, which impeded the flow of oxygen to her brain and caused her to feel dizzy and tired. In April of 1989, she consulted with appellee Dr. Roy Baker, an employee of the Neurological Institute of Savannah, P.C. (NIS), about her symptoms. Dr. Baker diagnosed a blockage of her left carotid artery due to artherosclerotic plaque and recommended that she undergo a neurosurgical procedure known as a carotid endarterectomy to correct her medical problem.
+Appellant, Judith Moore, was suffering from a partial blockage of her left common carotid artery, which impeded the flow of oxygen to her brain and caused her to feel dizzy and tired. In April of 1989, she consulted with appellee Dr. Roy Baker, an employee of the Neurological Institute of Savannah, P.C\. (NIS), about her symptoms. Dr. Baker diagnosed a blockage of her left carotid artery due to artherosclerotic plaque and recommended that she undergo a neurosurgical procedure known as a carotid endarterectomy to correct her medical problem.
 
 Dr. Baker discussed the proposed procedure with Moore and advised her of the risks of undergoing the surgery. He did not advise her, however, of an alternative treatment known as EDTA therapy. Moore signed a written consent allowing Dr. Baker to perform the carotid endarterectomy on April 7, 1989. Following surgery, she appeared to recover well, but soon the hospital staff discovered that Moore was weak on one side. Dr. Baker reopened the operative wound and removed a blood clot that had formed in the artery. Although the clot was removed and the area repaired, Moore suffered permanent brain damage. As a result, Moore is permanently and severely disabled.
 
@@ -755,13 +755,13 @@ We must conclude that Moore's new claim does not arise out of the same conduct, 
 
 [EIMAN, United States Magistrate Judge]{.case-judge}
 
-Carlos A. Palacio, Sidney G. Gaviria Orrego and Carlos D. Palacio ("Plaintiffs") seek to amend their complaint to substitute the names of five police officers---Greg Bigda, Clayton Roberson, Steven Kent, Sean Arpin, and Barry Delameter---for the four "John Does" originally named as defendants with the City of Springfield and William Fitchet, Springfield's Police Commissioner. The City and Fitchet oppose the motion not only as untimely but as failing the "relation-back" provision set forth in Fed.R.Civ.P. 15(c)(1)(C). For the reasons which follow, the court will allow the motion, as Plaintiffs seek, pursuant to another subdivision of Rule 15, namely, (c)(1)(A).
+Carlos A\. Palacio, Sidney G. Gaviria Orrego and Carlos D\. Palacio ("Plaintiffs") seek to amend their complaint to substitute the names of five police officers---Greg Bigda, Clayton Roberson, Steven Kent, Sean Arpin, and Barry Delameter---for the four "John Does" originally named as defendants with the City of Springfield and William Fitchet, Springfield's Police Commissioner. The City and Fitchet oppose the motion not only as untimely but as failing the "relation-back" provision set forth in Fed.R.Civ.P. 15(c)(1)(C). For the reasons which follow, the court will allow the motion, as Plaintiffs seek, pursuant to another subdivision of Rule 15, namely, (c)(1)(A).
 
-[I. Background]{.case-h1}
+[I\. Background]{.case-h1}
 
 Plaintiffs filed their complaint in the Hampden County Superior Court on July 31, 2013, against the City, Fitchet and certain "John Does" who were employed by the City as police officers. Plaintiffs' complaint asserted claims against all these defendants under 42 U.S.C. §§1983 and 1985, Mass. Gen. Laws ch. 12, §§11H and 11I (Massachusetts Civil Rights Act), and Chapter 214, §1B (Massachusetts Right to Privacy Act), arising out of what Plaintiffs claim was an unjustified, unconstitutional, warrantless breaking and entering into and search of their home starting in the evening of August 4 through to the early morning of August 5, 2010. On August 14, 2013, the City and Fitchet filed their Notice of Removal of the action to this federal forum. The court thereafter entered a scheduling order on November 25, 2013, establishing February 25, 2014, as the deadline for filing motions to amend pleadings or join additional parties. This latter deadline was subsequently extended to April 15, 2014. Plaintiffs filed their instant motion for leave to amend on April 14, 2014.
 
-[II. Discussion]{.case-h1}
+[II\. Discussion]{.case-h1}
 
 As the parties are well aware, leave to amend a complaint under Rule 15(a) is to be "freely given when justice so requires" absent an adequate basis to deny the amendment, such as futility, bad faith, undue delay or dilatory motive. In this vein, as Plaintiffs assert, the addition of new defendants or the assertion of new claims closely related to the original claims are the types of amendments that are generally permissible under the rule. Without more, therefore, the substitution of the true names of the John Doe defendants in the case at bar would be relatively commonplace. The amendment would be timely, i.e., not long after suit was filed and within the deadline set by the court, and none of the recently-identified John Does would appear to suffer undue prejudice were the amendment allowed; discovery is not scheduled to close until August 25, 2014, and, apparently, no depositions have yet been taken. The fact that Plaintiffs wish to substitute five named individuals for four John Does is immaterial.
 
@@ -799,47 +799,47 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 ::: {.legal-code}
 
-#### [@FRCP11_nd]
+#### Fed. R. Civ. P. Rule 11
 
-[Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions]{.legal-code-h1}
+[Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions]{.note-h1}
 
-(a) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney's name—or by a party personally if the party is unrepresented. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or party's attention.
+(a\) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney's name—or by a party personally if the party is unrepresented. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or party's attention.
 
-(b) Representations to the Court. By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
+(b\) Representations to the Court. By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
 
-> (1) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
+- (1\) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
 
-> (2) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
+- (2\) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
 
-> (3) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery; and
+- (3\) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery; and
 
-> (4) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
+- (4\) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 
-(c) Sanctions.
+(c\) Sanctions.
 
-> (1) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
+- (1\) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
 
-> (2) Motion for Sanctions. A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates Rule 11(b). The motion must be served under Rule 5, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.
+- (2\) Motion for Sanctions. A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates Rule 11(b). The motion must be served under Rule 5, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.
 
-> (3) On the Court's Initiative. On its own, the court may order an attorney, law firm, or party to show cause why conduct specifically described in the order has not violated Rule 11(b).
+- (3\) On the Court's Initiative. On its own, the court may order an attorney, law firm, or party to show cause why conduct specifically described in the order has not violated Rule 11(b).
 
-> (4) Nature of a Sanction. A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated. The sanction may include nonmonetary directives; an order to pay a penalty into court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation.
+- (4\) Nature of a Sanction. A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated. The sanction may include nonmonetary directives; an order to pay a penalty into court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation.
 
-> (5) Limitations on Monetary Sanctions. The court must not impose a monetary sanction:
+- (5\) Limitations on Monetary Sanctions. The court must not impose a monetary sanction:
 
-> > (A) against a represented party for violating Rule 11(b)(2); or
+	- (A\) against a represented party for violating Rule 11(b)(2); or
 
-> > (B) on its own, unless it issued the show-cause order under Rule 11(c)(3) before voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.
+	- (B\) on its own, unless it issued the show-cause order under Rule 11(c)(3\) before voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.
 
-> (6) Requirements for an Order. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.
+- (6\) Requirements for an Order. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.
 
-(d) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37.
+(d\) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37.
 
 :::
 
 #### [@TurtonVirginiaDepartment2015]
 
-[ROBERT E. PAYNE, Senior District Judge]{.case-judge}
+[ROBERT E\. PAYNE, Senior District Judge]{.case-judge}
 
 This matter is before the Court on DEFENDANT PATRICK T. ANDRIANO'S MOTION FOR SANCTIONS TO RULE 11. For the reasons set forth herein, the motion will be granted.
 
@@ -895,7 +895,7 @@ The text of Rule 11 teaches that "to harass or to cause unnecessary delay or nee
 
 Andriano argues that the claims against him: (1) lack legal basis; (2) lack factual basis; and (3) were filed for an improper purpose. He also notes that Plaintiffs and their counsel were put on notice after the Amended Complaint was filed that their claims against him lacked factual and legal support, but that they nevertheless continued to pursue those claims. Andriano now seeks Rule 11 Sanctions, asking this Court to "enter an order imposing the maximum sanctions permitted by law against plaintiffs and their counsel." 
 
-[A. Alleged Lack of Legal Basis]{.case-h2}
+[A\. Alleged Lack of Legal Basis]{.case-h2}
 
 Andriano argues that the claims against him lacked legal basis because: (1) the Court lacks subject matter jurisdiction over the claims against him; and (2) the claims are "fatally flawed as a matter of law." 
 
@@ -911,7 +911,7 @@ Andriano also correctly asserts that, "at no point have plaintiffs identified wh
 
 The law of Virginia is quite clear on this subject. Plaintiff's counsel has not shown that any prefiling legal research was undertaken in an effort to find legal support for the "special relationship" assertions in the Amended Complaint. And, given the clear and settled nature of Virginia law on the subject, it is difficult to conclude that any such research was undertaken. On this record then, the Court finds that there was no prefiling inquiry into the law that applies to the special relationship assertions in the Amended Complaint.
 
-[B. Factual Basis]{.case-h2}
+[B\. Factual Basis]{.case-h2}
 
 Next, Andriano asserts that Plaintiffs' claims against him are factually unsupported. In short, Andriano argues that the "Complaint fails to set forth specific factual allegations supporting Plaintiffs' purported claims" and Plaintiffs' counsel failed to make an effort to determine that their claims are factually supported. Andriano argues that it is not enough that Plaintiffs allege that Mr. Andriano was "present at certain unspecified meetings and that he provided legal advice to his clients." 
 
@@ -919,7 +919,7 @@ In response, Plaintiffs' counsel asserts that counsel attended fifty or more IEP
 
 That record shows a substantial basis for the allegations about Adriano's presence at, and his observed conduct during, some of the meetings alleged in the Amended Complaint. However, the record now shows that the allegation that Adriano was not counsel for the School Board of Essex and Nottoway Counties. Thus, "even a cursory investigation" would have revealed that Adriano did not represent the school boards for either Nottoway County or Essex County and that he was not involved in the development of IEPs for the student-plaintiffs attending schools in those counties. In sum, there was not an adequate investigation into the factual basis for allegations to the contrary.
 
-[C. Improper Purpose]{.case-h2}
+[C\. Improper Purpose]{.case-h2}
 
 Finally, Andriano argues that Plaintiff's claims against him are not asserted for any proper purpose. In support, Andriano cites the fact that plaintiffs sought monetary damages in excess of $20,000,000.00 based on "putative claims that do not contain common factual issues or common questions of law." Additionally, Andriano suggests that, if Plaintiffs truly had a proper purpose in filing their Complaint, they would not have failed to exhaust administrative remedies, would not have waited until some of the student-plaintiffs failed to be enrolled in the defendant school systems, and would not have sought such an exorbitant sum of money. Id.
 
@@ -929,11 +929,11 @@ Andriano cites Kunstler as an example of a similar case where the "primary motiv
 
 As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed. . .for some purpose other than to vindicate rights through the judicial process."
 
-[D. Are Sanctions Appropriate?]{.case-h2}
+[D\. Are Sanctions Appropriate?]{.case-h2}
 
 Given the findings that there was a lack of legal support for, and a lack of legal inquiry into, the special relationship theory that lies at the core of claims against Adriano, and considering the public statements of Plaintiffs' counsel, the Court concludes that sanctions are appropriate.
 
-[E. Appropriate Sanction(s) and Possible Need for a Hearing]{.case-h2}
+[E\. Appropriate Sanction(s) and Possible Need for a Hearing]{.case-h2}
 
 Sanctions under Rule 11 may be monetary or nonmonetary, and only "the least severe sanction adequate to serve the purposes of Rule 11 Should be imposed. The case law makes clear that the primary purpose of Rule 11 is to deter improper litigation rather than to compensate the opposing party for the costs of defending the lawsuit. In fashioning a sanction, the court should consider: (1) the reasonableness of the opposing party's attorney's fees; (2) the minimum to deter; (3) ability to pay; and (4) factors related to the severity of the Rule 11 violation. The court may also "consider factors such as the offending party's history, experience, and ability, the severity of the violation, the degree to which malice or bad faith contributed to the violation, the risk of chilling, the type of litigation involved, and other factors as deemed appropriate in individual circumstances." 
 
@@ -943,11 +943,11 @@ There is not a sufficient record on which to make the determination of what a re
 
 [KING, Circuit Judge]{.case-judge}
 
-By Order of October 23, 2000, appellant Pamela A. Hunter, a practicing attorney in Charlotte, North Carolina, and an active member of the North Carolina State Bar, was suspended from practice in the Western District of North Carolina for five years. Ms. Hunter appeals this suspension, imposed upon her pursuant to Rule 11 of the Federal Rules of Civil Procedure. As explained below, we conclude that her appeal has merit, and we vacate her suspension from practice by the district court.
+By Order of October 23, 2000, appellant Pamela A\. Hunter, a practicing attorney in Charlotte, North Carolina, and an active member of the North Carolina State Bar, was suspended from practice in the Western District of North Carolina for five years. Ms. Hunter appeals this suspension, imposed upon her pursuant to Rule 11 of the Federal Rules of Civil Procedure. As explained below, we conclude that her appeal has merit, and we vacate her suspension from practice by the district court.
 
 [I.]{.case-h1}
 
-Ms. Hunter, along with her co-counsel N. Clifton Cannon and Charlene E. Bell, represented a group of workers at a Charlotte, North Carolina, bakery owned by appellee Earthgrains Company Bakery ("Earthgrains"). These three lawyers filed a class action lawsuit against Earthgrains on February 24, 1997, in the Superior Court of Mecklenburg County (the "First Lawsuit"). The class action complaint, verified by the three named plaintiffs, alleged violations of Title VII of the Civil Rights Act of 1964, and it also asserted fraudulent misrepresentation on the part of Earthgrains in the closing of its Charlotte bakery. Earthgrains promptly removed the First Lawsuit to the Western District of North Carolina.
+Ms. Hunter, along with her co-counsel N. Clifton Cannon and Charlene E\. Bell, represented a group of workers at a Charlotte, North Carolina, bakery owned by appellee Earthgrains Company Bakery ("Earthgrains"). These three lawyers filed a class action lawsuit against Earthgrains on February 24, 1997, in the Superior Court of Mecklenburg County (the "First Lawsuit"). The class action complaint, verified by the three named plaintiffs, alleged violations of Title VII of the Civil Rights Act of 1964, and it also asserted fraudulent misrepresentation on the part of Earthgrains in the closing of its Charlotte bakery. Earthgrains promptly removed the First Lawsuit to the Western District of North Carolina.
 
 Earthgrains responded to the class action complaint on April 15, 1997. The plaintiffs thereafter filed certain motions in the district court, specifically: (1) seeking certification of the class; (2) to amend the complaint; (3) to amend the motion for class certification; and (4) for intervention by other plaintiffs. The plaintiffs also filed responses to several motions made by Earthgrains. Throughout the wrangling concerning the various motions, Ms. Hunter and her co-counsel maintained certain essential assertions, including: (1) that a pattern and practice of racial discrimination existed at Earthgrains' Charlotte bakery; (2) that the workers there were more skilled, but paid less, than those at other Earthgrains bakeries; (3) that the hourly wage workforce at the Charlotte bakery was predominantly African-American, while the workforce at other Earthgrains bakeries was predominantly white; and (4) that Earthgrains management had represented to its Charlotte employees that the Charlotte bakery was profitable and would remain open after a corporate spinoff, but that it was nonetheless closed. The plaintiffs alleged various incidents of racial discrimination by Earthgrains, including an assertion by an Earthgrains manager that he wanted to change the "complexion" of the workforce in the Charlotte bakery. Earthgrains denied the allegations of the First Lawsuit and moved for summary judgment, contending, first, that its Charlotte employees were bound to arbitrate their Title VII claims under their collective bargaining agreement (the "Earthgrains CBA"); second, that the plaintiffs had failed to establish a prima facie case of racial discrimination; and third, that if a prima facie case had been shown, the plaintiffs had failed to rebut Earthgrains' legitimate nondiscriminatory reasons for closing its Charlotte bakery. In response, the plaintiffs consistently asserted, inter alia, that the Earthgrains CBA did not apply to the Title VII claims at issue.
 
@@ -963,11 +963,11 @@ For over two years, from May 1998 until June 2000, no action was taken with resp
 
 On October 23, 2000, the district court entered the order we are called upon to review in this appeal. Finding the attorneys' behavior to be sanctionable, the court barred Ms. Hunter from the practice of law in the Western District of North Carolina for a period of five years. It also reprimanded Ms. Hunter's co-counsel, and it admonished them "to be conscious of and strictly abide by the provisions of Rule 11 in the future." The court based its Sanctions Order on the following:
 
-> (a) first and foremost, counsel's assertion of a legal position contrary to the holding of our 1996 decision in _Austin v. Owens-Brockway Glass Container, Inc.,_ 78 F.3d 875 (4th Cir.1996), which the court characterized as a "frivolous legal contention."
+> (a\) first and foremost, counsel's assertion of a legal position contrary to the holding of our 1996 decision in _Austin v. Owens-Brockway Glass Container, Inc.,_ 78 F.3d 875 (4th Cir.1996), which the court characterized as a "frivolous legal contention."
 
-> (b) counsel's lack of judgment and skill; and
+> (b\) counsel's lack of judgment and skill; and
 
-> (c) Ms. Hunter's sanction by the same court eleven years earlier.
+> (c\) Ms. Hunter's sanction by the same court eleven years earlier.
 
 Ms. Hunter has timely appealed the suspension imposed upon her, maintaining that Rule 11 sanctions are unwarranted and that her suspension from practice was an overly severe penalty. We possess jurisdiction under 28 U.S.C. §1291.
 
@@ -987,9 +987,9 @@ The primary basis for the suspension of Ms. Hunter is that she advanced a frivol
 
 We have recognized that maintaining a legal position to a court is only sanctionable when, in "applying a standard of objective reasonableness, it can be said that a reasonable attorney in like circumstances could not have believed his actions to be legally justified." That is to say, as Judge Wilkins recently explained, the legal argument must have "absolutely no chance of success under the existing precedent." Although a legal claim may be so inartfully pled that it cannot survive a motion to dismiss, such a flaw will not in itself support Rule 11 sanctions — only the lack of any legal or factual basis is sanctionable. We have aptly observed that "the Rule does not seek to stifle the exuberant spirit of skilled advocacy or to require that a claim be proven before a complaint can be filed. The Rule attempts to discourage the needless filing of groundless lawsuits." And we have recognized that "creative claims, coupled even with ambiguous or inconsequential facts, may merit dismissal, but not punishment." 
 
-In its Sanctions Order, the court maintained, with respect to Ms. Hunter, that "plaintiffs' standing to file suit was challenged based on a binding arbitration clause in the Earthgrains CBA. Plaintiffs' response to this gateway issue rested on a tenuous, if not preposterous, reading of the CBA and applicable law." The court was correct that the legal position it found frivolous — that a collective bargaining agreement ("CBA") arbitration clause must contain specific language to mandate arbitration of a federal discrimination claim — had been rejected by us four years earlier in _Austin v. Owens-Brockway Glass Container, Inc._ However, our reasoning in _Austin,_ as of April 22, 1998 (when the Show Cause Order issued), stood alone on one side of a circuit split. Six of our sister circuits (the Second, Sixth, Seventh, Eighth, Tenth, and Eleventh) had taken the legal position contrary to _Austin_ on whether a CBA could waive an individual employee's statutory cause of action. In point of fact, and consistent with the foregoing, none of our sister circuits, as of April 1998, had agreed with the position we took in _Austin.
+In its Sanctions Order, the court maintained, with respect to Ms. Hunter, that "plaintiffs' standing to file suit was challenged based on a binding arbitration clause in the Earthgrains CBA\. Plaintiffs' response to this gateway issue rested on a tenuous, if not preposterous, reading of the CBA and applicable law." The court was correct that the legal position it found frivolous — that a collective bargaining agreement ("CBA") arbitration clause must contain specific language to mandate arbitration of a federal discrimination claim — had been rejected by us four years earlier in _Austin v. Owens-Brockway Glass Container, Inc._ However, our reasoning in _Austin,_ as of April 22, 1998 (when the Show Cause Order issued), stood alone on one side of a circuit split. Six of our sister circuits (the Second, Sixth, Seventh, Eighth, Tenth, and Eleventh) had taken the legal position contrary to _Austin_ on whether a CBA could waive an individual employee's statutory cause of action. In point of fact, and consistent with the foregoing, none of our sister circuits, as of April 1998, had agreed with the position we took in _Austin.
 
-The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp.[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
+The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII\. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp.[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
 
 In opposition to Earthgrains' summary judgment motion, Ms. Hunter repeatedly relied upon the Supreme Court's decision in _Alexander_ (failing, however, to rely on the decisions of the six circuits that had followed _Alexander_). She further sought to align her case against Earthgrains with _Alexander_ by discussing the generality of the applicable clause of the Earthgrains CBA, which included the agreement not to "illegally discriminate." She contended that this provision was not sufficiently specific to require her clients to arbitrate.
 
@@ -1014,7 +1014,7 @@ This astute observation of Judge Wilkinson is especially pertinent in the contex
 
 [^hunter9]: (n.9 in opinion) An order levying sanctions should spell out with specificity both the legal authority under which the sanctions are imposed and the particular behavior being sanctioned. Although there are multiple sources of authority for the imposition of sanctions, not all sanctions upon lawyers are appropriate under each source; thus, a court must ensure that the authority relied upon supports the sanctions imposed.
 
-[^hunter16]: (n.16 in opinion) In its 1974 decision in _Alexander,_ the Court determined that an employee who had filed a grievance in accordance with a CBA did not forfeit a Title VII discriminatory discharge lawsuit, and it distinguished between contractual and statutory rights. In 1991, the Court concluded in _Gilmer_ that there was a presumption of arbitrability, and that an age discrimination claim could be subject to compulsory arbitration. Ms. Hunter, in response to the Show Cause Order, explained her basis for the First Lawsuit by making the pertinent observation that _Gilmer_ involved an individual employment contract, while _Alexander_ concerned arbitration under a CBA. She accordingly asserted that the _Alexander_ decision controlled in the First Lawsuit.
+[^hunter16]: (n.16 in opinion) In its 1974 decision in _Alexander,_ the Court determined that an employee who had filed a grievance in accordance with a CBA did not forfeit a Title VII discriminatory discharge lawsuit, and it distinguished between contractual and statutory rights. In 1991, the Court concluded in _Gilmer_ that there was a presumption of arbitrability, and that an age discrimination claim could be subject to compulsory arbitration. Ms. Hunter, in response to the Show Cause Order, explained her basis for the First Lawsuit by making the pertinent observation that _Gilmer_ involved an individual employment contract, while _Alexander_ concerned arbitration under a CBA\. She accordingly asserted that the _Alexander_ decision controlled in the First Lawsuit.
 
 [^hunter17]: (n.17 in opinion) After _Wright_ was decided in 1998, and prior to the Sanctions Order of October 2000, our Court examined CBA provisions similar to the one at issue in this case and found that they did not compel plaintiffs to arbitrate. 
 
@@ -1034,9 +1034,9 @@ Contrary to the requirements of the Local Rules, the moving defendants did not s
 
 The Court denied the motion as frivolous and initiated proceedings to determine if the moving defendants and their two attorneys who signed the motion, Mr. Shaw and Mr. Matheny, should be sanctioned. Specifically, the Court ordered:
 
-> (1) Mr. Shaw and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(2) and (3) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees that was without evidentiary support and unwarranted by law;
+> (1\) Mr. Shaw and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(2) and (3) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees that was without evidentiary support and unwarranted by law;
 
-> (2) The moving defendants, Mr. Shaw, and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(1) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees for the improper purpose of wasting plaintiffs' counsel's time and increasing their expenses; 
+> (2\) The moving defendants, Mr. Shaw, and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(1) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees for the improper purpose of wasting plaintiffs' counsel's time and increasing their expenses; 
 
 [II. Federal Rule of Civil Procedure 11(b)-(c)]{.case-h1}
 
@@ -1044,11 +1044,11 @@ Federal Rule of Civil Procedure Rule 11(b) prohibits attorneys from filing motio
 
 > By presenting to the court a pleading, written motion or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
 
-> (1) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
+> (1\) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
 
-> (2) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
+> (2\) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
 
-> (3) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
+> (3\) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
 
 If an attorney files a motion that does not comply—i.e., it is presented for an improper purpose or without legal or factual support—then the rule provides for sanctions. While the rule is directed to the attorney's signature, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation." 
 
@@ -1112,7 +1112,7 @@ Rule 11 requires attorneys to certify that motions are "not being presented for 
 
 A district court may consider a wide variety of evidence in making its determination, including the attorney's subjective beliefs about the motion, "\circumstantial facts surrounding the filing," "the outrageous nature of the claims made" in the motion, and the attorney's "experience in a particular area of law." As previously noted, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation."
 
-[1. Mr. Shaw]{.case-h3}
+[1\. Mr. Shaw]{.case-h3}
 
 Many facts show that Mr. Shaw filed the motion for attorney's fees with an improper purpose. First, the motion lacked a basis in law or in fact, as detailed in the Show Cause Order, and earlier in this Order. The fact that a filing lacked a basis in law or in fact strongly supports a finding of improper purpose under Rule 11(b).
 
@@ -1136,11 +1136,11 @@ Finally, Mr. Shaw's course of conduct is indicative of a general willingness to 
 
 Viewing all of the evidence as a whole, the Court finds by clear and convincing evidence that Mr. Shaw filed the motion for attorney's fees for an improper purpose and that by filing it he violated Rule 11(b)(1).
 
-[2. Mr. Matheny]{.case-h3}
+[2\. Mr. Matheny]{.case-h3}
 
 Although Mr. Matheny was responsible for the conduct of the litigation and was required to review and sign all pleadings and papers, the Court will not find him in violation of Rule 11(b)(1). The evidence establishes that Mr. Shaw drafted and filed the motion. The facts show that Mr. Matheny was inattentive, irresponsible, and shirked his professional and ethical duties in accepting a role where he did not have any oversight or review and in not reviewing this motion. Perhaps the evidence would support a finding that he personally filed the motion for an improper purpose, but the Court declines to so find in its discretion, given the overall context.
 
-[3. The Moving Defendants]{.case-h3}
+[3\. The Moving Defendants]{.case-h3}
 
 Craig Brooksby, one of the Group 1 defendants, is "the primary individual defendant" and "the primary contact for nearly all of the Limited Liability Company defendants," including for those defendants in Group 1 and Group 2. He made the litigation decisions for these defendant entities while Mr. Shaw and Mr. Matheny represented them. The Court finds by clear and convincing evidence that Mr. Brooksby is responsible for the filing of the motion for attorney's fees and that he had the same improper purpose as Mr. Shaw, in violation of Rule 11(b)(1).
 
@@ -1166,7 +1166,7 @@ While Rule 11 itself does not list the factors that courts should consider in se
 
 Sanctions may be monetary or non-monetary. _See_ Fed. R. Civ. P. 11(c)(4). Because the Court initiated these proceedings _sua sponte,_ monetary sanctions are limited to penalties payable to the court; attorney's fees or other monetary sanction payable to a party are not available. _See_ Fed. R. Civ. P. 11(c)(4). In deciding the amount of a monetary sanction, courts consider the minimum necessary to deter, the sanctioned party's ability to pay, and the severity of the violation. Nonmonetary sanctions vary widely depending on the facts. They include, _inter alia,_ reprimands, warnings, orders to undergo continuing legal education, circulation of the Rule 11 Order to members of the offending attorney's firm, suspensions, and disbarment.
 
-[1. Mr. Matheny]{.case-h3}
+[1\. Mr. Matheny]{.case-h3}
 
 As to Mr. Matheny, the appropriate sanction for violating Rule 11(b)(2) and (3) is to make this Order public and to impose a fine. A public finding that he has violated Rule 11 will, by itself, have an effect on his reputation and serve to deter others from similar misconduct. It is necessary here.
 
@@ -1176,7 +1176,7 @@ A fine of $2,500 for the Rule 11 violation is roughly equivalent to the attorney
 
 The Court appreciates that Mr. Matheny has offered to pay plaintiffs' counsel $1,420 to cover some of the attorney's fees incurred by the plaintiffs in connection with the motion. But when Rule 11 proceedings are initiated by the Court, the Court cannot require a financial sanction payable to a party. Fed. R. Civ. P. 11(c)(4).
 
-[2. Mr. Shaw]{.case-h3}
+[2\. Mr. Shaw]{.case-h3}
 
 The Court will direct that a copy of this Order is sent to the Utah Supreme Court and the Utah State Bar. Mr. Shaw's misconduct should not be hidden and should be public, to protect the public and to deter other lawyers from similar violations. Given his disregard of previous public court orders pointing out his failures and reminding him to follow the rules, a public reprimand or warning is clearly insufficient. A financial sanction is also appropriate.
 
@@ -1188,7 +1188,7 @@ The Court concludes that a fine of $25,000 is necessary and appropriate to deter
 
 The plaintiffs have suggested that "disgorgement of the excessive fees" Mr. Shaw apparently charged the moving defendants "is an appropriate sanction under both Rule 11 and 28 U.S.C. §1927." But disgorgement is typically used in this circuit as a sanction for civil contempt. And any monetary sanctions imposed under Rule 11 must be payable into the court because the Court initiated the present action. In this procedural context, it is not an appropriate sanction.
 
-[3. Mr. Brooksby]{.case-h3}
+[3\. Mr. Brooksby]{.case-h3}
 
 As to Mr. Brooksby, it was clear from his testimony at trial that he lives in his wallet; under ordinary circumstances, a fine would be appropriate for his violation of Rule 11(b)(1) and would hit where it matters most to him. But Mr. Brooksby has declared under oath that he has no money and no assets, and that he never paid a nickel towards a multi-million-dollar judgment entered against him in Nevada state court in 2010. The facts of the case show his ongoing efforts to protect and hide assets through complicated corporate structures. The defendants he controls had to be threatened with contempt during the litigation before they paid a fairly small attorney's fee imposed as a discovery sanction. Given this, the Court has serious doubts that Mr. Brooksby will ever pay any fine ordered or that imposition of a fine will have any deterrent effect on Mr. Brooksby.
 
@@ -1224,29 +1224,29 @@ Olson sues Sterling Cooper in federal court, asserting a claim for wrongful term
 
 Olson's complaint includes the following allegations: 
 
-> 1. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
-> 
-> 2. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
-> 
-> 3. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
-> 
-> 4. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
-> 
-> 5. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
-> 
-> 6. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
-> 
-> 7. Defendant fired Olson without cause, in breach of her employment contract. 
-> 
-> 8. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
+1. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
+
+2. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
+
+3. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
+
+4. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
+
+5. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
+
+6. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
+
+7. Defendant fired Olson without cause, in breach of her employment contract. 
+
+8. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
 
 Under Hudson state law, the elements of a claim for wrongful termination in breach of an employment contract are as follows: 
 
-> 1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
-> 
-> 2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
-> 
-> 3. The employer terminated the plaintiff's employment without cause during the contract term. 
+1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
+
+2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
+
+3. The employer terminated the plaintiff's employment without cause during the contract term. 
 
 Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12(b)(6), asserting that the allegations in the complaint are insufficient to state a claim for breach of contract. 
 

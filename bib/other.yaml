@@ -335,4 +335,23 @@ references:
   type: article-journal
   URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
   volume: '62'
+
+- id: Johnson1912
+  author:
+    - family: Johnson
+      given: E. Polk
+  citation-key: Johnson1912
+  issued:
+    - year: 1912
+  language: en
+  number-of-pages: '854'
+  publisher: Lewis Publishing Company
+  source: Google Books
+  title: >-
+    A History of Kentucky and Kentuckians: The Leaders and Representative Men in
+    Commerce, Industry and Modern Activities
+  title-short: A History of Kentucky and Kentuckians
+  type: book
+  URL: >-
+    https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1144.w.2.1.0_421
 ...

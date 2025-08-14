@@ -2,19 +2,15 @@
 
 ## Constitutional Limits: Due Process 
 
-::: {.legal-code}
+#### U.S. Constitution, 
 
-#### [@USConst_nd]
-
-[Amendment V]{.legal-code-h1}
+[Amendment V]{.note-h1}
 
 No person shall ... be deprived of life, liberty, or property, without due process of law; ....
 
-[Amendment XIV, sec. 1]{.legal-code-h1}
+[Amendment XIV, sec. 1]{.note-h1}
 
 ... nor shall any state deprive any person of life, liberty, or property, without due process of law; ....
-
-::: 
 
 ### Foundations
 
@@ -328,7 +324,7 @@ That standard is easily met here. Ford has long had a heavy presence in Minnesot
 
 Well, Ford makes that argument. It would send the plaintiffs packing to the jurisdictions where the vehicles in question were assembled (Kentucky and Canada), designed (Michigan), or first sold (Washington and North Dakota) or where Ford is incorporated (Delaware) or has its principal place of business (Michigan).
 
-As might have been predicted, the Court unanimously rejects this understanding of "traditional notions of fair play and substantial justice." And in doing so, we merely follow what we said in _World-Wide Volkswagen Corp. v. Woodson_, which was essentially this: If a car manufacturer makes substantial efforts to sell vehicles in States A and B (and other States), and a defect in a vehicle first sold in State A causes injuries in an accident in State B, the manufacturer can be sued in State B. That rule decides these cases.
+As might have been predicted, the Court unanimously rejects this understanding of "traditional notions of fair play and substantial justice." And in doing so, we merely follow what we said in _World-Wide Volkswagen Corp. v. Woodson_, which was essentially this: If a car manufacturer makes substantial efforts to sell vehicles in States A and B (and other States), and a defect in a vehicle first sold in State A causes injuries in an accident in State B, the manufacturer can be sued in State B\. That rule decides these cases.
 
 Ford, however, asks us to adopt an unprecedented rule under which a defendant's contacts with the forum State must be proven to have been a but-for cause of the tort plaintiff's injury. The Court properly rejects that argument, and I agree with the main thrust of the Court's opinion. My only quibble is with the new gloss that the Court puts on our case law. Several of our opinions have said that a plaintiff's claims "'must arise out of or relate to the defendant's contacts'" with the forum. The Court parses this phrase "as though we were dealing with language of a statute," and because this phrase is cast in the disjunctive, the Court recognizes a new category of cases in which personal jurisdiction is permitted: those in which the claims do not "arise out of" (_i.e._, are not caused by) the defendant's contacts but nevertheless sufficiently "relate to" those contacts in some undefined way.
 
@@ -544,27 +540,27 @@ The Supreme Court recently addressed the issue of whether the due process limits
 
 In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code §2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on certain activity:
 
-[18 U.S. Code §2334 - Jurisdiction and venue]{.note-h1} [The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."]{.aside}
+**18 U.S. Code §2334 - Jurisdiction and venue** [The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."]{.aside}
 
 ::: {.legal-code}
 
-> (e) Consent of Certain Parties to Personal Jurisdiction.
+> (e\) Consent of Certain Parties to Personal Jurisdiction.
 > 
-> > (1) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+> - (1\) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
 > 
-> > > (A) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
+> 	- (A\) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
 > 
-> > > > (i) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
+> 		- (i\) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
 > 
-> > > > (ii) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
+> 		- (ii\) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
 > 
-> > > (B) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
+> 	- (B\) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
 > 
-> > > > (i) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
+> 		- (i\) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
 > 
-> > > > (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
+> 		- (ii\) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
 > 
-> > > > (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
+> 		- (iii\) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
  
 :::
 
@@ -676,9 +672,9 @@ The following appeared on "contract page 1" of each ticket:
 
 > _TERMS AND CONDITIONS OF PASSAGE CONTRACT TICKET_
 
-> 3. (a) The acceptance of this ticket by the person or persons named hereon as passengers shall be deemed to be an acceptance and agreement by each of them of all of the terms and conditions of this Passage Contract Ticket.
+> 3\. (a) The acceptance of this ticket by the person or persons named hereon as passengers shall be deemed to be an acceptance and agreement by each of them of all of the terms and conditions of this Passage Contract Ticket.
 
-> 8. It is agreed by and between the passenger and the Carrier that all disputes and matters whatsoever arising under, in connection with or incident to this Contract shall be litigated, if at all, in and before a Court located in the State of Florida, U. S. A., to the exclusion of the Courts of any other state or country."
+> 8\. It is agreed by and between the passenger and the Carrier that all disputes and matters whatsoever arising under, in connection with or incident to this Contract shall be litigated, if at all, in and before a Court located in the State of Florida, U. S. A., to the exclusion of the Courts of any other state or country."
 
 The last quoted paragraph is the forum-selection clause at issue.
 
@@ -723,10 +719,6 @@ In evaluating the reasonableness of the forum clause at issue in this case, we m
 We also do not accept the Court of Appeals' "independent justification" for its conclusion that _The Bremen_ dictates that the clause should not be enforced because "there is evidence in the record to indicate that the Shutes are physically and financially incapable of pursuing this litigation in Florida." We do not defer to the Court of Appeals' findings of fact. In dismissing the case for lack of personal jurisdiction over petitioner, the District Court made no finding regarding the physical and financial impediments to the Shutes' pursuing their case in Florida. The Court of Appeals' conclusory reference to the record provides no basis for this Court to validate the finding of inconvenience. Furthermore, the Court of Appeals did not place in proper context this Court's statement in _The Bremen_ that "the serious inconvenience of the contractual forum to one or both of the parties might carry greater weight in determining the reasonableness of the forum clause." The Court made this statement in evaluating a hypothetical "agreement between two Americans to resolve their essentially local disputes in a remote alien forum." In the present case, Florida is not a "remote alien forum," nor—given the fact that Mrs. Shute's accident occurred off the coast of Mexico— is this dispute an essentially local one inherently more suited to resolution in the State of Washington than in Florida. In light of these distinctions, and because respondents do not claim lack of notice of the forum clause, we conclude that they have not satisfied the "heavy burden of proof" required to set aside the clause on grounds of inconvenience.
 
 It bears emphasis that forum-selection clauses contained in form passage contracts are subject to judicial scrutiny for fundamental fairness. In this case, there is no indication that petitioner set Florida as the forum in which disputes were to be resolved as a means of discouraging cruise passengers from pursuing legitimate claims. Any suggestion of such a bad-faith motive is belied by two facts: Petitioner has its principal place of business in Florida, and many of its cruises depart from and return to Florida ports. Similarly, there is no evidence that petitioner obtained respondents' accession to the forum clause by fraud or overreaching. Finally, respondents have conceded that they were given notice of the forum provision and, therefore, presumably retained the option of rejecting the contract with impunity. In the case before us, therefore, we conclude that the Court of Appeals erred in refusing to enforce the forum-selection clause.
-
-[V]{.case-h1}
-
-The judgment of the Court of Appeals is reversed.
 
 [JUSTICE STEVENS, with whom JUSTICE MARSHALL joins, dissenting.]{.case-judge}
 
@@ -957,35 +949,37 @@ Within the outer bounds allowed under the constitutional due process standard, t
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
+**NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.**
+
 ::: {.legal-code}
 
-> **NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.**
-
-> (a) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
-
-> > 1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
-
-> > 2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
-
-> > 3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he
-
-> > > (i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or
-
-> > > (ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or
-
-> > 4. owns, uses or possesses any real property situated within the state.
- 
-> (b) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law.
-
-> (c) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section.
-
-> (d) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
-
-> > 1. the publication at issue was published in New York, and 
-
-> > 2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
+> (a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
+> 
+> - 1\. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
+> 
+> - 2\. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
+> 
+> - 3\. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he
+> 
+>	- (i\) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or
+> 
+>	- (ii\) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or
+> 
+> - 4\. owns, uses or possesses any real property situated within the state.
+> 
+> (b\) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law.
+> 
+> (c\) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section.
+> 
+> (d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
+> 
+> - 1\. the publication at issue was published in New York, and 
+> 
+> - 2\. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
 
 :::
+
+[{{< fa section >}}]{.center-icon}
 
 Under an enumerated long-arm statute, determining whether the court may exercise personal jurisdiction requires a two-step analysis: 
 
@@ -997,13 +991,11 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-::: {.legal-code}
-
-> **Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.**
+**Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.**
  
 > A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
 
-:::
+[{{< fa section >}}]{.center-icon}
 
 Under this type of long-arm statute, the same analysis (i.e. does the defendant have minimum contacts with the forum state?) answers both the statutory and constitutional question.
 
@@ -1019,13 +1011,13 @@ A year later, Mrs. Potter decides to move to Cocoanut Manor, a luxurious retirem
 
 A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Potter is chagrined to discover that the trust funds, now totalling $1.4 million, will go to Mr. Hammer instead of her. She brings a lawsuit in a Florida court, challenging the validity of the trust. Polly Potter, who despises her sister, also joins the suit as a co-plaintiff, arguing that the money in the trust should also go to her as part of Mrs. Potter's estate under the will. Because the Bank is in control of the trust account, it is named as a co-defendant in the suit. 
 
-_Does the Florida court have personal jurisdiction over the Bank?_ 
+- _Does the Florida court have personal jurisdiction over the Bank?_ 
 
 [Question 2]{.note-h1}
 
 Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Each state's long-arm statute provides for jurisdiction to the full extent permitted under the U.S. Constitution. 
 
-_In which state(s) may Pat sue?_ 
+- _In which state(s) may Pat sue?_ 
 
 [Question 3]{.note-h1}
 
@@ -1045,12 +1037,10 @@ d. No, because New Jersey is not Pat's permanent home
 
 Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on the way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Missitucky state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
 
-_Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Ronnie be permissible under the U.S. Constitution?_
+- _Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Ronnie be permissible under the U.S. Constitution?_
 
 [Question 5]{.note-h1}
 
 Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo resides in Pittsburgh, where the court is located. Mayo lives in Slippery Rock, Pennsylvania. None of the defendants reside in Pennsylvania. 
 
-_On what basis might the court have personal jurisdiction over the defendants?_
-
-_See_ [_U.S. ex rel. Mayo v. Satan and His Staff_](../exhibits/Mayo_Satan.pdf), 54 F.R.D. 282 (W.D. Pa. 1971).
+- _On what basis might the court have personal jurisdiction over the defendants?_ See [_U.S. ex rel. Mayo v. Satan and His Staff_](../exhibits/Mayo_Satan.pdf), 54 F.R.D. 282 (W.D. Pa. 1971).

@@ -4,7 +4,7 @@
 
 ::: {.legal-code}
 
-#### [@FRCP56_nd]
+#### Fed. R. Civ. P. Rule 56
 
 (a\) Motion for Summary Judgment or Partial Summary Judgment. A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 
@@ -122,39 +122,39 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ::: {.legal-code}
 
-#### [@FRCP56_nd]
+#### Fed. R. Civ. P. Rule 56
 
 (c\) Procedures.
 
-> (1\) Supporting Factual Positions. A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
+- (1\) Supporting Factual Positions. A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
 
-> > (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
+	- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
 
-> > (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
+	- (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
 
-> (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
+- (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
 
-> (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
+- (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
 
-> (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
+- (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
 
 (d\) When Facts Are Unavailable to the Nonmovant. If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
 
-> (1\) defer considering the motion or deny it;
+- (1\) defer considering the motion or deny it;
 
-> (2\) allow time to obtain affidavits or declarations or to take discovery; or
+- (2\) allow time to obtain affidavits or declarations or to take discovery; or
 
-> (3\) issue any other appropriate order.
+- (3\) issue any other appropriate order.
 
 (e\) Failing to Properly Support or Address a Fact. If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
 
-> (1\) give an opportunity to properly support or address the fact;
+- (1\) give an opportunity to properly support or address the fact;
 
-> (2\) consider the fact undisputed for purposes of the motion;
+- (2\) consider the fact undisputed for purposes of the motion;
 
-> (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
+- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
 
-> (4\) issue any other appropriate order.
+- (4\) issue any other appropriate order.
 
 :::
 
@@ -166,33 +166,33 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 ::: {.legal-code}
 
-[Fed. R. Civ. P. Rule 26(a)]{.legal-code-h1}
+[Fed. R. Civ. P. Rule 26(a)]{.note-h1}
 
 (1\) Initial Disclosure.
  
-> (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
-> 
-> > (i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
-> 
-> > (ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;
-> 
-> > (iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and
-> 
-> > (iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment.
+- (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
+
+	- (i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
+
+	- (ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;
+
+	- (iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and
+
+	- (iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment.
 
 (2\) Disclosure of Expert Testimony.
 
-> (A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
+- (A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
 
 (3\) Pretrial Disclosures.
 
-> (A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:
-> 
-> > (i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
-> 
-> > (ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
-> 
-> > (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
+- (A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:
+
+	- (i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
+
+	- (ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
+
+	- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
 
 :::
 
@@ -246,9 +246,9 @@ Stout and Montgomery sued Officer Vincent, seeking injunctive relief and damages
 
 On appeal, Stout and Montgomery raise only one issue: whether the district court erred when concluding there was no genuine issue of material fact that Officer Vincent's actions were impermissibly motivated by race.
 
-[I. Legal Standard]{.case-h1}
+[I\. Legal Standard]{.case-h1}
 
-[A. Summary Judgment]{.case-h2}
+[A\. Summary Judgment]{.case-h2}
 
 Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
 
@@ -256,7 +256,7 @@ If the moving party meets its burden, "the nonmovant must go beyond the pleading
 
 A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
-[C. Fourteenth Amendment Racial Profiling]{.case-h2}
+[C\. Fourteenth Amendment Racial Profiling]{.case-h2}
 
 "The Constitution prohibits selective enforcement of the law based on considerations such as race." "The constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause." 
 
@@ -266,7 +266,7 @@ In another context, we have said that a plaintiff's "subjective belief of discri
 
 Finally, "discriminatory intent of one official may not be imputed to another for purposes of imposing individual liability under the civil rights laws."
 
-[II. Lack of Evidence of Fourteenth Amendment Violation]{.case-h1}
+[II\. Lack of Evidence of Fourteenth Amendment Violation]{.case-h1}
 
 The district court concluded that Montgomery and Stout "have not presented any evidence to support their claim" that Officer Vincent's decision to detain them was "at least partially based on their race." The district court further concluded that Montgomery and Stout "have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable Montgomery have failed to produce _any_ material evidence showing that race motivated Officer Vincent's conduct, we need not address the issue. suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion."
 

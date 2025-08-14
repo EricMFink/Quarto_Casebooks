@@ -4,29 +4,29 @@
 
 ### Permissive Joinder of Claims
 
-#### [@FRCP18_nd]
+#### Fed. R. Civ. P. Rule 18
 
 ::: {.legal-code}
 
-(a) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
+(a\) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
 
-(b) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
+(b\) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
 
 :::
 
 ::: {.legal-code}
 
-#### [@FRCP42_nd]
+#### Fed. R. Civ. P. Rule 42
 
-(a) Consolidation. If actions before the court involve a common question of law or fact, the court may:
+(a\) Consolidation. If actions before the court involve a common question of law or fact, the court may:
 
-> (1) join for hearing or trial any or all matters at issue in the actions;
+- (1\) join for hearing or trial any or all matters at issue in the actions;
 
-> (2) consolidate the actions; or
+- (2\) consolidate the actions; or
 
-> (3) issue any other orders to avoid unnecessary cost or delay.
+- (3\) issue any other orders to avoid unnecessary cost or delay.
 
-(b) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
+(b\) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
 
 :::
 
@@ -72,27 +72,27 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ### Permissive Joinder of Parties
 
-#### [@FRCP20_nd]
+#### Fed. R. Civ. P. Rule 20
 
 ::: {.legal-code}
 
-(a) Persons Who May Join or Be Joined.
+(a\) Persons Who May Join or Be Joined.
 
-> (1) Plaintiffs. Persons may join in one action as plaintiffs if:
+- (1\) Plaintiffs. Persons may join in one action as plaintiffs if:
 
-> > (A) they assert any right to relief jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
+	- (A\) they assert any right to relief jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
 
-> > (B) any question of law or fact common to all plaintiffs will arise in the action.
+	- (B\) any question of law or fact common to all plaintiffs will arise in the action.
 
-> (2) Defendants. Persons---as well as a vessel, cargo, or other property subject to admiralty process in rem---may be joined in one action as defendants if:
+- (2\) Defendants. Persons---as well as a vessel, cargo, or other property subject to admiralty process in rem---may be joined in one action as defendants if:
 
-> > (A) any right to relief is asserted against them jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
+	- (A\) any right to relief is asserted against them jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
 
-> > (B) any question of law or fact common to all defendants will arise in the action.
+	- (B\) any question of law or fact common to all defendants will arise in the action.
 
-> (3) Extent of Relief. Neither a plaintiff nor a defendant need be interested in obtaining or defending against all the relief demanded. The court may grant judgment to one or more plaintiffs according to their rights, and against one or more defendants according to their liabilities.
+- (3\) Extent of Relief. Neither a plaintiff nor a defendant need be interested in obtaining or defending against all the relief demanded. The court may grant judgment to one or more plaintiffs according to their rights, and against one or more defendants according to their liabilities.
 
-(b) Protective Measures. The court may issue orders---including an order for separate trials---to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
+(b\) Protective Measures. The court may issue orders---including an order for separate trials---to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
 
 :::
 
@@ -146,27 +146,27 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ### Counterclaims
 
-#### [@FRCP13_nd]
+#### Fed. R. Civ. P. Rule 13
 
 ::: {.legal-code}
 
-(a) Compulsory Counterclaim.
+(a\) Compulsory Counterclaim.
 
-> (1) In General. A pleading must state as a counterclaim any claim that---at the time of its service---the pleader has against an opposing party if the claim:
+- (1\) In General. A pleading must state as a counterclaim any claim that---at the time of its service---the pleader has against an opposing party if the claim:
 
-> > (A) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
+	- (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
 
-> > (B) does not require adding another party over whom the court cannot acquire jurisdiction.
+	- (B\) does not require adding another party over whom the court cannot acquire jurisdiction.
 
-> (2) Exceptions. The pleader need not state the claim if:
+- (2\) Exceptions. The pleader need not state the claim if:
 
-> > (A) when the action was commenced, the claim was the subject of another pending action; or
+	- (A\) when the action was commenced, the claim was the subject of another pending action; or
 
-> > (B) the opposing party sued on its claim by attachment or other process that did not establish personal jurisdiction over the pleader on that claim, and the pleader does not assert any counterclaim under this rule.
+	- (B\) the opposing party sued on its claim by attachment or other process that did not establish personal jurisdiction over the pleader on that claim, and the pleader does not assert any counterclaim under this rule.
 
-(b) Permissive Counterclaim. A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
+(b\) Permissive Counterclaim. A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
 
-(h) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
+(h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
 ::: 
 
@@ -224,17 +224,17 @@ In its Counterclaim, Exeter alleges that Ginwright breached the original contrac
 
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. §1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim, and that, in any event, its counterclaim is compulsory.
 
-[III. Permissive Counterclaim]{.case-h1}
+[III\. Permissive Counterclaim]{.case-h1}
 
 In assessing whether a counterclaim is compulsory or permissive, courts consider four inquiries:
 
-(1) Are the issues of fact and law raised in the claim and counterclaim largely the same?
+(1\) Are the issues of fact and law raised in the claim and counterclaim largely the same?
 
-(2) Would res judicata bar a subsequent suit on the party's counterclaim, absent, the compulsory counterclaim rule?
+(2\) Would res judicata bar a subsequent suit on the party's counterclaim, absent, the compulsory counterclaim rule?
 
-(3) Will substantially the same evidence support or refute the claim as well as the counterclaim? and
+(3\) Will substantially the same evidence support or refute the claim as well as the counterclaim? and
 
-(4) Is there any logical relationship between the claim and counterclaim?
+(4\) Is there any logical relationship between the claim and counterclaim?
 
 These inquiries are more akin to a set of guidelines than a rigid test, such that a "court need not answer all these questions in the affirmative for the counterclaim to be compulsory."
 
@@ -293,7 +293,7 @@ According to Ms. Pace's complaint, on February 14, 2011, Dale Timmermann called 
 
 Following her release from custody, the individual defendants continued to provide the Sherriff's Office with information about Ms. Pace's allegedly unlawful conduct. On March 13, 2012, the State's Attorney brought charges against Ms. Pace premised on the information provided by the company's employees. Ms. Pace was charged with theft, forgery, and unlawful use of a credit card.
 
-[B. ]{.case-h2}
+[B\. ]{.case-h2}
 
 We turn now to the procedural history of this litigation in the district court, a history that produced the situation before us today.
 
@@ -307,19 +307,19 @@ On May 2, 2013, Timmermann's and the individual defendants moved to dismiss Ms. 
 
 In December 2013, the district court granted the company's motion to dismiss. The court concluded that Ms. Pace's separate claims were barred because they were compulsory counterclaims that should have been brought in the 2011 action because the claims arose out of the same transaction or occurrence. Noting that her 2013 complaint had indicated that the fear of being indicted caused her emotional distress, the court held that Ms. Pace's claims were in existence when the 2011 action was filed; it therefore rejected Ms. Pace's argument that her abuse-of-process claim was not in existence until she was charged. In the district court's view, the absence of Mr. Pace and the individual defendants from the 2011 action did not preclude the court's conclusion that Ms. Pace's claims were compulsory counterclaims because Mr. Pace and the individual defendants could have been joined in the 2011 action under Federal Rule of Civil Procedure 20.
 
-[II. Discussion]{.case-h1}
+[II\. Discussion]{.case-h1}
 
 The Paces now appeal the dismissal of the 2013 action. They concede that Ms. Pace's false arrest and emotional distress claims against Timmermann's were compulsory counterclaims and therefore properly dismissed. They contend, however, that Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. They also submit that Ms. Pace's abuse of process claim against Timmermann's did not "exist" when the 2011 action was filed and therefore could not have been a compulsory counterclaim.
 
-[A. ]{.case-h2}
+[A\. ]{.case-h2}
 
 Federal Rule of Civil Procedure 13 governs compulsory counterclaims. Rule 13(a)(1) provides:
 
 > _In General._ A pleading must state as a counterclaim any claim that---at the time of its service---the pleader has against an opposing party if the claim:
 >
-> (A) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
+> (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
 >
-> (B) does not require adding another party over whom the court cannot acquire jurisdiction.
+> (B\) does not require adding another party over whom the court cannot acquire jurisdiction.
 
 The text of this subsection limits the definition of compulsory counterclaim to those claims that the pleader has against _an opposing party;_ it does _not_ provide for the joinder of parties. Instead, in a later subsection, it expressly incorporates the standards set out for the required joinder of parties under Rule 19 and the permissive joinder of parties under Rule 20. Specifically, subsection 13(h) provides: "Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim."
 
@@ -335,7 +335,7 @@ Indeed, if Ms. Pace had brought her claim before Timmermann's filed suit, she co
 
 Timmermann's recognizes that Rule 20 does not _require_ a litigant to join additional parties. Therefore, because a party is not _required_ to join additional parties under Rules 13 or 20, the district court erred by barring Ms. Pace's claims against the individual defendants and Mr. Pace's claims for failing to join them when she brought her counterclaim.
 
-[B. ]{.case-h2}
+[B\. ]{.case-h2}
 
 We turn now to whether the district court appropriately characterized Ms. Pace's claim against Timmermann's for abuse of process as a compulsory counterclaim. Ms. Pace submits that her abuse of process claim did not exist until there was "process" in the form of an information or indictment. She contends that the facts alleged in the 2013 complaint that occurred before she was charged only demonstrated one element of the claim, the defendants' mens rea. "In order to be a compulsory counterclaim, Rule 13(a) requires that a claim exist at the time of pleading." Thus, "a party need not assert a compulsory counterclaim if it has not matured when the party serves his answer."
 
@@ -351,13 +351,13 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ### Crossclaims
 
-#### [@FRCP13_nd]
+#### Fed. R. Civ. P. Rule 13
 
 ::: {.legal-code}
 
-(g) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
+(g\) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
 
-(h) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
+(h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
 ::: 
 
@@ -367,7 +367,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
-[I. FACTUAL BACKGROUND]{.case-h1}
+[I\. FACTUAL BACKGROUND]{.case-h1}
 
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
@@ -383,7 +383,7 @@ At the conclusion of the August 24, 2000 hearing, the Board entered an order dis
 
 Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
 
-[II. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS]{.case-h1}
+[II\. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS]{.case-h1}
 
 When a co-defendant asserts a cross-claim against a co-defendant, as Smith now asserts against the Board, the co-defendant's cross-claim must meet the requirements of Rule 13(g). In relevant part, Rule 13(g) specifies that "a pleading may state as a cross-claim any claim by one party against a co-party arising out of the transaction or occurrence that is the subject matter either of the original action or of a counterclaim therein." The Board asserts that Smith's cross-claim does not qualify for joinder because the cross-claim does not arise out of the transaction or occurrence that is the subject of Kirkcaldy's suit, namely, the incidents of harassment that she allegedly suffered, which ended on June 12, 2000. Rather, the Board maintains that Smith's claim of a due process violation is based on the separate and different transaction or occurrence which involved the Board and Individual School Defendants' conduct in preparing and conducting the August 24, 2000 hearing that resulted in Smith's dismissal.
 
@@ -409,31 +409,31 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ### Third-Party Defendants
 
-#### [@FRCP14_nd]
+#### Fed. R. Civ. P. Rule 14
 
 ::: {.legal-code}
 
-(a) When a Defending Party May Bring in a Third Party.
+(a\) When a Defending Party May Bring in a Third Party.
 
-> (1) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
+- (1\) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
 
-> (2) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint---the "third-party defendant":
+- (2\) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint---the "third-party defendant":
 
-> > (A) must assert any defense against the third-party plaintiff's claim under Rule 12;
+	- (A\) must assert any defense against the third-party plaintiff's claim under Rule 12;
 
-> > (B) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
+	- (B\) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
 
-> > (C) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
+	- (C\) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
 
-> > (D) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
+	- (D\) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
 
-> (3) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
+- (3\) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
 
-> (4) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
+- (4\) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
 
-> (5) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
+- (5\) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
 
-(b) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
+(b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
 ::: 
 
@@ -473,25 +473,25 @@ A right to indemnification allows a defending party to recover the full amount o
 
 Common law indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff for another person's conduct, based on their legal status or relationship.
 
-_Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
+- _Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
 
-_Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
+- _Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
 
 [Statutory Indemnification]{.note-h2}
 
 Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
 
-_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
+- _Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
 
-_Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
+- _Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
 
 [Contractual Indemnification]{.note-h2}
 
 Parties may enter into agreements that shift ultimate responsibility for judgments, without regard to which one is at fault.
 
-_Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
+- _Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
 
-_Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
+- _Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
 
 Liability insurance is a common type of contractual indemnification agreement. Such policies typically provide that the insurance carrier will pay (subject to limits and conditions in the policy) the cost of judgments and the cost of defense for claims covered by the policy. If there there is a dispute as to whether the policy covers the insured party's potential liability, the insured party may join the insurance carrier as a third-party defendant so that the court can resolve the coverage dispute.
 
@@ -505,7 +505,7 @@ A right of contribution allows a joint tortfeasor who pays damages beyond their 
 
 This appeal grows out of a triangular 1987 financial transaction that involved the Farm Street Trust (the Trust), its beneficiaries (Barry Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the Bank). In the ensuing eleven years, the transaction imploded, litigation commenced, the Bank and Lehman became insolvent, parties came and went, and the case was closed and partially reopened. In the end, only a third-party complaint proved ripe for adjudication. Even then, the district court dismissed two of its three counts, but entered summary judgment on the remaining count. The third-party defendant, Roffman, now appeals. After sorting through the muddled record and the case's serpentine procedural history, we affirm.
 
-[I. BACKGROUND]{.case-h1}
+[I\. BACKGROUND]{.case-h1}
 
 The historical facts are not seriously disputed. On or about October 19, 1987, the Trust, acting through its trustee, executed a promissory note for $2,800,000 in favor of the Bank in order to fund the purchase of property in Dover, Massachusetts. Lehman and Roffman, each of whom enjoyed a 50% beneficial interest in the Trust, personally guaranteed the note, and Lehman proffered two parcels of real estate as additional collateral. In short order, the Trust defaulted on the loan and the Bank foreclosed on Lehman's properties. Lehman responded by suing the Bank seeking restraint or rescission of the imminent sale of his real estate. The gravamen of his suit was a claim that Roffman had fraudulently introduced a sham investor to the Bank in order to gull it into making the loan, and that the Bank, in swallowing this spurious bait hook, line, and sinker, had failed to exercise due diligence.
 
@@ -515,7 +515,7 @@ The FDIC's third-party complaint contained three counts. The first two sought in
 
 [_Roffman moved to strike the third-party complaint. The trial court denied that motion and Roffman appealed. Meanwhile, Revolution Portfolio LLC ("RP"), to which the FDIC had assigned its interest in the Farm Street Trust debt, replaced the FDIC as the real party in interest._]
 
-[II. Discussion]{.case-h1}
+[II\. Discussion]{.case-h1}
 
 We must answer the question whether the FDIC's deployment of a third-party complaint against Roffman was proper. In this regard, Roffman asserts that the district court should not have entertained the impleader, and that, therefore, the joined claim on the guaranty should fall of its own weight. We review a district court's decision to permit the filing of a third-party complaint under Fed.R.Civ.P. 14(a) for abuse of discretion.
 
@@ -544,7 +544,7 @@ There is, moreover, a broader point. A district court must oversee third-party p
 
 This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
-[I. FACTUAL BACKGROUND]{.case-h1}
+[I\. FACTUAL BACKGROUND]{.case-h1}
 
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
@@ -560,7 +560,7 @@ At the conclusion of the August 24, 2000 hearing, the Board entered an order dis
 
 Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
 
-[II. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS]{.case-h1}
+[II\. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS]{.case-h1}
 
 In addition to the Board's argument for dismissal of Smith's claim against it, the School Defendants' Motion to Dismiss also requests that the Court dismiss Smith's claim against the Individual School Defendants because Smith's third-party complaint does not satisfy the jurisdictional requirements of the Federal Rules of Civil Procedure. As the Individual School Defendants, unlike the School Board itself, were not parties to Kirkcaldy's original action, Smith's joinder of the Individual School Defendants must meet the requirements of one of the two Rules that allow the joinder of non-parties by a party defendant: Rule 14(a), which governs the impleader of non-parties as third-party defendants, or Rule 13(h), which governs the joinder of non-parties in certain other situations.
 
@@ -570,47 +570,47 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ### Required Parties
 
-#### [@FRCP19_nd]
+#### Fed. R. Civ. P. Rule 19
 
 ::: {.legal-code}
 
-(a) Persons Required to Be Joined if Feasible.
+(a\) Persons Required to Be Joined if Feasible.
 
-> (1) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
+- (1\) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
 
-> > (A) in that person's absence, the court cannot accord complete relief among existing parties; or
+	- (A\) in that person's absence, the court cannot accord complete relief among existing parties; or
 
-> > (B) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
+	- (B\) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
 
-> > > (i) as a practical matter impair or impede the person's ability to protect the interest; or
+		- (i\) as a practical matter impair or impede the person's ability to protect the interest; or
 
-> > > (ii) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+		- (ii\) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
 
-> (2) Joinder by Court Order. If a person has not been joined as required, the court must order that the person be made a party. A person who refuses to join as a plaintiff may be made either a defendant or, in a proper case, an involuntary plaintiff.
+- (2\) Joinder by Court Order. If a person has not been joined as required, the court must order that the person be made a party. A person who refuses to join as a plaintiff may be made either a defendant or, in a proper case, an involuntary plaintiff.
 
-> (3) Venue. If a joined party objects to venue and the joinder would make venue improper, the court must dismiss that party.
+- (3\) Venue. If a joined party objects to venue and the joinder would make venue improper, the court must dismiss that party.
 
-(b) When Joinder Is Not Feasible. If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
+(b\) When Joinder Is Not Feasible. If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
 
-> (1) the extent to which a judgment rendered in the person's absence might prejudice that person or the existing parties;
+- (1\) the extent to which a judgment rendered in the person's absence might prejudice that person or the existing parties;
 
-> (2) the extent to which any prejudice could be lessened or avoided by:
+- (2\) the extent to which any prejudice could be lessened or avoided by:
 
-> > (A) protective provisions in the judgment;
+	- (A\) protective provisions in the judgment;
 
-> > (B) shaping the relief; or
+	- (B\) shaping the relief; or
 
-> > (C) other measures;
+	- (C\) other measures;
 
-> (3) whether a judgment rendered in the person's absence would be adequate; and
+- (3\) whether a judgment rendered in the person's absence would be adequate; and
 
-> (4) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
+- (4\) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
 
-(c) Pleading the Reasons for Nonjoinder. When asserting a claim for relief, a party must state:
+(c\) Pleading the Reasons for Nonjoinder. When asserting a claim for relief, a party must state:
 
-> (1) the name, if known, of any person who is required to be joined if feasible but is not joined; and
+- (1\) the name, if known, of any person who is required to be joined if feasible but is not joined; and
 
-> (2) the reasons for not joining that person.
+- (2\) the reasons for not joining that person.
 
 ::: 
 
@@ -622,7 +622,7 @@ On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pes
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-[I. Background [^Camacho1]]{.case-h1}
+[I\. Background [^Camacho1]]{.case-h1}
 
 [^Camacho1]: (n.3 in opinion) In the complaint, David Gonzalez Camacho is referred to as 'Gonzalez,' and Daniel Arrellano Pesqueira, who is also once mentioned as 'Daniel Pesqueira Arellano,' is referred to as 'Pesqueira.' The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 
@@ -642,19 +642,19 @@ Plaintiffs continued their investigation. Either during or after the investigati
 
 Plaintiffs commenced this action on November 30, 2012. They subsequently amended their complaint after it was dismissed without prejudice for lack of subject-matter jurisdiction. They assert the following claims against all of the defendants for: (1) intentional interference with economic relations; (2) intentional interference with prospective economic advantage; (3) negligent interference with economic relations; (4) negligent interference with prospective economic relations; (5) declaratory relief; (6) negligence; and (7) unfair business practices. Defendants now move to dismiss under Rule 12(b)(7). Plaintiffs oppose.
 
-[II. Legal Standard]{.case-h1}
+[II\. Legal Standard]{.case-h1}
 
 A party may move to dismiss a case for "failure to join a party under Rule 19." Fed. R. Civ. P. 12(b)(7). Rule 19 imposes a three-step inquiry: (1) Is the absent party necessary (i.e., required to be joined if feasible) under Rule 19(a)?; (2) If so, is it feasible to order that absent party to be joined?; and (3) If joinder is not feasible, can the case proceed without the absent party, or is the absent party indispensable such that the action must be dismissed? The terms "necessary" and "feasible" are "terms of art in Rule 19 jurisprudence": "Necessary" refers to a party who should be joined if feasible; and "indispensable" refers to "a party whose participation is so important to the resolution of the case that, if the joinder of the party is not feasible, the suit must be dismissed." The failure to join a party under Rule 19 can only lead to dismissal of a suit where the court cannot obtain jurisdiction over the necessary party and that party is determined to be indispensable to the action. _See_ Fed. R .Civ. P. 19(a).
 
 "The Ninth Circuit has held that a court should grant a 12(b)(7) motion to dismiss only if the court determines that joinder would destroy jurisdiction and the nonjoined party is necessary and indispensable." "A motion to dismiss for failure to join an indispensable party requires the moving party to bear the burden in producing evidence in support of the motion." "A Rule 12(b)(7) motion for failure to join an indispensable party demands a fact specific and practical inquiry." "To determine whether Rule 19 requires the joinder of additional parties, the court may consider evidence outside the pleadings."
 
-[III. Discussion]{.case-h1}
+[III\. Discussion]{.case-h1}
 
 Defendants argue that both the Red Devils and the Mexican League are necessary parties that cannot be feasibl4y joined to this action because (1) a determination of the validity of Mr. Pesqueira's alleged contracts with the Red Devils is necessary, and (2) joining the parties would vitiate this Court's subject-matter jurisdiction and Plaintiffs cannot establish personal jurisdiction over these absent parties in this Court. Plaintiffs present their claims very differently in their opposition brief compared to the allegations in the complaint. In a disingenuous early-inning strategic shift, they direct the focus of this action on Mr. Gonzalez's agency contract with Mr. Pesqueira, arguing that the Red Devils and Mexican League are "joint tortfeasors" that are not necessary parties to litigate the claims asserted in this action. Plaintiffs swing for the fences, but ultimately come up short.
 
 Upon reviewing the allegations in the complaint, it is clear that the threshold issue in this action is the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils. Plaintiffs proceed with their action under the presumption that those contracts are invalid---because Mr. Pesqueira was a minor at the time the contracts were executed, or because the signatures were "fraudulently lifted from another document and transferred onto these documents." These allegations in the complaint overwhelmingly demonstrate that this entire action hinges on one game-winning issue---the validity of the Red Devils contracts. The Court emphasizes that determining the validity of the alleged contracts between Mr. Pesqueira and the Red Devils is outside the scope of this series. Therefore, the Court rejects the disingenuous shifted premise that Plaintiffs present in their opposition brief, and shall proceed analyzing Defendants' motion while recognizing that the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils is the go-ahead run.
 
-[A. The Red Devils and the Mexican League Are Necessary Parties.]{.case-h2}
+[A\. The Red Devils and the Mexican League Are Necessary Parties.]{.case-h2}
 
 A party is necessary if: (1) complete relief cannot be granted in the party's absence; or (2) the district court determines that "the absent party's participation is necessary to protect its legally cognizable interests or to protect other parties from a substantial risk of incurring multiple or inconsistent obligations because of those interests." Such a legally cognizable interest must be more than a financial stake in the outcome of the litigation. Defendants demonstrate that the Red Devils and the Mexican League are necessary parties under the latter of the two aforementioned definitions.
 
@@ -672,13 +672,13 @@ Defendants argue that "the Red Devils could still sue others in the Mexican cour
 
 Swing and a miss---strike one.
 
-[B. Joining the Red Devils and the Mexican League Is Not Feasible.]{.case-h2}
+[B\. Joining the Red Devils and the Mexican League Is Not Feasible.]{.case-h2}
 
 "If an absentee is a necessary party under Rule 19(a), the second stage is for the court to determine whether it is feasible to order that the absentee be joined." Rule 19(a) sets forth three circumstances in which joinder is not feasible: (1) when venue is improper; (2) when the absentee is not subject to personal jurisdiction; and (3) when joinder would destroy subject matter jurisdiction.
 
 Defendants argue that "the Red Devils and the Mexican League cannot be joined both because their joinder would destroy this Court's subject-matter jurisdiction, and because Plaintiffs cannot establish personal jurisdiction over them in this Court." Plaintiffs do not address feasibility in their opposition brief. In fact, the words "feasible" and "feasibility" do not appear anywhere in their brief. Consequently, Plaintiffs concede that joining the Red Devils and the Mexican League is not feasible under the second and third circumstances that Rule 19 enumerates. They took this pitch and it went right down the middle---strike two.
 
-[C. The Red Devils and Mexican League Are Indispensable Parties.]{.case-h2}
+[C\. The Red Devils and Mexican League Are Indispensable Parties.]{.case-h2}
 
 If the necessary party cannot be joined, the court must then determine whether the party is indispensable. Under Rule 19(b), indispensable parties are "persons who not only have an interest in the controversy, but an interest of such a nature that a final decree cannot be made without either affecting that interest, or leaving the controversy in such a condition that its final termination may be wholly inconsistent with equity and good conscience." Rule 19(b) provides the factors that courts should consider in determining if an action should be dismissed because an absent party is indispensable: (1) prejudice to any party or to the absent party; (2) whether relief can be shaped to lessen prejudice; (3) whether an adequate remedy, even if not complete, can be awarded without the absent party; and (4) whether there exists an alternative forum. Furthermore, "no procedural principle is more deeply imbedded in the common law than that, in an action to set aside a lease or a contract, all parties who may be affected by the determination of the action are indispensable." 
 
@@ -738,25 +738,25 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 ### Intervention
 
-#### [@FRCP24_nd]
+#### Fed. R. Civ. P. Rule 24
 
 ::: {.legal-code}
 
-(a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
+(a\) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
 
-> (1) is given an unconditional right to intervene by a federal statute; or
+- (1\) is given an unconditional right to intervene by a federal statute; or
 
-> (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+- (2\) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
 
-(b) Permissive Intervention.
+(b\) Permissive Intervention.
 
-> (1) In General. On timely motion, the court may permit anyone to intervene who:
+- (1\) In General. On timely motion, the court may permit anyone to intervene who:
 
-> > (A) is given a conditional right to intervene by a federal statute; or
+	- (A\) is given a conditional right to intervene by a federal statute; or
 
-> > (B) has a claim or defense that shares with the main action a common question of law or fact.
+	- (B\) has a claim or defense that shares with the main action a common question of law or fact.
 
-> (3) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
+- (3\) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
 
 ::: 
 
@@ -768,9 +768,9 @@ The State of Michigan finds itself in a tug-of-war between faith-based child pla
 
 This appeal deals not with the merits of the underlying constitutional dispute, but rather with whether the district court erred as a matter of law in denying the Dumonts' motion for intervention as of right or, in the alternative, whether it abused its discretion in denying their motion for permissive intervention. For the reasons explained below, we reverse the district court's order regarding permissive intervention and remand for further proceedings consistent with this opinion.
 
-[I. ]{.case-h1}
+[I\. ]{.case-h1}
 
-[A. ]{.case-h2}
+[A\. ]{.case-h2}
 
 The Michigan Department of Health and Human Services (MDHHS) is responsible for the care of more than 13,000 children within the state foster-care system due to abandonment or neglect. It has opted to contract out the majority of its fostering and adoption services to private child-placing agencies (CPAs). The State presently licenses and holds contracts with more than 50 private CPAs.
 
@@ -780,7 +780,7 @@ Some of the State's contracted CPAs are faith-based organizations, including pla
 
 Historically, MDHHS permitted St. Vincent to refer out cases that could pose a conflict with the agency's sincerely held religious beliefs. And in 2015, the Michigan Legislature codified this practice, enacting a statute designed to "ensure that faith-based child placing agencies could continue to provide adoption and foster care services" in line with their religious beliefs. It provides that "to the fullest extent permitted by state and federal law, a child placing agency shall not be required to provide any services if those services conflict with, or provide any services under circumstances that conflict with, the child placing agency's sincerely held religious beliefs."
 
-[B. ]{.case-h2}
+[B\. ]{.case-h2}
 
 After Michigan enacted the 2015 Law, the Dumonts filed suit in the United States District Court for the Eastern District of Michigan ("the _Dumont_ litigation"). They alleged that they were a same-sex couple interested in fostering and adoption, but that St. Vincent refused to assist them with the licensing process because of their sexual orientation. Based on this alleged discrimination, the Dumonts contended that MDHHS was violating their First and Fourteenth Amendment rights by permitting taxpayer-funded CPAs to use religious criteria to screen foster and adoptive parents.
 
@@ -788,7 +788,7 @@ St. Vincent successfully moved to intervene; indeed, the Dumonts did not oppose 
 
 Michigan elected a new governor and a new attorney general in 2018. Thereafter, the State's position in the litigation changed and the State ultimately entered into a settlement agreement with the Dumonts in March 2019. In exchange for the Dumonts dismissing their constitutional claims with prejudice, the MDHHS agreed that "unless prohibited by law or court order," it would consider sexual-orientation discrimination by a faith-based child placement agency as violating the anti-discrimination clause under its existing contracts. St. Vincent was not included in the settlement discussions and is not a party to the agreement.
 
-[C. ]{.case-h2}
+[C\. ]{.case-h2}
 
 St. Vincent commenced this lawsuit one month later in the United States District Court for the Western District of Michigan. It claimed that the State's shift in policy violated its First and Fourteenth Amendment rights, along with the Religious Freedom Restoration Act. And it sought to enjoin the defendants from enforcing the State's change in policy by terminating or suspending its contract.
 
@@ -802,17 +802,17 @@ Regarding permissive intervention, the court observed:
 
 Despite recognizing this common question of law, the district court concluded that the Dumonts and the State were "aligned in all material respects" and that the Dumonts' "unique contribution" could be made as amici, rather than as parties to the suit. Thus, the court denied the Dumonts' motion to intervene without prejudice. The Dumonts then refiled their opposition to the motion for a preliminary injunction as an amicus brief in support of the defendants. They also timely filed this interlocutory appeal of the district court's denial of their motion for intervention.
 
-[D. ]{.case-h2}
+[D\. ]{.case-h2}
 
 Shortly after its rulings on the motion to intervene, the district court granted St. Vincent's motion for a preliminary injunction. The State appealed the preliminary injunction and unsuccessfully sought a stay in our Court. It then changed course and moved to dismiss the appeal, which we granted. Back at the district court, St. Vincent moved to stay further proceedings pending the Supreme Court's decision [In Fulton, the Court ultimately held that the City violated the 1st Amendment rights of a religious-affiliated foster care agency when, pursuant to a municipal anti-discrimination ordinance, it conditioned renewal of the agency's contract on its agreeing to certify same-sex married couples as foster parents. 141 S.Ct. 1868 (2021).] in a case involving similar claims, _Fulton v. City of Philadelphia._ The district court granted the motion, reasoning that "_Fulton_ is likely to illuminate and shape the legal standards controlling this case and may be outcome-determinative." Accordingly, the case has been stayed until the Supreme Court resolves _Fulton_.
 
-[II. ]{.case-h1}
+[II\. ]{.case-h1}
 
 The only issues presented in this appeal are (1) whether the district court erred as a matter of law in denying the Dumonts intervention as of right, and (2) whether the district court abused its discretion in denying the Dumonts permissive intervention. Because we hold that the Dumonts "are entitled to permissive intervention, we address only those arguments."
 
 Federal Rule of Civil Procedure 24(b)(1) provides that, "on timely motion, the court may permit anyone to intervene who has a claim or defense that shares with the main action a common question of law or fact." In deciding whether to allow a party to intervene, "the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights." Fed. R. Civ. P. 24(b)(3). "So long as the motion for intervention is timely and there is at least one common question of law or fact, the balancing of undue delay, prejudice to the original parties, and _any other relevant factors_ is reviewed for an abuse of discretion."
 
-[A. ]{.case-h2}
+[A\. ]{.case-h2}
 
 Because the Dumonts timely moved to intervene,[^Dumont2] we first examine whether they presented a common question of law or fact for resolution by the district court. They did.
 
@@ -822,7 +822,7 @@ St. Vincent resists this conclusion by contending that the Dumonts "do not even 
 
 Nor does _Kirsch v. Dean_ support St. Vincent's no-common-ground-of-law position. There we discussed how permissive intervention is not appropriate where "a proposed intervenor submits a filing that 'substantially mirrors the positions advanced' by one of the parties." We then held that the district court did not abuse its discretion by denying an untimely motion for intervention, where the _sole_ basis was the proposed intervenor's desire to have opposing counsel disqualified for an alleged violation of the attorney-client privilege. There is no comparison to be drawn with _Kirsch_—the Dumonts asserted affirmative defenses the State forwent, while the _Kirsch_ intervenors parroted the existing party's positions solely to have opposing counsel disqualified. 
 
-[B. ]{.case-h2}
+[B\. ]{.case-h2}
 
 Having determined that the Dumonts' motion was timely and that it presented a common question of law, we turn to the remaining factors in Federal Rule of Civil Procedure 24(b)(3).
 
@@ -868,11 +868,11 @@ Following this court's remand, the district court ordered the parties to file a 
 
 Intervention of right as sought by appellant is governed by Federal Rule of Civil Procedure 24. That rule provides:
 
-> (a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
+> (a\) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
 
-> > (1) is given an unconditional right to intervene by a federal statute; or
+> > (1\) is given an unconditional right to intervene by a federal statute; or
 
-> > (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+> > (2\) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
 
 Under that rule, a district court must grant a motion to intervene if the motion is timely, and the prospective intervenor claims a legally protected interest in the action, and the action threatens to impair that interest, unless that interest is adequately represented by existing parties. At the threshold, however, the motion to intervene must be timely. If the motion is untimely, the explicit language of the rule dictates that "intervention must be denied."
 

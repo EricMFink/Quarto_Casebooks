@@ -4,23 +4,15 @@
 
 ### Constitutional & Statutory Basis 
 
-::: {.legal-code}
+#### U.S. Constitution, Article III
 
-#### [@USConst_nd]
-
-[Article IIIm sec. 2]{.case-h1}
+[Section 2]{.note-h1}
 
 The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; 
 
-:::
-
-::: {.legal-code}
-
-#### [@1331_nd]
+#### 28 U.S.C. § 1331
 
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
-
-:::
 
 ### Arising Under Federal Law
 
@@ -44,7 +36,7 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-#### Note: Postscript to _Mottley_
+##### Note: Postscript to _Mottley_
 
 On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
@@ -52,7 +44,7 @@ On remand, the Kentucky court held that the 1906 statute did not apply to the Mo
 
 However, there is no record of anything further transpiring in the case.
 
-Apart from the case for which he is remembered today, Erasmus Mottley was apparently "a prominent and influential business man" and unsuccessful candidate for public office. E. Polk Johnson, [_A History of Kentucky & Kentuckians_](https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1145.w.4.0.0_1693), vol. 2 (Lewis Publishing Co. 1912). 
+Apart from the case for which he is remembered today, Erasmus Mottley was apparently "a prominent and influential business man" and unsuccessful candidate for public office. [@Johnson1912]: 819-20.
 
 ### Federal Element in a State Law Claim 
 
@@ -70,13 +62,13 @@ Five years later, Grable brought a quiet title action in state court,["A quiet t
 
 Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although §6335 by its terms required personal service, substantial compliance with the statute was enough.
 
-The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction. We now affirm.
+The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether _Merrell Dow Pharmaceuticals Inc. v. Thompson_, 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction. We now affirm.
 
 [II]{.case-h1}
 
 Darue was entitled to remove the quiet title action if Grable could have brought it in federal district court originally, 28 U.S.C. §1441(a), as a civil action "arising under the Constitution, laws, or treaties of the United States," §1331. This provision for federal-question jurisdiction is invoked by and large by plaintiffs pleading a cause of action created by federal law. There is, however, another longstanding, if less frequently encountered, variety of federal "arising under" jurisdiction, this Court having recognized for nearly 100 years that in certain cases federal-question jurisdiction will lie over state-law claims that implicate significant federal issues. The doctrine captures the commonsense notion that a federal court ought to be able to hear claims recognized under state law that nonetheless turn on substantial questions of federal law, and thus justify resort to the experience, solicitude, and hope of uniformity that a federal forum offers on federal issues.
 
-The classic example is [_Smith v. Kansas City Title \& Trust Co._](https://scholar.google.com/scholar_case?case=5823303748841046877), 255 U.S. 180 (1921),  a suit by a shareholder claiming that the defendant corporation could not lawfully buy certain bonds of the National Government because their issuance was unconstitutional. Although Missouri law provided the cause of action, the Court recognized federal-question jurisdiction because the principal issue in the case was the federal constitutionality of the bond issue.[Recall that, in _Louisville & Nashville R. Co. v. Mottley_, the Court held there was no federal question jurisdiction even though the principal issue in that case was the legality of the Mottleys' free passes under the 1906 federal statute. How is _Mottley_ distinguishable from _Smith v. Kansas City Title & Trust_?]{.aside} _Smith_ thus held, in a somewhat generous statement of the scope of the doctrine, that a state-law claim could give rise to federal-question jurisdiction so long as it "appears from the complaint that the right to relief depends upon the construction or application of [federal law]."
+The classic example is _Smith v. Kansas City Title \& Trust Co._, 255 U.S. 180 (1921), a suit by a shareholder claiming that the defendant corporation could not lawfully buy certain bonds of the National Government because their issuance was unconstitutional. Although Missouri law provided the cause of action, the Court recognized federal-question jurisdiction because the principal issue in the case was the federal constitutionality of the bond issue.[Recall that, in _Louisville & Nashville R. Co. v. Mottley_, the Court held there was no federal question jurisdiction even though the principal issue in that case was the legality of the Mottleys' free passes under the 1906 federal statute. How is _Mottley_ distinguishable from _Smith v. Kansas City Title & Trust_?]{.aside} _Smith_ thus held, in a somewhat generous statement of the scope of the doctrine, that a state-law claim could give rise to federal-question jurisdiction so long as it "appears from the complaint that the right to relief depends upon the construction or application of [federal law]."
 
 The _Smith_ statement has been subject to some trimming to fit earlier and later cases recognizing the vitality of the basic doctrine, but shying away from the expansive view that mere need to apply federal law in a state-law claim will suffice to open the "arising under" door. It has in fact become a constant refrain in such cases that federal jurisdiction demands not only a contested federal issue, but a substantial one, indicating a serious federal interest in claiming the advantages thought to be inherent in a federal forum.
 
@@ -136,101 +128,129 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 
 [Essential: Grable]{.note-h3}
 
-- Grable brought a state-law "quiet title" claim against Darue, which purchased property that the IRS had seized from Grable in satisfaction of a tax delinquency.
-  - Under state law, Grable was required to specify "the facts establishing the superiority of its claim" to the property.
-- Under the federal statute governing the sale of property to satisfy tax delinquencies, the IRS was supposed to give Grable written notice of the seizure. The IRS sent Grable notice of the seizure by certified mail, but Grable contended that the statute required personal service of the notice.
-  - Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid.
-  - Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, Darue's purchase of the property was valid.
-- Grable's right to relief thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void). And this issue was actually in dispute between the parties.
-- The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
+Grable brought a state-law "quiet title" claim against Darue, which purchased property that the IRS had seized from Grable in satisfaction of a tax delinquency.
+
+- &#8226; Under state law, Grable was required to specify "the facts establishing the superiority of its claim" to the property.
+
+Under the federal statute governing the sale of property to satisfy tax delinquencies, the IRS was supposed to give Grable written notice of the seizure. The IRS sent Grable notice of the seizure by certified mail, but Grable contended that the statute required personal service of the notice.
+- &#8226; Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid.
+- &#8226; Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, Darue's purchase of the property was valid.
+
+Grable's right to relief thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void). And this issue was actually in dispute between the parties.
+
+The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
 
 [Not Essential: Merrell Dow]{.note-h3}
 
-- The plaintiffs brought state law negligence and other tort claims against Merrell Dow for birth defects allegedly resulting from a drug manufactured and marketed by Merrell Dow.
-  - The plaintiffs alleged that Merrell Dow's failure to warn about potential birth defects was negligent.
-- Under state tort law, one way a plaintiff could satisfy the negligence element was by showing that the defendant failed to comply with an applicable state or federal legal standard.
-  - The plaintiffs relied on federal law for this purpose, asserting that FDA regulations required a warning about potential birth defects.
-- The plaintiffs were not asserting rights under federal law. They were simply using the FDA regulations as _evidence_ of what a reasonable drug manufacturer would do, to establish negligence under state law.
+The plaintiffs brought state law negligence and other tort claims against Merrell Dow for birth defects allegedly resulting from a drug manufactured and marketed by Merrell Dow.
+
+- &#8226; The plaintiffs alleged that Merrell Dow's failure to warn about potential birth defects was negligent.
+
+Under state tort law, one way a plaintiff could satisfy the negligence element was by showing that the defendant failed to comply with an applicable state or federal legal standard.
+- &#8226; The plaintiffs relied on federal law for this purpose, asserting that FDA regulations required a warning about potential birth defects.
+
+The plaintiffs were not asserting rights under federal law. They were simply using the FDA regulations as _evidence_ of what a reasonable drug manufacturer would do, to establish negligence under state law.
 
 [Not Essential: Gunn v. Minton]{.note-h3}
 
-- Minton sued Gunn under state law for attorney malpractice. The malpractice claim was based on a previous suit in which Gunn had represented Minton as the plaintiff in a patent infringement suit (governed by federal law).
-- Under state law, Minton was required to allege (and prove) that Gunn's representation in the underlying suit was negligent, and that Gunn would have prevailed in that suit but for Gunn's negligence.
-  - Minton alleged that Gunn failed to raise a certain argument in the patent infringement suit, that a competent lawyer would have raised the argument, and that Minton would have won if Gunn had raised the argument.
-  - To decide whether the argument would have been successful, the court would have to apply federal patent law.
-- As in Merrell Dow, the suit wasn't really about Minton's rights under federal law.
-  - The patent law issue arose only as a benchmark for establishing whether Gunn suffered an injury as a result of negligent legal representation.
+Minton sued Gunn under state law for attorney malpractice. The malpractice claim was based on a previous suit in which Gunn had represented Minton as the plaintiff in a patent infringement suit (governed by federal law).
+
+Under state law, Minton was required to allege (and prove) that Gunn's representation in the underlying suit was negligent, and that Gunn would have prevailed in that suit but for Gunn's negligence.
+
+- &#8226; Minton alleged that Gunn failed to raise a certain argument in the patent infringement suit, that a competent lawyer would have raised the argument, and that Minton would have won if Gunn had raised the argument.
+
+- &#8226; To decide whether the argument would have been successful, the court would have to apply federal patent law.
+
+As in Merrell Dow, the suit wasn't really about Minton's rights under federal law.
+
+- &#8226; The patent law issue arose only as a benchmark for establishing whether Gunn suffered an injury as a result of negligent legal representation.
 
 [Federal Interest]{.note-h2}
 
 [Substantial: Grable]{.note-h3}
 
-- There is a strong federal interest in uniform interpretation of the statutory requirements for seizures of taxpayer property by the IRS. Inconsistent interpretations by various state courts would subject the IRS to conflicting standards in carrying out its tax enforcement responsibilities, and promote uncertainty about the rights and interests of taxpayers and purchasers of seized property.
-- The absence of a private right of action to enforce the statutory notice requirements in IRS tax seizures does not weigh against the exercise of federal jurisdiction over state-law quiet title claims based on alleged violations of the federal statutory requirements.
-  - The federal statute provides no special enforcement mechanism for those requirements, so private suits aren't interfering with anything.
-  - But the federal statute gives individual taxpayers private rights, so it makes sense for federal courts to adjudicate claims that depend on whether those rights were violated.
-- Only rarely will a state-law quiet title claim depend on an issue of federal law, so there is little risk of opening the floodgates to claims that properly belong in state court.
-- The strong federal interest at stake justifies opening the federal courts to the relatively limited set of cases in which the issue arises.
+There is a strong federal interest in uniform interpretation of the statutory requirements for seizures of taxpayer property by the IRS. Inconsistent interpretations by various state courts would subject the IRS to conflicting standards in carrying out its tax enforcement responsibilities, and promote uncertainty about the rights and interests of taxpayers and purchasers of seized property.
+
+The absence of a private right of action to enforce the statutory notice requirements in IRS tax seizures does not weigh against the exercise of federal jurisdiction over state-law quiet title claims based on alleged violations of the federal statutory requirements.
+
+- &#8226; The federal statute provides no special enforcement mechanism for those requirements, so private suits aren't interfering with anything.
+
+- &#8226; But the federal statute gives individual taxpayers private rights, so it makes sense for federal courts to adjudicate claims that depend on whether those rights were violated.
+
+Only rarely will a state-law quiet title claim depend on an issue of federal law, so there is little risk of opening the floodgates to claims that properly belong in state court.
+The strong federal interest at stake justifies opening the federal courts to the relatively limited set of cases in which the issue arises.
 
 [Not Substantial: Merrell Dow]{.note-h3}
 
-- While there is a federal interest in uniform interpretation of drug labeling requirements under the Federal Food, Drug, and Cosmetic Act (FDCA), that interest would not be impaired by conflicting state court interpretations in the context of state-law product liability claims.
-  - Decisions in those cases would not affect any rights, interests, or duties under the FDCA itself.
-- The FDCA has its own mechanism for promoting uniform interpretation and application, through exclusive enforcement by the FDA.
-  - A state court determination in the negligence suit would not be binding in an enforcement action by the FDA.
-- The FDCA provides for exclusive enforcement by the FDA, and there is no private right of action under the statute.
-  - The statutory enforcement scheme evidences a Congressional intent that the federal courts not adjudicate private suits arising under the FDCA.
-  - Allowing plaintiffs to litigate FDCA non-compliance under the guise of state-law tort claims would undermine this statutory scheme.
-- The plaintiffs in these cases asserted routine state-law claims, in which the federal issues were merely incidental to establishing the defendants' liability under state law.
-  - State law commonly allows plaintiffs to use federal legal standards as a baseline for establish the standard of care under state tort law.
-  - If every such case were regarded as arising under federal law for purposes of jurisdiction under  §1331, this would effectively "federalize" much routine tort law, subjecting the federal courts to a flood of cases that raise no substantial federal interest, and interfering with the role of state courts as the primary forum for raising state-law claims.
+While there is a federal interest in uniform interpretation of drug labeling requirements under the Federal Food, Drug, and Cosmetic Act (FDCA), that interest would not be impaired by conflicting state court interpretations in the context of state-law product liability claims.
+
+- &#8226; Decisions in those cases would not affect any rights, interests, or duties under the FDCA itself.
+
+The FDCA has its own mechanism for promoting uniform interpretation and application, through exclusive enforcement by the FDA.
+
+- &#8226; A state court determination in the negligence suit would not be binding in an enforcement action by the FDA.
+
+The FDCA provides for exclusive enforcement by the FDA, and there is no private right of action under the statute.
+
+- &#8226; The statutory enforcement scheme evidences a Congressional intent that the federal courts not adjudicate private suits arising under the FDCA.
+
+- &#8226; Allowing plaintiffs to litigate FDCA non-compliance under the guise of state-law tort claims would undermine this statutory scheme.
+
+The plaintiffs in these cases asserted routine state-law claims, in which the federal issues were merely incidental to establishing the defendants' liability under state law.
+
+- &#8226; State law commonly allows plaintiffs to use federal legal standards as a baseline for establish the standard of care under state tort law.
+
+- &#8226; If every such case were regarded as arising under federal law for purposes of jurisdiction under  §1331, this would effectively "federalize" much routine tort law, subjecting the federal courts to a flood of cases that raise no substantial federal interest, and interfering with the role of state courts as the primary forum for raising state-law claims.
 
 [Not Substantial: Gunn v. Minton]{.note-h3}
 
-- While there is a federal interest in uniform interpretation of federal patent law, that interest would not be impaired by conflicting state court interpretations in the context of state-law attorney malpractice claims.
-  - State court interpretations of federal patent law in the context of attorney malpractice claims do not actually affect any rights or interests under federal patent law.
-  - The federal issues arise only as counterfactual hypotheticals: what would have happened if the attorney had done something different?
-- Uniform interpretation and application of federal patent law, in cases where rights under that law are actually at stake, is ensured by exclusive federal jurisdiction over patent claims (i.e. state courts may not hear those claims at all).
-  - Parties asserting rights under federal patent law have a private right of action in federal court.
-- Malpractice claims based on an attorney's conduct in a federal patent suit don't really affect the rights or interests governed by federal patent law.
-  - Minton's patent remains invalid, regardless of what happens in the malpractice case
-  - Allowing state courts to decide malpractice claims arising from patent suits won't interfere with the exclusive federal jurisdiction over patent claims themselves.
+While there is a federal interest in uniform interpretation of federal patent law, that interest would not be impaired by conflicting state court interpretations in the context of state-law attorney malpractice claims.
+
+- &#8226; State court interpretations of federal patent law in the context of attorney malpractice claims do not actually affect any rights or interests under federal patent law.
+
+- &#8226; The federal issues arise only as counterfactual hypotheticals: what would have happened if the attorney had done something different?
+
+Uniform interpretation and application of federal patent law, in cases where rights under that law are actually at stake, is ensured by exclusive federal jurisdiction over patent claims (i.e. state courts may not hear those claims at all).
+
+- &#8226; Parties asserting rights under federal patent law have a private right of action in federal court.
+
+Malpractice claims based on an attorney's conduct in a federal patent suit don't really affect the rights or interests governed by federal patent law.
+
+- &#8226; Minton's patent remains invalid, regardless of what happens in the malpractice case
+
+- &#8226; Allowing state courts to decide malpractice claims arising from patent suits won't interfere with the exclusive federal jurisdiction over patent claims themselves.
 
 ## Diversity Jurisdiction
 
 ### Constitutional & Statutory Basis 
 
-::: {.legal-code}
+#### U.S. Constitution, Article III
 
-#### [@USConst_nd]
-
-[Article III, sec. 2]{.case-h1}
+[Section 2]{.note-h2}
 
 The judicial power shall extend to all cases;--between citizens of different states; and between a state, or the citizens thereof, and foreign states, citizens or subjects.
 
-:::
-
 ::: {.legal-code}
 
-#### [@1332_nd]
+#### 28 U.S.C. § 1332
 
-(a) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between---
+(a\) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between---
 
-> (1) citizens of different States;
+- (1\) citizens of different States;
 
-> (2) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
+- (2\) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
 
-> (3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
+- (3\) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
 
-> (4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
+- (4\) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
 
-(c) For the purposes of this section and section 1441 of this title---
+(c\) For the purposes of this section and section 1441 of this title---
 
-> (1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business,
+- (1\) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business,
 
-> (2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
+- (2\) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
 
-(e) The word "States", as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
+(e\) The word "States", as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 :::
 
@@ -242,13 +262,13 @@ The judicial power shall extend to all cases;--between citizens of different sta
 
 This matter comes before the court on Defendant Frances Coan's motion to dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. For the reasons discussed herein, the court will grant Defendants' motions to dismiss.
 
-[I. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
+[I\. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
 
 Plaintiff filed this action asserting claims arising out of the same transactions and occurrences that are the subject matter of the companion case, Coan v. Hanks. Defendant Frances Coan (F. Coan) and Defendant John Coan, III, (J. Coan) independently filed motions to dismiss the complaint, pursuant to Fed.R.Civ.P. 12(b)(1), on the ground that complete diversity of citizenship does not exist. On April 26, 1999, the court held a hearing solely on the diversity jurisdiction issue. The two motions to dismiss are the matters now pending before the court.
 
-[II. DISCUSSION]{.case-h1}
+[II\. DISCUSSION]{.case-h1}
 
-[A. Citizens of Different States]{.case-h2}
+[A\. Citizens of Different States]{.case-h2}
 
 It has long been held that federal courts are courts of limited jurisdiction and can only entertain actions over which they possess subject matter jurisdiction. The parties agree that Plaintiff's basis for jurisdiction in this federal court is diversity of citizenship pursuant to 28 U.S.C. §1332. The parties dispute, however, whether there is complete diversity among the parties such that subject matter jurisdiction exists in this forum.
 
@@ -332,7 +352,7 @@ District courts have original jurisdiction over civil cases between citizens of 
 
 In cases that a defendant has removed from state court, "the existence of subject matter jurisdiction is determined by examining the complaint as it existed at the time of removal." "The burden of showing that the district court has original jurisdiction is on the party seeking removal." 
 
-[A. Defendants' Counterclaim Damages]{.case-h2}
+[A\. Defendants' Counterclaim Damages]{.case-h2}
 
 Neither the United States Supreme Court nor the United States Court of Appeals for the Sixth Circuit has decided whether a defendant's counterclaim damages count toward the amount-in-controversy requirement.
 
@@ -358,7 +378,7 @@ Here, STC and New Par did not file their counterclaim until after they removed t
 
 For these reasons, defendants' counterclaim damages cannot and do not satisfy the amount-in-controversy requirement.2
 
-[B. Value of Declaratory Relief]{.case-h2}
+[B\. Value of Declaratory Relief]{.case-h2}
 
 "In actions seeking declaratory or injunctive relief, it is well established that the amount in controversy is measured by the value of the object of the litigation." "Where a party seeks a declaratory judgment, the amount in controversy is not necessarily the money judgment sought or recovered, but rather the value of the consequences which may result from the litigation."
 
@@ -443,13 +463,13 @@ However, if the Court questions or the plaintiff contests the amount-in-controve
 
 [Discussion]{.case-h1}
 
-[I. The parties' respective arguments.]{.case-h1}
+[I\. The parties' respective arguments.]{.case-h1}
 
 The dispute hinges on the defendant's assertion concerning attorneys' fees. As an initial note, attorneys' fees may be considered as part of the amount-in-controversy if available to plaintiff's under their cause of action, and the parties agree that Complete Business Group may seek attorneys' fees under Pennsylvania law.
 
 The parties' dispute centers on whether the value of the attorneys' fees is speculative or not. Annie's Pooch Pops specifically contends that the amount-in-controversy is met because Complete Business Group has left the question of fees open in its complaint, and because they believe, in good faith, that the litigation will develop in such a way that fees will inevitably reach the threshold requirement. Complete Business Group emphatically asserts that it has specifically averred the amount-in-controversy in the amount of $41,371.78. Because its fees are static, any additional right to fees is based on future events not yet knowable at the time of the filing of the complaint or removal.
 
-[II. Annie's Pooch Pops have not met their burden.]{.case-h1}
+[II\. Annie's Pooch Pops have not met their burden.]{.case-h1}
 
 Annie's Pooch Pops have not met their burden in showing the amount-in-controversy meets the federal requirement. While Complete Business Group reserves the right to pursue attorneys' fees should Defendants challenge the confessed judgment, ultimately, the Court is left to guess, one way or another, as to whether the amount-in-controversy will reach the required minimum. Indeed, the Court has no basis, nor has Annie's Pooch Pops provided one,[^4d01] for the expectation that the amount-in-controversy will have almost doubled from Complete Business Group's current monetary demand of about $41,000, or in other words, the attorneys' fees will be valued at almost the same value of that present demand. Because the Court must rely on such guesswork, Annie's Pooch Pops cannot establish federal subject matter jurisdiction.
 
@@ -496,25 +516,25 @@ The question of power will ordinarily be resolved on the pleadings. But the issu
 
 ::: {.legal-code}
 
-#### [@1367_nd]
+#### 28 U.S.C. § 1367
 
-(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
+(a\) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
 
-(b) In any civil action of which the district courts have original jurisdiction founded solely on section 1332 of this title, the district courts shall not have supplemental jurisdiction under subsection (a) over claims by plaintiffs against persons made parties under Rule 14, 19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by persons proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking to intervene as plaintiffs under Rule 24 of such rules, when exercising supplemental jurisdiction over such claims would be inconsistent with the jurisdictional requirements of section 1332.
+(b\) In any civil action of which the district courts have original jurisdiction founded solely on section 1332 of this title, the district courts shall not have supplemental jurisdiction under subsection (a) over claims by plaintiffs against persons made parties under Rule 14, 19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by persons proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking to intervene as plaintiffs under Rule 24 of such rules, when exercising supplemental jurisdiction over such claims would be inconsistent with the jurisdictional requirements of section 1332.
 
-(c) The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if---
+(c\) The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if---
 
-> (1) the claim raises a novel or complex issue of State law,
+- (1\) the claim raises a novel or complex issue of State law,
 
-> (2) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
+- (2\) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
 
-> (3) the district court has dismissed all claims over which it has original jurisdiction, or
+- (3\) the district court has dismissed all claims over which it has original jurisdiction, or
 
-> (4) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
+- (4\) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
 
-(d) The period of limitations for any claim asserted under subsection (a), and for any other claim in the same action that is voluntarily dismissed at the same time as or after the dismissal of the claim under subsection (a), shall be tolled while the claim is pending and for a period of 30 days after it is dismissed unless State law provides for a longer tolling period.
+(d\) The period of limitations for any claim asserted under subsection (a), and for any other claim in the same action that is voluntarily dismissed at the same time as or after the dismissal of the claim under subsection (a), shall be tolled while the claim is pending and for a period of 30 days after it is dismissed unless State law provides for a longer tolling period.
 
-(e) As used in this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+(e\) As used in this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 :::
 
@@ -542,7 +562,7 @@ On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 
 
 [Discussion]{.case-h1}
 
-[II. Is There Jurisdiction over the Permissive Counterclaims?]{.case-h1}
+[II\. Is There Jurisdiction over the Permissive Counterclaims?]{.case-h1}
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.
 
@@ -552,21 +572,21 @@ The explicit extension to the limit of Article III of a federal court's jurisdic
 
 We share the view that section 1367 has displaced, rather than codified, whatever validity inhered in the earlier view that a permissive counterclaim requires independent jurisdiction (in the sense of federal question or diversity jurisdiction). The issue in this case therefore becomes whether supplemental jurisdiction is available for Ford Credit's counterclaims.
 
-[III. Application of Section 1367's Standards for Supplemental Jurisdiction]{.case-h1}
+[III\. Application of Section 1367's Standards for Supplemental Jurisdiction]{.case-h1}
 
 Whether or not the Gibbs "common nucleus" standard provides the outer limit of an Article III "case," and is therefore a requirement for entertaining a permissive counterclaim that otherwise lacks a jurisdictional basis, the facts of Ford Credit's counterclaims and those of the Plaintiffs' ECOA claims satisfy that standard, even though the relationship is not such as would make the counterclaims compulsory. The counterclaims and the underlying claim bear a sufficient factual relationship (if one is necessary) to constitute the same "case" within the meaning of Article III and hence of section 1367. Both the ECOA claim and the debt collection claims originate from the Plaintiffs' decisions to purchase Ford cars.
 
 Satisfying the constitutional "case" standard of subsection 1367(a), however, does not end the inquiry a district court is obliged to make with respect to permissive counterclaims. A trial court must consider whether any of the four grounds set out in subsection 1367(c) are present to an extent that would warrant the exercise of discretion to decline assertion of supplemental jurisdiction. Subsection 1367(c) provides:
 
-The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if ---
-
-> (1) the claim raises a novel or complex issue of State law,
->
-> (2) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
->
-> (3) the district court has dismissed all claims over which it has original jurisdiction, or
->
-> (4) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
+> The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if ---
+> 
+> (1\) the claim raises a novel or complex issue of State law,
+> 
+> (2\) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
+> 
+> (3\) the district court has dismissed all claims over which it has original jurisdiction, or
+> 
+> (4\) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
 
 We have indicated that, where at least one of the subsection 1367(c) factors is applicable, a district court should not decline to exercise supplemental jurisdiction unless it also determines that doing so would not promote the values articulated in Gibbs: economy, convenience, fairness, and comity.
 
@@ -593,11 +613,11 @@ In its Counterclaim, Exeter alleges that Ginwright breached the original contrac
 
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. §1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim, and that, in any event, its counterclaim is compulsory.
 
-[I. Legal Standard]{.case-h1}
+[I\. Legal Standard]{.case-h1}
 
 It is the burden of the party asserting jurisdiction to show that subject matter jurisdiction exists. Rule 12(b)(1) allows a party to move for dismissal when it believes that the claimant has failed to make that showing. When a plaintiff asserts that the facts alleged in a counterclaim are not sufficient to establish subject matter jurisdiction, the allegations in the counterclaim are assumed to be true under the same standard as in a Rule 12(b)(6) motion, and the motion must be denied if the counterclaim alleges sufficient facts to invoke subject matter jurisdiction.
 
-[II. Supplemental Jurisdiction]{.case-h1}
+[II\. Supplemental Jurisdiction]{.case-h1}
 
 In asserting its counterclaim, Exeter does not allege that the Court has federal question jurisdiction or diversity jurisdiction. Rather, Exeter asserts that jurisdiction is proper under the supplemental jurisdiction statute, 28 U.S.C. §1367. In determining whether a court has supplemental jurisdiction over a counterclaim, the United States Court of Appeals for the Fourth Circuit has traditionally distinguished between compulsory counterclaims, which must be stated by a defendant in its answer, and permissive counterclaims, which need not be. The Fourth Circuit has held that, absent an independent basis of jurisdiction, a federal court has supplemental jurisdiction over a compulsory counterclaim but not a permissive counterclaim.
 
@@ -607,7 +627,7 @@ Several courts of appeals have agreed with this view and have interpreted §1367
 
 In _Williams,_ the court offered a rationale for the continuing applicability of the Fourth Circuit rule based on the premise that §1367 did not materially alter the jurisdictional landscape applicable to this issue. The United States Supreme Court has stated that §1367 "codified" existing common law doctrines of pendent and ancillary jurisdiction "under a common heading" of supplemental jurisdiction. The pre-§1367 doctrine of pendent jurisdiction provided federal jurisdiction over claims that "derive from a common nucleus of operative fact" such that "the entire action before the court comprises but one constitutional 'case.'" In _International College of Surgeons,_ when the Court applied the "common nucleus of operative fact" test to conclude that there was supplemental jurisdiction under the "same case or controversy" requirement of §1367, it effectively equated the two tests. In _Williams,_ the court concluded that because the "common nucleus of operative fact" standard remains applicable after §1367, the Fourth Circuit rule of providing supplemental jurisdiction over compulsory counterclaims only, which was premised on that pre-§1367 standard, remains intact. Where the Fourth Circuit has not addressed whether §1367 altered the rule articulated in _Whigham_ and _Painter,_ the district courts within this circuit continue to adhere to that rule, and a principled basis exists for doing so, the Court declines to deviate from Fourth Circuit precedent and will continue to apply the rule that a federal court has supplemental jurisdiction over compulsory counterclaims only.
 
-[IV. 28 U.S.C. §1367(c)]{.case-h1}
+[IV\. 28 U.S.C. §1367(c)]{.case-h1}
 
 Even if the Court could exercise supplemental jurisdiction over a permissive counterclaim, the Court may decline to do so under certain circumstances. 28 U.S.C. §1367(c). Among those circumstances are where the "claim substantially predominates over the claims over which the court has original jurisdiction" and where, "in exceptional circumstances, there are other compelling reasons for declining jurisdiction." Here, the more fact-intensive breach of contract counterclaim, which may involve analysis of whether Exeter following state law requirements for repossession and resale, is likely to substantially predominate over the TCPA claim centered on whether Ginwright consented to receive telephone calls from Exeter on his cellular phone.
 
@@ -621,7 +641,7 @@ One view is that the "same case or controversy" requirement under §1367(a) is s
 
 The contrary view is that the "same case or controversy" requirement under §1367(a) and the "same transaction or occurrence" standard under Rule 13 are functionally equivalent. Under that view, supplemental jurisdiction over a permissive counterclaim is never allowed. See _Ginwright_.
 
-![Fig. 4.1]({{ site.baseurl }}/assets/casebook/img/joinder_smj.png)
+![Fig. 4.1](../img/joinder_smj.png)
 
 ### "Pendant Party" Claims: §1367(b)
 
@@ -683,13 +703,13 @@ It follows from this conclusion that the threshold requirement of §1367(a) is s
 
 ### Supplemental Jurisdiction Diagrams 
 
-![Supplemental Jurisdiction]({{ site.baseurl }}/assets/casebook/img/1367.png)
+![Supplemental Jurisdiction](../img/1367.png)
 
-![Supplemental Jurisdiction: Claims by Co-Plaintiffs]({{ site.baseurl }}/assets/casebook/img/1367b_Co-Plaintiffs.png)
+![Supplemental Jurisdiction: Claims by Co-Plaintiffs](../img/1367b_Co-Plaintiffs.png)
 
-![Supplemental Jurisdiction: Claims Against Co-Defendants]({{ site.baseurl }}/assets/casebook/img/1367b_Co-Defendants.png)
+![Supplemental Jurisdiction: Claims Against Co-Defendants](../img/1367b_Co-Defendants.png)
 
-![Joinder & Supplemental Jurisdiction]({{ site.baseurl }}/assets/casebook/img/joinder_smj.png)
+![Joinder & Supplemental Jurisdiction](../img/joinder_smj.png)
 
 ## Removal Jurisdiction
 
@@ -697,49 +717,48 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 
 ::: {.legal-code}
 
-#### [@1441_nd]
+#### 28 U.S.C. § 1441
 
-[Removal of civil actions]{.legal-code-h1}
+[Removal of civil actions]{.note-h1}
 
-(a) Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending ….
+(a\) Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending ….
 
-(b) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
-
-:::
-
-::: {.legal-code}
-
-#### [@1445_nd]
-
-[Nonremovable actions]{.legal-code-h1}[^sec1445]
-
-[^sec1445]: Interestingly, of the four types of action that are not removable, three involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C. §11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff opts to sue in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331.
-
-(a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C.§51–54, 55–60), may not be removed to any district court of the United States.
-
-(b) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49, may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
-
-(c) A civil action in any State court arising under the workmen's compensation laws of such State may not be removed to any district court of the United States.
-
-(d) A civil action in any State court arising under section 40302[In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender.]{.aside} of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
+(b\) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
 :::
 
 ::: {.legal-code}
 
-#### [@1447_nd]
+#### 28 U.S.C. § 1445
 
-[Procedure after removal generally]{.legal-code-h1}
+[Nonremovable actions]{.note-h1}
 
-(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
+(a\) A [Interestingly, of the four types of action that are not removable, three involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C. §11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff opts to sue in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331.]{.aside} civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C.§51–54, 55–60), may not be removed to any district court of the United States.
 
-(b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
+(b\) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49, may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
 
-(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+(c\) A civil action in any State court arising under the workmen's compensation laws of such State may not be removed to any district court of the United States.
 
-(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
+(d\) A civil action in any State court arising under section 40302[In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender.]{.aside} of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
+:::
+
+
+::: {.legal-code}
+
+#### 28 U.S.C. § 1447
+
+[Procedure after removal generally]{.note-h1}
+
+(a\) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
+
+(b\) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
+
+(c\) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+
+(d\) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
+
+(e\) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
 :::
 
@@ -781,4 +800,4 @@ The Keystone Supreme Court has held that a WPCL plaintiff may satisfy the first 
 
 Bombco disputes Eleanor’s wage claim on two grounds. First, Bombco contends that the Defense Contractor Wage Fairness Act does not apply to Eleanor’s job. Second, Bombco contends that, even if the DCWFA does apply, the proper SOC classification for Eleanor’s job is “Cutting Machine Operators, Metal & Plastic”, for which the local prevailing wage is only $20/hour. 
 
-_Does a federal court have subject-matter jurisdiction over Eleanor’s suit?_
+- _Does a federal court have subject-matter jurisdiction over Eleanor’s suit?_
