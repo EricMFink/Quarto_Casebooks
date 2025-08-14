@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "3f1d8748"
+  },
+  "01-Front/license.qmd": {
+    "license.html": "abbbd46a"
+  },
+  "01-Front/epigraph.qmd": {
+    "epigraph.html": "47243e3a"
+  },
+  "01-Front/preface.qmd": {
+    "preface.html": "dcd8307f"
+  },
+  "02-Main/chap1.qmd": {
+    "chap1.html": "33ae3d8a"
+  },
+  "02-Main/chap2.qmd": {
+    "chap2.html": "8fca6196"
+  },
+  "02-Main/chap3.qmd": {
+    "chap3.html": "05ed24f7"
+  },
+  "02-Main/chap4.qmd": {
+    "chap4.html": "471484d8"
+  },
+  "02-Main/chap5.qmd": {
+    "chap5.html": "3746ef91"
+  },
+  "02-Main/chap6.qmd": {
+    "chap6.html": "0b1c2017"
+  },
+  "02-Main/chap7.qmd": {
+    "chap7.html": "de742f2c"
+  },
+  "02-Main/chap8.qmd": {
+    "chap8.html": "65a420a0"
+  },
+  "03-Back/references.qmd": {
+    "references.html": "c560118b"
+  },
+  "03-Back/ack.qmd": {
+    "ack.html": "f62df4b3"
+  },
+  "03-Back/colophon.qmd": {
+    "colophon.html": "224afc67"
+  },
+  "404.qmd": {
+    "404.html": "6520ce7d"
+  }
+}
