@@ -2,53 +2,31 @@
 
 ## General Principles
 
-::: {.legal-code}
+#### Rest. (2d) of Judgments 
 
-#### Rest. (2d) of Judgments § 13
-
-[Requirement of Finality]{.legal-code--h1}
+[§ 13. Requirement of Finality]{.note-h1}
 
 The rules of res judicata are applicable only when a final judgment is rendered. However, for purposes of issue preclusion (as distinguished from merger and bar), "final judgment" includes any prior adjudication of an issue in another action that is determined to be sufficiently firm to be accorded conclusive effect.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 14 
-
-[Effective Date of Final Judgment]{.legal-code--h1}
+[§ 14. Effective Date of Final Judgment]{.note-h1}
 
 For purposes of res judicata, the effective date of a final judgment is the date of its rendition, without regard to the date of commencement of the action in which it is rendered or the action in which it is to be given effect.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 15
-
-[Inconsistent Judgments]{.legal-code--h1}
+[§ 15. Inconsistent Judgments]{.note-h1}
 
 When in two actions inconsistent final judgments are rendered, it is the later, not the earlier, judgment that is accorded conclusive effect in a third action under the rules of res judicata.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 16
-
-[Judgment Based Upon a Judgment That Is Subsequently Reversed]{.legal-code--h1}
+[§ 16. Judgment Based Upon a Judgment That Is Subsequently Reversed]{.note-h1}
 
 A judgment based on an earlier judgment is not nullified automatically by reason of the setting aside, or reversal on appeal, or other nullification of that earlier judgment; but the later judgment may be set aside, in appropriate proceedings, with provision for any suitable restitution of benefits received under it.
-
-:::
 
 ## Claim Preclusion
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments § 17
+#### Rest. (2d) of Judgments 
 
-[Effects of Former Adjudication—General Rules]{.legal-code--h1}
+[§ 17. Effects of Former Adjudication—General Rules]{.note-h1}
 
 A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
 
@@ -56,36 +34,18 @@ A valid and final personal judgment is conclusive between the parties, except on
 
 (2\) If the judgment is in favor of the defendant, the claim is extinguished and the judgment bars a subsequent action on that claim (see §19);
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 18
-
-[Judgment for Plaintiff—The General Rule of Merger]{.legal-code--h1}
+[§ 18. Judgment for Plaintiff—The General Rule of Merger]{.note-h1}
 
 When a valid and final personal judgment is rendered in favor of the plaintiff:
 
 (1\) The plaintiff cannot thereafter maintain an action on the original claim or any part thereof, although he may be able to maintain an action upon the judgment; and
 (2\) In an action upon the judgment, the defendant cannot avail himself of defenses he might have interposed, or did interpose, in the first action.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 19
-
-[Judgment for Defendant—The General Rule of Bar]{.legal-code--h1}
+[§ 19. Judgment for Defendant—The General Rule of Bar]{.note-h1}
 
 A valid and final personal judgment rendered in favor of the defendant bars another action by the plaintiff on the same claim.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 20
-
-[Judgment for Defendant—Exceptions to the General Rule of Bar]{.legal-code--h1}
+[§ 20. Judgment for Defendant—Exceptions to the General Rule of Bar]{.note-h1}
 
 (1\) A personal judgment for the defendant, although valid and final, does not bar another action by the plaintiff on the same claim:
 
@@ -97,25 +57,13 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 (2\) A valid and final personal judgment for the defendant, which rests on the prematurity of the action or on the plaintiff’s failure to satisfy a precondition to suit, does not bar another action by the plaintiff instituted after the claim has matured, or the precondition has been satisfied, unless a second action is precluded by operation of the substantive law.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 21
-
-[Judgment for Defendant on His Counterclaim]{.legal-code--h1}
+[§ 21. Judgment for Defendant on His Counterclaim]{.note-h1}
 
 (1\) Where the defendant interposes a counterclaim on which judgment is rendered in his favor, the rules of merger are applicable to the claim stated in the counterclaim, except as stated in Subsection (2).
 
 (2\) Where judgment on a counterclaim is rendered in favor of the defendant, but he is unable to obtain full recovery in the action because of the inability of the court to render such a judgment and the unavailability of such devices as removal to another court or consolidation with another action in the same court, the defendant is not precluded from subsequently maintaining an action for the balance due on the claim stated in the counterclaim.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 22
-
-[Effect of Failure to Interpose Counterclaim]{.legal-code--h1}
+[§ 22. Effect of Failure to Interpose Counterclaim]{.note-h1}
 
 (1\) Where the defendant may interpose a claim as a counterclaim but he fails to do so, he is not thereby precluded from subsequently maintaining an action on that claim, except as stated in Subsection (2).
 
@@ -125,13 +73,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 - (b\) The relationship between the counterclaim and the plaintiff’s claim is such that successful prosecution of the second action would nullify the initial judgment or would impair rights established in the initial action.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 23
-
-[Judgment for Plaintiff on Defendant’s Counterclaim]{.legal-code--h1}
+[§ 23. Judgment for Plaintiff on Defendant’s Counterclaim]{.note-h1}
 
 Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
 
@@ -306,9 +248,9 @@ We acknowledge the terrible reality that Mr. Johnson must have faced during the 
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments § 24
+#### Rest. (2d) of Judgments
 
-[Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting"]{.legal-code--h1}
+[§ 24. Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting"]{.note-h1}
 
 (1\) When a valid and final judgment rendered in an action extinguishes the plaintiff’s claim pursuant to the rules of merger or bar (see §§18, 19), the claim extinguished includes all rights of the plaintiff to remedies against the defendant with respect to all or any part of the transaction, or series of connected transactions, out of which the action arose.
 
@@ -316,13 +258,7 @@ We acknowledge the terrible reality that Mr. Johnson must have faced during the 
 
 The general rule of this Section is exemplified in §25, and is subject to the exceptions stated in §26.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 25
-
-[§Exemplifications of General Rule Concerning Splitting]{.legal-code--h1}
+[§ 25. §Exemplifications of General Rule Concerning Splitting]{.note-h1}
 
 The rule of §24 applies to extinguish a claim by the plaintiff against the defendant even though the plaintiff is prepared in the second action
 
@@ -541,9 +477,9 @@ As POW has established all three factors, the Court finds that all claims in thi
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments § 26 
+#### Rest. (2d) of Judgments
 
-[Exceptions to the General Rule Concerning Splitting]{.legal-code--h1}
+[ § 26 Exceptions to the General Rule Concerning Splitting]{.note-h1}
 
 (1\) When any of the following circumstances exists, the general rule of §24 does not apply to extinguish the claim, and part or all of the claim subsists as a possible basis for a second action by the plaintiff against the defendant:
 
@@ -625,31 +561,19 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments § 17
+#### Rest. (2d) of Judgments
 
-[Effects of Former Adjudication—General Rules]{.legal-code--h1}
+[§ 17. Effects of Former Adjudication—General Rules]{.note-h1}
 
 A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
 
 (3\) A judgment in favor of either the plaintiff or the defendant is conclusive, in a subsequent action between them on the same or a different claim, with respect to any issue actually litigated and determined if its determination was essential to that judgment (see §27).
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 27
-
-[Issue Preclusion—General Rule]{.legal-code--h1}
+[§ 27. Issue Preclusion—General Rule]{.note-h1}
 
 When an issue of fact or law is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, the determination is conclusive in a subsequent action between the parties, whether on the same or a different claim.
 
-:::
-
-::: {.legal-code}
-
-#### Rest. (2d) of Judgments § 28
-
-[Exceptions to the General Rule of Issue Preclusion]{.legal-code--h1}
+[§ 28. Exceptions to the General Rule of Issue Preclusion]{.note-h1}
 
 Although an issue is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, relitigation of the issue in a subsequent action between the parties is not precluded in the following circumstances:
 
@@ -922,9 +846,9 @@ For the foregoing reasons, we hold that an issue is "actually litigated" for pur
 
 ::: {.legal-code}
 
-#### Rest. (2d) of Judgments § 29 
+#### Rest. (2d) of Judgments
 
-[Issue Preclusion in Subsequent Litigation with Others]{.legal-code--h1}
+[§ 29. Issue Preclusion in Subsequent Litigation with Others]{.note-h1}
 
 A party precluded from relitigating an issue with an opposing party, in accordance with §§27 and 28, is also precluded from doing so with another person unless the fact that he lacked full and fair opportunity to litigate the issue in the first action or other circumstances justify affording him an opportunity to relitigate the issue. The circumstances to which considerations should be given include those enumerated in §28 and also whether:
 

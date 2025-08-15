@@ -80,34 +80,34 @@ A civil action is commenced by filing a complaint with the court.
 
 [Order Striking Complaint]{.case-judge}
 
-Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers". [See Fig. 1 below.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. [Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. [@Butterick2015] is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} The Court is not a cartoon. Accordingly, 
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers". [See Fig. 1 below. Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. [@Butterick2015] is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
 
 **IT IS ORDERED** that plaintiff's complaint is **STRICKEN**. Plaintiff is directed to file an amended complaint, containing the same allegations as the original complaint, without the cartoon dragon by no later than May 5, 2025. 
 
 **IT IS FURTHER ORDERED** that plaintiff shall not file any other documents with the cartoon dragon or other inappropriate content. 
 
-![Fig. 1]({{ site.baseurl }}/assets/casebook/img/DragonComplaint.jpg)
+![Fig. 1](../img/DragonComplaint.jpg){ width=75% }
 
 #### [@SmithSafemarineCorp2024]
 
 [SHELLY D. DICK, CHIEF DISTRICT JUDGE]{.case-judge}
 
-<p class="case-h1">I\. BACKGROUND</h1>
+[I\. BACKGROUND]{.case-h1}
 
 [Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability.]
 
-<p class="case-h1">II\. LAW AND ANALYSIS</h1>
+[II\. LAW AND ANALYSIS]{.case-h1}
 
-<p class="case-h2">A\. Legal Standards</h2>
+[A\. Legal Standards]{.case-h2}
 
-The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss: [See §3 Claims for Relief.]{.aside} "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
+The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss: "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do."[See §3 Claims for Relief.]{.aside} A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
 
 Rule 12(e) provides that a motion for more definite statement may be filed when "a pleading to which a responsive pleading is permitted is so vague or ambiguous that a party cannot reasonably be required to frame a responsive pleading." The standard for evaluating a motion for more definite statement is whether the complaint "is so excessively vague and ambiguous as to be unintelligible and as to prejudice the defendant seriously in attempting to answer it." Such motions are disfavored and granted sparingly. However, in the words of the Supreme Court, "if a pleading fails to specify the allegations in a manner that provides sufficient notice," then a Rule 12(e) motion may be appropriate. A party may not use a Rule 12(e) motion as a substitute for discovery; however, "if details are necessary in order to make a vague complaint intelligible, the fact that the details also are subject to the discovery process should not preclude their production under Rule 12(e)." 
 
 As other courts have noted, "the line between Rule 12(b)(6) and Rule 12(e)'s pleading standards is a blurry one." Regarding the relationship between the two, it has been observed that "an implausible claim may well be stated intelligibly enough to enable the framing of a response, and a plausible claim, which would survive a Rule 12(b)(6) motion, may be pleaded vaguely enough to make response impossible, which would make it vulnerable to a Rule 12(e) motion." 
 
-<p class="case-h2">B\. Plaintiff's Allegations</h2>
+[B\. Plaintiff's Allegations]{.case-h2}
 
 In separate paragraphs, Plaintiff's Petition for Damages [The plaintiff originally filed his suit in Louisiana state court, where "Petition for Damages" is the term used for a civil complaint. The case was removed to federal court based on diversity of citizenship.]{.aside} identifies and introduces each Defendant by name and corporate status, as well as their addresses and agents for service of process. Apart from the singular introductory paragraphs, there is no additional information in the Petition regarding ARTCO or ADM. As to the other moving Defendants, Plaintiff additionally alleges that Riverside and Phoenix Bulk, "either individually, collectively, or in combination ... owned, operated, assumed contractual responsibility, or otherwise exercised significant control over the M/V EVA PARIS and/or its shipment of bulk concrete, to which Plaintiff was assigned and aboard which Plaintiff was injured." 
 
@@ -169,21 +169,21 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant)[^claims1] who asserts a claim, counterclaim, crossclaim, or third-party claim.
 
-[^claims1]: The rules governing counterclaims, crossclaims, and third-party claims are covered in Chapter 4 (Joinder).
+[^claims1]: The rules governing counterclaims, crossclaims, and third-party claims are covered in Chapter 2 (Joinder).
 
 A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". Fed. R. Civ. P. Rule 12(b)(6).[^claims2] A claim may be dismissed on this basis for either factual or legal insufficiency:
 
 [^claims2]: See §4 Responsive Pleadings. 
 
-- A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
+- {{< bi dot >}} A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 
-- A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
+- {{< bi dot >}} A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
 
 In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(a)(2) to establish a "notice pleading" pleading standard, requiring only that the plaintiff "give the defendant fair notice of what the claim is and the grounds upon which it rests," without the necessity for detailed factual allegations. This standard rested on the structure of the Federal Rules of Civil Procedure, under which the assertion of claims and the disclosure of facts are allocated to separate phases of a suit. At the pleading stage, "a complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief." The discovery rules then give the parties an opportunity to establish the facts in full. 
 
 A half-century later, a pair of Supreme Court decisions jettisoned the _Conley_ "no set of facts" standard and adopted a more demanding approach. 
 
-[1\. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)]{.case-h2}
+[Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)]{.note-h1}
 
 In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. §1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint[You can read the complaint [here](../exhibits/Twombly-complaint.pdf).]{.aside} alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
 
@@ -197,7 +197,7 @@ The Court held that the allegations in the complaint were insufficient to state 
  
 To assess whether the inference of an agreement was plausible, the majority considered "an obvious alternative explanation": While the alleged parallel conduct was "consistent with conspiracy," it was, in the majority's view, "as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market." Finding that "the plaintiffs here have not nudged their claims across the line from conceivable to plausible," the majority concluded that "their complaint must be dismissed."
 
-[2\. Ashcroft v. Iqbal, 556 U.S. 662 (2009)]{.case-h2}
+[Ashcroft v. Iqbal, 556 U.S. 662 (2009)]{.note-h1}
 
 Javaid Iqbal sued various federal government officials, including former Attorney General John Ashcroft and FBI Director Robert Mueller, over his arrest and detention as a "a person 'of high interest' to the September 11 investigation". Iqbal, a citizen of Pakistan and a Muslim, alleged that Ashcroft and Mueller "adopted an unconstitutional policy that subjected him to harsh conditions of confinement on account of his race, religion, or national origin." 
 
@@ -243,7 +243,7 @@ Williams brought a claim of retaliation for the exercise of his First and Sixth 
 
 Considering the facts as pled, Williams has adequately alleged that the officers' intentional misrepresentation on the accident report would likely deter him from recording police activity and defending himself at trial in the future. Therefore, we reverse the district court's dismissal of his retaliation claim. Having thus found a plausible constitutional violation at this stage, we vacate the court's dismissal of his conspiracy claim and remand the claim for reconsideration consistent with this opinion. Finally, we vacate the court's dismissal of Williams' IIED claims, which are also remanded for consideration consistent with this opinion.
 
-<p class="case-h1">I.</h1>
+[I.]{.case-h1}
 
 The following facts were alleged in Williams' Second Amended Complaint. In January 2020, Brandon Williams was detained by Norfolk, Virginia, police officer John D. McClanahan on a misdemeanor trespassing charge. Williams recorded his interaction with McClanahan. At trial on the trespassing charge, McClanahan testified falsely and Williams was convicted. Williams appealed his conviction and used his recording to show that McClanahan had lied under oath. The appeals court heard Williams' argument and dismissed the charges against him on September 15, 2020, recognizing that he never should have been prosecuted. 
 
@@ -251,7 +251,7 @@ On September 30, 2020, Williams was seriously injured in a car accident in Norfo
 
 Despite information from eyewitnesses, a debris field showing a high-impact accident, and Aman's blood alcohol level, police officers falsely stated on the accident report that Aman was driving the speed limit, had not been drinking, and that his car had suffered a steering defect. This was allegedly done with the intent to deny Williams his rights by minimizing the accident and deflecting blame from Aman. 
 
-<p class="case-h1">II.</h1>
+[II.]{.case-h1}
 
 As for his retaliation claim, Williams alleged in the operative complaint that "by recording McClanahan during his arrest on the trespassing charge, and by pointing out that McClanahan had lied during his testimony on the charge, Williams was exercising his First Amendment rights." He continued that "by insisting on a trial of the trespassing charge and by challenging the testimony of McClanahan, Williams was exercising his Sixth Amendment rights." Williams claimed that Defendants "intentionally retaliated against him for the exercise of his rights by misrepresenting facts on the accident report ... because they realized that he was the person who 'gave McClanahan a ration of shit,'" and they "did so with the intent to deprive Williams of his property right to bring a claim for the injuries from the accident by trying to minimize the accident and deflect blame from Aman." As a result of Defendants' actions, "Williams has suffered both physical and emotional injuries which have included sleep disturbance, actual physical pain, and a significant exacerbation of post-traumatic stress disorder." 
 
@@ -259,15 +259,15 @@ Regarding conspiracy, Williams alleged that "Defendants acted jointly and in con
 
 Williams also brought two IIED claims, one related to McClanahan's perjury, and the second related to the Defendants' conduct at the accident scene. He alleged that both incidents have caused him physical and emotional injuries. ims.
 
-<p class="case-h1">III.</h1>
+[III.]{.case-h1}
 
 We review a district court's dismissal under Rule 12(b)(6) _de novo_ and view the complaint in the light most favorable to the plaintiff, accepting as true all well-pleaded allegations. 
 
-<p class="case-h1">IV.</h1>
+[IV.]{.case-h1}
 
 Before us on appeal is the district court's dismissal of Williams' retaliation, conspiracy, and IIED claims, which will each be addressed in turn.
 
-<p class="case-h2">A.</h2>
+[A.]{.case-h2}
 
 A plaintiff seeking to recover for First and Sixth Amendment retaliation must allege that (1) he engaged in protected activity, (2) the defendant took some action that adversely affected his constitutional rights, and (3) there was a causal relationship between his protected activity and the defendant's conduct. We begin by addressing the first and third elements, which are straightforwardly satisfied.
 
@@ -289,7 +289,7 @@ Viewed in the light most favorable to Williams and at this stage of the proceedi
 
 Williams has thus alleged a First and Sixth Amendment retaliation claim sufficient to survive a motion to dismiss, and the district court's opinion granting Defendants' motions on this claim must be reversed.
 
-<p class="case-h2">B.</h2>
+[B.]{.case-h2}
 
 To state a claim for civil conspiracy under 42 U.S.C. §1983, a plaintiff must allege that defendants "acted jointly in concert and that some overt act was done in furtherance of the conspiracy which resulted in [his] deprivation of a constitutional right."
 
@@ -297,7 +297,7 @@ The district court's analysis on this claim "began, and ended," with whether Def
 
 Having found that Williams has adequately alleged the deprivation of a constitutional right—that being his claim of First and Sixth Amendment retaliation— Williams' conspiracy claim should be remanded to the district court for reconsideration.
 
-<p class="case-h1">V.</h1>
+[V.]{.case-h1}
 
 For the foregoing reasons, we reverse the district court's dismissal of Williams' retaliation claim. We vacate the court's dismissal of Williams' conspiracy and IIED claims and remand those claims for reconsideration consistent with this opinion.
 
@@ -1210,11 +1210,11 @@ As a result of this incident, Mackendrick has lost all of the toes on his left f
 
 Mackendrick hires you to represent him in a suit over his injury. You conclude that Mackendrick has two viable claims: 
 
-> A claim against Sadler for her negligence in operating the mower. Under the applicable law, this claim requires that the plaintiff show (1) that the defendant breached a duty of care owed to the plaintiff, (2) that the plaintiff suffered harm, and (3) that the defendant's breach was the proximate cause of the plaintiff's injury. 
-> 
-> A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence ("respondeat superior"). Under the applicable law, this claim requires that the plaintiff show that (1) the plaintiff was injured by an employee of the defendant, (2) that the employee was acting within the scope of their employment, and (3) that the employee's activity benefitted the employer.
+1. A claim against Sadler for her negligence in operating the mower. Under the applicable law, this claim requires that the plaintiff show (1) that the defendant breached a duty of care owed to the plaintiff, (2) that the plaintiff suffered harm, and (3) that the defendant's breach was the proximate cause of the plaintiff's injury. 
 
-What facts must you allege in the complaint to satisfy the pleading requirements under the FRCP? Are there any additional facts, beyond those provided above, that you would need? 
+2. A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence ("respondeat superior"). Under the applicable law, this claim requires that the plaintiff show that (1) the plaintiff was injured by an employee of the defendant, (2) that the employee was acting within the scope of their employment, and (3) that the employee's activity benefitted the employer.
+
+_What facts must you allege in the complaint to satisfy the pleading requirements under the FRCP? Are there any additional facts, beyond those provided above, that you would need?_
 
 [Question 2]{.note-h1}
 

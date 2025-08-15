@@ -1,6 +1,8 @@
 # Sources {.unnumbered}
 
-## Cases
+### Cases
+
+### Books, Articles, & Other Publications
 
 ::: {#refs}
 :::

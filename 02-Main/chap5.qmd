@@ -344,17 +344,17 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 > Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions [sic], when, in fact:
 > 
-> - Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> {{< bi dot >}} Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
 > 
-> - Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> {{< bi dot >}} Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
 > 
-> - Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> {{< bi dot >}} Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
 > 
-> - Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+> {{< bi dot >}} Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
 >  
-> - Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+> {{< bi dot >}} Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
 >  
-> - Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> {{< bi dot >}} Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -449,8 +449,8 @@ After reading the ad, Carlill buys a Carbolic Smoke Ball and uses it as directed
 
 Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges that Carbolic's ad made false claims about the health benefits of the Smoke Ball, that Carbolic knew those claims were false, and that Carbolic made those claims with an intent to induce consumers to buy the product. In the complaint, Carlill requests the following relief:  
 
-- $80,000 in punitive and compensatory damages, and 
-- a permanent injunction prohibiting Carbolic from making false claims about the Carbolic Smoke Ball's health benefits.
+1. $80,000 in punitive and compensatory damages, and 
+2. a permanent injunction prohibiting Carbolic from making false claims about the Carbolic Smoke Ball's health benefits.
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 

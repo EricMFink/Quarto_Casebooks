@@ -6,9 +6,9 @@
 
 #### Fed. R. Civ. P. Rule 56
 
-(a\) Motion for Summary Judgment or Partial Summary Judgment. A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
+(a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 
-(g\) Failing to Grant All the Requested Relief. If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
+(g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
 
 :::
 
@@ -126,7 +126,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 (c\) Procedures.
 
-- (1\) Supporting Factual Positions. A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
+- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
 
 	- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
 
@@ -138,7 +138,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 - (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
 
-(d\) When Facts Are Unavailable to the Nonmovant. If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
+(d\) _When Facts Are Unavailable to the Nonmovant._ If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
 
 - (1\) defer considering the motion or deny it;
 
@@ -146,7 +146,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 - (3\) issue any other appropriate order.
 
-(e\) Failing to Properly Support or Address a Fact. If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
+(e\) _Failing to Properly Support or Address a Fact._ If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
 
 - (1\) give an opportunity to properly support or address the fact;
 
@@ -198,11 +198,11 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 The parties may seek further information through various discovery methods: 
 
-- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
-- _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
-- _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
-- _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
-- _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
+- {{< bi dot >}} _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
+- {{< bi dot >}} _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
+- {{< bi dot >}} _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
+- {{< bi dot >}} _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
+- {{< bi dot >}} _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
 
 _Rule 26(b)(1)_ defines the scope of discovery: 
 
@@ -272,23 +272,23 @@ The district court concluded that Montgomery and Stout "have not presented any e
 
 On appeal, Montgomery and Stout detail the evidence they claim demonstrates Officer Vincent's discriminatory intent and unequal treatment:
 
-- They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
-
-- They are both black.
-
-- They were driving a Lexus SUV.
-
-- Stout believed "they were being held because they are African American and for no other reason."
-
-- Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
-
-- Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
-
-- No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
-
-- They both stated there was no marijuana in the car that day.
-
-- On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
+> - {{< bi dot >}} They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
+> 
+> - {{< bi dot >}} They are both black.
+> 
+> - {{< bi dot >}} They were driving a Lexus SUV.
+> 
+> - {{< bi dot >}} Stout believed "they were being held because they are African American and for no other reason."
+> 
+> - {{< bi dot >}} Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
+> 
+> - {{< bi dot >}} Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
+> 
+> - {{< bi dot >}} No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
+> 
+> - {{< bi dot >}} They both stated there was no marijuana in the car that day.
+> 
+> - {{< bi dot >}} On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
 
 In light of this evidence, Montgomery and Stout argue that the district court misapplied the summary judgment standard when it concluded that they failed to raise a genuine issue of material fact. They stress that, after the Supreme Court's decision in _Tolan,_ this evidence must be viewed as a whole, and not in individual pieces. And the evidence must be viewed in a light most favorable to them.
 
@@ -340,13 +340,13 @@ Julius Hahn, founder and president of Hahn, Inc., testified that his company man
 
 Mebelmacher generally furnishes Hahn with a pencil sketch of the furniture design, as well as a working sketch giving the actual dimensions of the piece and specifying the exterior material to be used. The Swivel Tub Chair was designed so that the chrome veneer edge would be flush with the plywood and the edges of the veneer would be sanded down. Chrome veneer is sharp because it is thin. However, the chair was not designed to have sharp edges. Hahn considers a sharp edge to be a manufacturing defect, not a design defect. Nothing prevented the placement of a protective trim along the bottom of the Swivel Tub Chair. Plastic edge guards have been added to similar chairs in the last few years.
 
-*** 
+[{{< bi three-dots >}}]{.center-icon}
 
 Under the applicable state law, the elements of Schlimazel’s claim is as follows:
 
-- The defendant designed the product; 
-- The product's design rendered it unreasonably dangerous in its normal intended use;
-- The defective design was the proximate cause of the plaintiff’s injuries.
+1. The defendant designed the product; 
+2. The product's design rendered it unreasonably dangerous in its normal intended use;
+3. The defective design was the proximate cause of the plaintiff’s injuries.
 
 Also under the applicable law, the defendant in a product liability suit based on an alleged design defect may assert, as an affimative defense, that the dangerous condition of the product resulted from the manufacturing process, not the design itself. 
 
