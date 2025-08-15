@@ -454,6 +454,12 @@ footer.footer .nav-footer, #quarto-header > nav {
 .theme-color {
     color: #8c2e24;
 }
+.link-color { 
+    color: #8c2e24;
+}
+.contrast {
+    color: #8c2e24;
+}
 .center-icon {
     color: #8c2e24;
 	text-align: center;
@@ -463,13 +469,25 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 
 /* Span Styles */
-.margin-note-style { 
+.margin-note { 
 	font-family: "Adelle-Sans",sans-serif;
     color: #006400;
 	font-weight: 300;
 }
-.small-size {
+.large {
+    font-size: 1.3rem;
+}
+.larger {
+    font-size: 1.5rem;
+}
+.largest {
+    font-size: 1.7rem;
+}
+.small {
     font-size: 0.9rem;
+}
+.smaller {
+    font-size: 0.8rem;
 }
 .center {
 	text-align: center;
@@ -480,6 +498,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .mono-face {
     font-family: "LFT-Etica Mono",monospace;
+    font-size: 0.9rem;
     font-weight: 400;
     font-style: normal;
 }
