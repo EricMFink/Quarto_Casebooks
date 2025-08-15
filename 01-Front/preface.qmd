@@ -28,14 +28,14 @@ You can also navigate forwards and backwards using the arrows at the bottom of e
 
 Numbered sidenotes[^sidenote] are used in place of footnotes (with original source material note numbers indicated in parentheses). 
 
-Unnumbered margin notes [This is an example of a margin note.]{.aside} ([green sans-serif typeface]{.margin-note}) are used for editor's comments within cases and other source material. 
+Unnumbered margin notes [This is an example of a margin note.]{.aside} ([green sans-serif typeface]{.margin-note-style}) are used for editor's comments within cases and other source material. 
 
 [^sidenote]: This is an example of a sidenote. 
 
 Links to external material are indicated by dark red text, e.g. [Mayo v. Satan](../exhibits/Mayo_Satan.pdf).
 
-Click on the [{{< bi file-pdf >}}]{.link-color} icon to download a PDF copy of the casebook.
+Click on the [{{< bi file-pdf >}}]{.theme-color} icon to download a PDF copy of the casebook.
 
-Click on the [{{< bi github >}}]{.link-color} icon to view the source code or report issues.[^issues]
+Click on the [{{< bi github >}}]{.theme-color} icon to view the source code or report issues.[^issues]
 
 [^issues]: Issue reporting requires a [GitHub](https://github.com/) account. It's free and a useful resource.

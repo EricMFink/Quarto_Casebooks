@@ -454,12 +454,6 @@ footer.footer .nav-footer, #quarto-header > nav {
 .theme-color {
     color: #8c2e24;
 }
-.link-color { 
-    color: #8c2e24;
-}
-.contrast {
-    color: #8c2e24;
-}
 .center-icon {
     color: #8c2e24;
 	text-align: center;
@@ -469,25 +463,13 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 
 /* Span Styles */
-.margin-note { 
+.margin-note-style { 
 	font-family: "Adelle-Sans",sans-serif;
     color: #006400;
 	font-weight: 300;
 }
-.large {
-    font-size: 1.3rem;
-}
-.larger {
-    font-size: 1.5rem;
-}
-.largest {
-    font-size: 1.7rem;
-}
-.small {
+.small-size {
     font-size: 0.9rem;
-}
-.smaller {
-    font-size: 0.8rem;
 }
 .center {
 	text-align: center;

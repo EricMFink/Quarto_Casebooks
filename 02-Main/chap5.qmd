@@ -20,9 +20,9 @@ The Rules of Decision Act applies to cases in which federal courts hear claims t
 
 - [Summary of Facts]{.note-h3}
 
-- [_George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_]{.small}
+- [_George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_]{.small-size}
 
-- [_Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._]{.small}
+- [_Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._]{.small-size}
 
 [^Swiftb]: A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange).
 
