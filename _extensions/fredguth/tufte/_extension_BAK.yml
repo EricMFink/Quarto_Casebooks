@@ -53,13 +53,17 @@ contributes:
               <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
               <meta name="robots" content="noarchive">
       pdf:
+        documentclass: tufte-book
+        classoption: [sfsidenotes]
+        output-file: CivProCasebook
+        number-sections: true
+        number-depth: 3
+        toc-depth: 4
+        toc-title: "Contents"
+        indent: 0px
         reference-location: margin
         citation-location: margin
         fig-cap-location: bottom
-        documentclass: tufte-book
-        classoption: [sfsidenotes]
-        number-sections: true
-        number-depth: 3
         format-resources:
           - tufte-book.cls
           - tufte-common.def
@@ -72,9 +76,6 @@ contributes:
           - "partials/definitions.tex"
         include-after-body: #adds
           - "partials/after-body.tex"
-        toc-depth: 4
-        toc-title: "Contents"
-        indent: 0px
         cite-method: citeproc
         mainfont: "Literata"
         sansfont: "Adelle Sans"

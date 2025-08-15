@@ -52,3 +52,88 @@ contributes:
               <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
               <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
               <meta name="robots" content="noarchive">
+      pdf:
+        documentclass: tufte-book
+        classoption: [sfsidenotes]
+        output-file: CivProCasebook
+        number-sections: true
+        number-depth: 3
+        toc-depth: 4
+        toc-title: "Contents"
+        indent: 0px
+        reference-location: margin
+        citation-location: margin
+        fig-cap-location: bottom
+        format-resources:
+          - tufte-book.cls
+          - tufte-common.def
+          - tufte.bst
+        template-partials: # replaces
+          - "partials/title.tex"
+          - "partials/before-body.tex"
+        include-in-header: #adds
+          - "partials/in-header.tex"
+          - "partials/definitions.tex"
+        include-after-body: #adds
+          - "partials/after-body.tex"
+        cite-method: citeproc
+        mainfont: "Literata"
+        sansfont: "Adelle Sans"
+        sansfontoptions: "Scale=MatchUppercase"
+        default-image-extension: png
+    filters:
+      - latex-environment
+    environments: 
+      case-judge: case-judge-env
+      case-h1: case-h1-env
+      case-h2: case-h2-env
+      case-h3: case-h3-env
+      case-h4: case-h4-env
+      case-h5: case-h5-env
+      notes-h1: notes-h1-env
+      notes-h2: notes-h2-env
+      notes-h3: notes-h3-env
+      notes-h4: notes-h4-env
+      license-i: license-i-env
+      license-h2: license-h2-env
+      license-h3: license-h3-env
+      license-h4: license-h4-env
+      epigraph-quote: epigraph-quote-env
+      epigraph-citation: epigraph-citation-env
+      preface-h2: preface-h2-env
+      preface-h3: preface-h3-env
+      center-icon: center-icon-env
+      center-icon-large: center-icon-large-env
+      theme-color: theme-color-env
+      margin-note-style: margin-note-env
+      small-size: small-size-env
+      center: center-env-env
+      mono-face: mono-env-env
+      sans-serif: sans-env-env
+    commands: 
+      case-judge: case-judge-command 
+      case-h1: case-h1-command 
+      case-h2: case-h2-command 
+      case-h3: case-h3-command 
+      case-h4: case-h4-command 
+      case-h5: case-h5-command 
+      notes-h1: notes-h1-command 
+      notes-h2: notes-h2-command 
+      notes-h3: notes-h3-command 
+      notes-h4: notes-h4-command 
+      license-i: license-i-command 
+      license-h2: license-h2-command 
+      license-h3: license-h3-command 
+      license-h4: license-h4-command 
+      epigraph-quote: epigraph-quote-command 
+      epigraph-citation: epigraph-citation-command 
+      preface-h2: preface-h2-command 
+      preface-h3: preface-h3-command 
+      center-icon: center-icon-command 
+      center-icon-large: center-icon-large-command 
+      theme-color: theme-color-command 
+      margin-note-style: margin-note-command 
+      small-size: small-size-command 
+      center: center-env-command 
+      mono-face: mono-env-command 
+      sans-serif: sans-env-command
