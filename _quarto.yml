@@ -8,6 +8,7 @@ book:
   site-url: "https://www.emfink.net/CivProCasebook/"
   output-file: "CivProCasebook"
   title: "Civil Procedure"
+  title-short: "Civil Procedure"
   subtitle: An Open-Source Casebook
   author:
   - name: Eric M. Fink
