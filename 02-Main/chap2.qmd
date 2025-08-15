@@ -6,15 +6,15 @@
 
 #### Fed. R. Civ. P. Rule 18
 
-::: {.legal-code}
+
 
 (a\) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
 
 (b\) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
 
-:::
 
-::: {.legal-code}
+
+
 
 #### Fed. R. Civ. P. Rule 42
 
@@ -28,7 +28,7 @@
 
 (b\) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
 
-:::
+
 
 #### [@BurdineMetropolitanDirect2018]
 
@@ -74,7 +74,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 #### Fed. R. Civ. P. Rule 20
 
-::: {.legal-code}
+
 
 (a\) Persons Who May Join or Be Joined.
 
@@ -94,7 +94,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 (b\) Protective Measures. The court may issue orders---including an order for separate trials---to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
 
-:::
+
 
 #### [@MosleyGeneralMotors1980]
 
@@ -148,7 +148,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 #### Fed. R. Civ. P. Rule 13
 
-::: {.legal-code}
+
 
 (a\) Compulsory Counterclaim.
 
@@ -168,7 +168,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
-::: 
+ 
 
 #### [@JonesFordMotor2004]
 
@@ -353,13 +353,13 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 #### Fed. R. Civ. P. Rule 13
 
-::: {.legal-code}
+
 
 (g\) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
 
 (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
-::: 
+ 
 
 #### [@KirkcaldyRichmondCounty2002]
 
@@ -411,7 +411,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 #### Fed. R. Civ. P. Rule 14
 
-::: {.legal-code}
+
 
 (a\) When a Defending Party May Bring in a Third Party.
 
@@ -435,7 +435,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 (b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
-::: 
+ 
 
 ![Fig. 2.1: Third Party Claims Under Rule 14](../img/Rule14.png){width="90%"}
 
@@ -572,7 +572,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 #### Fed. R. Civ. P. Rule 19
 
-::: {.legal-code}
+
 
 (a\) Persons Required to Be Joined if Feasible.
 
@@ -612,7 +612,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 - (2\) the reasons for not joining that person.
 
-::: 
+ 
 
 #### [@CamachoMajorLeague2013]
 
@@ -740,7 +740,7 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 #### Fed. R. Civ. P. Rule 24
 
-::: {.legal-code}
+
 
 (a\) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
 
@@ -758,7 +758,7 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 - (3\) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
 
-::: 
+ 
 
 #### [@BuckGordon2020]
 

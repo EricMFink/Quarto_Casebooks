@@ -2,7 +2,7 @@
 
 ## The Rules of Decision Act
 
-::: {.legal-code}
+
 
 #### The Rules Enabling Act, 28 U.S.C. § 1652
 
@@ -10,7 +10,7 @@
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
-:::
+
 
 ##### Note: "The Laws of the Several States"
 
@@ -223,7 +223,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## The Rules Enabling Act
 
-::: {.legal-code}
+
 
 #### The Rules Enabling Act, 28 U.S.C. §2071
 
@@ -235,7 +235,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 (c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 
-:::
+
 
 #### [@HannaPlumer1967]
 

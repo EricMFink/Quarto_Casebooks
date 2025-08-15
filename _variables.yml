@@ -1,0 +1,14 @@
+version: 1.0
+
+subject: Civil Procedure
+path: CivProCasebook
+
+author:
+- name: Eric M. Fink
+  email: efink@elon.edu
+  affiliations:
+    - name: Elon University School of Law
+      address: 201 North Greene Street
+      city: Greensboro
+      state: North Carolina
+      postal-code: 27278

@@ -2,7 +2,7 @@
 
 #### Cases
 
-#### Books, Articles, & Other Publications
-
 ::: {#refs}
 :::
+
+#### Books, Articles, & Other Publications

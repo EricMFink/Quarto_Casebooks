@@ -542,7 +542,7 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
 
 **18 U.S. Code §2334 - Jurisdiction and venue** [The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."]{.aside}
 
-::: {.legal-code}
+
 
 > (e\) Consent of Certain Parties to Personal Jurisdiction.
 > 
@@ -562,7 +562,7 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
 > 
 > 		- (iii\) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
  
-:::
+
 
 After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the Court concluded: 
 
@@ -951,7 +951,7 @@ Enumerated long-arm statutes identify particular circumstances in which a state'
 
 **NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.**
 
-::: {.legal-code}
+
 
 > (a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
 > 
@@ -977,7 +977,7 @@ Enumerated long-arm statutes identify particular circumstances in which a state'
 > 
 > - 2\. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
 
-:::
+
 
 [{{< fa section >}}]{.center-icon}
 

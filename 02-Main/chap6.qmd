@@ -2,7 +2,7 @@
 
 ## Pleading Under the FRCP
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 3
 
@@ -38,11 +38,11 @@ A civil action is commenced by filing a complaint with the court.
 
 - (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-:::
+
 
 ## Form of Pleadings
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 8
 
@@ -74,7 +74,7 @@ A civil action is commenced by filing a complaint with the court.
 
 - (2\) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
 
-:::
+
 
 #### [@DoeClintonCounty2025]
 
@@ -125,7 +125,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ## Claims for Relief
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 8
 
@@ -137,9 +137,9 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 - (3\) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
-:::
 
-::: {.legal-code}
+
+
 
 #### Fed. R. Civ. P. Rule 9
 
@@ -163,7 +163,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 (g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
-:::
+
 
 ### Assessing the Sufficiency of a Claim
 
@@ -347,7 +347,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 ## Responsive Pleadings
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 8
 
@@ -411,9 +411,9 @@ Although the analysis of the control element does not depend on the presence or 
   
 - (2\) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
-:::
 
-::: {.legal-code}
+
+
 
 #### Fed. R. Civ. P. Rule 12
 
@@ -435,7 +435,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
 
-:::
+
 
 ### Denials & Affirmative Defenses
 
@@ -521,7 +521,7 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ### Timing, Waiver, & Preservation of Defenses 
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 12
 
@@ -575,11 +575,11 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 - (3\) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
 
-:::
+
 
 ## Amended Pleadings
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 15
 
@@ -615,7 +615,7 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 		- (ii\) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
 
-:::
+
 
 ### When Amendments are Allowed
 
@@ -797,7 +797,7 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 ## Truthfulness & Good Faith
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 11
 
@@ -835,7 +835,7 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 (d\) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37.
 
-:::
+
 
 #### [@TurtonVirginiaDepartment2015]
 

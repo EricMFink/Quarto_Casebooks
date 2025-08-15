@@ -2,7 +2,7 @@
 
 ## Standard for Summary Judgment
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 56
 
@@ -10,7 +10,7 @@
 
 (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
 
-:::
+
 
 #### [@CraneCityArlington2022]
 
@@ -120,7 +120,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ## Burden of Production 
 
-::: {.legal-code}
+
 
 #### Fed. R. Civ. P. Rule 56
 
@@ -156,7 +156,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 - (4\) issue any other appropriate order.
 
-:::
+
 
 ##### Note: "Materials in the Record": Discovery 
 
@@ -164,7 +164,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 [Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-::: {.legal-code}
+
 
 [Fed. R. Civ. P. Rule 26(a)]{.note-h1}
 
@@ -194,7 +194,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 	- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
 
-:::
+
 
 The parties may seek further information through various discovery methods: 
 

@@ -22,7 +22,7 @@ A judgment based on an earlier judgment is not nullified automatically by reason
 
 ## Claim Preclusion
 
-::: {.legal-code}
+
 
 #### Rest. (2d) of Judgments 
 
@@ -77,7 +77,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
 
-:::
+
 
 ### Judgment on the Merits
 
@@ -246,7 +246,7 @@ We acknowledge the terrible reality that Mr. Johnson must have faced during the 
 
 ### Same Claim
 
-::: {.legal-code}
+
 
 #### Rest. (2d) of Judgments
 
@@ -266,7 +266,7 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 
 (2\) To seek remedies or forms of relief not demanded in the first action.
 
-:::
+
 
 #### [@HernandezAssetAcceptance2013]
 
@@ -475,7 +475,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 
 ### Exceptions
 
-::: {.legal-code}
+
 
 #### Rest. (2d) of Judgments
 
@@ -495,7 +495,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 
 - (f\) It is clearly and convincingly shown that the policies favoring preclusion of a second action are overcome for an extraordinary reason, such as the apparent invalidity of a continuing restraint or condition having a vital relation to personal liberty or the failure of the prior litigation to yield a coherent disposition of the controversy.
 
-:::
+
 
 #### [@PassaroVirginia2019]
 
@@ -559,7 +559,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ## Issue Preclusion
 
-::: {.legal-code}
+
 
 #### Rest. (2d) of Judgments
 
@@ -587,7 +587,7 @@ Although an issue is actually litigated and determined by a valid and final judg
 
 (5\) There is a clear and convincing need for a new determination of the issue (a\) because of the potential adverse impact of the determination on the public interest or the interests of persons not themselves parties in the initial action, (b\) because it was not sufficiently foreseeable at the time of the initial action that the issue would arise in the context of a subsequent action, or (c\) because the party sought to be precluded, as a result of the conduct of his adversary or other special circumstances, did not have an adequate opportunity or incentive to obtain a full and fair adjudication in the initial action.
 
-:::
+
 
 #### [@NationalSatelliteSports2001]
 
@@ -844,7 +844,7 @@ For the foregoing reasons, we hold that an issue is "actually litigated" for pur
 
 ### Non-Mutual Issue Preclusion
 
-::: {.legal-code}
+
 
 #### Rest. (2d) of Judgments
 
@@ -868,7 +868,7 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 
 (8\) Other compelling circumstances make it appropriate that the party be permitted to relitigate the issue.
 
-:::
+
 
 #### [@ParklaneHosieryCo1978]
 

@@ -12,7 +12,7 @@ Before the law sits a gatekeeper. To this gatekeeper comes a man from the countr
 
 #### U.S. Constitution, Article III
 
-::: {.legal-code}
+
 
 [Section 1]{.note-h2}
 
@@ -24,7 +24,7 @@ The judicial power shall extend to all cases, in law and equity, arising under t
 
 In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
 
-:::
+
 
 #### [@aousc_nd]
 
@@ -210,7 +210,7 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 #### The Rules Enabling Act, 28 U.S.C. §2071 et seq.
 
-::: {.legal-code}
+
 
 [§2071--Rule-making power generally]{.note-h1}
 
@@ -264,9 +264,9 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 (b\) Any such rule creating, abolishing, or modifying an evidentiary privilege shall have no force or effect unless approved by Act of Congress.
 
-:::
 
-::: {.legal-code}
+
+
 
 #### Fed. R. Civ. P. Rule 1
 
@@ -274,7 +274,7 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
 
-:::
+
 
 #### Fed. R. Civ. P. Rule 2
 

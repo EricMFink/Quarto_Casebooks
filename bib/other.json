@@ -1,0 +1,883 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 30,
+      "auxImport": false,
+      "baseAttachmentPath": "/home/efink/Notes/Zotero",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": false,
+      "biblatexUsePrefix": true,
+      "bibtexEditionOrdinal": false,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheDelete": false,
+      "cacheRetain": false,
+      "charmap": "",
+      "chinese": false,
+      "chineseSplitName": true,
+      "citeCommand": "cite",
+      "citekeyCaseInsensitive": true,
+      "citekeyFold": true,
+      "citekeyFormat": "auth + len + year.default(_nd);\nshorttitle(3, 3) + len + year.default(_nd);\nShortTitle + len + year.default(_nd)",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": false,
+      "exportSort": "id",
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importDetectURLs": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importSentenceCaseQuoted": true,
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "japanese": false,
+      "keyConflictPolicy": "change",
+      "keyScope": "global",
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "packages": "",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "pandoc",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": true,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/, keywords",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "Items": true,
+      "Normalize": false,
+      "Preferences": true,
+      "exportFileData": false,
+      "exportNotes": false,
+      "keepUpdated": false,
+      "worker": true,
+      "exportDir": "/home/efink/GitHub/CivProCasebook/bib",
+      "exportPath": "/home/efink/GitHub/CivProCasebook/bib/other.json"
+    }
+  },
+  "version": {
+    "zotero": "7.0.21",
+    "bbt": "7.0.43"
+  },
+  "collections": {},
+  "items": [
+    {
+      "key": "NXATTIHZ",
+      "version": 28115,
+      "itemType": "manuscript",
+      "title": "Before the Law",
+      "date": "1915",
+      "shortTitle": "Before the Law",
+      "url": "https://www.kafka-online.info/before-the-law.html",
+      "extra": "Citation Key: Kafka1915",
+      "creators": [
+        {
+          "firstName": "Franz",
+          "lastName": "Kafka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ian",
+          "lastName": "Johnston",
+          "creatorType": "translator"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-06T18:01:56Z",
+      "dateModified": "2025-08-11T20:26:22Z",
+      "uri": "http://zotero.org/users/21885/items/NXATTIHZ",
+      "itemID": 3472,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Before the Law by Franz Kafka",
+          "url": "https://www.kafka-online.info/before-the-law.html",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-06T18:02:00Z",
+          "dateModified": "2025-08-06T18:02:00Z",
+          "uri": "http://zotero.org/users/21885/items/6ZH27HWR",
+          "path": "/home/efink/Zotero/storage/6ZH27HWR/before-the-law.html",
+          "select": "zotero://select/library/items/6ZH27HWR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kafka1915",
+      "itemKey": "NXATTIHZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NXATTIHZ"
+    },
+    {
+      "key": "LKTHQTHE",
+      "version": 28104,
+      "itemType": "book",
+      "title": "Bleak House",
+      "date": "2003",
+      "language": "English",
+      "url": "https://standardebooks.org/ebooks/charles-dickens/bleak-house",
+      "extra": "Citation Key: Dickens2003",
+      "place": "London New York",
+      "publisher": "Penguin Classics",
+      "ISBN": "978-0-14-143972-3",
+      "numPages": "1036",
+      "creators": [
+        {
+          "firstName": "Charles",
+          "lastName": "Dickens",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-06T18:06:51Z",
+      "dateModified": "2025-08-11T20:26:19Z",
+      "uri": "http://zotero.org/users/21885/items/LKTHQTHE",
+      "itemID": 3474,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Amazon.com Link",
+          "url": "https://www.amazon.com/Bleak-Penguin-Classics-Charles-Dickens/dp/0141439726",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-06T18:06:51Z",
+          "dateModified": "2025-08-06T18:06:51Z",
+          "uri": "http://zotero.org/users/21885/items/P2ZWDUIH",
+          "select": "zotero://select/library/items/P2ZWDUIH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Dickens2003",
+      "itemKey": "LKTHQTHE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LKTHQTHE"
+    },
+    {
+      "key": "JLCKVVPB",
+      "version": 27960,
+      "itemType": "document",
+      "title": "Understanding the Federal Courts",
+      "date": "n.d.",
+      "shortTitle": "Understanding the Federal Courts",
+      "url": "https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf",
+      "extra": "Citation Key: aousc_nd",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Administrative Office of the U.S. Courts",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-06T18:11:46Z",
+      "dateModified": "2025-08-08T18:16:10Z",
+      "uri": "http://zotero.org/users/21885/items/JLCKVVPB",
+      "itemID": 3481,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PDF",
+          "url": "https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf",
+          "path": "/home/efink/Notes/Zotero/PDF/Casebooks/@Understandingfederalcourts_nd.pdf",
+          "tags": [
+            {
+              "tag": "zotmoov"
+            }
+          ],
+          "relations": {},
+          "dateAdded": "2025-08-06T18:10:14Z",
+          "dateModified": "2025-08-06T18:11:46Z",
+          "uri": "http://zotero.org/users/21885/items/ZCMP68EY",
+          "select": "zotero://select/library/items/ZCMP68EY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "aousc_nd",
+      "itemKey": "JLCKVVPB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JLCKVVPB"
+    },
+    {
+      "key": "ITHWH2L4",
+      "version": 28378,
+      "itemType": "journalArticle",
+      "title": "The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…",
+      "date": "1980",
+      "shortTitle": "The Emergence and Transformation of Disputes",
+      "url": "https://www.jstor.org/stable/3053505",
+      "extra": "Citation Key: Felstiner1980",
+      "volume": "15",
+      "pages": "631",
+      "publicationTitle": "Law & Society Review",
+      "creators": [
+        {
+          "firstName": "William",
+          "lastName": "Felstiner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Richard",
+          "lastName": "Abel",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Austin",
+          "lastName": "Sarat",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-06T18:15:01Z",
+      "dateModified": "2025-08-13T05:33:51Z",
+      "uri": "http://zotero.org/users/21885/items/ITHWH2L4",
+      "itemID": 3482,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Felstiner1980",
+      "itemKey": "ITHWH2L4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ITHWH2L4"
+    },
+    {
+      "key": "EN8FKPJA",
+      "version": 28367,
+      "itemType": "book",
+      "title": "Typography for Lawyers 2nd",
+      "date": "2015",
+      "language": "English",
+      "url": "https://typographyforlawyers.com",
+      "extra": "Citation Key: Butterick2015",
+      "place": "Houston, TX",
+      "publisher": "Thomson Reuters",
+      "ISBN": "978-1-59839-262-3",
+      "numPages": "240",
+      "creators": [
+        {
+          "firstName": "Matthew",
+          "lastName": "Butterick",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-11T20:12:40Z",
+      "dateModified": "2025-08-11T20:45:13Z",
+      "uri": "http://zotero.org/users/21885/items/EN8FKPJA",
+      "itemID": 3587,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Amazon.com Link",
+          "url": "https://www.amazon.com/Typography-Lawyers-2nd-Matthew-Butterick/dp/159839262X/",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-11T20:12:41Z",
+          "dateModified": "2025-08-11T20:12:41Z",
+          "uri": "http://zotero.org/users/21885/items/453Y795G",
+          "select": "zotero://select/library/items/453Y795G"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Butterick2015",
+      "itemKey": "EN8FKPJA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EN8FKPJA"
+    },
+    {
+      "key": "4ZP2MEN5",
+      "version": 28115,
+      "itemType": "journalArticle",
+      "title": "Cleaning Up Quotations",
+      "date": "2017-10-01",
+      "libraryCatalog": "COinS",
+      "url": "https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3",
+      "extra": "Citation Key: Metzler2017",
+      "volume": "18",
+      "pages": "143",
+      "publicationTitle": "The Journal of Appellate Practice and Process",
+      "issue": "2",
+      "creators": [
+        {
+          "firstName": "Jack",
+          "lastName": "Metzler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-11T20:42:49Z",
+      "dateModified": "2025-08-12T13:19:51Z",
+      "uri": "http://zotero.org/users/21885/items/4ZP2MEN5",
+      "itemID": 3597,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "text/html Attachment",
+          "url": "https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-11T20:42:51Z",
+          "dateModified": "2025-08-11T20:42:51Z",
+          "uri": "http://zotero.org/users/21885/items/V3KRIZ2N",
+          "path": "/home/efink/Zotero/storage/V3KRIZ2N/3.html",
+          "select": "zotero://select/library/items/V3KRIZ2N"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Metzler2017",
+      "itemKey": "4ZP2MEN5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4ZP2MEN5"
+    },
+    {
+      "key": "KGCM37BJ",
+      "version": 28368,
+      "itemType": "journalArticle",
+      "title": "The Story of Swift v. Tyson",
+      "date": "1940",
+      "extra": "Citation Key: Teton1940",
+      "volume": "35",
+      "pages": "519",
+      "publicationTitle": "Illinois Law Review",
+      "creators": [
+        {
+          "firstName": "Alfred B.",
+          "lastName": "Teton",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:33:36Z",
+      "dateModified": "2025-08-12T13:19:57Z",
+      "uri": "http://zotero.org/users/21885/items/KGCM37BJ",
+      "itemID": 3643,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Teton1940",
+      "itemKey": "KGCM37BJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KGCM37BJ"
+    },
+    {
+      "key": "VFARN2A2",
+      "version": 28368,
+      "itemType": "journalArticle",
+      "title": "Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America",
+      "date": "1986",
+      "language": "eng",
+      "shortTitle": "Swift v. Tyson and the Brooding Omnipresence in the Sky",
+      "libraryCatalog": "HeinOnline",
+      "url": "https://heinonline.org/HOL/P?h=hein.journals/sufflr20&i=801",
+      "accessDate": "2025-08-12T04:41:49Z",
+      "extra": "Citation Key: LaPiana1986",
+      "volume": "20",
+      "pages": "771-832",
+      "publicationTitle": "Suffolk University Law Review",
+      "issue": "4",
+      "journalAbbreviation": "Suffolk U. L. Rev.",
+      "creators": [
+        {
+          "firstName": "William P.",
+          "lastName": "LaPiana",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:41:49Z",
+      "dateModified": "2025-08-12T13:19:56Z",
+      "uri": "http://zotero.org/users/21885/items/VFARN2A2",
+      "itemID": 3644,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "@LaPiana1986.pdf",
+          "url": "https://heinonline-org.elon.idm.oclc.org/HOL/PDFsearchable?handle=hein.journals/sufflr20&collection=journals&section=81&id=&print=section&sectioncount=1&ext=.pdf&nocover=&display=0",
+          "path": "/home/efink/Notes/Zotero/PDF/CivProBook/@LaPiana1986.pdf",
+          "tags": [
+            {
+              "tag": "zotmoov"
+            }
+          ],
+          "relations": {},
+          "dateAdded": "2025-08-12T04:41:54Z",
+          "dateModified": "2025-08-12T04:42:00Z",
+          "uri": "http://zotero.org/users/21885/items/4VZLNQLX",
+          "select": "zotero://select/library/items/4VZLNQLX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "LaPiana1986",
+      "itemKey": "VFARN2A2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VFARN2A2"
+    },
+    {
+      "key": "FPHRWF8V",
+      "version": 28379,
+      "itemType": "book",
+      "title": "The Structure of Scientific Revolutions: 50th Anniversary Edition",
+      "abstractNote": "A good book may have the power to change the way we see the world, but a great book actually becomes part of our daily consciousness, pervading our thinking to the point that we take it for granted, and we forget how provocative and challenging its ideas once were—and still are. The Structure of Scientific Revolutions is that kind of book. When it was first published in 1962, it was a landmark event in the history and philosophy of science. Fifty years later, it still has many lessons to teach. With The Structure of Scientific Revolutions, Kuhn challenged long-standing linear notions of scientific progress, arguing that transformative ideas don’t arise from the day-to-day, gradual process of experimentation and data accumulation but that the revolutions in science, those breakthrough moments that disrupt accepted thinking and offer unanticipated ideas, occur outside of “normal science,” as he called it. Though Kuhn was writing when physics ruled the sciences, his ideas on how scientific revolutions bring order to the anomalies that amass over time in research experiments are still instructive in our biotech age. This new edition of Kuhn’s essential work in the history of science includes an insightful introduction by Ian Hacking, which clarifies terms popularized by Kuhn, including paradigm and incommensurability, and applies Kuhn’s ideas to the science of today. Usefully keyed to the separate sections of the book, Hacking’s introduction provides important background information as well as a contemporary context.  Newly designed, with an expanded index, this edition will be eagerly welcomed by the next generation of readers seeking to understand the history of our perspectives on science.",
+      "date": "2012",
+      "language": "English",
+      "shortTitle": "The Structure of Scientific Revolutions",
+      "libraryCatalog": "Amazon",
+      "url": "https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en",
+      "extra": "Citation Key: Kuhn2012",
+      "place": "Chicago ; London",
+      "publisher": "University of Chicago Press",
+      "ISBN": "978-0-226-45812-0",
+      "numPages": "264",
+      "creators": [
+        {
+          "firstName": "Thomas S.",
+          "lastName": "Kuhn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ian",
+          "lastName": "Hacking",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:51:57Z",
+      "dateModified": "2025-08-13T05:37:11Z",
+      "uri": "http://zotero.org/users/21885/items/FPHRWF8V",
+      "itemID": 3647,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Amazon.com Link",
+          "url": "https://www.amazon.com/Structure-Scientific-Revolutions-50th-Anniversary/dp/0226458121",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-12T04:51:57Z",
+          "dateModified": "2025-08-12T04:51:57Z",
+          "uri": "http://zotero.org/users/21885/items/F877EU38",
+          "select": "zotero://select/library/items/F877EU38"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kuhn2012",
+      "itemKey": "FPHRWF8V",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FPHRWF8V"
+    },
+    {
+      "key": "8K8N2386",
+      "version": 28368,
+      "itemType": "journalArticle",
+      "title": "International Shoe and the Legacy of Legal Realism",
+      "date": "2001-01",
+      "libraryCatalog": "www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)",
+      "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/scr.2001.3109692",
+      "accessDate": "2025-08-12T04:53:37Z",
+      "extra": "Publisher: The University of Chicago Press\nCitation Key: Rutherglen2001",
+      "volume": "2001",
+      "pages": "347-374",
+      "publicationTitle": "The Supreme Court Review",
+      "DOI": "10.1086/scr.2001.3109692",
+      "ISSN": "0081-9557",
+      "creators": [
+        {
+          "firstName": "George",
+          "lastName": "Rutherglen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:53:37Z",
+      "dateModified": "2025-08-12T13:19:52Z",
+      "uri": "http://zotero.org/users/21885/items/8K8N2386",
+      "itemID": 3649,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Rutherglen2001",
+      "itemKey": "8K8N2386",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8K8N2386"
+    },
+    {
+      "key": "SYUE53XN",
+      "version": 28381,
+      "itemType": "journalArticle",
+      "title": "Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe",
+      "date": "2001-2002",
+      "language": "eng",
+      "shortTitle": "Jurisdiction, Jurisprudence, and Legal Change",
+      "libraryCatalog": "HeinOnline",
+      "url": "https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69",
+      "accessDate": "2025-08-12T04:54:38Z",
+      "extra": "Citation Key: Sawyer2001",
+      "volume": "10",
+      "pages": "59-96",
+      "publicationTitle": "George Mason Law Review",
+      "issue": "1",
+      "journalAbbreviation": "Geo. Mason L. Rev.",
+      "creators": [
+        {
+          "firstName": "Logan Everett",
+          "lastName": "Sawyer III",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:54:38Z",
+      "dateModified": "2025-08-13T18:36:36Z",
+      "uri": "http://zotero.org/users/21885/items/SYUE53XN",
+      "itemID": 3650,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "@Sawyer2001.pdf",
+          "url": "https://heinonline-org.elon.idm.oclc.org/HOL/PDFsearchable?handle=hein.journals/gmlr10&collection=journals&section=10&id=&print=section&sectioncount=1&ext=.pdf&nocover=&display=0",
+          "path": "/home/efink/Notes/Zotero/PDF/CivProBook/@Sawyer2001.pdf",
+          "tags": [
+            {
+              "tag": "zotmoov"
+            }
+          ],
+          "relations": {},
+          "dateAdded": "2025-08-12T04:54:42Z",
+          "dateModified": "2025-08-12T04:54:48Z",
+          "uri": "http://zotero.org/users/21885/items/VIZKS5L6",
+          "select": "zotero://select/library/items/VIZKS5L6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Sawyer2001",
+      "itemKey": "SYUE53XN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SYUE53XN"
+    },
+    {
+      "key": "LTK4WKBJ",
+      "version": 28375,
+      "itemType": "journalArticle",
+      "title": "The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform",
+      "date": "2009",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102",
+      "extra": "Publisher: HeinOnline\nCitation Key: Marcus2009",
+      "volume": "44",
+      "pages": "433",
+      "publicationTitle": "Ga. L. Rev.",
+      "journalAbbreviation": "Ga. L. Rev.",
+      "creators": [
+        {
+          "firstName": "David",
+          "lastName": "Marcus",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:57:09Z",
+      "dateModified": "2025-08-13T05:31:07Z",
+      "uri": "http://zotero.org/users/21885/items/LTK4WKBJ",
+      "itemID": 3655,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Marcus2009",
+      "itemKey": "LTK4WKBJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LTK4WKBJ"
+    },
+    {
+      "key": "JFSR8M9R",
+      "version": 28380,
+      "itemType": "journalArticle",
+      "title": "Erie Doctrine and the Structure of Constitutional Revolutions",
+      "date": "1987",
+      "url": "https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2",
+      "extra": "Publisher: HeinOnline\nCitation Key: Casto1987",
+      "volume": "62",
+      "pages": "907",
+      "publicationTitle": "Tul. L. Rev.",
+      "journalAbbreviation": "Tul. L. Rev.",
+      "creators": [
+        {
+          "firstName": "William R",
+          "lastName": "Casto",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T04:58:04Z",
+      "dateModified": "2025-08-13T05:37:57Z",
+      "uri": "http://zotero.org/users/21885/items/JFSR8M9R",
+      "itemID": 3656,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Casto1987",
+      "itemKey": "JFSR8M9R",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JFSR8M9R"
+    },
+    {
+      "key": "Z7QWDXLN",
+      "version": 28367,
+      "itemType": "book",
+      "title": "The Common Law",
+      "abstractNote": "The Common Law is Oliver Wendell Holmes' most sustained work of jurisprudence. In it the careful reader will discern traces of his later thought as found in both his legal opinions and other writings. At the outset of The Common Law Holmes posits that he is concerned with establishing that the common law can meet the changing needs of society while preserving continuity with the past. A common law judge must be creative, both in determining society's current needs and in discerning how best to address these needs in a way that is continuous with past judicial decisions. In this way, the law evolves by moving out of its past, adapting to the needs of the present, and establishing a direction for the future. To Holmes' way of thinking, this approach is superior to imposing order in accordance with a philosophical position or theory because the law would thereby lose the flexibility it requires in responding to the needs and demands of disputing parties as well as society as a whole.",
+      "date": "2020-02-18",
+      "extra": "DOI: 10.4324/9780429338908\nCitation Key: Holmes2020",
+      "place": "New York",
+      "publisher": "Routledge",
+      "ISBN": "978-0-429-33890-8",
+      "numPages": "365",
+      "creators": [
+        {
+          "firstName": "Oliver Wendell",
+          "lastName": "Holmes",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T05:00:18Z",
+      "dateModified": "2025-08-12T13:19:56Z",
+      "uri": "http://zotero.org/users/21885/items/Z7QWDXLN",
+      "itemID": 3657,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Holmes2020",
+      "itemKey": "Z7QWDXLN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z7QWDXLN"
+    },
+    {
+      "key": "42J4RNXM",
+      "version": 28368,
+      "itemType": "journalArticle",
+      "title": "New Light on the History of the Federal Judiciary Act of 1789",
+      "date": "1923",
+      "archive": "JSTOR",
+      "url": "http://www.jstor.org.elon.idm.oclc.org/stable/1328407",
+      "accessDate": "2025-08-12",
+      "extra": "Publisher: The Harvard Law Review Association\nCitation Key: Warren1923",
+      "volume": "37",
+      "pages": "49-132",
+      "publicationTitle": "Harvard Law Review",
+      "DOI": "10.2307/1328407",
+      "issue": "1",
+      "ISSN": "0017811X",
+      "creators": [
+        {
+          "firstName": "Charles",
+          "lastName": "Warren",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T05:05:12Z",
+      "dateModified": "2025-08-12T13:19:54Z",
+      "uri": "http://zotero.org/users/21885/items/42J4RNXM",
+      "itemID": 3660,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Warren1923",
+      "itemKey": "42J4RNXM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/42J4RNXM"
+    },
+    {
+      "key": "9FVNK5S4",
+      "version": 28374,
+      "itemType": "journalArticle",
+      "title": "The Ballad of Harry James Tompkins",
+      "date": "2018",
+      "url": "https://uknowledge.uky.edu/law_facpub/639/",
+      "extra": "Publisher: HeinOnline\nCitation Key: Frye2018",
+      "volume": "52",
+      "pages": "531",
+      "publicationTitle": "Akron L. Rev.",
+      "journalAbbreviation": "Akron L. Rev.",
+      "creators": [
+        {
+          "firstName": "Brian L",
+          "lastName": "Frye",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-12T05:06:17Z",
+      "dateModified": "2025-08-13T05:29:59Z",
+      "uri": "http://zotero.org/users/21885/items/9FVNK5S4",
+      "itemID": 3661,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "@Frye2018.pdf",
+          "path": "/home/efink/Notes/Zotero/PDF/CivProBook/@Frye2018.pdf",
+          "tags": [
+            {
+              "tag": "zotmoov"
+            }
+          ],
+          "relations": {},
+          "dateAdded": "2025-08-12T05:07:42Z",
+          "dateModified": "2025-08-12T05:07:48Z",
+          "uri": "http://zotero.org/users/21885/items/97XXERJX",
+          "select": "zotero://select/library/items/97XXERJX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Frye2018",
+      "itemKey": "9FVNK5S4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9FVNK5S4"
+    },
+    {
+      "key": "82QHRGMI",
+      "version": 28371,
+      "itemType": "journalArticle",
+      "title": "Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered",
+      "date": "1987-07-01",
+      "shortTitle": "Sin, Scandal, and Substantive Due Process",
+      "libraryCatalog": "COinS",
+      "url": "https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8",
+      "extra": "Citation Key: Perdue1987",
+      "volume": "62",
+      "pages": "479",
+      "publicationTitle": "Washington Law Review",
+      "issue": "3",
+      "creators": [
+        {
+          "firstName": "Wendy",
+          "lastName": "Perdue",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-13T03:02:24Z",
+      "dateModified": "2025-08-13T03:02:56Z",
+      "uri": "http://zotero.org/users/21885/items/82QHRGMI",
+      "itemID": 3664,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "text/html Attachment",
+          "url": "https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-13T03:02:26Z",
+          "dateModified": "2025-08-13T03:02:26Z",
+          "uri": "http://zotero.org/users/21885/items/C4PKXYDV",
+          "path": "/home/efink/Zotero/storage/C4PKXYDV/8.html",
+          "select": "zotero://select/library/items/C4PKXYDV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Perdue1987",
+      "itemKey": "82QHRGMI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/82QHRGMI"
+    },
+    {
+      "key": "XY7SZTP4",
+      "version": 28448,
+      "itemType": "book",
+      "title": "A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities",
+      "date": "1912",
+      "language": "en",
+      "shortTitle": "A History of Kentucky and Kentuckians",
+      "libraryCatalog": "Google Books",
+      "url": "https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1144.w.2.1.0_421",
+      "extra": "Google-Books-ID: FXQUAAAAYAAJ\nCitation Key: Johnson1912",
+      "publisher": "Lewis Publishing Company",
+      "numPages": "854",
+      "creators": [
+        {
+          "firstName": "E. Polk",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-14T23:22:03Z",
+      "dateModified": "2025-08-14T23:22:48Z",
+      "uri": "http://zotero.org/users/21885/items/XY7SZTP4",
+      "itemID": 3668,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Google Books Link",
+          "url": "https://play.google.com/books?id=FXQUAAAAYAAJ",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-14T23:22:03Z",
+          "dateModified": "2025-08-14T23:22:03Z",
+          "uri": "http://zotero.org/users/21885/items/Z29H2JQW",
+          "select": "zotero://select/library/items/Z29H2JQW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Johnson1912",
+      "itemKey": "XY7SZTP4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XY7SZTP4"
+    }
+  ]
+}
