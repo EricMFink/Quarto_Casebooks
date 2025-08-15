@@ -1,7 +1,7 @@
 version: 1.0
 
 subject: Civil Procedure
-path: CivProCasebook
+repo-name: CivProCasebook
 
 author:
 - name: Eric M. Fink

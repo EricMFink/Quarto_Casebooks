@@ -498,6 +498,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .mono-face {
     font-family: "LFT-Etica Mono",monospace;
+    font-size: 0.9rem;
     font-weight: 400;
     font-style: normal;
 }

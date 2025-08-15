@@ -7,7 +7,7 @@ Set in [Literata](https://www.type-together.com/literata-font) and [Adelle Sans]
 
 Produced in [Quarto](https://quarto.org). Source code available on [GitHub](https://github.com/EricMFink/CivProBook). Hosted on [GitHub Pages](https://www.emfink.org/CivProBook).
 
-![](../img/gutenberg_press.png){ width=50%}
+![](../img/gutenberg_press.png){width=30% fig-align="center"}
 
 
 
