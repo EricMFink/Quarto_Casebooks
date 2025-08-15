@@ -1,19 +1,19 @@
 # License {.unnumbered}
 
-::: {.license}
+[[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.license-i}
 
-[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[All original content is licensed under a [Creative Commons Attribution NonCommercial ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.license}
 
-All original content is licensed under a [Creative Commons Attribution NonCommercial ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Eric M. Fink]{.license-h2}
 
-## Eric M. Fink
-### Associate Professor of Law
-### Elon University School of Law
-### Greensboro, North Carolina 27408
-#### [[emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)]{.mono-face}
+[Associate Professor of Law]{.license-h3}
 
-##### Source code: [[github.com/EricMFink](https://github.com/EricMFink/CivProBook)]{.mono-face}
+[Elon University School of Law]{.license-h3}
 
-##### Version 4.1, August 2025
+[Greensboro, North Carolina 27408]{.license-h3}
 
-:::
+[[emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)]{.license-h4}
+
+[Source Code: [[github.com/EricMFink/CivProBook]{.mono-face}](https://github.com/EricMFink/CivProBook){.mono-face}]{.license-h3}
+
+[Version 4.1, August 2025]{.license-h3}

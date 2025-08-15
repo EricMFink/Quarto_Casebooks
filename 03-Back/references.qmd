@@ -1,8 +1,8 @@
-# Sources {.unnumbered}
+# Source Material {.unnumbered}
 
-### Cases
+#### Cases
 
-### Books, Articles, & Other Publications
+#### Books, Articles, & Other Publications
 
 ::: {#refs}
 :::

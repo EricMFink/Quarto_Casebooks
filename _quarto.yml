@@ -32,6 +32,8 @@ book:
         - 02-Main/chap6.qmd
         - 02-Main/chap7.qmd
         - 02-Main/chap8.qmd
+    - part: "Back Matter"
+      chapters:
         - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd

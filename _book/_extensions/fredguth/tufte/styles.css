@@ -322,27 +322,21 @@ ul {
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
 }
-.license i {
+.license-i {
 	font-size: .9rem;
-	margin: 0 0 0 0;
+	margin: 0 .5rem 0 0;
 }
-.license p {
-    font-size: .9rem;
-	font-weight: 300;
-    text-align: left;
-    line-height: 1.2;
-	margin: .5 0 .5rem 0;
-	padding: 0 0 0 0;
-}
-.license h2 {
+
+.license-h2 {
     font-family: "Literata",serif;
 	color: #191919;
     font-size: .9rem;
 	font-weight: 300;
 	margin: 4rem 0 0 0;
 	padding: 0 0 0 0;
+	display: block;
 }
-.license h3 {
+.license-h3 {
     font-family: "Literata",serif;
 	color: #191919;
     font-size: .9rem;
@@ -350,8 +344,9 @@ ul {
 	font-weight: 300;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
+	display: block;
 }
-.license h4 {
+.license-h4 {
     font-family: "LFT-Etica Mono",monospace;
 	color: #191919;
     font-size: .9rem;
@@ -359,15 +354,15 @@ ul {
 	font-weight: 300;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
-	border: none;
+	display: block;
 }
 .license h5 {
 	color: #191919;
     font-size: .9rem;
 	font-weight: 300;
-	margin: 1rem 0 0 0;
+	margin: 2rem 0 0 0;
 	padding: 0 0 0 0;
-	border: none;
+	display: block;
 }
 
 /* Preface */
@@ -601,6 +596,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .mono-face {
     font-family: "LFT-Etica Mono",monospace;
+    font-size: 0.9rem;
     font-weight: 400;
     font-style: normal;
 }
