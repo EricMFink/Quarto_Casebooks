@@ -551,6 +551,16 @@ header .chapter-title {
     padding-bottom: .5rem;
     visibility: visible;
 }
+.sidebar-title > a {
+	color: #8c2e24; 
+	font-size: inherit;
+	text-decoration: none;
+}
+
+.sidebar-title a:visited {
+	color: #8c2e24;
+}
+
 .quarto-secondary-nav-title, .title {
     font-family: "Adelle-Sans",sans-serif;
 	color: #8c2e24; 
