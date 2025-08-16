@@ -93,7 +93,7 @@ In each of the first eight counts of the twelve-count complaint, eight of the te
 
 The district court ordered that "insofar as the first ten counts are concerned, those ten counts shall be severed into ten separate causes of action," and each plaintiff was directed to bring a separate action based upon his complaint, duly and separately filed.
 
-In reaching this conclusion on joinder, the district court followed the reasoning of _Smith v. North American Rockwell Corp.,_ 50 F.R.D. 515 (N.D.Okla.1970), which, in a somewhat analogous situation, found there was no right to relief arising out of the same transaction, occurrence or series of transactions or occurrences, and that there was no question of law or fact common to all plaintiffs sufficient to sustain joinder under Federal Rule of Civil Procedure 20(a). Similarly, the district court here felt that the plaintiffs' joint actions against General Motors and the Union presented a variety of issues having little relationship to one another; that they had only one common problem, i. e. the defendant; and that as pleaded the joint actions were completely unmanageable. Upon entering the order, and upon application of the plaintiffs, the district court found that its decision involved a controlling question of law as to which there is a substantial ground for difference of opinion and that any of the parties might make application for appeal under 28 U.S.C. §1292(b). We granted the application to permit this interlocutory appeal and for the following reasons we affirm in part and reverse in part.
+In reaching this conclusion on joinder, the district court followed the reasoning of _Smith v. North American Rockwell Corp._, which, in a somewhat analogous situation, found there was no right to relief arising out of the same transaction, occurrence or series of transactions or occurrences, and that there was no question of law or fact common to all plaintiffs sufficient to sustain joinder under Federal Rule of Civil Procedure 20(a). Similarly, the district court here felt that the plaintiffs' joint actions against General Motors and the Union presented a variety of issues having little relationship to one another; that they had only one common problem, i. e. the defendant; and that as pleaded the joint actions were completely unmanageable. Upon entering the order, and upon application of the plaintiffs, the district court found that its decision involved a controlling question of law as to which there is a substantial ground for difference of opinion and that any of the parties might make application for appeal under 28 U.S.C. §1292(b). We granted the application to permit this interlocutory appeal and for the following reasons we affirm in part and reverse in part.
 
 Rule 20(a) of the Federal Rules of Civil Procedure provides:
 
@@ -105,7 +105,7 @@ The purpose of the rule is to promote trial convenience and expedite the final d
 
 > Under the Rules, the impulse is toward entertaining the broadest possible scope of action consistent with fairness to the parties; joinder of claims, parties and remedies is strongly encouraged.
 
-_United Mine Workers of America v. Gibbs,_ 383 U.S. 715 (1966).
+_United Mine Workers of America v. Gibbs_.
 
 Permissive joinder is not, however, applicable in all cases. The rule imposes two specific requisites to the joinder of parties: (1) a right to relief must be asserted by, or against, each plaintiff or defendant relating to or arising out of the same _transaction or occurrence, or series of transactions or occurrences;_ and (2) some _question of law or fact common_ to all the parties must arise in the action.
 
@@ -113,9 +113,9 @@ In ascertaining whether a particular factual situation constitutes a single tran
 
 > "Transaction" is a word of flexible meaning. It may comprehend a series of many occurrences, depending not so much upon the immediateness of their connection as upon their logical relationship.
 
-_Moore v. New York Cotton Exchange,_ 270 U.S. 593 (1926). Accordingly, all "logically related" events entitling a person to institute a legal action against another generally are regarded as comprising a transaction or occurrence. The analogous interpretation of the terms as used in Rule 20 would permit all reasonably related claims for relief by or against different parties to be tried in a single proceeding. Absolute identity of all events is unnecessary.
+_Moore v. New York Cotton Exchange_ (1926). Accordingly, all "logically related" events entitling a person to institute a legal action against another generally are regarded as comprising a transaction or occurrence. The analogous interpretation of the terms as used in Rule 20 would permit all reasonably related claims for relief by or against different parties to be tried in a single proceeding. Absolute identity of all events is unnecessary.
 
-This construction accords with the result reached in _United States v. Mississippi,_ 380 U.S. 128 (1965), a suit brought by the United States against the State of Mississippi, the election commissioners, and six voting registrars of the State, charging them with engaging in acts and practices hampering and destroying the right of black citizens of Mississippi to vote. The district court concluded that the complaint improperly attempted to hold the six county registrars jointly liable for what amounted to nothing more than individual torts committed by them separately against separate applicants. In reversing, the Supreme Court said:
+This construction accords with the result reached in _United States v. Mississippi_, a suit brought by the United States against the State of Mississippi, the election commissioners, and six voting registrars of the State, charging them with engaging in acts and practices hampering and destroying the right of black citizens of Mississippi to vote. The district court concluded that the complaint improperly attempted to hold the six county registrars jointly liable for what amounted to nothing more than individual torts committed by them separately against separate applicants. In reversing, the Supreme Court said:
 
 > But the complaint charged that the registrars had acted and were continuing to act as part of a state-wide system designed to enforce the registration laws in a way that would inevitably deprive colored people of the right to vote solely because of their color. On such an allegation the joinder of all the registrars as defendants in a single suit is authorized by Rule 20(a) of the Federal Rules of Civil Procedure. These registrars were alleged to be carrying on activities which were part of a series of transactions or occurrences the validity of which depended to a large extent upon "questions of law or fact common to all of them."
 
@@ -153,8 +153,6 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
- 
-
 ### Jones v. Ford Motor Credit Co. (2nd Cir. 2004)
 
 **NEWMAN, Circuit Judge**
@@ -163,7 +161,7 @@ This appeal concerns the availability of subject matter jurisdiction for permiss
 
 #### Background
 
-Plaintiffs-Appellees Joyce Jones, Martha L. Edwards, Lou Cooper, and Vincent E. Jackson ("Plaintiffs"), individually and as class representatives, sued Ford Credit alleging racial discrimination under the Equal Credit Opportunity Act ("ECOA"), 15 U.S.C. §1691 _et seq_. (2003). They had purchased Ford vehicles under Ford Credit's financing plan. They alleged that the financing plan discriminated against African-Americans. Although the financing rate was primarily based on objective criteria, Ford Credit permitted its dealers to mark up the rate, using subjective criteria to assess non-risk charges. The Plaintiffs alleged that the mark-up policy penalized African-American customers with higher rates than those imposed on similarly situated Caucasian customers.
+Plaintiffs-Appellees Joyce Jones, Martha L. Edwards, Lou Cooper, and Vincent E. Jackson ("Plaintiffs"), individually and as class representatives, sued Ford Credit alleging racial discrimination under the Equal Credit Opportunity Act ("ECOA"). They had purchased Ford vehicles under Ford Credit's financing plan. They alleged that the financing plan discriminated against African-Americans. Although the financing rate was primarily based on objective criteria, Ford Credit permitted its dealers to mark up the rate, using subjective criteria to assess non-risk charges. The Plaintiffs alleged that the mark-up policy penalized African-American customers with higher rates than those imposed on similarly situated Caucasian customers.
 
 In its Answer, Ford Credit denied the charges of racial discrimination and also asserted state-law counterclaims against Jones, Edwards, and Cooper for the amounts of their unpaid car loans. Ford Credit alleged that Jones was in default on her obligations under her contract for the purchase of a 1995 Ford Windstar, and that Edwards and Cooper were in default on payments for their joint purchase of a 1995 Mercury Cougar. Additionally, in the event that a class was certified, Ford Credit asserted conditional counterclaims against any member of that class who was in default on a car loan from Ford Credit. The Plaintiffs moved to dismiss Ford Credit's counterclaims for lack of subject matter jurisdiction, Fed.R.Civ.P. 12(b)(1), lack of personal jurisdiction, Fed.R.Civ.P. 12(b)(2), improper venue, Fed.R.Civ.P. 12(b)(3), and failure to state a claim upon which relief could be granted, Fed.R.Civ.P. 12(b)(6).
 
@@ -195,11 +193,11 @@ We agree with the District Court that the debt collection counterclaims were per
 
 **CHUANG, District Judge**
 
-On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), 47 U.S.C. §227 (2012), and the Maryland Telephone Consumer Protection Act ("MTCPA"), Md. Code Ann., Com. Law §§14-3201 to -3202 (West 2013). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
+On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), and the Maryland Telephone Consumer Protection Act ("MTCPA"). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 
 #### Background
 
-In May 2013, Ginwright entered into a contract with BW Auto Outlet of Hanover, Maryland to finance the purchase of a vehicle. Within the contract, BW Auto Outlet assigned all of its rights under the contract to Exeter. In his Complaint, Ginwright alleges that in seeking to collect a debt under the contract, Exeter called Ginwright's cellular phone "hundreds of times" by means of an automatic dialing system. Compl. ¶¶ 22-23. Ginwright maintains that Exeter made the calls for non-emergency purposes and without his prior express consent. He also asserts that he repeatedly told Exeter to cease calling him, to no avail. Rather, Exeter representatives told him that they would not stop calling his cellular phone, and that the calls would continue through the automatic dialing system. As a result, with rare exceptions, Ginwright received three to seven calls from Exeter every day between December 4 and December 17, 2014; March 5 and April 29, 2015; and May 10 and June 5, 2015.
+In May 2013, Ginwright entered into a contract with BW Auto Outlet of Hanover, Maryland to finance the purchase of a vehicle. Within the contract, BW Auto Outlet assigned all of its rights under the contract to Exeter. In his Complaint, Ginwright alleges that in seeking to collect a debt under the contract, Exeter called Ginwright's cellular phone "hundreds of times" by means of an automatic dialing system. Ginwright maintains that Exeter made the calls for non-emergency purposes and without his prior express consent. He also asserts that he repeatedly told Exeter to cease calling him, to no avail. Rather, Exeter representatives told him that they would not stop calling his cellular phone, and that the calls would continue through the automatic dialing system. As a result, with rare exceptions, Ginwright received three to seven calls from Exeter every day between December 4 and December 17, 2014; March 5 and April 29, 2015; and May 10 and June 5, 2015.
 
 In its Counterclaim, Exeter alleges that Ginwright breached the original contract when he failed to make car payments, requiring Exeter to repossess the vehicle. Exeter contends that, following the sale of the vehicle and the application of the sale proceeds to the full amount owed, Ginwright owed a remainder of $23,782.17 under the contract as of May 3, 2016.
 
@@ -221,7 +219,7 @@ In assessing whether a counterclaim is compulsory or permissive, courts consider
 
 These inquiries are more akin to a set of guidelines than a rigid test, such that a "court need not answer all these questions in the affirmative for the counterclaim to be compulsory."
 
-Applying the four inquiries here, the Court concludes that Exeter's counterclaim is permissive. First, the issues of fact and law raised in the TCPA claim and breach of contract counterclaim are largely dissimilar. The TCPA bars "any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice" to any telephone number assigned to a cellular telephone service. 47 U.S.C. §227(b)(1)(A)(iii). Thus, to prevail on this claim, Ginwright must establish that Exeter made calls to the plaintiffs cellular phone, by means of an automatic dialing system, without Ginwright's express consent or an emergency purpose. There is no requirement to show any underlying contractual dispute or debt that led to such phone calls. Meanwhile, the breach of contract counterclaim requires proof of an agreement between the parties and a failure by Ginwright to honor the terms of that agreement to make timely car payments. According to Ginwright, his defense may be based on the assertion that Exeter did not comply with the statutorily required repossession and resale procedures contained in the Creditor Grantor Closed End Credit ("CLEC") provisions of the Maryland Commercial Law Article, which must be satisfied in order for a lender to collect a deficiency judgment for an unpaid car loan. There is no requirement to show any use or lack of use of telephone calls to the borrower. Thus, there is little overlap between the two sets of legal and factual issues.
+Applying the four inquiries here, the Court concludes that Exeter's counterclaim is permissive. First, the issues of fact and law raised in the TCPA claim and breach of contract counterclaim are largely dissimilar. The TCPA bars "any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice" to any telephone number assigned to a cellular telephone service. Thus, to prevail on this claim, Ginwright must establish that Exeter made calls to the plaintiffs cellular phone, by means of an automatic dialing system, without Ginwright's express consent or an emergency purpose. There is no requirement to show any underlying contractual dispute or debt that led to such phone calls. Meanwhile, the breach of contract counterclaim requires proof of an agreement between the parties and a failure by Ginwright to honor the terms of that agreement to make timely car payments. According to Ginwright, his defense may be based on the assertion that Exeter did not comply with the statutorily required repossession and resale procedures contained in the Creditor Grantor Closed End Credit ("CLEC") provisions of the Maryland Commercial Law Article, which must be satisfied in order for a lender to collect a deficiency judgment for an unpaid car loan. There is no requirement to show any use or lack of use of telephone calls to the borrower. Thus, there is little overlap between the two sets of legal and factual issues.
 
 Second, because the legal and factual issues are different, the evidence would not be "substantially the same." While the alleged contract underlying the counterclaim might be admissible on the TCPA claim to the extent that it is relevant to establishing prior express consent for phone calls or the lack thereof, the evidence on the TCPA claim will primarily consist of records and testimony about the number of calls received and the use of the automatic dialing system, which would be of no relevance to the breach of contract counterclaim. Likewise, Exeter's counterclaim, which contains no allegations relating to phone calls or an automatic dialing system, will rely primarily on evidence that does not pertain to the TCPA claim, such as proof of Ginwright's failure to make car payments and evidence that Exeter did or did not repossess the car and resell it in accordance with Maryland's CLEC requirements.
 
@@ -233,11 +231,11 @@ Claims "based upon the same cause of action" are those which "arise out of the s
 
 Fourth, any logical relationship between the TCPA claim and the breach of contract counterclaim is a loose one. Although the TCPA claim would likely not have arisen in the absence of the original contract at issue on the counterclaim, there is little or no connection between a claim concerning the misuse of an automatic dialing system and a counterclaim alleging the failure to pay back a loan.
 
-Considering all of the factors, the Court concludes that Exeter's counterclaim is permissive. Although the Fourth Circuit has not addressed this precise issue, it has held that where a plaintiff alleged a violation of the disclosure requirements of the Truth-in-Lending Act ("TILA"), 15 U.S.C. §§1601-1667(f) (2012), a counterclaim seeking payment of the undeflying debt was permissive. In _Whigham,_ the court concluded that the counterclaim raised "significantly different" issues of law and fact than those presented by the TILA claim and that evidence on the two claims differed because only the counterclaim depended on verification of the debt and proof of default. It also concluded that the claims were "not logically related" because although the federal claim involved the same loan, it did not "arise from the obligations created by the contractual transaction." These same conclusions apply here, where Ginwright's TCPA claim involves different issues of fact and law, relies on different evidence, and is no more logically related to the counterclaim than the TILA claim in _Whigham_ was to its counterclaim.
+Considering all of the factors, the Court concludes that Exeter's counterclaim is permissive. Although the Fourth Circuit has not addressed this precise issue, it has held that where a plaintiff alleged a violation of the disclosure requirements of the Truth-in-Lending Act ("TILA"), a counterclaim seeking payment of the undeflying debt was permissive. In _Whigham,_ the court concluded that the counterclaim raised "significantly different" issues of law and fact than those presented by the TILA claim and that evidence on the two claims differed because only the counterclaim depended on verification of the debt and proof of default. It also concluded that the claims were "not logically related" because although the federal claim involved the same loan, it did not "arise from the obligations created by the contractual transaction." These same conclusions apply here, where Ginwright's TCPA claim involves different issues of fact and law, relies on different evidence, and is no more logically related to the counterclaim than the TILA claim in _Whigham_ was to its counterclaim.
 
 The Court's conclusion is consistent with those of several district courts that have held that, in the case of a TCPA claim, a counterclaim alleging a failure to pay the debt that was the subject of the telephone calls was permissive.
 
-Exeter's citation to a single district court case reaching the contrary conclusion, _Horton v. Calvary Portfolio Servs.,_ (S.D. Cal. 2014), is unpersuasive. In _Horton,_ the court applied the "logical relationship" test, followed by the United States Court of Appeals for the Ninth Circuit in determining whether a counterclaim is compulsory or permissive, which differs from the Fourth Circuit's four-part inquiry. Moreover, other courts applying a logical relationship test have concluded that a breach of contract counterclaim to a TCPA claim is permissive.
+Exeter's citation to a single district court case reaching the contrary conclusion, _Horton v. Calvary Portfolio Servs._, is unpersuasive. In _Horton,_ the court applied the "logical relationship" test, followed by the United States Court of Appeals for the Ninth Circuit in determining whether a counterclaim is compulsory or permissive, which differs from the Fourth Circuit's four-part inquiry. Moreover, other courts applying a logical relationship test have concluded that a breach of contract counterclaim to a TCPA claim is permissive.
 
 ### Pace v. Timmermann’s Ranch and Saddle Shop Inc. (7th Cir. 2014) 
 
@@ -257,15 +255,11 @@ We hold that Ms. Pace's claims against parties other than Timmermann's were not 
 
 The issues in this case present a somewhat complex procedural situation. For ease of reading, we first will set forth the substantive allegations of each party. Then, we will set forth the procedural history of this litigation in the district court.
 
-**1.**
-
 Timmermann's boards, buys, and sells horses, as well as operates both a ranch and a "saddle shop," in which it sells merchandise for owners and riders of horses. When this dispute arose, Carol and Dale Timmermann managed Timmermann's. Dawn Manley and Tammy Rigsby were employees of Timmermann's.
 
 In its 2011 complaint, Timmermann's alleged that, while employed as a bookkeeper at Timmermann's, Ms. Pace had embezzled funds and stolen merchandise. According to the complaint, beginning at an unknown time, Ms. Pace regularly began removing merchandise from Timmermann's without paying; she would then sell those articles on eBay for her personal benefit. Timmermann's further alleged that it discovered that Ms. Pace was selling items on eBay through a private sting operation.
 
 According to the complaint, in February 2011, a Timmermann's employee discovered some of the company's merchandise in Ms. Pace's car. At this point, Timmermann's fired Ms. Pace. Thereafter, during a review of its records, including the checking account maintained by Ms. Pace, Timmermann's discovered that a check that Ms. Pace had represented as being payable to a hay vendor actually had been made payable to cash. Timmermann's also discovered that, on at least eight occasions, Ms. Pace had utilized the company's business credit card to make personal purchases.
-
-**2.**
 
 In her 2013 complaint, Ms. Pace alleged that her conduct while working at Timmermann's was consistent with its usual course of business. She stated that Timmermann's had a practice of allowing employees to use cash to purchase merchandise at cost or, alternatively, by deducting the merchandise's value from the employee's pay. She maintains that she had purchased the company's merchandise under that established practice. She also alleged that Carol Timmermann, her supervisor, knew that she had sold the company's merchandise at flea markets and never had objected.
 
@@ -339,8 +333,6 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
- 
-
 ### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002) 
 
 **BEATY, District Judge**
@@ -367,7 +359,7 @@ Smith's present cross-claim and third-party complaint filed pursuant to Section 
 
 When a co-defendant asserts a cross-claim against a co-defendant, as Smith now asserts against the Board, the co-defendant's cross-claim must meet the requirements of Rule 13(g). In relevant part, Rule 13(g) specifies that "a pleading may state as a cross-claim any claim by one party against a co-party arising out of the transaction or occurrence that is the subject matter either of the original action or of a counterclaim therein." The Board asserts that Smith's cross-claim does not qualify for joinder because the cross-claim does not arise out of the transaction or occurrence that is the subject of Kirkcaldy's suit, namely, the incidents of harassment that she allegedly suffered, which ended on June 12, 2000. Rather, the Board maintains that Smith's claim of a due process violation is based on the separate and different transaction or occurrence which involved the Board and Individual School Defendants' conduct in preparing and conducting the August 24, 2000 hearing that resulted in Smith's dismissal.
 
-To determine whether Smith's cross-claim arises out of the same transaction and occurrence as Kirkcaldy's underlying claim, the Court refers to the Fourth Circuit case of _Painter v. Harvey,_ 863 F.2d 329 (4th Cir.1988), in which the Fourth Circuit addressed this question, albeit in the context of a different subsection of Rule 13. The Fourth Circuit in _Painter_ explained how to determine when a defendant's claim was a compulsory counterclaim, as defined by Rule 13(a), to the claims alleged in the plaintiff's complaint. Like the Rule 13(g) cross-claim determination that is the subject of this Court's inquiry, the compulsory counterclaim determination under Rule 13(a) hinges on whether the claims arise from the same " transaction and occurrence." Accordingly, the Court finds that the Fourth Circuit's definition of the phrase " transaction and occurrence" in Rule 13(a) is directly relevant to the definition of the same term as used in Rule 13(g).
+To determine whether Smith's cross-claim arises out of the same transaction and occurrence as Kirkcaldy's underlying claim, the Court refers to the Fourth Circuit case of _Painter v. Harvey,_ in which the Fourth Circuit addressed this question, albeit in the context of a different subsection of Rule 13. The Fourth Circuit in _Painter_ explained how to determine when a defendant's claim was a compulsory counterclaim, as defined by Rule 13(a), to the claims alleged in the plaintiff's complaint. Like the Rule 13(g) cross-claim determination that is the subject of this Court's inquiry, the compulsory counterclaim determination under Rule 13(a) hinges on whether the claims arise from the same " transaction and occurrence." Accordingly, the Court finds that the Fourth Circuit's definition of the phrase " transaction and occurrence" in Rule 13(a) is directly relevant to the definition of the same term as used in Rule 13(g).
 
 To determine if a cross-claim arose out of the same transaction or occurrence as the complaint, the _Painter_ decision suggests conducting the following inquiries: (1) Are the issues of fact and law raised in the complaint and cross-claim largely the same? (2) Will substantially the same evidence support or refute the complaint as well as the cross-claim? (3) Is there any logical relationship between the complaint and the cross-claim? In considering these questions, the Court is mindful that these inquiries are guidelines and that it " need not answer all these questions in the affirmative" in order to find that the claims alleged in Kirkcaldy's Complaint and Smith's cross-claim arise from the same transaction and occurrence.
 
@@ -410,8 +402,6 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 - (5\) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
 
 (b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
-
- 
 
 ![Fig. 2.1: Third Party Claims Under Rule 14](../img/Rule14.png){width="90%"}
 
@@ -501,7 +491,7 @@ We conclude, without serious question, that the FDIC was entitled to implead Rof
 
 A defendant, acting as a third-party plaintiff, may implead any non-party "who is or _may be_ liable to the third-party plaintiff for all or part of the plaintiff's claim against the third-party plaintiff." Fed.R.Civ.P. 14(a) (emphasis supplied). If the defendant acts within ten days of submitting his answer, he may bring a third party into the suit without leave of court. Otherwise, the court's permission must be obtained. In that event, the determination is left to the informed discretion of the district court, which should allow impleader on any colorable claim of derivative liability that will not unduly delay or otherwise prejudice the ongoing proceedings. Under this liberal standard, a party accused of passive negligence (here, the FDIC) assuredly is entitled to implead the party who allegedly committed the relevant active conduct (here, Roffman) on a theory of indemnification.
 
-The FDIC's third-party claim for contribution against Roffman similarly passes muster because Roffman and the Bank (the FDIC's predecessor in interest) were putative joint tortfeasors (i.e., according to the complaint, Roffman's fraudulent acts combined with the Bank's negligent omissions to create harm). _See_ Mass. Gen. Laws ch. 231B, §1(a) (1986) (providing a right of contribution among persons who are jointly liable in tort for the same injury).
+The FDIC's third-party claim for contribution against Roffman similarly passes muster because Roffman and the Bank (the FDIC's predecessor in interest) were putative joint tortfeasors (i.e., according to the complaint, Roffman's fraudulent acts combined with the Bank's negligent omissions to create harm).
 
 To be sure, Roffman argues that because Lehman's complaint sought only restraint or rescission of the property sales, and not damages, a third-party claim for contribution should not lie. But this argument gains him no ground. Even though Lehman's complaint did not explicitly seek money damages, that omission did not eliminate the possibility that damages might be awarded to him. As long as damages may be awarded in lieu of rescission, impleader properly may be used to seek contribution toward those potential damages. It follows inexorably that the district court did not err in denying Roffman's motion to strike and allowing the FDIC's Rule 14(a) claims to stand.
 
@@ -516,8 +506,6 @@ There is, moreover, a broader point. A district court must oversee third-party p
 ### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002)
 
 **BEATY, District Judge**
-
-This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
 #### I\. FACTUAL BACKGROUND
 
@@ -584,8 +572,6 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 - (1\) the name, if known, of any person who is required to be joined if feasible but is not joined; and
 
 - (2\) the reasons for not joining that person.
-
- 
 
 ### Camacho v. Major League Baseball (S.D. Cal. 2013) 
 
@@ -728,8 +714,6 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 	- (B\) has a claim or defense that shares with the main action a common question of law or fact.
 
 - (3\) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
-
- 
 
 ### Buck v. Gordon (6th Cir. 2020) 
 
