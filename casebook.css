@@ -35,7 +35,7 @@ h2 {
 	font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
-	margin: 2rem 0 0 0;
+	margin: 4rem 0 0 0;
 	padding: 0 0 0 0;
     border: none;
 }
@@ -43,32 +43,34 @@ h2 {
 h3 {
     font-family: "Literata",serif;
 	color: #8c2e24;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     font-style: normal;
 	font-weight: 400;
-    line-height: 1.2;
-	margin: 1.5rem 0 .5rem 0;
+    line-height: 1.7;
+	margin: 2rem 0 .5rem 0;
 	padding: 0 0 0 0;
 	max-width: 40rem;
 	border-bottom: 1px solid #8c2e24;
 }
-/* Internal headings in cases, etc. */
+/* Case, etc. heading 1 */
 h4 {
     font-family: "Literata",serif;
     font-size: 1.3rem;
     font-style: normal;
-	font-weight: 400;
-    line-height: 1.2;
+	font-weight: 500;
+    line-height: 1.4;
 	text-align: left;
-    margin: .5rem 0 .5rem 0;
+    margin: 1.5rem 0 .5rem 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
     list-style: outside none none !important;
 }
 
+/* Case, etc. heading 2 */
 h5 {
     font-family: "Literata",serif;
     font-size: 1.2rem;
+    font-style: italic;
 	font-weight: 300;
     line-height: 1.2;
     margin: 1rem 0 .5rem 0;
@@ -92,16 +94,16 @@ p {
 
 /* Links */
 a {
-	color: #8c2e24;
+	color: #002D72;
     text-decoration: none;
 }
 /* unvisited link */
 a:link {
-	color: #8c2e24;
+	color: #002D72;
 }
 /* visited link */
 a:visited {
-	color: #8c2e24;
+	color: #002D72;
 }
 /* mouse over link */
 a:hover {
@@ -109,11 +111,7 @@ a:hover {
 }
 /* selected link */
 a:active {
-	color: #8c2e24;
-}
-p > a, cite > a, span > a {
-    color: #8c2e24;
-    text-decoration: none;
+	color: #002D72;
 }
 /* Wrap long URLs in references */
 #refs a {
@@ -198,10 +196,14 @@ p > a, cite > a, span > a {
 	display: block;
 }
 
-/* ul default = unstyled; use {{< bi dot >}} for bullets */
+/* Lists -- ul default is unstyled; use {{< bi dot >}} for bullets */
+ol, ul {
+	padding-left: 1.5rem;
+}
 ul { 
 	list-style-type: none;
 }
+
 
 /* License */
 .license {
@@ -303,16 +305,16 @@ div.csl-entry {
   margin-bottom: 1rem;
   text-indent:-2em;
 	& a:link {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 	& a:visited {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 	& a:hover {
-		color: #8c2e24 !important;
+		color: #4b9cd3 !important;
 	}
 	& a:active {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 }
 div.csl-left-margin {
@@ -357,41 +359,32 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: var(--fa-display,inline-block);
 }
 .center-icon {
-	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
-		text-align: center;
-		margin: 0 auto 0 auto;
-		width: 100%;
-		display: block;
-	}
-}
-.center-icon-large {
-	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
-	    font-size: 1.25rem;
-		text-align: center;
-		margin: 0 auto 0 auto;
-		width: 100%;
-		display: block;
-	}
-}
-
-/* SPECIAL STYLES */
-/* Colors */
-.theme-color {
-    color: #8c2e24;
-}
-.center-icon {
     color: #8c2e24;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	width: 100%;
 	display: block;
 }
+.center-icon-large {
+    color: #8c2e24;
+	font-size: 1.25rem;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	width: 100%;
+	display: block;
+}
 
-/* Span Styles */
+/* SPANS */
+.theme-color {
+    color: #8c2e24;
+}
 .margin-note-style { 
 	font-family: "Adelle-Sans",sans-serif;
     color: #006400;
 	font-weight: 300;
+}
+.small-caps-text {
+  font-variant: small-caps;
 }
 .small-size {
     font-size: 0.9rem;
@@ -503,7 +496,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .title .chapter-number {
 	color: inherit; 
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
 }
 .header-section-number {

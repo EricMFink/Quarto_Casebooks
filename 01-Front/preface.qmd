@@ -32,7 +32,7 @@ Unnumbered margin notes [This is an example of a margin note.]{.aside} ([green s
 
 [^sidenote]: This is an example of a sidenote. 
 
-Links to external material are indicated by dark red text, e.g. [Mayo v. Satan](../exhibits/Mayo_Satan.pdf).
+Links to external material are indicated by blue text, e.g. [Mayo v. Satan](../exhibits/Mayo_Satan.pdf).
 
 Click on the [{{< bi file-pdf >}}]{.theme-color} icon to download a PDF copy of the casebook.
 

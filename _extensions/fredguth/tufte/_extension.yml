@@ -54,7 +54,6 @@ contributes:
               <meta name="robots" content="noarchive">
       pdf:
         documentclass: tufte-book
-        classoption: [sfsidenotes]
         output-file: CivProCasebook
         number-sections: true
         number-depth: 2

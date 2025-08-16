@@ -1,6 +1,6 @@
-# Source Material {.unnumbered}
+# Sources {.unnumbered}
 
-#### Cases
+## Cases
 
 _Amador County, Cal. v. U.S. Dept. of the Interior_, 772 F. 3d 901 (D.C. Cir. 2014)
 
@@ -116,7 +116,7 @@ _World-Wide Volkswagen Corp. v. Woodson_, 444 U.S. 286 (1979)
 
 _Zielinski v. Philadelphia Piers_, 139 F. Supp. 408 (Dist. Court A. No. 15153)
 
-#### Books, Articles, & Other Publications
+## Books, Articles, & Other Publications
 
 Administrative Office of the U.S. Courts, [_Understanding the Federal Courts_](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf), (n.d.)
 

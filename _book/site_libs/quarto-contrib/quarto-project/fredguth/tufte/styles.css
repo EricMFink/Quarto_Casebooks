@@ -94,16 +94,16 @@ p {
 
 /* Links */
 a {
-	color: #8c2e24;
+	color: #002D72;
     text-decoration: none;
 }
 /* unvisited link */
 a:link {
-	color: #8c2e24;
+	color: #002D72;
 }
 /* visited link */
 a:visited {
-	color: #8c2e24;
+	color: #002D72;
 }
 /* mouse over link */
 a:hover {
@@ -111,11 +111,7 @@ a:hover {
 }
 /* selected link */
 a:active {
-	color: #8c2e24;
-}
-p > a, cite > a, span > a {
-    color: #8c2e24;
-    text-decoration: none;
+	color: #002D72;
 }
 /* Wrap long URLs in references */
 #refs a {
@@ -200,10 +196,15 @@ p > a, cite > a, span > a {
 	display: block;
 }
 
-/* ul default = unstyled; use {{< bi dot >}} for bullets */
+/* Lists -- ul default is unstyled; use {{< bi dot >}} for bullets */
+ol, ul {
+	padding-left: 1.5rem;
+}
+
 ul { 
 	list-style-type: none;
 }
+
 
 /* License */
 .license {
@@ -305,16 +306,16 @@ div.csl-entry {
   margin-bottom: 1rem;
   text-indent:-2em;
 	& a:link {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 	& a:visited {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 	& a:hover {
-		color: #8c2e24 !important;
+		color: #4b9cd3 !important;
 	}
 	& a:active {
-		color: #8c2e24 !important;
+		color: #002D72 !important;
 	}
 }
 div.csl-left-margin {
@@ -496,7 +497,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .title .chapter-number {
 	color: inherit; 
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
 }
 .header-section-number {
