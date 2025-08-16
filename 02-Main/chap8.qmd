@@ -2,19 +2,15 @@
 
 ## Standard for Summary Judgment
 
-
-
-#### Fed. R. Civ. P. Rule 56
+### Fed. R. Civ. P. Rule 56
 
 (a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 
 (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
 
+### Crane v. City of Arlington, Texas (5th Cir. 2022) 
 
-
-#### [@CraneCityArlington2022]
-
-[PATRICK E. HIGGINBOTHAM, Circuit Judge]{.case-judge}
+**PATRICK E. HIGGINBOTHAM, Circuit Judge**
 
 In 1996, the Supreme Court approved the use of pretextual stops in _Whren v. United States._ Since then, pretextual stops have become a cornerstone of law enforcement practice. Police officers follow a suspicious person until they identify a traffic violation to make a lawful stop, even though the officer intends to use the stop to investigate a hunch that, by itself, would not amount to reasonable suspicion or probable cause. Often pulled over for minor traffic violations, these stops create grounds for violent—and often deadly—encounters that disproportionately harm people of color.
 
@@ -24,7 +20,7 @@ While several major cities have restricted the practice, in much of America, pol
 
 To be clear, we apply only settled laws that govern this case today, cast as they are against the larger frame of their play in the streets across the country.
 
-[I.]{.case-h1}
+#### I.
 
 Tavis Crane's estate and the passengers of Crane's car sued Arlington Police Officer Craig Roper and the City of Arlington for the use of excessive force during a traffic stop in violation of the Fourth Amendment. The district court dismissed the passengers' claims, finding that they could not bring claims as bystanders, and granted summary judgment to Roper and the City after determining that Roper was entitled to qualified immunity. We affirm the dismissal of the passengers' claims and vacate the grant of summary judgment on Crane's claims and remand to the district court for further proceedings consistent with this opinion.
 
@@ -48,7 +44,7 @@ Roper claims that Crane shifted the car in gear while the two struggled, and tha
 
 After Roper shot Crane, the car careened down the road and Roper took the keys out of the ignition and steered the car to a stop. Officer Johnson caught up in his squad car and told Roper to pull Crane from the driver's seat and perform CPR. Roper continued to shout and curse at Crane, asking why he had not stopped, but Crane was silent. An autopsy concluded that Crane was shot four times and died of gunshot wounds to his abdomen.
 
-[II.]{.case-h1}
+#### II.
 
 On January 31, 2019, Crane's mother, as the administrator of Crane's estate and on behalf of his surviving children, and the other passengers filed a 42 U.S.C. §1983 claim against the City of Arlington and Officer Roper, individually and in his official capacity. The plaintiffs allege that Roper violated their Fourth Amendment rights and that the City is liable under _Monell v. Department of Social Services._
 
@@ -56,7 +52,7 @@ The City and Roper moved to dismiss the plaintiffs' claims. The district court c
 
 Asserting qualified immunity, Roper then moved for summary judgment, which the district court granted. The district court acknowledged that Valencia Johnson and Roper presented different accounts of when the first shot occurred, but found that "a reasonable jury could not believe the passengers' account of the shooting." Finding Roper entitled to qualified immunity, the district court dismissed Crane's claims against Roper and the City with prejudice. The plaintiffs timely appealed the order on the motion to dismiss and the grant of summary judgment.
 
-[IV.]{.case-h1}
+#### IV.
 
 First, we review the district court's grant of summary judgment. "When a defendant official moves for summary judgment on the basis of qualified immunity, 'the burden then shifts to the plaintiff, who must rebut the defense by establishing a genuine fact issue as to whether the official's allegedly wrongful conduct violated clearly established law.'" All facts must be viewed in the light most favorable to the nonmovant and all justifiable inferences must be drawn in his favor.
 
@@ -68,7 +64,7 @@ What happened inside Crane's car is not visible in the dashcam video. As such, t
 
 The district court found that the gear could change and the car could move only with the conscious intention of Crane. But that conclusion ignores the other plausible explanation that the gears were shifted during the struggle between Crane and Roper, as Crane attempted to comply with Roper, and that the chokehold caused Crane to press down on the accelerator as an attempt to relieve the stress on his neck, as opposed to attempting to flee. When two conclusions are plausible, at the summary judgment stage, we must accept as true that which is most favorable to the nonmovant. The district court erred by applying its own interpretation of the video and accepting Roper's factual account over Crane's of what occurred inside the car. "At the summary judgment stage the judge's function is not himself to weigh the evidence and determine the truth of the matter," that job is reserved for the jury.
 
-[A.]{.case-h2}
+##### A.
 
 Next, we must consider whether Roper is entitled to qualified immunity under Crane's account of events. We hold he is not at this stage.
 
@@ -92,7 +88,7 @@ Crane argues, notwithstanding the _Graham_ factors, that Roper created the situa
 
 Under the _Graham_ factors, Roper's use of deadly force was unreasonable. Because Roper's use of force in this situation was unreasonable, violating Crane's Fourth Amendment right, we now turn to the clearly established prong.
 
-[B.]{.case-h2}
+##### B.
 
 The second step of the qualified immunity inquiry is asking "whether the violated constitutional right was clearly established at the time of the violation." The purpose of this inquiry is to determine whether the officer "had fair notice that his conduct was unlawful."
 
@@ -104,7 +100,7 @@ Here, under Crane's account, Crane was shot while he was held in a chokehold in 
 
 Because the facts seen in the light most favorable to Crane indicate a violation of a clearly established right and material facts are in dispute, the district court erred in granting summary judgment to Roper and perforce dismissing the City.
 
-[V.]{.case-h1}
+#### V.
 
 We turn to the claims of the three passengers—Jefferson, Valencia Johnson, and Z.C.—against Roper and the City, suing under §1983 and claiming that Roper's actions violated their Fourth Amendment rights. The passengers argue that they are entitled to damages under two theories of liability.
 
@@ -120,9 +116,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ## Burden of Production 
 
-
-
-#### Fed. R. Civ. P. Rule 56
+### Fed. R. Civ. P. Rule 56
 
 (c\) Procedures.
 
@@ -156,17 +150,13 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 - (4\) issue any other appropriate order.
 
-
-
-##### Note: "Materials in the Record": Discovery 
+### Note: "Materials in the Record": Discovery 
 
 Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
 
 [Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-
-
-[Fed. R. Civ. P. Rule 26(a)]{.note-h1}
+#### Fed. R. Civ. P. Rule 26(a)
 
 (1\) Initial Disclosure.
  
@@ -194,8 +184,6 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 	- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
 
-
-
 The parties may seek further information through various discovery methods: 
 
 - {{< bi dot >}} _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
@@ -214,13 +202,13 @@ The court may impose sanctions on parties for failure to make required disclosur
 
 In addition to the materials produced in discovery, the record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
 
-#### [@StoutVincent2018]
+### Stout v. Vincent (5th Cir. 2018) 
 
-[Per Curiam]{.case-judge}
+**Per Curiam**
 
 We decide whether the district court erred when granting summary judgment in favor of a police officer on the racial profiling claims of a black couple. The district court found that the couple failed to raise any genuine issue of material fact showing that the officer violated their equal protection rights under the Fourteenth Amendment. We affirm.
 
-[Facts and Proceedings]{.case-h1}
+#### Facts and Proceedings
 
 Cathryn Scott Stout and Raymond Montgomery, Jr., who are black, were travelling together from Memphis, Tennessee in a Lexus sport utility vehicle ("SUV") on Interstate 55 through central Mississippi. Montgomery noticed Mississippi Highway Safety Patrol ("MHSP") cars parked on the median. Soon after they passed the cars, Trooper Patrick Wall drove up along the side of their SUV in the left lane and looked at them. He then dropped behind their vehicle and turned on his lights and siren. Montgomery, who was driving, pulled over, but he did not feel nervous because he was not speeding and he believed he had done nothing wrong.
 
@@ -242,13 +230,13 @@ Officer Vincent called for a K-9 officer, and Deputy Joseph Mangino soon arrived
 
 Stout and Montgomery sued Officer Vincent, seeking injunctive relief and damages for violation of their Fourteenth Amendment rights under 42 U.S.C. §1983. Specifically, they alleged that impermissible considerations of race motivated their extended detention by Officer Vincent. Officer Vincent moved for summary judgment on the basis of qualified immunity, and the district court granted his motion, concluding Appellants "have not presented any evidence" in support of their claim that Officer Vincent's conduct "was at least partially based on their race." Stout and Montgomery appealed.
 
-[Discussion]{.case-h1}
+#### Discussion
 
 On appeal, Stout and Montgomery raise only one issue: whether the district court erred when concluding there was no genuine issue of material fact that Officer Vincent's actions were impermissibly motivated by race.
 
-[I\. Legal Standard]{.case-h1}
+#### I\. Legal Standard
 
-[A\. Summary Judgment]{.case-h2}
+##### A\. Summary Judgment
 
 Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
 
@@ -256,7 +244,7 @@ If the moving party meets its burden, "the nonmovant must go beyond the pleading
 
 A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
-[C\. Fourteenth Amendment Racial Profiling]{.case-h2}
+##### C\. Fourteenth Amendment Racial Profiling
 
 "The Constitution prohibits selective enforcement of the law based on considerations such as race." "The constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause." 
 
@@ -266,7 +254,7 @@ In another context, we have said that a plaintiff's "subjective belief of discri
 
 Finally, "discriminatory intent of one official may not be imputed to another for purposes of imposing individual liability under the civil rights laws."
 
-[II\. Lack of Evidence of Fourteenth Amendment Violation]{.case-h1}
+#### II\. Lack of Evidence of Fourteenth Amendment Violation
 
 The district court concluded that Montgomery and Stout "have not presented any evidence to support their claim" that Officer Vincent's decision to detain them was "at least partially based on their race." The district court further concluded that Montgomery and Stout "have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable Montgomery have failed to produce _any_ material evidence showing that race motivated Officer Vincent's conduct, we need not address the issue. suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion."
 
@@ -308,17 +296,17 @@ Sally Schlimazel (domiciled in Florida), was injured when she cut her foot on a 
 
 The evidentiary record based on discovery includes the following evidence: 
 
-[Summary of Sally Schlimazel Deposition Testimony]{.case-h1}
+#### Summary of Sally Schlimazel Deposition Testimony
 
 Schlimazel testified in her deposition that she cut her bare foot on the “outside bottom edge of the chair where the base meets the sides,” resulting in severe lacerations. She later examined the chair and determined that the edge was “razor sharp, sharp enough that if you were to rub your finger across the bottom outside edge of the chair, you would shave skin off your finger.” The chrome was flush with the plywood but the edge was sharp all the way around the 360 degrees of the base.
 
 Schlimazel went to the emergency room, where a doctor found that Schlimazel had a severed tendon. Following the doctor’s advice, Schlimazel underwent surgery, followed by six months of physical therapy. 
 
-[Summary of Freddie Frankel Affidavit]{.case-h1}
+#### Summary of Freddie Frankel Affidavit
 
 Schlimazel submitted a sworn affidavit from her neighbor. Freddie Frankel. Frankel stated in the affidavit that he bought the chair at a Miami furniture store a few years before the incident. He’d never noticed the sharp edge on the chair, and as far as he knew, nobody had ever been injured by it before. 
 
-[Summary of Milo Mebelmacher Deposition Testimony:]{.case-h1}
+#### Summary of Milo Mebelmacher Deposition Testimony:
 
 Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his deposition that he designed the Swivel Tub Chair. Mebelmacher licensed the design to Hahn, Inc., which is the exclusive licensed manufacturer of the chairs. 
 
@@ -334,7 +322,7 @@ If the chair were manufactured with the chrome veneer extending beyond the plywo
 
 A designer’s role is to make a conceptual sketch, to provide a full-sized detail and working sketch, and to supervise the making of a model. The purpose of the supervision is to assure that the finished product looks right. The designer’s responsibilities are “aesthetic and not engineering.” The manufacturer’s inspectors occasionally “let something go through that isn’t exactly right.” In all factories some quality problems get through. Other than the present action, Mebelmacher has not received a single complaint of injury involving any of its furniture designs.
 
-[Summary of Julius Hahn Deposition Testimony]{.case-h1}
+#### Summary of Julius Hahn Deposition Testimony
 
 Julius Hahn, founder and president of Hahn, Inc., testified that his company manufactures the Swivel Tub Chair at its High Point, North Carolina factory. Hahn distributes the chairs to various retailers around the country, including the Miami store where Mr. Frankel bought the chair allegedly responsible for Schlimazel’s injury. 
 

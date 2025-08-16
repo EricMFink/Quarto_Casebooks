@@ -35,28 +35,15 @@ h2 {
 	font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
-	margin: 3rem 0 0 0;
+	margin: 2rem 0 0 0;
 	padding: 0 0 0 0;
     border: none;
 }
-/* Subsection */
+/* Case, Statute, Rule, Note */
 h3 {
     font-family: "Literata",serif;
 	color: #8c2e24;
     font-size: 1.7rem;
-	font-style: italic;
-	font-weight: 400;
-    line-height: 1.2;
-	margin: 2rem 0 0 0;
-	padding: 0 0 0 0;
-    border: none;
-
-}
-/* Title and cite of incorporated materials */
-h4 {
-    font-family: "Literata",serif;
-	color: #8c2e24;
-    font-size: 1.4rem;
     font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
@@ -65,91 +52,29 @@ h4 {
 	max-width: 40rem;
 	border-bottom: 1px solid #8c2e24;
 }
-/* Heading for editor's notes */
-h5 {
+/* Internal headings in cases, etc. */
+h4 {
     font-family: "Literata",serif;
-	color: #8c2e24;
-    font-size: 1.2rem;
-    font-style: normal;
-	font-weight: 500;
-    line-height: 1.2;
-	text-align: left;
-    margin: 1.5rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-}
-/* Headings in Cases */
-.case-judge {
-    font-family: "Literata",serif;
-    color: #191919;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
 	text-align: left;
+    margin: .5rem 0 .5rem 0;
+    padding: 0 0 0 0;
+	max-width: 40rem;
+    list-style: outside none none !important;
+}
+
+h5 {
+    font-family: "Literata",serif;
+    font-size: 1.2rem;
+	font-weight: 300;
+    line-height: 1.2;
     margin: 1rem 0 .5rem 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-	display: block;
-}
-.case-h1 {
-    font-size: 1.1rem;
-	font-weight: 500;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
     list-style: outside none none !important;
-	display: block;
-}
-.case-h2 {
-    font-size: 1.1rem;
-    font-style: italic !important;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: .0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.case-h3 {
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
-}
-.case-h4 {
-    font-size: 1rem;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
-}
-.case-h5 {
-    font-size: .9rem;
-    font-style: italic !important;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: 1rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
 }
 
 .title .chapter-number {
@@ -454,12 +379,6 @@ footer.footer .nav-footer, #quarto-header > nav {
 .theme-color {
     color: #8c2e24;
 }
-.link-color { 
-    color: #8c2e24;
-}
-.contrast {
-    color: #8c2e24;
-}
 .center-icon {
     color: #8c2e24;
 	text-align: center;
@@ -469,36 +388,23 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 
 /* Span Styles */
-.margin-note { 
+.margin-note-style { 
 	font-family: "Adelle-Sans",sans-serif;
     color: #006400;
 	font-weight: 300;
 }
-.large {
-    font-size: 1.3rem;
-}
-.larger {
-    font-size: 1.5rem;
-}
-.largest {
-    font-size: 1.7rem;
-}
-.small {
+.small-size {
     font-size: 0.9rem;
-}
-.smaller {
-    font-size: 0.8rem;
 }
 .center {
 	text-align: center;
 }
-.sans-serif {
+.sans-font {
     font-family: "Adelle-Sans",sans-serif;
     font-style: normal;
 }
-.mono-face {
+.mono-font {
     font-family: "LFT-Etica Mono",monospace;
-    font-size: 0.9rem;
     font-weight: 400;
     font-style: normal;
 }

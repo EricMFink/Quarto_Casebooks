@@ -41,5 +41,3 @@ book:
         - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
-csl: casebook-bibliography.csl
-bibliography: CivProCasebook.yaml

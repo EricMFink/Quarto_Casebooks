@@ -2,23 +2,19 @@
 
 ## The Rules of Decision Act
 
+### The Rules of Decision Act, 28 U.S.C. § 1652
 
-
-#### The Rules Enabling Act, 28 U.S.C. § 1652
-
-[State laws as rules of decision]{.note-h1}
+#### State laws as rules of decision
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
-
-
-##### Note: "The Laws of the Several States"
+### Note: "The Laws of the Several States"
 
 The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
 
-#### [@SwiftTyson1842]
+### Swift v. Tyson (U.S. 1842) 
 
-- [Summary of Facts]{.note-h3}
+- **Summary of Facts**
 
 - [_George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_]{.small-size}
 
@@ -26,11 +22,11 @@ The Rules of Decision Act applies to cases in which federal courts hear claims t
 
 [^Swiftb]: A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange).
 
-[^Swiftc]: Swift may have been in cahoots with the swindlers: "The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape." [@LaPiana1986]: 796.
+[^Swiftc]: Swift may have been in cahoots with the swindlers: "The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape." LaPiana (1986): 796.
 
 [{{< fa gavel >}}]{.center-icon-large}
 
-[Justice STORY delivered the opinion of the Court.]{.case-judge}
+**Justice STORY delivered the opinion of the Court.**
 
 There is no doubt, that a bonâ fide holder of a negotiable instrument for a valuable consideration, without any notice of facts which impeach its validity as between the antecedent parties, if he takes it under an endorsement made before the same becomes due, holds the title unaffected by these facts, and may recover thereon, although as between the antecedent parties the transaction may be without any legal validity. This is a doctrine so long and so well established, and so essential to the security of negotiable paper, that it is laid up among the fundamentals of the law, and requires no authority or reasoning to be now brought in its support. As little doubt is there, that the holder of any negotiable paper, before it is due, is not bound to prove that he is a bonâ fide holder for a valuable consideration, without notice; for the law will presume that, in the absence of all rebutting proofs, and therefore it is incumbent upon the defendant to establish by way of defence satisfactory proofs of the contrary, and thus to overcome the primâ facie title of the plaintiff.
 
@@ -40,7 +36,7 @@ But, admitting the doctrine to be fully settled in New York, it remains to be co
 
 It becomes necessary for us, therefore, upon the present occasion to express our own opinion of the true result of the commercial law upon the question now before us. And we have no hesitation in saying, that a pre-existing debt does constitute a valuable consideration in the sense of the general rule already stated, as applicable to negotiable instruments. Assuming it to be true, (which, however, may well admit of some doubt from the generality of the language,) that the holder of a negotiable instrument is unaffected with the equities between the antecedent parties, of which he has no notice, only where he receives it in the usual course of trade and business for a valuable consideration, before it becomes due; we are prepared to say, that receiving it in payment of, or as security for a pre-existing debt, is according to the known usual course of trade and business.
 
-##### Note: _Swift_ and Its Discontents
+### Note: _Swift_ and Its Discontents
 
 Justice Story's opinion quotes the Roman statesman and philosopher Cicero for the proposition that the common law cannot differ from state to state. The cited passage[^6f7b] summarizes the natural law paradigm:
 
@@ -50,13 +46,13 @@ Justice Story's opinion quotes the Roman statesman and philosopher Cicero for th
 
 During the late 19th and early 20th centuries, the legal field experienced a paradigm shift,[^f392] with concepts and methods associated with legal [positivism](https://plato.stanford.edu/archives/fall2009/entries/legal-positivism/), [realism](https://lsolum.typepad.com/legal_theory_lexicon/2006/09/legal_theory_le_2.html), and [pragmatism](https://lsolum.typepad.com/legaltheory/2018/07/legal-theory-lexicon-pragmatism.html) challenging the previously dominant paradigm of natural law and formalism. Cases like _Erie_ and _International Shoe_, along with the adoption of the Federal Rules of Civil Procedure, were significant moments in this jurisprudential revolution.[^02ef]
 
-[^f392]: A paradigm shift is a transformation in the fundamental assumptions, theories, and practice of a scientific or professional community. "When the transition is completed, the profession will have changed its view of the field, its methods, and its goals." [@Kuhn2012]: 84-85.
+[^f392]: A paradigm shift is a transformation in the fundamental assumptions, theories, and practice of a scientific or professional community. "When the transition is completed, the profession will have changed its view of the field, its methods, and its goals." Kuhn & Hacking (2012): 84-85.
 
-[^02ef]: See, e.g. [@Rutherglen2001]; [@Sawyer2001]; [@Marcus2009]; [@Casto1987].
+[^02ef]: See, e.g. Rutherglen (2001); Sawyer III (2001); Marcus (2009); Casto (1987).
 
 Among those leading the charge was Oliver Wendell Holmes, Jr., whose work as a legal scholar and opinions as a Supreme Court Justice advanced a positivist understanding of law and pragmatist approach to judicial decision-making, and laid the groundwork for overturning _Swift_.  
 
-Oliver Wendall Holmes, _The Common Law_, 1-2 (1881):
+Oliver Wendall Holmes, _The Common Law_ (1881):
 
 > The life of the law has not been logic: it has been experience. The felt necessities of the time, the prevalent moral and political theories, intuitions of public policy, avowed or unconscious, even the prejudices which judges share with their fellow-men, have had a good deal more to do than the syllogism in determining the rules by which men should be governed. The law embodies the story of a nation’s development through many centuries, and it cannot be dealt with as if it contained only the axioms and corollaries of a book of mathematics. In order to know what it is, we must know what it has been, and what it tends to become. We must alternately consult history and existing theories of legislation. But the most difficult labor will be to understand the combination of the two into new products at every stage. The substance of the law at any given time pretty nearly corresponds, so far as it goes, with what is then understood to be convenient; but its form and machinery, and the degree to which it is able to work out desired results, depend very much upon its past.
 
@@ -90,9 +86,9 @@ _Black & White Taxicab Co. v. Brown & Yellow Taxicab Co._, 279 U.S. 518, 532-536
 
 Holmes stepped down from the Court in 1932 and died in 1935. Three years later, the Court, in an opinion by Justice Louis Brandeis (another important figure in legal pragmatism and realism) overturned _Swift_ and adopted a positivist interpretation of the Rules of Decision Act.
 
-#### [@ErieCoTompkins1938]
+### Erie R. Co. v. Tompkins (U.S. 1938) 
 
-[Justice BRANDEIS delivered the opinion of the Court.]{.case-judge}
+**Justice BRANDEIS delivered the opinion of the Court.**
 
 The question for decision is whether the oft-challenged doctrine of _Swift v. Tyson_ shall now be disapproved.
 
@@ -138,9 +134,9 @@ The fallacy underlying the rule declared in _Swift v. Tyson_ is made clear by Mr
 
 Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an unconstitutional assumption of powers by courts of the United States which no lapse of time or respectable array of opinion should make us hesitate to correct." In disapproving that doctrine we do not hold unconstitutional §34 of the Federal Judiciary Act of 1789 or any other Act of Congress. We merely declare that in applying the doctrine this Court and the lower courts have invaded rights which in our opinion are reserved by the Constitution to the several States.
 
-_Fourth_.[On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see [@Frye2018]]{.aside} The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
+_Fourth_.[On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018)]{.aside} The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
-##### Note: Substance and Procedure under _Erie_
+### Note: Substance and Procedure under _Erie_
 
 The underlying issue in _Erie_ was one of substantive law: the standard of care that the Railroad owed Tompkins. In a concurring opinion, Justice Reed suggested that on matters of procedure, federal courts were not bound to follow state law:
 
@@ -148,7 +144,7 @@ The underlying issue in _Erie_ was one of substantive law: the standard of care 
 
 In the aftermath of _Erie_, the Court sought to provide an answer to the question of how to draw the line between substance and procedure:
 
-[Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)]{.note-h2}
+##### Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)
 
 York sued Guaranty Trust for breach of fiduciary duty. The issue was whether, "in a suit brought on the equity side[^85d4] of a federal district court that court is required to apply the State statute of limitations that would govern like suits in the courts of a State where the federal court is sitting even though the exclusive basis of federal jurisdiction is diversity of citizenship." If so, the suit would be dismissed as untimely. This turned on whether application of the state statute of limitations to bar "a claim created by the States is a matter of 'substantive rights' to be respected by a federal court of equity when that court's jurisdiction is dependent on the fact that there is a State-created right, or is such statute of 'a mere remedial character, which a federal court may disregard?"
 
@@ -164,20 +160,19 @@ Rather than mechanically applying the labels "substance" and "procedure", the Co
 > 
 > Plainly enough, a statute that would completely bar recovery in a suit if brought in a State court bears on a State-created right vitally and not merely formally or negligibly. As to consequences that so intimately affect recovery or non-recovery a federal court in a diversity case should follow State law.
 
-[Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)]{.note-h2}
+##### Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)
 
 Ragan sued Merchants Transfer for injuries resulting from a traffic accident. A two-year statute of limitations under state law applied. The plaintiff filed the complaint in federal court less than two years after the accident, but did not serve the complaint on the defendant until more than two years had passed. Relying on Fed. R. Civ. P. Rule 3 ("A civil action is commenced by filing a complaint with the court."), the plaintiff argued that filing the complaint was sufficient to satisfy the statute of limitations. The defendant argued that the federal court must follow state law, under which the statute of limitations was not satisfied unless the suit was both filed and served within the allotted time.
 
 As in _Guaranty Trust_, the Court focused on whether applying different rules in state and federal court would yield different outcomes. Once again, the Court held that the federal court must follow state law, under which the plaintiff's right to relief would be extinguished.
 
-
-[Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)]{.note-h2}
+##### Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)
 
 In these two cases, decided together with _Ragan_, the Court likewise held that the federal court must apply state law rules where a contrary federal rule would have yielded different outcomes. _Woods v. Interstate Realty_ (State rule, barring unqualified business from appearing in state court, applies in federal diversity action); _Cohen v. Beneficial Indust. Loan Corp_, (State rule, requiring bond in shareholder derivative suit, applies in federal diversity action, despite lack of bond requirement in FRCP Rule 23.1).
 
-#### [@ByrdBlueRidge1958]
+### Byrd v. Blue Ridge Rural Elec. Cooperative, Inc. (U.S. 1958) 
 
-[Justice BRENNAN delivered the opinion of the Court.]{.case-judge}
+**Justice BRENNAN delivered the opinion of the Court.**
 
 This case was brought in the District Court for the Western District of South Carolina. Jurisdiction was based on diversity of citizenship. 28 U. S. C. §1332. The petitioner, a resident of North Carolina, sued respondent, a South Carolina corporation, for damages for injuries allegedly caused by the respondent's negligence. He had judgment on a jury verdict. The Court of Appeals for the Fourth Circuit reversed and directed the entry of judgment for the respondent. We granted certiorari and subsequently ordered reargument.
 
@@ -185,7 +180,7 @@ The respondent is in the business of selling electric power to subscribers in ru
 
 One of respondent's affirmative defenses was that, under the South Carolina Workmen's Compensation Act, the petitioner---because the work contracted to be done by his employer was work of the kind also done by the respondent's own construction and maintenance crews---had the status of a statutory employee of the respondent and was therefore barred from suing the respondent at law because obliged to accept statutory compensation benefits as the exclusive remedy for his injuries. Two questions concerning this defense are before us: (1) whether the Court of Appeals erred in directing judgment for respondent without a remand to give petitioner an opportunity to introduce further evidence; and (2) whether petitioner, state practice notwithstanding, is entitled to a jury determination of the factual issues raised by this defense.
 
-[I.]{.case-h1}
+#### I.
 
 The Supreme Court of South Carolina has held that there is no particular formula by which to determine whether an owner is a statutory employer under [the South Carolina workers' compensation statute]:
 
@@ -203,7 +198,7 @@ We believe that the Court of Appeals erred. The petitioner is entitled to have t
 
 At all events, the petitioner is plainly entitled to have an opportunity to try the issue under the Court of Appeals' interpretation.
 
-[II.]{.case-h1}
+#### II.
 
 A question is also presented as to whether on remand the factual issue is to be decided by the judge or by the jury. The respondent argues on the basis of the decision of the Supreme Court of South Carolina in _Adams v. Davison-Paxon Co._ that the issue of immunity should be decided by the judge and not by the jury. That was a negligence action brought in the state trial court against a store owner by an employee of an independent contractor who operated the store's millinery department. The trial judge denied the store owner's motion for a directed verdict made upon the ground that [the workers' compensation statute] barred the plaintiff's action. The jury returned a verdict for the plaintiff. The South Carolina Supreme Court reversed, holding that it was for the judge and not the jury to decide on the evidence whether the owner was a statutory employer, and that the store owner had sustained his defense. The court rested its holding on decisions involving judicial review of the Industrial Commission.
 
@@ -223,11 +218,9 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## The Rules Enabling Act
 
+### The Rules Enabling Act, 28 U.S.C. §2071
 
-
-#### The Rules Enabling Act, 28 U.S.C. §2071
-
-[Rules of procedure and evidence; power to prescribe]{.note-h1}
+#### Rules of procedure and evidence; power to prescribe
 
 (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
 
@@ -235,11 +228,9 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 (c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 
+### Hanna v. Plumer (U.S. 1967) 
 
-
-#### [@HannaPlumer1967]
-
-[Chief Justice WARREN delivered the opinion of the Court.]{.case-judge}
+**Chief Justice WARREN delivered the opinion of the Court.**
 
 The question to be decided is whether, in a civil action where the jurisdiction of the United States district court is based upon diversity of citizenship between the parties, service of process shall be made in the manner prescribed by state law or that set forth in Rule 4(d)(1) of the Federal Rules of Civil Procedure.
 
@@ -303,7 +294,7 @@ We are reminded by the _Erie_ opinion that neither Congress nor the federal cour
 
 _Erie_ and its offspring cast no doubt on the long-recognized power of Congress to prescribe housekeeping rules for federal courts even though some of those rules will inevitably differ from comparable state rules. "When, because the plaintiff happens to be a non-resident, such a right is enforceable in a federal as well as in a State court, the forms and mode of enforcing the right may at times, naturally enough, vary because the two judicial systems are not identic." _Guaranty Trust Co. v. York, supra_, at 108; _Cohen v. Beneficial Loan Corp._, 337 U. S. 541, 555. Thus, though a court, in measuring a Federal Rule against the standards contained in the Enabling Act and the Constitution, need not wholly blind itself to the degree to which the Rule makes the character and result of the federal litigation stray from the course it would follow in state courts, it cannot be forgotten that the _Erie_ rule, and the guidelines suggested in _York_, were created to serve another purpose altogether. To hold that a Federal Rule of Civil Procedure must cease to function whenever it alters the mode of enforcing state-created rights would be to disembowel either the Constitution's grant of power over federal procedure or Congress' attempt to exercise that power in the Enabling Act. Rule 4(d)(1) is valid and controls the instant case.
 
-[Justice HARLAN, concurring.]{.case-judge}
+**Justice HARLAN, concurring.**
 
 It is unquestionably true that up to now _Erie_ and the cases following it have not succeeded in articulating a workable doctrine governing choice of law in diversity actions. I respect the Court's effort to clarify the situation in today's opinion.[Justice Harlan agrees that the Federal Rules of Civil Procedure, rather than state law, should govern service of process in this case, but disagrees with the majority's rationale. What test does Justice Harlan propose and how does it differ from the majority's test?]{.aside} However, in doing so I think it has misconceived the constitutional premises of _Erie_ and has failed to deal adequately with those past decisions upon which the courts below relied.
 
@@ -325,14 +316,13 @@ _Cohen v. Beneficial Loan Corp._ held that a federal diversity court must apply 
 
 It remains to apply what has been said to the present case. The Massachusetts rule provides that an executor need not answer suits unless in-hand service was made upon him or notice of the action was filed in the proper registry of probate within one year of his giving bond. The evident intent of this statute is to permit an executor to distribute the estate which he is administering without fear that further liabilities may be outstanding for which he could be held personally liable. If the Federal District Court in Massachusetts applies Rule 4(d)(1) of the Federal Rules of Civil Procedure instead of the Massachusetts service rule, what effect would that have on the speed and assurance with which estates are distributed? As I see it, the effect would not be substantial. It would mean simply that an executor would have to check at his own house or the federal courthouse as well as the registry of probate before he could distribute the estate with impunity. As this does not seem enough to give rise to any real impingement on the vitality of the state policy which the Massachusetts rule is intended to serve, I concur in the judgment of the Court.
 
+### Dolphin Kickboxing Co. v. Franchoice, Inc. (D. Minn. 2020) 
 
-#### [@DolphinKickboxingCo2020]
-
-[ELIZABETH COWAN WRIGHT, Magistrate Judge]{.case-judge}
+**ELIZABETH COWAN WRIGHT, Magistrate Judge**
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-[I\. FACTUAL AND PROCEDURAL BACKGROUND]{.case-h1}
+#### I\. FACTUAL AND PROCEDURAL BACKGROUND
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -354,7 +344,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-[II\. LEGAL STANDARD]{.case-h1}
+#### II\. LEGAL STANDARD
 
 The Court held oral argument during which it sua sponte raised the issue of the appropriate standard for adding punitive damages claims. Both parties had initially addressed in their written submissions the appropriateness of amending the Complaint to add a claim for punitive damages under Minnesota Statutes Sections 549.191 and 549.20. The Court ordered the parties to file supplemental pleadings with respect to their positions regarding whether Minn. Stat. §549.191, or Rule 15 of the Federal Rules of Civil Procedure, applies to a motion to amend to add a claim for punitive damages. Both parties filed supplemental briefs and agree, based on recent decisions within this District, that Rule 15, and not Minn. Stat. §549 applies to the present motion to amend. That said, the parties disagree about whether the proposed amended complaint plausibly sets forth a claim for punitive damages under Minn. Stat. §549.20.
 
@@ -406,16 +396,13 @@ Here, the fact that the Minnesota procedural law setting forth how to bring a mo
 
 Accordingly, the Court will apply the Rule 15 standard in determining whether to grant Plaintiffs' motion to amend to add a claim for punitive damages based on the allegations in the proposed amended complaint.
 
-
-## Chapter Review 
-
-### Analyzing Choice of Law Under Erie and Hanna
+## Analyzing Choice of Law Under Erie and Hanna
 
 ![Erie-Hanna Analysis](../img/Erie-Hanna.png)
 
-### Review Questions 
+## Review Questions 
 
-[Question 1]{.note-h1}
+#### Question 1
 
 Peggy was employed by Sterling Cooper, P.C\. She had a written employment contract specifying a three year term of employment, during which Sterling Cooper could not terminate Peggy's employment except for cause. The contract specifies that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
 
@@ -425,19 +412,19 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-[Part A]{.note-h2}
+##### Part A
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-[Part B]{.note-h2}
+##### Part B
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-[Question 2]{.case-h1}
+#### Question 2
 
 The Carbolic Smoke Ball Company ("Carbolic") runs an ad in the Pall Mall Gazette. The ad claims that the company's Carbolic Smoke Ball is "clinically proven to prevent colds and flu when used as directed." In fact, the product does nothing at all, other than emit foul-smelling smoke, and the company never conducted any tests, clinical or otherwise. 
 
@@ -450,7 +437,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-[Part A]{.note-h2}
+##### Part A
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -460,7 +447,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-[Part B]{.note-h2}
+##### Part B
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 

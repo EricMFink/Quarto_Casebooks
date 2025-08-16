@@ -474,11 +474,11 @@ footer.footer .nav-footer, #quarto-header > nav {
 .center {
 	text-align: center;
 }
-.sans-serif {
+.sans-font {
     font-family: "Adelle-Sans",sans-serif;
     font-style: normal;
 }
-.mono-face {
+.mono-font {
     font-family: "LFT-Etica Mono",monospace;
     font-weight: 400;
     font-style: normal;

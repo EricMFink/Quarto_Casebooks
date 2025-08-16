@@ -35,121 +35,48 @@ h2 {
 	font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
-	margin: 3rem 0 0 0;
+	margin: 4rem 0 0 0;
 	padding: 0 0 0 0;
     border: none;
 }
-/* Subsection */
+/* Case, Statute, Rule, Note */
 h3 {
-    font-family: "Literata",serif;
-	color: #8c2e24;
-    font-size: 1.7rem;
-	font-style: italic;
-	font-weight: 400;
-    line-height: 1.2;
-	margin: 2rem 0 0 0;
-	padding: 0 0 0 0;
-    border: none;
-
-}
-/* Title and cite of incorporated materials */
-h4 {
     font-family: "Literata",serif;
 	color: #8c2e24;
     font-size: 1.4rem;
     font-style: normal;
 	font-weight: 400;
-    line-height: 1.2;
-	margin: 1.5rem 0 .5rem 0;
+    line-height: 1.7;
+	margin: 2rem 0 .5rem 0;
 	padding: 0 0 0 0;
 	max-width: 40rem;
 	border-bottom: 1px solid #8c2e24;
 }
-/* Heading for editor's notes */
-h5 {
+/* Case, etc. heading 1 */
+h4 {
     font-family: "Literata",serif;
-	color: #8c2e24;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-style: normal;
 	font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.4;
 	text-align: left;
-    margin: 1.5rem 0 0 0;
+    margin: 1.5rem 0 .5rem 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-    border: none;
     list-style: outside none none !important;
 }
-/* Headings in Cases */
-.case-judge {
+
+/* Case, etc. heading 2 */
+h5 {
     font-family: "Literata",serif;
-    color: #191919;
-    font-size: 1.1rem;
-    font-style: normal;
-	font-weight: 400;
+    font-size: 1.2rem;
+    font-style: italic;
+	font-weight: 300;
     line-height: 1.2;
-	text-align: left;
     margin: 1rem 0 .5rem 0;
     padding: 0 0 0 0;
 	max-width: 40rem;
-	display: block;
-}
-.case-h1 {
-    font-size: 1.1rem;
-	font-weight: 500;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
     list-style: outside none none !important;
-	display: block;
-}
-.case-h2 {
-    font-size: 1.1rem;
-    font-style: italic !important;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: .0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-    border: none;
-    list-style: outside none none !important;
-	display: block;
-}
-.case-h3 {
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
-}
-.case-h4 {
-    font-size: 1rem;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
-}
-.case-h5 {
-    font-size: .9rem;
-    font-style: italic !important;
-    font-weight: 300;
-    line-height: 1;
-	text-align: center;
-    margin: 1rem 0 0 0;
-    padding: 0 0 0 0;
-	max-width: 40rem;
-	display: block;
 }
 
 .title .chapter-number {
@@ -432,41 +359,32 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: var(--fa-display,inline-block);
 }
 .center-icon {
-	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
-		text-align: center;
-		margin: 0 auto 0 auto;
-		width: 100%;
-		display: block;
-	}
-}
-.center-icon-large {
-	.fa-classic, .fa-regular, .fa-solid, .far, .fas {
-	    font-size: 1.25rem;
-		text-align: center;
-		margin: 0 auto 0 auto;
-		width: 100%;
-		display: block;
-	}
-}
-
-/* SPECIAL STYLES */
-/* Colors */
-.theme-color {
-    color: #8c2e24;
-}
-.center-icon {
     color: #8c2e24;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	width: 100%;
 	display: block;
 }
+.center-icon-large {
+    color: #8c2e24;
+	font-size: 1.25rem;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	width: 100%;
+	display: block;
+}
 
-/* Span Styles */
+/* SPANS */
+.theme-color {
+    color: #8c2e24;
+}
 .margin-note-style { 
 	font-family: "Adelle-Sans",sans-serif;
     color: #006400;
 	font-weight: 300;
+}
+.small-caps-text {
+  font-variant: small-caps;
 }
 .small-size {
     font-size: 0.9rem;
@@ -474,11 +392,11 @@ footer.footer .nav-footer, #quarto-header > nav {
 .center {
 	text-align: center;
 }
-.sans-serif {
+.sans-font {
     font-family: "Adelle-Sans",sans-serif;
     font-style: normal;
 }
-.mono-face {
+.mono-font {
     font-family: "LFT-Etica Mono",monospace;
     font-weight: 400;
     font-style: normal;

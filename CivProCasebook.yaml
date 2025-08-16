@@ -729,7 +729,7 @@ references:
   volume: '545'
 
 - id: CraneCityArlington2022
-  authority: Court of Appeals, 5th Circuit
+  authority: 5th Cir.
   citation-key: CraneCityArlington2022
   container-title: F. 4th
   issued:
@@ -912,7 +912,7 @@ references:
     - year: 1987
   page: '907'
   publisher: HeinOnline
-  title: Erie Doctrine and the Structure of Constitutional Revolutions
+  title: The Erie Doctrine and the Structure of Constitutional Revolutions
   type: article-journal
   URL: >-
     https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
