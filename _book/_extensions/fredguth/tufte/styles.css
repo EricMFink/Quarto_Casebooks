@@ -469,6 +469,10 @@ footer.footer .nav-footer, #quarto-header > nav {
 #quarto-sidebar {
     background: transparent;
 }
+#quarto-sidebar.show {
+    background: #fffaf0;
+	transition: width .15s ease-out;
+}
 .sidebar {
     font-family: "Adelle-Sans",sans-serif;
     
