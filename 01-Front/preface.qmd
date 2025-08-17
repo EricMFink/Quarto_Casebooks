@@ -34,8 +34,10 @@ Unnumbered margin notes [This is an example of a margin note.]{.aside} ([green s
 
 Links to external material are indicated by blue text, e.g. [Mayo v. Satan](../exhibits/Mayo_Satan.pdf).
 
-Click on the [{{< bi file-pdf >}}]{.theme-color} icon to download a PDF copy of the casebook.
+Click on the icons at the top of the sidebar for these resources: 
 
-Click on the [{{< bi github >}}]{.theme-color} icon to view the source code or report issues.[^issues]
+- [{{< bi github >}}]{.theme-color}: view site source code or report issues.[^issues]
 
 [^issues]: Issue reporting requires a [GitHub](https://github.com/) account. It's free and a useful resource.
+
+- [{{< bi file-pdf >}}]{.theme-color}: download a PDF copy of the casebook.
