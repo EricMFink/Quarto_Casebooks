@@ -19,7 +19,7 @@ body {
 /* Chapter */
 h1 {
 	font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 2.5rem;
     font-style: normal;
 	font-weight: 600;
@@ -31,7 +31,7 @@ h1 {
 /* Section */
 h2 {
 	font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 2.0rem;
 	font-style: normal;
 	font-weight: 400;
@@ -43,7 +43,7 @@ h2 {
 /* Subsection */
 h3 {
     font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 1.7rem;
 	font-style: italic;
 	font-weight: 400;
@@ -56,7 +56,7 @@ h3 {
 /* Title and cite of incorporated materials */
 h4 {
     font-family: "Literata",serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 1.4rem;
     font-style: normal;
 	font-weight: 400;
@@ -64,12 +64,12 @@ h4 {
 	margin: 1.5rem 0 0rem 0;
 	padding: 0 0 0 0;
 	max-width: 40rem;
-	border-bottom: 1px solid #8c2e24;
+	border-bottom: 1px solid #800000;
 }
 /* Heading for editor's notes */
 h5 {
     font-family: "Literata",serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 1.2rem;
     font-style: normal;
 	font-weight: 500;
@@ -174,7 +174,7 @@ h5 {
 }
 
 .title .chapter-number {
-    color: #8c2e24;
+    color: #800000;
     font-size: inherit;
     margin-right: .5rem;
 }
@@ -188,16 +188,16 @@ p {
 
 /* Links */
 a {
-	color: #8c2e24;
+	color: #800000;
     text-decoration: none;
 }
 /* unvisited link */
 a:link {
-	color: #8c2e24;
+	color: #800000;
 }
 /* visited link */
 a:visited {
-	color: #8c2e24;
+	color: #800000;
 }
 /* mouse over link */
 a:hover {
@@ -205,10 +205,10 @@ a:hover {
 }
 /* selected link */
 a:active {
-	color: #8c2e24;
+	color: #800000;
 }
 p > a, cite > a, span > a {
-    color: #8c2e24;
+    color: #800000;
     text-decoration: none;
 }
 /* Wrap long URLs in references */
@@ -244,14 +244,14 @@ p > a, cite > a, span > a {
 	padding: 0 2rem .0 2rem;
 }
 .editor-comment-divider {	
-    color: #8c2e24;
+    color: #800000;
     font-size: 2rem;
 	text-align: center;
 	margin: 0 auto 0 auto;
     display: block;
 }
 .editor-comment-divider p {	
-    color: #8c2e24;
+    color: #800000;
     font-size: 2rem;
 	text-align: center;
 	margin: 0 auto 0 auto;
@@ -441,7 +441,7 @@ li {
 
 /* Divider */
 hr {
-    border-top: 2px solid #8c2e24;
+    border-top: 2px solid #800000;
     max-width: 40rem;
     margin: 2rem 0 1rem 0;
 }
@@ -526,7 +526,7 @@ hr {
     position: absolute;
     left: -20px;
     top: -20px;
-    color: #8c2e24;
+    color: #800000;
 }
 .epigraph .blockquote p {
 	font-size: .9rem !important;
@@ -562,16 +562,16 @@ div.csl-entry {
   margin-bottom: 1rem;
   text-indent:-2em;
 	& a:link {
-		color: #8c2e24 !important;
+		color: #800000 !important;
 	}
 	& a:visited {
-		color: #8c2e24 !important;
+		color: #800000 !important;
 	}
 	& a:hover {
-		color: #8c2e24 !important;
+		color: #800000 !important;
 	}
 	& a:active {
-		color: #8c2e24 !important;
+		color: #800000 !important;
 	}
 }
 div.csl-left-margin {
@@ -613,7 +613,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 
 .fa-classic, .fa-regular, .fa-solid, .far, .fas {
 	font-family: "Font Awesome 6 Free";
-    color: #8c2e24;
+    color: #800000;
 	font-style: normal;
 	font-weight: 900;
 	line-height: 1;
@@ -640,13 +640,13 @@ footer.footer .nav-footer, #quarto-header > nav {
 /* SPECIAL STYLES */
 /* Colors */
 .theme-color {
-    color: #8c2e24;
+    color: #800000;
 }
 .link-color { 
-    color: #8c2e24;
+    color: #800000;
 }
 .contrast {
-    color: #8c2e24;
+    color: #800000;
 }
 
 /* Span Styles */

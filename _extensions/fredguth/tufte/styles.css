@@ -18,7 +18,7 @@ body {
 /* Chapter */
 h1 {
 	font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 2.0rem;
     font-style: normal;
 	font-weight: 600;
@@ -30,7 +30,7 @@ h1 {
 /* Section */
 h2 {
 	font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 1.7rem;
 	font-style: normal;
 	font-weight: 400;
@@ -42,7 +42,7 @@ h2 {
 /* Case, Statute, Rule, Note */
 h3 {
     font-family: "Literata",serif;
-	color: #8c2e24;
+	color: #800000;
     font-size: 1.4rem;
     font-style: normal;
 	font-weight: 400;
@@ -50,7 +50,7 @@ h3 {
 	margin: 2rem 0 .5rem 0;
 	padding: 0 0 0 0;
 	max-width: 40rem;
-	border-bottom: 1px solid #8c2e24;
+	border-bottom: 1px solid #800000;
 }
 /* Case, etc. heading 1 */
 h4 {
@@ -80,7 +80,7 @@ h5 {
 }
 
 .title .chapter-number {
-    color: #8c2e24;
+    color: #800000;
     font-size: inherit;
     margin-right: .5rem;
 }
@@ -251,7 +251,7 @@ ul {
     display: block;
 }
 .epigraph-quote:before {
-    color: #8c2e24;
+    color: #800000;
     font-size: 80px;
     display: block;
     padding-left: 10px;
@@ -274,7 +274,7 @@ ul {
 /* Preface */
 .preface-h2 {
     font-family: "Adelle-Sans",sans-serif;
-    color: #8c2e24;
+    color: #800000;
     font-size: 1.3rem;
     line-height: 1;
     margin: 1rem 0 0 0;
@@ -350,7 +350,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 /* Icons */
 .fa-classic, .fa-regular, .fa-solid, .far, .fas {
 	font-family: "Font Awesome 6 Free";
-    color: #8c2e24;
+    color: #800000;
 	font-style: normal;
 	font-weight: 900;
 	line-height: 1;
@@ -359,14 +359,14 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: var(--fa-display,inline-block);
 }
 .center-icon {
-    color: #8c2e24;
+    color: #800000;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	width: 100%;
 	display: block;
 }
 .center-icon-large {
-    color: #8c2e24;
+    color: #800000;
 	font-size: 1.25rem;
 	text-align: center;
 	margin: 0 auto 0 auto;
@@ -376,7 +376,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 
 /* SPANS */
 .theme-color {
-    color: #8c2e24;
+    color: #800000;
 }
 .margin-note-style { 
 	font-family: "Adelle-Sans",sans-serif;
@@ -430,7 +430,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 .gevalt-caption {
     font-family: "Literata",serif;
-    color: #8c2e24;
+    color: #800000;
 	font-weight: 300;
 	font-size: .9rem;
 	font-style: italic;
@@ -530,22 +530,22 @@ header .chapter-title {
 	order: 2;
 }
 .navbar-brand > a{
-    color: #8c2e24;
+    color: #800000;
 }
 .sidebar nav[role=doc-toc] ul {
     font-size: .8rem;
 }
 .sidebar nav[role=doc-toc] ul>li>a.active {
-    border-left: 1px solid #8c2e24;
-    color: #8c2e24 !important;
+    border-left: 1px solid #800000;
+    color: #800000 !important;
 }
 .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
-    border-left: 1px solid #8c2e24;
-    color: #8c2e24 !important;
+    border-left: 1px solid #800000;
+    color: #800000 !important;
 }
 .sidebar-title {
     font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24; 
+	color: #800000; 
     font-size: .7rem;
     font-style: normal;
     line-height: 1.12rem;
@@ -556,18 +556,18 @@ header .chapter-title {
     visibility: visible;
 }
 .sidebar-title > a {
-	color: #8c2e24; 
+	color: #800000; 
 	font-size: inherit;
 	text-decoration: none;
 }
 
 .sidebar-title a:visited {
-	color: #8c2e24;
+	color: #800000;
 }
 
 .quarto-secondary-nav-title, .title {
     font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24; 
+	color: #800000; 
     font-size: 1.5rem;
     font-style: normal;
     line-height: 1.25em; 
@@ -580,7 +580,7 @@ header .chapter-title {
     font-size: 1.1rem;
 }
 div.sidebar-item-container .active, div.sidebar-item-container :hover, div.sidebar-item-container .show>.nav-link, div.sidebar-item-container .sidebar-link>code {
-    color: #8c2e24;
+    color: #800000;
 }
 nav[role=doc-toc] {
     padding-bottom: 100px;
