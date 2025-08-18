@@ -108,9 +108,9 @@ After filing the suit, Pat serves Dan with a copy of the summons and complaint, 
 
 ![Fig. 4.2](../img/PJ-Service.png){width="55%"}
 
-Suppose instead that Pat travels from North Carolina to Ohio for a football game between the Carolina Panthers and the Cleveland Browns. Dan, a diehard Browns fan, was sitting behind Pat. Throughout the game, Pat vociferously cheers for the visiting team and mercilessly heckles the Cleveland quarterback. Annoyed with Pat's taunts, Dan pours a large cup of beer over Pat's head, provoking a brawl in which Pat is badly injured. After returning home, having vowed never to return to Ohio again, Pat sues Dan for battery, filing the case in the U.S. District Court for the Eastern District of North Carolina.
+Suppose instead that Pat travels from North Carolina to Ohio for a football game between the Carolina Panthers and the Cleveland Browns. Dan, a diehard Browns fan, was sitting behind Pat. Throughout the game, Pat vociferously cheers for the visiting team and mercilessly heckles the Cleveland quarterback. Annoyed with Pat's taunts, Dan pours a large cup of beer over Pat's head, provoking a brawl in which Pat is badly injured. After returning home, having vowed never to return to Ohio again, Pat sues Dan for battery, filing the case in the U.S. District Court for the Eastern District of North Carolina. 
 
-In this case, there has been service of process, but the suit does not arise out of any contacts between Dan and North Carolina. So the switch is not connected and the court has no power at all  (Fig. 4.3).
+In this case, the suit does not arise out of any contacts between Dan and North Carolina. Even Dan is served with a copy of the summons and complaint, flipping the service switch has no effect, because the court has no power over Dan at all (Fig. 4.3).
 
 ![Fig. 4.3](../img/NoPJ-Service.png){width="55%"}
 
