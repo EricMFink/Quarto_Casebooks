@@ -3,8 +3,6 @@ project:
 
 book:
   open-graph: true
-  date-format: MMMM YYYY
-  license: "CC BY NC SA"
   site-url: "https://www.emfink.net/CivProCasebook/"
   output-file: "CivProCasebook"
   title: "Civil Procedure"

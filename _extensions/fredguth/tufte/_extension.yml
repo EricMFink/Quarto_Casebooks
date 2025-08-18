@@ -17,7 +17,6 @@ contributes:
             city: Greensboro
             state: North Carolina
             postal-code: 27278
-      date-format: MMMM YYYY
       license: "CC BY NC SA"
       downloads: [pdf] 
       sidebar:
