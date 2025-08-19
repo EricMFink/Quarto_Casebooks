@@ -1,0 +1,32 @@
+format:
+  pdf:
+    documentclass: tufte-book
+    classoption: [sfsidenotes]
+    output-file: CivProCasebook
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: true
+    number-depth: 2
+    top-level-division: chapter
+    indent: 0px
+    reference-location: margin
+    citation-location: margin    
+    fig-align: center
+    fig-cap-location: bottom
+    format-resources:
+      - tufte-book.cls
+      - tufte-common.def
+      - tufte.bst
+    template-partials: # replaces
+      - "partials/title.tex"
+      - "partials/before-body.tex"
+    include-in-header: #adds
+      - "partials/in-header.tex"
+      - "partials/definitions.tex"
+    include-after-body: #adds
+      - "partials/after-body.tex"
+    keep-tex: true
+    latex-auto-install: true
+    filters: 
+      - pretty-urls

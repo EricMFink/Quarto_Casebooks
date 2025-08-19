@@ -1,0 +1,129 @@
+\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
+
+\usepackage{needspace}
+\usepackage[]{titlesec}
+\usepackage[]{ccicons}
+\usepackage{fontawesome5}
+\usepackage{marginnote}
+\usepackage{sidenotes}
+\usepackage{booktabs}
+
+\usepackage[defaultlines=4,all]{nowidow}
+
+\usepackage{ragged2e}
+\raggedbottom
+
+\usepackage{xcolor}
+\definecolor{OffBlack}{HTML}{191919}
+\definecolor{Maroon}{HTML}{800000}
+\definecolor{HopkinsBlue}{HTML}{002D72}
+\definecolor{RacingGreen}{HTML}{004225}
+
+\usepackage{fontspec}
+%\setmainfont{Literata}[Mapping=tex-text]
+\setmainfont{Literata-Light.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = Literata-SemiBold.ttf ,
+    ItalicFont     = Literata-LightItalic.ttf ,
+    BoldItalicFont = Literata-SemiBoldItalic.ttf ]
+\setsansfont{adelle-sans-light.otf}[
+	Path           = fonts/ ,
+    BoldFont       = adelle-sans-semibold.otf ,
+    ItalicFont     = adelle-sans-light-italic.otf ,
+    BoldItalicFont = adelle-sans-italic.otf ]
+%\setsansfont{Adelle Sans}[Mapping=tex-text]
+\setmonofont[Scale=0.90]{LFT Etica Mono}
+%\newfontface\titlefont{Adelle Sans Bold}[Colour=Maroon]
+\renewcommand{\footnotesize}{\scriptsize}
+\renewcommand{\captionsize}{\footnotesize}
+\renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot[C]{}
+\fancyfoot[R]{}
+\fancyfoot[L]{}
+\fancyhead[LE]{\small{\thepage}}
+\fancyhead[LO]{\small{}}
+\fancyhead[CE]{\small{\leftmark}}
+\fancyhead[CO]{\small{\rightmark}}
+\fancyhead[RE]{\small{}}
+\fancyhead[RO]{\small{\thepage}}
+
+
+\usepackage{enumitem}
+%\setlistdepth{6}
+\setlist[itemize]{label={}}
+\renewcommand{\labelitemi}{}
+
+%  change chapter formatting
+%\titlespacing*{\chapter}{0em}{0em}{2em}
+%\titlespacing*{\section}{0em}{2em}{.5em}
+%\titlespacing*{\subsection}{0em}{1.5em}{0em}
+\titlespacing*{\subsubsection}{0em}{1em}{0em}
+\titlespacing*{\paragraph}{0em}{1em}{0em}
+
+\titleformat{\chapter}
+  [block]
+  {\sffamily\huge\color{Maroon}}
+  {\thechapter ~~}
+  {0em}
+  {}
+  []
+
+  % Section title
+\titleformat{\section}
+  [block]
+  {\needspace{18em}\sffamily\LARGE\color{Maroon}}
+  {\thesection ~~}
+  {0em}
+  {}
+  []
+
+% Case, etc. title
+\titleformat{\subsection}
+  [block]
+  {\needspace{12em}\rmfamily\Large\color{Maroon}}
+  {\thesubsection ~~}
+  {0em}
+  {}
+  [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{1pt}}]
+
+% Case, etc. first heading: large, bold 
+\titleformat{\subsubsection}
+  [block]
+  {\needspace{9em}\rmfamily\large\bfseries}
+  {\thesubsubsection ~~}
+  {0em}
+  {}
+  []
+
+% Case, etc. second heading: large, italic
+\titleformat{\paragraph}
+  [block]
+  {\needspace{6em}\rmfamily\large\itshape}
+  {\theparagraph}
+  {0em}
+  {}
+  []
+
+\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
+
+\newcommand{\openepigraph}[3]{ % This block sets up a command for printing an epigraph with 2 arguments - the quote and the author
+{\noindent\rmfamily\normalsize
+{\itshape{#1}}
+\begin{flushright}\noindent\faQuoteLeft ~{#2}, {\itshape{#3}} \end{flushright}}
+}
+
+
+\usepackage{bookmark}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=HopkinsBlue,
+  citecolor=HopkinsBlue,
+  urlcolor=HopkinsBlue,
+  pdftitle={$title$},
+  pdfauthor={$author$},
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{texttt}

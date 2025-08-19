@@ -1,0 +1,14 @@
+# Colophon {.unlisted .unnumbered}
+
+Designed and produced by [Eric M. Fink](https://www.emfink.net/ElonLaw/), Associate Professor of Law, [Elon University School of Law](https://www.elon.edu/u/law/), Greensboro, North Carolina. 
+
+Set in [Literata](https://www.type-together.com/literata-font) and [Adelle Sans](https://www.type-together.com/adelle-sans-font) by [Veronika Burian](https://www.type-together.com/veronika-burian) & [José Scaglione](https://www.type-together.com/jose-scaglione), and [LFT Etica Mono](https://www.type-together.com/lft-etica-mono-font) by [Leftloft](https://www.type-together.com/leftloft).
+
+
+Produced in [Quarto](https://quarto.org). Source code available on [GitHub](https://github.com/EricMFink/CivProBook). Hosted on [GitHub Pages](https://www.emfink.org/CivProBook).
+
+![](../img/gutenberg_press.png){width=30% fig-align="center"}
+
+
+
+

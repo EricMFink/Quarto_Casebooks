@@ -1,0 +1,142 @@
+% DEFINITIONS
+
+% Customize the formatting of verbatim environments.
+\usepackage{fancyvrb}
+\fvset{fontsize=\normalsize}
+
+% Prints argument within hanging parentheses
+\newcommand{\hangp}[1]{\makebox[0pt][r]{(}#1\makebox[0pt][l]{)}}
+
+% Prints an asterisk that takes up no horizontal space.
+\newcommand{\hangstar}{\makebox[0pt][l]{*}}
+
+% Prints a trailing space in a smart way.
+\usepackage{xspace}
+
+% Prints the month name (e.g., January) and the year (e.g., 2008)
+\newcommand{\monthyear}{%
+  \ifcase\month\or January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or
+  December\fi\space\number\year
+}
+
+\newcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+% Prints an epigraph and speaker in sans serif, all-caps type.
+\newcommand{\epigraph}[3]{%
+  \begin{fullwidth}
+  \begin{flushright}
+  \sffamily\fontsize{8}{10}\selectfont
+  \sffamily\footnotesize
+  \begin{doublespace}
+  \vspace{-8cm}\noindent\allcaps{#1}\\% epigraph
+  \noindent\faIcon{pen-fancy} ~{#2}, {\itshape{#3}}\\% author
+  \end{doublespace}
+  \vspace{5.1cm}
+  \end{flushright}
+  \end{fullwidth}
+  \normalfont
+}
+
+\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
+
+% insert 4cm before quote
+\renewenvironment{quote}{
+  \list{}{\leftmargin=3.5cm\topsep=0pt}
+  \item\relax\small\itshape
+}
+{\endlist}
+
+%  change chapter formatting
+\titlespacing*{\chapter}{0pt}{5cm}{1cm}
+\titlespacing*{\section}{0pt}{4\baselineskip}{1\baselineskip}
+\titlespacing*{\subsection}{0pt}{2\baselineskip}{1\baselineskip}
+\titlespacing*{\paragraph}{0em}{2\baselineskip}{.5\baselineskip}
+\titlespacing*{\subparagraph}{0em}{1\baselineskip}{.5\baselineskip}
+
+\titleformat{\section}
+  [block]
+  {\newpage\raggedright\sffamily\huge\color{DullRed}}
+  {\thesection ~~}
+  {0em}
+  {}
+  []
+
+  % Section title
+\titleformat{\subsection}
+  [block]
+  {\needspace{5\baselineskip}\raggedright\sffamily\LARGE\color{DullRed}}
+  {\thesubsection ~~}
+  {0em}
+  {}
+  []
+
+% Case, etc. title
+\titleclass{\subsubsection}{straight}
+\titleformat{\subsubsection}
+  [block]
+  {\needspace{4\baselineskip}\raggedright\rmfamily\Large\color{DullRed}}
+  {\theparagraph ~~}
+  {0em}
+  {}
+  [\vspace{-1em}\textcolor{DullRed}{\rule{\textwidth}{1pt}}]
+
+% Case, etc. first heading: large, bold 
+\titleclass{\paragraph}{straight}
+\titleformat{\paragraph}
+  [block]
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large}
+  {\theparagraph ~~}
+  {0em}
+  {}
+  []
+
+% Case, etc. second heading: large, italic
+\titleclass{\subparagraph}{straight}
+\titleformat{\paragraph}
+  [block]
+  {\needspace{3\subbaselineskip}\raggedright\itshape\large}
+  {\thesubparagraph}
+  {0em}
+  {}
+  []
+
+%  Change Figure Caption in the Margin size
+% \renewenvironment{@tufte@margin@float}[2][-1.2ex]%
+%   {\FloatBarrier% process all floats before this point so the figure/table numbers stay in order.
+%   \begin{lrbox}{\@tufte@margin@floatbox}%
+%   \begin{minipage}{\marginparwidth}%
+%     \@tufte@caption@font\footnotesize% <-- Add fontnotesize
+%     \def\@captype{#2}%
+%     \hbox{}\vspace*{#1}%
+%     \@tufte@caption@justification%
+%     \@tufte@margin@par%
+%     \noindent\normalsize%<-- restored size
+%   }
+%   {\end{minipage}%
+%   \end{lrbox}%
+%   \marginpar{\usebox{\@tufte@margin@floatbox}}%
+  % }
+
+
+% \renewcommand\footnotesize{%
+%    \@setfontsize\footnotesize\@viiipt{9}%
+%    \abovedisplayskip 5\p@ \@plus2\p@ \@minus4\p@
+%    \abovedisplayshortskip \z@ \@plus\p@
+%    \belowdisplayshortskip 2.8\p@ \@plus\p@ \@minus2\p@
+%    \def\@listi{\leftmargin\leftmargini
+%                \topsep 2.5\p@ \@plus\p@ \@minus\p@
+%                \parsep 2\p@ \@plus\p@ \@minus\p@
+%                \itemsep \parsep}%
+%    \belowdisplayskip \abovedisplayskip
+% }
+
+% % Define Tuftian float styles (with the caption in the margin)
+% \newcommand{\floatc@tufteplain}[2]{%
+% \begin{lrbox}{\@tufte@caption@box}%
+%   \begin{minipage}[\floatalignment]{\marginparwidth}\hbox{}%
+%     \footnotesize\@tufte@caption@font{\@fs@cfont #1:} #2\par\normalsize%
+%   \end{minipage}%
+% \end{lrbox}%
+% \smash{\hspace{\@tufte@caption@fill}\usebox{\@tufte@caption@box}}%
+% }
