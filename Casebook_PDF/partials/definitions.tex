@@ -47,60 +47,6 @@
 }
 {\endlist}
 
-%  change chapter formatting
-\titlespacing*{\chapter}{0pt}{5cm}{1cm}
-\titlespacing*{\section}{0pt}{4\baselineskip}{1\baselineskip}
-\titlespacing*{\subsection}{0pt}{2\baselineskip}{1\baselineskip}
-\titlespacing*{\paragraph}{0em}{2\baselineskip}{.5\baselineskip}
-\titlespacing*{\subparagraph}{0em}{1\baselineskip}{.5\baselineskip}
-
-\titleformat{\section}
-  [block]
-  {\newpage\raggedright\sffamily\huge\color{DullRed}}
-  {\thesection ~~}
-  {0em}
-  {}
-  []
-
-  % Section title
-\titleformat{\subsection}
-  [block]
-  {\needspace{5\baselineskip}\raggedright\sffamily\LARGE\color{DullRed}}
-  {\thesubsection ~~}
-  {0em}
-  {}
-  []
-
-% Case, etc. title
-\titleclass{\subsubsection}{straight}
-\titleformat{\subsubsection}
-  [block]
-  {\needspace{4\baselineskip}\raggedright\rmfamily\Large\color{DullRed}}
-  {\theparagraph ~~}
-  {0em}
-  {}
-  [\vspace{-1em}\textcolor{DullRed}{\rule{\textwidth}{1pt}}]
-
-% Case, etc. first heading: large, bold 
-\titleclass{\paragraph}{straight}
-\titleformat{\paragraph}
-  [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\large}
-  {\theparagraph ~~}
-  {0em}
-  {}
-  []
-
-% Case, etc. second heading: large, italic
-\titleclass{\subparagraph}{straight}
-\titleformat{\paragraph}
-  [block]
-  {\needspace{3\subbaselineskip}\raggedright\itshape\large}
-  {\thesubparagraph}
-  {0em}
-  {}
-  []
-
 %  Change Figure Caption in the Margin size
 % \renewenvironment{@tufte@margin@float}[2][-1.2ex]%
 %   {\FloatBarrier% process all floats before this point so the figure/table numbers stay in order.

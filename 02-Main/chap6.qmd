@@ -70,35 +70,25 @@ A civil action is commenced by filing a complaint with the court.
 
 **Order Striking Complaint**
 
-Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers". [See Fig. 1 below. Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers". [The first page of the complaint is reproduced below. Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
 **IT IS ORDERED** that plaintiff's complaint is **STRICKEN**. Plaintiff is directed to file an amended complaint, containing the same allegations as the original complaint, without the cartoon dragon by no later than May 5, 2025. 
 
 **IT IS FURTHER ORDERED** that plaintiff shall not file any other documents with the cartoon dragon or other inappropriate content. 
 
-![Fig. 1](../img/DragonComplaint.jpg){ width=75% }
+![Doe v. Clinton County Complaint](../img/DragonComplaint.jpg){ width=75% }
 
 ### Smith v. Safemarine Corp. (M.D. Louisiana 2024) 
 
-**SHELLY D. DICK, CHIEF DISTRICT JUDGE**
+**Summary of the Facts**
 
-#### I\. BACKGROUND
-
-> **Summary of the Facts**
-> 
-> [_Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability._]{.small-size}
-
-#### II\. LAW AND ANALYSIS
-
-##### A\. Legal Standards
+[_Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability._]
 
 The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss: "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do."[See §3 Claims for Relief.]{.aside} A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
 
 Rule 12(e) provides that a motion for more definite statement may be filed when "a pleading to which a responsive pleading is permitted is so vague or ambiguous that a party cannot reasonably be required to frame a responsive pleading." The standard for evaluating a motion for more definite statement is whether the complaint "is so excessively vague and ambiguous as to be unintelligible and as to prejudice the defendant seriously in attempting to answer it." Such motions are disfavored and granted sparingly. However, in the words of the Supreme Court, "if a pleading fails to specify the allegations in a manner that provides sufficient notice," then a Rule 12(e) motion may be appropriate. A party may not use a Rule 12(e) motion as a substitute for discovery; however, "if details are necessary in order to make a vague complaint intelligible, the fact that the details also are subject to the discovery process should not preclude their production under Rule 12(e)." 
 
 As other courts have noted, "the line between Rule 12(b)(6) and Rule 12(e)'s pleading standards is a blurry one." Regarding the relationship between the two, it has been observed that "an implausible claim may well be stated intelligibly enough to enable the framing of a response, and a plausible claim, which would survive a Rule 12(b)(6) motion, may be pleaded vaguely enough to make response impossible, which would make it vulnerable to a Rule 12(e) motion." 
-
-##### B\. Plaintiff's Allegations
 
 In separate paragraphs, Plaintiff's Petition for Damages [The plaintiff originally filed his suit in Louisiana state court, where "Petition for Damages" is the term used for a civil complaint. The case was removed to federal court based on diversity of citizenship.]{.aside} identifies and introduces each Defendant by name and corporate status, as well as their addresses and agents for service of process. Apart from the singular introductory paragraphs, there is no additional information in the Petition regarding ARTCO or ADM. As to the other moving Defendants, Plaintiff additionally alleges that Riverside and Phoenix Bulk, "either individually, collectively, or in combination ... owned, operated, assumed contractual responsibility, or otherwise exercised significant control over the M/V EVA PARIS and/or its shipment of bulk concrete, to which Plaintiff was assigned and aboard which Plaintiff was injured." 
 
@@ -158,9 +148,9 @@ A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) wi
 
 [^claims2]: See §4 Responsive Pleadings. 
 
-- {{< bi dot >}} A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
+- • A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 
-- {{< bi dot >}} A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
+- • A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
 
 In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(a)(2) to establish a "notice pleading" pleading standard, requiring only that the plaintiff "give the defendant fair notice of what the claim is and the grounds upon which it rests," without the necessity for detailed factual allegations. This standard rested on the structure of the Federal Rules of Civil Procedure, under which the assertion of claims and the disclosure of facts are allocated to separate phases of a suit. At the pleading stage, "a complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief." The discovery rules then give the parties an opportunity to establish the facts in full. 
 
@@ -218,15 +208,11 @@ Applying that standard to Iqbal's complaint, the majority concluded that the all
 
 ### Williams v. Mitchell (4th Circuit 2024) 
 
-**GREGORY, Circuit Judge**
-
 This case, now before us after the district court's grant of motions to dismiss based on the insufficiency of the pleadings, involves a series of interactions between Plaintiff Brandon Williams and Norfolk, Virginia, police officers. Officer John D. McClanahan first falsely charged Williams with misdemeanor trespassing. He then perjured himself at trial to obtain a conviction. On appeal, Williams exposed McClanahan's perjury through a recording he had taken of the incident, and the state appellate court ordered the charge dismissed. Two weeks later, Norfolk police officers, including McClanahan, responded to an accident in which Williams had been hit by a speeding drunk driver. They recognized him immediately as "the guy that gave McClanahan a ration of shit." The officers allegedly falsified information on the accident report with the intent of depriving Williams of his property right to sue the other driver.
 
 Williams brought a claim of retaliation for the exercise of his First and Sixth Amendment rights against the police officers. He also brought a conspiracy claim and two Virginia state law claims for intentional infliction of emotional distress ("IIED"), among others. The district court granted the officers' motions to dismiss Williams' retaliation claim, holding that he failed to plead an adverse action, and granted their motions as to his conspiracy claim upon finding that he failed to plead a constitutional violation. The court dismissed without prejudice Williams' state law IIED claims by declining to exercise supplemental jurisdiction.
 
 Considering the facts as pled, Williams has adequately alleged that the officers' intentional misrepresentation on the accident report would likely deter him from recording police activity and defending himself at trial in the future. Therefore, we reverse the district court's dismissal of his retaliation claim. Having thus found a plausible constitutional violation at this stage, we vacate the court's dismissal of his conspiracy claim and remand the claim for reconsideration consistent with this opinion. Finally, we vacate the court's dismissal of Williams' IIED claims, which are also remanded for consideration consistent with this opinion.
-
-#### I.
 
 The following facts were alleged in Williams' Second Amended Complaint. In January 2020, Brandon Williams was detained by Norfolk, Virginia, police officer John D. McClanahan on a misdemeanor trespassing charge. Williams recorded his interaction with McClanahan. At trial on the trespassing charge, McClanahan testified falsely and Williams was convicted. Williams appealed his conviction and used his recording to show that McClanahan had lied under oath. The appeals court heard Williams' argument and dismissed the charges against him on September 15, 2020, recognizing that he never should have been prosecuted. 
 
@@ -234,23 +220,17 @@ On September 30, 2020, Williams was seriously injured in a car accident in Norfo
 
 Despite information from eyewitnesses, a debris field showing a high-impact accident, and Aman's blood alcohol level, police officers falsely stated on the accident report that Aman was driving the speed limit, had not been drinking, and that his car had suffered a steering defect. This was allegedly done with the intent to deny Williams his rights by minimizing the accident and deflecting blame from Aman. 
 
-#### II.
-
 As for his retaliation claim, Williams alleged in the operative complaint that "by recording McClanahan during his arrest on the trespassing charge, and by pointing out that McClanahan had lied during his testimony on the charge, Williams was exercising his First Amendment rights." He continued that "by insisting on a trial of the trespassing charge and by challenging the testimony of McClanahan, Williams was exercising his Sixth Amendment rights." Williams claimed that Defendants "intentionally retaliated against him for the exercise of his rights by misrepresenting facts on the accident report ... because they realized that he was the person who 'gave McClanahan a ration of shit,'" and they "did so with the intent to deprive Williams of his property right to bring a claim for the injuries from the accident by trying to minimize the accident and deflect blame from Aman." As a result of Defendants' actions, "Williams has suffered both physical and emotional injuries which have included sleep disturbance, actual physical pain, and a significant exacerbation of post-traumatic stress disorder." 
 
 Regarding conspiracy, Williams alleged that "Defendants acted jointly and in concert for the purposes of denying Williams his constitutional rights." 
 
 Williams also brought two IIED claims, one related to McClanahan's perjury, and the second related to the Defendants' conduct at the accident scene. He alleged that both incidents have caused him physical and emotional injuries. ims.
 
-#### III.
-
 We review a district court's dismissal under Rule 12(b)(6) _de novo_ and view the complaint in the light most favorable to the plaintiff, accepting as true all well-pleaded allegations. 
-
-#### IV.
 
 Before us on appeal is the district court's dismissal of Williams' retaliation, conspiracy, and IIED claims, which will each be addressed in turn.
 
-##### A.
+#### A.
 
 A plaintiff seeking to recover for First and Sixth Amendment retaliation must allege that (1) he engaged in protected activity, (2) the defendant took some action that adversely affected his constitutional rights, and (3) there was a causal relationship between his protected activity and the defendant's conduct. We begin by addressing the first and third elements, which are straightforwardly satisfied.
 
@@ -272,7 +252,7 @@ Viewed in the light most favorable to Williams and at this stage of the proceedi
 
 Williams has thus alleged a First and Sixth Amendment retaliation claim sufficient to survive a motion to dismiss, and the district court's opinion granting Defendants' motions on this claim must be reversed.
 
-##### B.
+#### B.
 
 To state a claim for civil conspiracy under 42 U.S.C. §1983, a plaintiff must allege that defendants "acted jointly in concert and that some overt act was done in furtherance of the conspiracy which resulted in [his] deprivation of a constitutional right."
 
@@ -280,15 +260,7 @@ The district court's analysis on this claim "began, and ended," with whether Def
 
 Having found that Williams has adequately alleged the deprivation of a constitutional right—that being his claim of First and Sixth Amendment retaliation— Williams' conspiracy claim should be remanded to the district court for reconsideration.
 
-#### V.
-
-For the foregoing reasons, we reverse the district court's dismissal of Williams' retaliation claim. We vacate the court's dismissal of Williams' conspiracy and IIED claims and remand those claims for reconsideration consistent with this opinion.
-
 ### Johnson v. Cricket Council USA, Inc. (E.D.N.C. 2023) 
-
-**JAMES C. DEVER III, United States District Judge**
-
-#### I.
 
 On April 13, 2021, Johnson and Cricket Council USA, Inc. entered into a real property contract (the "Agreement") for the purchase and sale of 69.94 acres of land in Fayetteville, North Carolina for $1,259,460.00. The Agreement defined the "Contract Date" as the date when the "Agreement had been fully executed by both Buyer and Seller." Thus, the contract date was April 13, 2021. The Agreement defined the "Examination Period" as "the period beginning on the first day after the Contract Date and extending through 5:00 pm (based upon time at the locale of the Property) on 90 business days from the contract date." The Agreement stated that "Buyer may extend the Examination Period up to three 30 day extensions, upon each extension buyer will deposit an additional $2,500 non refundable." And the Agreement noted that "TIME IS OF THE ESSENCE AS TO THE EXAMINATION PERIOD." The Agreement defined the "Closing Date" as 30 days after the end of the Examination Period upon approval from the city. The Agreement did not define "approval from the city," and the Closing Date section did not include a "time is of the essence" provision.
 
@@ -297,8 +269,6 @@ In October 2021, defendants prepared an Amendment (the "Amendment") to the Agree
 According to Johnson, on November 15, 2021, he executed the Amendment but the Amendment was dated October 28, 2021. Johnson alleges that the Amendment is unenforceable for various reasons, including a lack of consideration, the closing date is so vague and ambiguous as to render it meaningless, the Agreement is not binding on defendants, and because defendants failed to properly exercise the three 30-day extensions under the Agreement.
 
 Defendants respond that Cricket Council USA, Inc. extended the examination period three times before seeking to amend the Agreement. According to defendants, the extensions continued the examination period until Thursday, November 18, 2021. Moreover, 30 days from the end of that examination period was Saturday, December 18, 2021, which was then extended until the next business day, Monday, December 20, 2021. Defendants also contend that when Cricket Council USA, Inc. signed the Amendment, Cricket Council USA, Inc. paid $7,500.00 in nonrefundable extension funds in escrow to Johnson. On January 23, 2023, Johnson notified defendants that he was terminating the Agreement.
-
-#### II.
 
 To withstand a Rule 12(b)(6) motion, a pleading "must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." In considering the motion, the court must construe the facts and reasonable inferences "in the light most favorable to the non-moving party." A court need not accept as true a complaint's legal conclusions, "unwarranted inferences, unreasonable conclusions, or arguments." Rather, a plaintiff's factual allegations must "nudge  his claims," beyond the realm of "mere possibility" into "plausibility."
 
@@ -326,7 +296,7 @@ Defendants contend that Johnson fails to plausibly allege these required element
 
 In _Fischer_, the North Carolina Court of Appeals cited numerous factual allegations in the plaintiff's complaint that sufficiently pled a claim to pierce the corporate veil under the instrumentality rule's "control" element. To name a few, the plaintiff [in _Fischer_] cited specific asset transfers used to subvert the corporate form, noted that the owner failed to file annual reports with the Secretary of State and otherwise comply with corporate formalities, and alleged that the actions of the owner left the corporation in question insolvent. The North Carolina Court of Appeals noted that these allegations addressed three of the four elements of control: "inadequate capitalization," "noncompliance with corporate formalities," and "complete domination and control of the corporation so that it has no independent identity."
 
-Although the analysis of the control element does not depend on the presence or absence of any particular factor, Johnson's sole reliance on the factual allegations that Qureshi is the "sole or dominant owner of Cricket Council," "is the President of Cricket Council," and "exercises complete dominion and control over Cricket Council" does not suffice. Without more facts indicating "complete domination, not only of finances, but of policy and business practices ... so that the corporate entity ... had ... no separate mind, will or existence of its own," Johnson's allegations are conclusory and do not plausibly support piercing the corporate veil. Because Johnson's allegations fail under the first "control" element of the instrumentality rule, the court need not address if the breach of contract claim is within the "wrongs" contemplated by the second element or address proximate cause. Thus, the court dismisses Johnson's request to pierce the corporate veil.[As Judge Lorenz (_Camacho v. Major League Baseball_) might have written, Johnson was batting on a sticky wicket and got bowled out for a duck. [BBC, _The Origins of Cricket Jargon_](https://www.bbc.co.uk/bitesize/articles/z683qp3)]
+Although the analysis of the control element does not depend on the presence or absence of any particular factor, Johnson's sole reliance on the factual allegations that Qureshi is the "sole or dominant owner of Cricket Council," "is the President of Cricket Council," and "exercises complete dominion and control over Cricket Council" does not suffice. Without more facts indicating "complete domination, not only of finances, but of policy and business practices ... so that the corporate entity ... had ... no separate mind, will or existence of its own," Johnson's allegations are conclusory and do not plausibly support piercing the corporate veil. Because Johnson's allegations fail under the first "control" element of the instrumentality rule, the court need not address if the breach of contract claim is within the "wrongs" contemplated by the second element or address proximate cause. Thus, the court dismisses Johnson's request to pierce the corporate veil.[As a cricket fan might say, Johnson was batting on a sticky wicket and got bowled out for a duck. [BBC, _The Origins of Cricket Jargon_](https://www.bbc.co.uk/bitesize/articles/z683qp3)]{.aside}
 
 ## Responsive Pleadings
 
@@ -464,13 +434,9 @@ Although the analysis of the control element does not depend on the presence or 
 
 ### Reis Robotics USA, Inc. v. Concept Industries (N.D. Ill. 2006) 
 
-**CASTILLO, District Court**
-
 This is a diversity action governed by Illinois law in which Plaintiff Reis Robotics USA, Inc. ("Reis") filed a complaint against Defendant Concept Industries, Inc. ("Concept"), seeking redress for breach of contract. Concept has answered the complaint, asserted six affirmative defenses, and brought seven counterclaims against Reis. Reis now moves to strike and dismiss Concept's affirmative defenses; strike portions of Concept's answer; and dismiss Concept's counterclaims. For the reasons set forth below, Reis's motions are granted in part and denied in part.
 
-#### BACKGROUND
-
-**1\. Reis's Allegations**
+#### Background
 
 The following facts are taken from Reis's complaint. Reis, an Illinois corporation, manufactures and supplies industrial robotics equipment. Concept, a Michigan corporation, manufactures and supplies automotive parts. On or about February 24, 2005, the parties entered into a contractual arrangement for Concept to purchase from Reis a robotic laser cutting machine (the "Laser") and associated fixtures for trimming three separate automotive parts: the Hush Panel, JS Dash Silencer, and JS Dash Close Out Panel. The pertinent contract documents are an "Order Acknowledgment" executed by Reis and an "Amended Purchase Order" executed by Concept. For ease of reference, we refer to these documents collectively as "the Agreement."
 
@@ -483,8 +449,6 @@ In October 2005, Reis again presented and demonstrated the Laser to Concept. On 
 In November 2005, Concept informed Reis that Concept had terminated the JS Dash Close Out Panel program and that the associated fixtures, which Reis was still working on, were no longer needed. Reis alleges that it was entitled to payment for work already performed on the JS Dash Close Out Panel fixtures prior to cancellation, a total of $6,900. Concept denies that Reis is entitled to payment of this amount. 
 
 The parties agree that Concept has paid' Reis $588,600 to date. Reis asserts that Concept has breached the Agreement by failing to pay a remaining balance of $264,300 plus interest. Concept denies that it owes Reis any additional money under the Agreement. 
-
-**2\. Concept's Allegations**
 
 The following additional facts are gleaned from Concept's "Answer, Affirmative Defenses and Counterclaim." Concept alleges that prior to entering the Agreement, the parties engaged in extensive negotiations regarding the specifications of the Laser, particularly the Laser's cutting speed, also called "cycle time," meaning the time required to complete one part. Throughout the negotiations, Reis, through its sales manager Dino Chece, allegedly made various oral and written promises to Concept indicating that the Laser would trim the JS Dash Silencer parts at a cycle time of 60-70 seconds per part or faster. Relying on these promises by Reis, Concept entered into the Agreement. 
 
@@ -502,19 +466,15 @@ As for the JS Dash Silencer fixtures, Concept alleges that it only authorized Re
 
 Concept also raises counterclaims against Reis for: (1) fraudulent inducement; (2) misrepresentation; (3) unjust enrichment; (4) promissory estoppel; (5) breach of contract; (6) breach of express warranty; and (7) overpayment. All of the claims are premised on the Laser's inability to achieve the cycle time allegedly discussed by the parties. 
 
-#### MOTION TO STRIKE AND DISMISS AFFIRMATIVE DEFENSES
+#### Motion to Strike and Dismiss Affirmative Defenses
 
 We turn first to Reis's motion to strike and dismiss various portions of Concept's affirmative defenses.
-
-#### I\. Legal Standard
 
 Federal Rule of Civil Procedure 12(f) permits the Court to strike "any insufficient defense or any redundant, immaterial, impertinent or scandalous matter." Fed.R.Civ.P. 12(f). Motions to strike are generally disfavored because of their potential to delay proceedings. Nonetheless, a motion to strike can be a useful means of removing "unnecessary clutter" from a case, which will in effect expedite the proceedings. 
 
 Affirmative defenses are pleadings and, as such, are subject to all the same pleading requirements applicable to complaints. Thus, affirmative defenses must set forth a "short and plain statement" of the basis for the defense. Fed. R.Civ.P. 8(a). Even under the liberal notice pleading standards of the Federal Rules, an affirmative defense must include either direct or inferential allegations as to all elements of the defense asserted. "Bare bones conclusory allegations" are not sufficient.
 
 This Court applies a three-part test for examining the sufficiency of an affirmative defense. First, we determine whether the matter is appropriately pled as an affirmative defense Second, we determine whether the defense is adequately pled under Federal Rules of Civil Procedure 8 and 9. _Id._ Third, we evaluate the sufficiency of the defense pursuant to a standard identical to Federal Rule of Civil Procedure 12(b)(6). Before granting a motion to strike an affirmative defense, the Court must be convinced that there are no unresolved questions of fact, that any questions of law are clear, and that under no set of circumstances could the defense succeed. Additionally, in a case premised on diversity jurisdiction, "the legal and factual sufficiency of an affirmative defense is examined with reference to state law." With these principles in mind, we turn to the specific arguments raised in the motion.
-
-#### II\. Analysis
 
 For its first affirmative defense Concept asserts: "The complaint fails to state a claim upon which relief can be granted." Reis argues that this is not a proper affirmative defense. There is some debate in this District regarding whether "failure to state a claim" may be raised as an affirmative defense or instead must be raised by separate motion. Notably, as one court in this District has observed, although failure to state a claim, may not meet the technical definition of an affirmative defense, Form 20 of the Federal Rules of Civil Procedure's Appendix of Forms lists "failure to state a claim" as a model defense. Rule 84 specifically authorizes the use of the model defenses contained in the Forms. Fed.R.Civ.P. 84. In light of Rule 84 and Form 20, we find authority under the Federal Rules to permit an affirmative defense based on failure to state a claim.
 
@@ -530,7 +490,7 @@ Concept's fifth affirmative defense states: "Reis's claims are barred or limited
 
 Concept's sixth affirmative defense states: "Concept reserves the right to add additional affirmative defenses as they become known through discovery." This is not a proper affirmative defense. If at some later point in the litigation Concept believes that the addition of another affirmative defense is warranted, it may seek leave to amend its pleadings pursuant to Rule 15(a); such a request will be judged by the appropriate standards, including the limitations set forth in Rule 12(b) and (h). Accordingly, Concept's sixth affirmative defense is stricken with prejudice.
 
-#### MOTION TO STRIKE PORTIONS OF DEFENDANT'S ANSWER
+#### Motion to Strike Portions of Defendant's Answer
 
 Reis next moves to strike various portions of Concept's answer for failing to comply with Rule 8. Rule 8 provides in relevant part:
 
@@ -566,19 +526,13 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ### Shiftlet v. Allstate Insurance Co. (D.S.C. 2006) 
 
-**DUFFY, District Judge**
-
 This matter is before the court on Defendant Allstate Insurance Company’s Motion to Amend the Answer. Plaintiff Kathryn Shiftlet opposes this motion. For the reasons set forth herein, Defendant’s motion is granted.
-
-#### BACKGROUND
 
 On January 4, 2004, Plaintiff Kathryn Shiftlet’s mobile home and personal belongings were destroyed by fire. At the time of the fire, Plaintiff’s mobile home was covered under an insurance policy provided by Allstate Insurance. On November 3, 2004, Plaintiff initiated this action against Defendant Allstate Insurance for breach of contract, bad faith, and violation of [the S.C\. insurance claims practices statute], after Allstate allegedly wrongfully denied Plaintiff’s claim.
 
 Defendant Allstate originally filed its answer to the original complaint on December 6, 2004. Then, on May 31, 2005, Plaintiff amended the original complaint with the leave of the court. On June 3, 2005, Defendant filed its answer to the Amended Complaint, including a motion to join Mr. Shiftlet as a necessary party or, if that is not feasible, that the action be dismissed. On November 10, 2005, Defendant filed a motion to amend its answer to the Amended Complaint so as to include the defense of arson. Five days after Defendant filed this motion to amend, the court adopted, with the consent of both parties, a Second Amended Scheduling Order. This Order specified that any amended pleadings would be due by December 15, 2005 and that discovery was to be completed by March 1, 2006.
 
 On January 13, 2006, Plaintiff filed her response in opposition to Defendant’s motion to amend its answer. Plaintiff argues that the proposed amendment should be denied because it is prejudicial to Plaintiff, in bad faith, and would be futile.
-
-#### DISCUSSION
 
 Rule 15(a) of the Federal Rules of Civil Procedure provides that “a party may amend the party’s pleading only by leave of court or by written consent of the adverse party; and leave shall be freely given when justice so requires.” While the decision to grant a party leave to amend a pleading is within the sound discretion of the trial court, that discretion is limited by the general policy favoring the resolution of cases on the merits.
 
@@ -588,17 +542,11 @@ Here, the court believes that Defendant’s motion for leave to amend its answer
 
 Further, because the proposed additional defense of arson is a complete defense to Plaintiff’s claims, the court believes that allowing amendment will aid in resolving the case on the merits. Despite Plaintiff’s arguments to the contrary, the court does not believe that Defendant’s amendment is futile, as Defendant seeks to raise a potentially viable complete defense. In short, the court finds that Defendant’s proposed amendment is not prejudicial to Plaintiff, not in bad faith, and not obviously futile. Accordingly, the court grants Defendant’s motion, and directs Plaintiff to file appropriate responsive pleadings to the First Amended Answer.
 
-#### CONCLUSION
-
-It is therefore ORDERED, for the foregoing reasons, that Defendant’s Motion to Amend Answer is GRANTED.
-
 ### Dolphin Kickboxing Co. v. Franchoice, Inc. (D. Minn. 2020) 
-
-[ELIZABETH COWAN WRIGHT, Magistrate Judge]
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-#### I\. FACTUAL AND PROCEDURAL BACKGROUND
+#### Factual and Procedural Background
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -620,7 +568,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-#### II\. LEGAL STANDARD
+#### Legal Standard
 
 Rule 15(a) sets the general standard for amending pleadings in Federal court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend "shall be freely given when justice so requires." The determination as to whether to grant leave to amend is entrusted to the sound discretion of the trial court.The Eighth Circuit has held that although amendment of a pleading "should be allowed liberally to ensure that a case is decided on its merits there is no absolute right to amend."
 
@@ -636,7 +584,7 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 >
 > > (2\) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
-#### III\. ANALYSIS
+#### Analysis
 
 With respect to Rule 15, Defendants argue that the Motion should be denied because it is futile. Plaintiffs' amendment is not futile if the proposed amended complaint contains "sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Here, the question is whether the proposed amended complaint plausibly alleges facts showing that the acts of Defendants show deliberate disregard for the rights or safety of others where:
 
@@ -678,11 +626,7 @@ In sum, Plaintiffs' Motion is granted only to the extent that it seeks to add a 
 
 ### Moore v. Baker (11th Circuit 1993) 
 
-**MORGAN, Senior Circuit Judge**
-
 Appellant contends that her doctor violated Georgia's informed consent law by failing to advise her that ethylene diamine tetra acetic acide chelation (EDTA) therapy was available as an alternative to surgery. The district court granted summary judgment in favor of defendants/appellees on the ground that EDTA therapy is not a "generally recognized or accepted" alternative treatment for coronary surgery. We AFFIRM.
-
-#### FACTUAL AND PROCEDURAL BACKGROUND
 
 Appellant, Judith Moore, was suffering from a partial blockage of her left common carotid artery, which impeded the flow of oxygen to her brain and caused her to feel dizzy and tired. In April of 1989, she consulted with appellee Dr. Roy Baker, an employee of the Neurological Institute of Savannah, P.C\. (NIS), about her symptoms. Dr. Baker diagnosed a blockage of her left carotid artery due to artherosclerotic plaque and recommended that she undergo a neurosurgical procedure known as a carotid endarterectomy to correct her medical problem.
 
@@ -691,8 +635,6 @@ Dr. Baker discussed the proposed procedure with Moore and advised her of the ris
 On April 8, 1991, the last day permitted by the statute of limitations, Moore filed a complaint alleging that Dr. Baker committed medical malpractice by failing to inform her of the availability of EDTA therapy as an alternative to surgery in violation of Georgia's informed consent law. According to Moore's complaint, EDTA therapy is as effective as carotid endarterectomy in treating coronary blockages, but it does not entail those risks that accompany invasive surgery.
 
 On August 6, 1991 Dr. Baker filed a motion for summary judgment on the issue of informed consent. On August 26, 1991, Moore moved to amend her complaint to assert allegations of negligence by Dr. Baker in the performance of the surgery and in his post-operative care of Moore. Originally, on September 3, 1991, the district court granted Moore's motion to amend her complaint. Shortly thereafter, the district court granted Dr. Baker's motion for summary judgment on the informed consent issue, finding that EDTA therapy is not a "generally recognized or accepted" alternative treatment for coronary surgery. One month later, the district court vacated its September 3rd order and denied Moore's motion to amend her complaint, thus terminating all of Moore's outstanding claims. Moore now appeals the denial of her motion to amend her complaint as well as the grant of summary judgment in favor of Dr. Baker and NIS.
-
-#### I.
 
 Moore claims that the district court abused its discretion by vacating it's earlier order and denying Moore's motion to amend her complaint. Leave to amend a complaint "shall be freely given when justice so requires." Fed.R.Civ.P. 15(a). While a decision whether to grant leave to amend is clearly within the discretion of the district court, a justifying reason must be apparent for denial of a motion to amend. In the instant case, the lower court denied leave to amend on the ground that the newly-asserted claim was barred by the applicable statute of limitations and that allowing the amendment would, therefore, be futile. If correct, the district court's rationale would be sufficient to support a denial of leave to amend the complaint.
 
@@ -708,15 +650,9 @@ We must conclude that Moore's new claim does not arise out of the same conduct, 
 
 ### Palacio v. City of Springfield (D. Mass. 2014) 
 
-**EIMAN, United States Magistrate Judge**
-
-Carlos A\. Palacio, Sidney G. Gaviria Orrego and Carlos D\. Palacio ("Plaintiffs") seek to amend their complaint to substitute the names of five police officers---Greg Bigda, Clayton Roberson, Steven Kent, Sean Arpin, and Barry Delameter---for the four "John Does" originally named as defendants with the City of Springfield and William Fitchet, Springfield's Police Commissioner. The City and Fitchet oppose the motion not only as untimely but as failing the "relation-back" provision set forth in Fed.R.Civ.P. 15(c)(1)(C). For the reasons which follow, the court will allow the motion, as Plaintiffs seek, pursuant to another subdivision of Rule 15, namely, (c)(1)(A).
-
-#### I\. Background
+Carlos A. Palacio, Sidney G. Gaviria Orrego and Carlos D. Palacio ("Plaintiffs") seek to amend their complaint to substitute the names of five police officers---Greg Bigda, Clayton Roberson, Steven Kent, Sean Arpin, and Barry Delameter---for the four "John Does" originally named as defendants with the City of Springfield and William Fitchet, Springfield's Police Commissioner. The City and Fitchet oppose the motion not only as untimely but as failing the "relation-back" provision set forth in Fed.R.Civ.P. 15(c)(1)(C). For the reasons which follow, the court will allow the motion, as Plaintiffs seek, pursuant to another subdivision of Rule 15, namely, (c)(1)(A).
 
 Plaintiffs filed their complaint in the Hampden County Superior Court on July 31, 2013, against the City, Fitchet and certain "John Does" who were employed by the City as police officers. Plaintiffs' complaint asserted claims against all these defendants under 42 U.S.C. §§1983 and 1985, Mass. Gen. Laws ch. 12, §§11H and 11I (Massachusetts Civil Rights Act), and Chapter 214, §1B (Massachusetts Right to Privacy Act), arising out of what Plaintiffs claim was an unjustified, unconstitutional, warrantless breaking and entering into and search of their home starting in the evening of August 4 through to the early morning of August 5, 2010. On August 14, 2013, the City and Fitchet filed their Notice of Removal of the action to this federal forum. The court thereafter entered a scheduling order on November 25, 2013, establishing February 25, 2014, as the deadline for filing motions to amend pleadings or join additional parties. This latter deadline was subsequently extended to April 15, 2014. Plaintiffs filed their instant motion for leave to amend on April 14, 2014.
-
-#### II\. Discussion
 
 As the parties are well aware, leave to amend a complaint under Rule 15(a) is to be "freely given when justice so requires" absent an adequate basis to deny the amendment, such as futility, bad faith, undue delay or dilatory motive. In this vein, as Plaintiffs assert, the addition of new defendants or the assertion of new claims closely related to the original claims are the types of amendments that are generally permissible under the rule. Without more, therefore, the substitution of the true names of the John Doe defendants in the case at bar would be relatively commonplace. The amendment would be timely, i.e., not long after suit was filed and within the deadline set by the court, and none of the recently-identified John Does would appear to suffer undue prejudice were the amendment allowed; discovery is not scheduled to close until August 25, 2014, and, apparently, no depositions have yet been taken. The fact that Plaintiffs wish to substitute five named individuals for four John Does is immaterial.
 
@@ -790,11 +726,9 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 ### Turton v. Virginia Department of Education (E.D. Va. 2015) 
 
-**ROBERT E\. PAYNE, Senior District Judge**
-
 This matter is before the Court on DEFENDANT PATRICK T. ANDRIANO'S MOTION FOR SANCTIONS TO RULE 11. For the reasons set forth herein, the motion will be granted.
 
-#### FACTUAL AND PROCEDURAL BACKGROUND
+#### Factual and Procedural Background
 
 Counsel for the 28 plaintiffs in this case filed the Amended Complaint on July 11, 2014. The Complaint generally alleges various incidents of discrimination against black and special education students in a number of local school divisions and includes both federal and state law claims. The Virginia Department of Education, Chesterfield, Essex, Henrico, and Nottoway County Public Schools, specific principals and teachers, and two attorneys, including Patrick T. Andriano ("Andriano"), the proponent of the current Motion for Rule 11 Sanctions, are among those named as defendants in the suit.
 
@@ -820,7 +754,7 @@ After considering these motions, this Court entered an Order dismissing the Amen
 
 Andriano filed his Motion for Rule 11 Sanctions on September 9, 2014, before the Order dismissing the Amended Complaint was entered, and the Order provides that: "the Court retains jurisdiction to decide Defendant Patrick T. Andriano's Motion for Sanctions pursuant to Rule 11."
 
-#### LEGAL STANDARD UNDER RULE 11
+#### Legal Standard Under Rule 11
 
 Fed. R. Civ. P. 11 provides in relevant part:
 
@@ -842,11 +776,9 @@ When a sanction is sought under Rule 11(b) (1), the assessment is made using an 
 
 The text of Rule 11 teaches that "to harass or to cause unnecessary delay or needless increase in the costs of litigation" are all examples of improper purposes. However, those examples are not exclusive. The governing principle is that a complaint must be filed with the sincere and central purpose of vindicating rights in court. If not, its purpose is improper under Rule 11. When a complaint is filed for the proper purpose of vindicating rights _and_ one or more other purposes of which the Court "does not approve," sanctions are only appropriate if "the added purpose is undertaken in bad faith or is so excessive as to eliminate a proper purpose." 
 
-#### DISCUSSION
-
 Andriano argues that the claims against him: (1) lack legal basis; (2) lack factual basis; and (3) were filed for an improper purpose. He also notes that Plaintiffs and their counsel were put on notice after the Amended Complaint was filed that their claims against him lacked factual and legal support, but that they nevertheless continued to pursue those claims. Andriano now seeks Rule 11 Sanctions, asking this Court to "enter an order imposing the maximum sanctions permitted by law against plaintiffs and their counsel." 
 
-##### A\. Alleged Lack of Legal Basis
+##### Alleged Lack of Legal Basis
 
 Andriano argues that the claims against him lacked legal basis because: (1) the Court lacks subject matter jurisdiction over the claims against him; and (2) the claims are "fatally flawed as a matter of law." 
 
@@ -862,7 +794,7 @@ Andriano also correctly asserts that, "at no point have plaintiffs identified wh
 
 The law of Virginia is quite clear on this subject. Plaintiff's counsel has not shown that any prefiling legal research was undertaken in an effort to find legal support for the "special relationship" assertions in the Amended Complaint. And, given the clear and settled nature of Virginia law on the subject, it is difficult to conclude that any such research was undertaken. On this record then, the Court finds that there was no prefiling inquiry into the law that applies to the special relationship assertions in the Amended Complaint.
 
-##### B\. Factual Basis
+##### Factual Basis
 
 Next, Andriano asserts that Plaintiffs' claims against him are factually unsupported. In short, Andriano argues that the "Complaint fails to set forth specific factual allegations supporting Plaintiffs' purported claims" and Plaintiffs' counsel failed to make an effort to determine that their claims are factually supported. Andriano argues that it is not enough that Plaintiffs allege that Mr. Andriano was "present at certain unspecified meetings and that he provided legal advice to his clients." 
 
@@ -870,7 +802,7 @@ In response, Plaintiffs' counsel asserts that counsel attended fifty or more IEP
 
 That record shows a substantial basis for the allegations about Adriano's presence at, and his observed conduct during, some of the meetings alleged in the Amended Complaint. However, the record now shows that the allegation that Adriano was not counsel for the School Board of Essex and Nottoway Counties. Thus, "even a cursory investigation" would have revealed that Adriano did not represent the school boards for either Nottoway County or Essex County and that he was not involved in the development of IEPs for the student-plaintiffs attending schools in those counties. In sum, there was not an adequate investigation into the factual basis for allegations to the contrary.
 
-##### C\. Improper Purpose
+##### Improper Purpose
 
 Finally, Andriano argues that Plaintiff's claims against him are not asserted for any proper purpose. In support, Andriano cites the fact that plaintiffs sought monetary damages in excess of $20,000,000.00 based on "putative claims that do not contain common factual issues or common questions of law." Additionally, Andriano suggests that, if Plaintiffs truly had a proper purpose in filing their Complaint, they would not have failed to exhaust administrative remedies, would not have waited until some of the student-plaintiffs failed to be enrolled in the defendant school systems, and would not have sought such an exorbitant sum of money. Id.
 
@@ -880,11 +812,11 @@ Andriano cites Kunstler as an example of a similar case where the "primary motiv
 
 As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed. . .for some purpose other than to vindicate rights through the judicial process."
 
-##### D\. Are Sanctions Appropriate?
+##### Are Sanctions Appropriate?
 
 Given the findings that there was a lack of legal support for, and a lack of legal inquiry into, the special relationship theory that lies at the core of claims against Adriano, and considering the public statements of Plaintiffs' counsel, the Court concludes that sanctions are appropriate.
 
-##### E\. Appropriate Sanction(s) and Possible Need for a Hearing
+##### Appropriate Sanction(s) and Possible Need for a Hearing
 
 Sanctions under Rule 11 may be monetary or nonmonetary, and only "the least severe sanction adequate to serve the purposes of Rule 11 Should be imposed. The case law makes clear that the primary purpose of Rule 11 is to deter improper litigation rather than to compensate the opposing party for the costs of defending the lawsuit. In fashioning a sanction, the court should consider: (1) the reasonableness of the opposing party's attorney's fees; (2) the minimum to deter; (3) ability to pay; and (4) factors related to the severity of the Rule 11 violation. The court may also "consider factors such as the offending party's history, experience, and ability, the severity of the violation, the degree to which malice or bad faith contributed to the violation, the risk of chilling, the type of litigation involved, and other factors as deemed appropriate in individual circumstances." 
 
@@ -892,12 +824,7 @@ There is not a sufficient record on which to make the determination of what a re
 
 ###  Hunter v. Earthgrains Co. Bakery (4th Circuit 2001)
 
-
-**KING, Circuit Judge**
-
 By Order of October 23, 2000, appellant Pamela A\. Hunter, a practicing attorney in Charlotte, North Carolina, and an active member of the North Carolina State Bar, was suspended from practice in the Western District of North Carolina for five years. Ms. Hunter appeals this suspension, imposed upon her pursuant to Rule 11 of the Federal Rules of Civil Procedure. As explained below, we conclude that her appeal has merit, and we vacate her suspension from practice by the district court.
-
-#### I.
 
 Ms. Hunter, along with her co-counsel N. Clifton Cannon and Charlene E\. Bell, represented a group of workers at a Charlotte, North Carolina, bakery owned by appellee Earthgrains Company Bakery ("Earthgrains"). These three lawyers filed a class action lawsuit against Earthgrains on February 24, 1997, in the Superior Court of Mecklenburg County (the "First Lawsuit"). The class action complaint, verified by the three named plaintiffs, alleged violations of Title VII of the Civil Rights Act of 1964, and it also asserted fraudulent misrepresentation on the part of Earthgrains in the closing of its Charlotte bakery. Earthgrains promptly removed the First Lawsuit to the Western District of North Carolina.
 
@@ -923,17 +850,9 @@ On October 23, 2000, the district court entered the order we are called upon to 
 
 Ms. Hunter has timely appealed the suspension imposed upon her, maintaining that Rule 11 sanctions are unwarranted and that her suspension from practice was an overly severe penalty. We possess jurisdiction under 28 U.S.C. §1291.
 
-#### II.
-
-##### B.
-
 Although Rule 11 does not specify the sanction to be imposed for any particular violation of its provisions, the Advisory Committee Note to the Rule's 1993 amendments provides guidance with an illustrative list. A court may, for example, strike a document, admonish a lawyer, require the lawyer to undergo education, or refer an allegation to appropriate disciplinary authorities. While a reviewing court owes "substantial deference" to a district court's decision to suspend or disbar, it is axiomatic that asserting a _losing_ legal position, even one that fails to survive summary judgment, is not of itself sanctionable conduct.
 
 Under Rule 11, the primary purpose of sanctions against counsel is not to compensate the prevailing party, but to "deter future litigation abuse."[^hunter7] Importantly, a sua sponte show cause order deprives a lawyer against whom it is directed of the mandatory twenty-one day "safe harbor" provision provided by the 1993 amendments to Rule 11.[^hunter8] In such circumstances, a court is obliged to use extra care in imposing sanctions on offending lawyers. The Advisory Committee contemplated that a sua sponte show cause order would only be used "in situations that are akin to a contempt of court," and thus it was unnecessary for Rule 11's "safe harbor" to apply to sua sponte sanctions. Furthermore, when imposing sanctions under Rule 11, a court must limit the penalty to "what is sufficient to deter repetition of such conduct," and "shall describe the conduct determined to constitute a violation of this rule and explain the basis for the sanction imposed." Fed.R.Civ.P. 11(c).[^hunter9]
-
-#### III.
-
-##### B.
 
 The primary basis for the suspension of Ms. Hunter is that she advanced a frivolous legal position in the First Lawsuit. By presentation of a pleading to a court, an attorney is certifying, under Rule 11(b)(2), that the claims and legal contentions made therein "are warranted by existing law or by a nonfrivolous argument for the extension, modification, or reversal of existing law or the establishment of new law." In its Sanctions Order, the district court found the legal assertions of Ms. Hunter to be "utter nonsense" that were "paradigmatic of a frivolous legal contention."
 
@@ -973,11 +892,7 @@ This astute observation of Judge Wilkinson is especially pertinent in the contex
 
 ### Williams v. The Estates LLC (M.D.N.C. 2023) 
 
-**Catherine C. Eagles, District Judge**
-
 In September 2022, two separate groups of defendants filed a motion for attorney's fees. The Court denied the motion and initiated proceedings to determine if the moving defendants and their two attorneys, Steven W. Shaw and John David Matheny, II, had violated Federal Rule of Civil Procedure 11(b) and 28 U.S.C. §1927 by filing the motion. The motion was unsupported in law and fact and was unreasonable under the circumstances. Mr. Shaw and moving defendant Craig Brooksby filed the motion for an improper purpose and in bad faith, and by filing it, Mr. Shaw vexatiously multiplied the proceedings. Mr. Shaw and Mr. Matheny violated Rule 11(b)(2) and (3), Mr. Shaw and Mr. Brooksby violated Rule 11(b)(1), and Mr. Shaw violated §1927. Sanctions are appropriate.
-
-#### I. Background
 
 In September 2022, five months after the jury ruled for the plaintiffs, two separate groups encompassing many of the defendants filed a single motion for attorney's fees for time spent on limited aspects of the case where they claimed to be the prevailing parties. The "Group 1" defendants asked the Court for an order requiring the plaintiffs to pay them $148,795 for their attorney's fees related to defending against class certification. The "Group 2" defendants wanted the plaintiffs to pay them a total of $100,000 in attorney's fees because these defendants were each dismissed from the case before trial. 
 
@@ -988,8 +903,6 @@ The Court denied the motion as frivolous and initiated proceedings to determine 
 > (1\) Mr. Shaw and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(2) and (3) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees that was without evidentiary support and unwarranted by law;
 
 > (2\) The moving defendants, Mr. Shaw, and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(1) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees for the improper purpose of wasting plaintiffs' counsel's time and increasing their expenses; 
-
-#### II. Federal Rule of Civil Procedure 11(b)-(c)
 
 Federal Rule of Civil Procedure Rule 11(b) prohibits attorneys from filing motions or other papers with the court if they are made for improper purposes or unsupported by law or fact. The rule provides, in relevant part:
 
@@ -1009,7 +922,7 @@ Courts must comply with certain procedural requirements before imposing sanction
 
 Consistent with Rule 11(c)(3), the Court issued its Show Cause Order in November 2022 and provided Mr. Shaw, Mr. Matheny, and the moving defendants with an opportunity to be heard. All have taken advantage of the opportunity to submit evidence and briefs.
 
-##### A. Rule 11(b)(2) and (3)
+#### Rule 11(b)(2) and (3)
 
 By signing a motion, an attorney certifies that "the claims, defenses, and other legal contentions" contained within "are warranted by existing law or by a nonfrivolous argument," Fed. R. Civ. P. 11(b)(2), and that "the factual contentions have evidentiary support" or "will likely have evidentiary support" after further discovery or investigation. Fed. R. Civ. P. 11(b)(3). Rule 11 "imposes on any party who signs a pleading, motion, or other paper ... an affirmative duty to conduct a reasonable inquiry into the facts and the law before filing." "The applicable standard is one of reasonableness under the circumstances."
 
@@ -1057,19 +970,19 @@ This might be true; both Mr. Shaw and Mr. Matheny say so. But it is no excuse. M
 
 The Court finds by clear and convincing evidence that both Mr. Shaw and Mr. Matheny violated Federal Rule of Civil Procedure 11(b)(2) and (3) when they filed the motion for attorney's fees without legal or factual support and without undertaking a reasonable investigation into the law.
 
-##### B. Rule 11(b)(1)
+#### Rule 11(b)(1)
 
 Rule 11 requires attorneys to certify that motions are "not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation." Fed. R. Civ. P. 11(a)-(b)(1). The subjective opinion of an injured party that the motion was made to harass is insufficient to show an attorney had an improper purpose under Rule 11(b)(1); "instead, such improper purposes must be derived from the motive of the signer." This analysis must focus on the purpose of the filing, not its consequences.
 
-A district court may consider a wide variety of evidence in making its determination, including the attorney's subjective beliefs about the motion, "\circumstantial facts surrounding the filing," "the outrageous nature of the claims made" in the motion, and the attorney's "experience in a particular area of law." As previously noted, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation."
+A district court may consider a wide variety of evidence in making its determination, including the attorney's subjective beliefs about the motion, "circumstantial facts surrounding the filing," "the outrageous nature of the claims made" in the motion, and the attorney's "experience in a particular area of law." As previously noted, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation."
 
-**1\. Mr. Shaw**
+##### Mr. Shaw
 
 Many facts show that Mr. Shaw filed the motion for attorney's fees with an improper purpose. First, the motion lacked a basis in law or in fact, as detailed in the Show Cause Order, and earlier in this Order. The fact that a filing lacked a basis in law or in fact strongly supports a finding of improper purpose under Rule 11(b).
 
 Second, Mr. Shaw filed the motion late, well beyond the time allowed by the Federal Rules. Federal Rule of Civil Procedure 54(d)(2) provides that a claim for attorney's fees must be made by a motion "filed no later than 14 days after the entry of judgment." Entry of the judgment occurred on June 2, 2022, and Mr. Shaw filed the defendants' motion almost 15 weeks later, on September 14, 2022. In the motion, Mr. Shaw inexplicably argued that he had 14 days from the date the plaintiffs filed their motion for attorney's fees to file the defendants' motion, but he did not cite any helpful authority. And even if that were true, he did not file the motion fourteen days after the plaintiffs' motion; he filed it more than six weeks after.
 
-Even now, Mr. Shaw cannot make a coherent argument based on accurate information to support the late filing. In his response to the Show Cause Order, Mr. Shaw claims that he thought he had thirty days after the final judgment was entered to file the motion. And he asserts that "\the motion was filed within 30 days of the final judgment." But this is not true; the Court entered the final judgment on June 2, 2022, and Mr. Shaw filed the motion for attorney's fees on September 14, 2022, well past his purported thirty-day deadline. His willingness even now to defend the timeliness of the motion by misstating the record further supports an inference that he acted with an improper purpose.
+Even now, Mr. Shaw cannot make a coherent argument based on accurate information to support the late filing. In his response to the Show Cause Order, Mr. Shaw claims that he thought he had thirty days after the final judgment was entered to file the motion. And he asserts that "the motion was filed within 30 days of the final judgment." But this is not true; the Court entered the final judgment on June 2, 2022, and Mr. Shaw filed the motion for attorney's fees on September 14, 2022, well past his purported thirty-day deadline. His willingness even now to defend the timeliness of the motion by misstating the record further supports an inference that he acted with an improper purpose.
 
 Third, Mr. Shaw filed the motion at a time when post-judgment proceedings were going badly for the defendants. This further supports an inference that Mr. Shaw filed the motion to harass the plaintiffs, distract their attorneys from pursuing the plaintiffs' interests, raise their costs, and otherwise delay the proceedings.
 
@@ -1087,11 +1000,11 @@ Finally, Mr. Shaw's course of conduct is indicative of a general willingness to 
 
 Viewing all of the evidence as a whole, the Court finds by clear and convincing evidence that Mr. Shaw filed the motion for attorney's fees for an improper purpose and that by filing it he violated Rule 11(b)(1).
 
-**2\. Mr. Matheny**
+##### Mr. Matheny
 
 Although Mr. Matheny was responsible for the conduct of the litigation and was required to review and sign all pleadings and papers, the Court will not find him in violation of Rule 11(b)(1). The evidence establishes that Mr. Shaw drafted and filed the motion. The facts show that Mr. Matheny was inattentive, irresponsible, and shirked his professional and ethical duties in accepting a role where he did not have any oversight or review and in not reviewing this motion. Perhaps the evidence would support a finding that he personally filed the motion for an improper purpose, but the Court declines to so find in its discretion, given the overall context.
 
-**3\. The Moving Defendants**
+##### The Moving Defendants
 
 Craig Brooksby, one of the Group 1 defendants, is "the primary individual defendant" and "the primary contact for nearly all of the Limited Liability Company defendants," including for those defendants in Group 1 and Group 2. He made the litigation decisions for these defendant entities while Mr. Shaw and Mr. Matheny represented them. The Court finds by clear and convincing evidence that Mr. Brooksby is responsible for the filing of the motion for attorney's fees and that he had the same improper purpose as Mr. Shaw, in violation of Rule 11(b)(1).
 
@@ -1107,7 +1020,7 @@ Mr. Brooksby's actions and inactions satisfy the Court by clear and convincing e
 
 The Court will not sanction any of the other moving defendants. Mr. Brooksby is the litigant running the show. He is the defendant personally responsible for the Rule 11 violation, not the LLCs he controls.
 
-##### C. Sanctions
+#### Sanctions
 
 When a court "determines that Rule 11(b) has been violated," it "may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation." Fed. R. Civ. P. 11(c)(1). Determination of an appropriate Rule 11 sanction is discretionary. However, the sanction imposed "must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated." Fed. R. Civ. P. 11(c)(4).
 
@@ -1117,7 +1030,7 @@ While Rule 11 itself does not list the factors that courts should consider in se
 
 Sanctions may be monetary or non-monetary. _See_ Fed. R. Civ. P. 11(c)(4). Because the Court initiated these proceedings _sua sponte,_ monetary sanctions are limited to penalties payable to the court; attorney's fees or other monetary sanction payable to a party are not available. _See_ Fed. R. Civ. P. 11(c)(4). In deciding the amount of a monetary sanction, courts consider the minimum necessary to deter, the sanctioned party's ability to pay, and the severity of the violation. Nonmonetary sanctions vary widely depending on the facts. They include, _inter alia,_ reprimands, warnings, orders to undergo continuing legal education, circulation of the Rule 11 Order to members of the offending attorney's firm, suspensions, and disbarment.
 
-**1\. Mr. Matheny**
+##### Mr. Matheny
 
 As to Mr. Matheny, the appropriate sanction for violating Rule 11(b)(2) and (3) is to make this Order public and to impose a fine. A public finding that he has violated Rule 11 will, by itself, have an effect on his reputation and serve to deter others from similar misconduct. It is necessary here.
 
@@ -1127,7 +1040,7 @@ A fine of $2,500 for the Rule 11 violation is roughly equivalent to the attorney
 
 The Court appreciates that Mr. Matheny has offered to pay plaintiffs' counsel $1,420 to cover some of the attorney's fees incurred by the plaintiffs in connection with the motion. But when Rule 11 proceedings are initiated by the Court, the Court cannot require a financial sanction payable to a party. Fed. R. Civ. P. 11(c)(4).
 
-**2\. Mr. Shaw**
+##### Mr. Shaw
 
 The Court will direct that a copy of this Order is sent to the Utah Supreme Court and the Utah State Bar. Mr. Shaw's misconduct should not be hidden and should be public, to protect the public and to deter other lawyers from similar violations. Given his disregard of previous public court orders pointing out his failures and reminding him to follow the rules, a public reprimand or warning is clearly insufficient. A financial sanction is also appropriate.
 
@@ -1139,7 +1052,7 @@ The Court concludes that a fine of $25,000 is necessary and appropriate to deter
 
 The plaintiffs have suggested that "disgorgement of the excessive fees" Mr. Shaw apparently charged the moving defendants "is an appropriate sanction under both Rule 11 and 28 U.S.C. §1927." But disgorgement is typically used in this circuit as a sanction for civil contempt. And any monetary sanctions imposed under Rule 11 must be payable into the court because the Court initiated the present action. In this procedural context, it is not an appropriate sanction.
 
-**3\. Mr. Brooksby**
+##### Mr. Brooksby
 
 As to Mr. Brooksby, it was clear from his testimony at trial that he lives in his wallet; under ordinary circumstances, a fine would be appropriate for his violation of Rule 11(b)(1) and would hit where it matters most to him. But Mr. Brooksby has declared under oath that he has no money and no assets, and that he never paid a nickel towards a multi-million-dollar judgment entered against him in Nevada state court in 2010. The facts of the case show his ongoing efforts to protect and hide assets through complicated corporate structures. The defendants he controls had to be threatened with contempt during the litigation before they paid a fairly small attorney's fee imposed as a discovery sanction. Given this, the Court has serious doubts that Mr. Brooksby will ever pay any fine ordered or that imposition of a fine will have any deterrent effect on Mr. Brooksby.
 
@@ -1147,7 +1060,7 @@ Therefore, the Court will require Mr. Brooksby to pay in a currency of which he 
 
 In determining the amount of time, the Court has considered the nine hours plaintiffs' counsel spent responding to the violative motion for attorney's fees and the resulting Show Cause Order, and the amount of time needed to make the sanction meaningful and to deter other litigants who may be judgment-resistant from engaging in similar harassing tactics. The Court will require Mr. Brooksby to observe six days of court proceedings, which should end up being roughly triple the time spent by plaintiffs' counsel, and the Court will stretch out the observation dates over two months to serve as an ongoing reminder of the consequences of sanctionable behavior. Mr. Brooksby shall be present in the courtroom whenever court is in session on the specified days, until court is concluded for the day. The Court will impose necessary restrictions on his behavior and conduct to increase the chance that he pays attention and to decrease the chance that he distracts others. Mr. Brooksby is warned that if he fails to appear as directed, an order for his arrest will be issued pending a show cause hearing for contempt of court.
 
-<p class="case-h1">IV. Conclusion
+#### Conclusion
 
 Steven W. Shaw filed the motion for attorney's fees with no legal or factual support and for improper purposes, and he vexatiously multiplied the proceedings in bad faith. Craig Brooksby is responsible for the filing of the motion because he also had an improper purpose of harassing the plaintiffs and their lawyers. Mr. Matheny is equally responsible for the filing of a motion without legal and factual support. Sanctions are appropriate to deter these three men and others who might be tempted to break the rules and abuse the litigation process.
 

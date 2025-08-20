@@ -2,9 +2,13 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-]{scrbook}
+  letter,
+  11pt,
+  DIV=8,
+  openright]{scrbook}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb}
 \setcounter{secnumdepth}{1}
@@ -103,8 +107,11 @@
  
 
 
-\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
+%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
 
+%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
+
+\usepackage{scrlayer-scrpage}
 \usepackage{needspace}
 \usepackage[]{titlesec}
 \usepackage[]{ccicons}
@@ -113,9 +120,8 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 
-\usepackage[defaultlines=4,all]{nowidow}
-
-\usepackage{ragged2e}
+%\usepackage[defaultlines=4,all]{nowidow}
+%\usepackage{ragged2e}
 \raggedbottom
 
 \usepackage{xcolor}
@@ -126,87 +132,71 @@
 
 \usepackage{fontspec}
 %\setmainfont{Literata}[Mapping=tex-text]
+%\setsansfont{Adelle Sans}[Mapping=tex-text]
 \setmainfont{Literata-Light.ttf}[
 	Path           = fonts/ ,
-    BoldFont       = Literata-SemiBold.ttf ,
+    BoldFont       = Literata-Regular.ttf ,
     ItalicFont     = Literata-LightItalic.ttf ,
-    BoldItalicFont = Literata-SemiBoldItalic.ttf ]
+    BoldItalicFont = Literata-Italic.ttf ]
 \setsansfont{adelle-sans-light.otf}[
 	Path           = fonts/ ,
     BoldFont       = adelle-sans-semibold.otf ,
     ItalicFont     = adelle-sans-light-italic.otf ,
     BoldItalicFont = adelle-sans-italic.otf ]
-%\setsansfont{Adelle Sans}[Mapping=tex-text]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
-%\newfontface\titlefont{Adelle Sans Bold}[Colour=Maroon]
 \renewcommand{\footnotesize}{\scriptsize}
 \renewcommand{\captionsize}{\footnotesize}
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
 
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyfoot[C]{}
-\fancyfoot[R]{}
-\fancyfoot[L]{}
-\fancyhead[LE]{\small{\thepage}}
-\fancyhead[LO]{\small{}}
-\fancyhead[CE]{\small{\leftmark}}
-\fancyhead[CO]{\small{\rightmark}}
-\fancyhead[RE]{\small{}}
-\fancyhead[RO]{\small{\thepage}}
-
-
 \usepackage{enumitem}
-%\setlistdepth{6}
 \setlist[itemize]{label={}}
 \renewcommand{\labelitemi}{}
 
-%  change chapter formatting
-%\titlespacing*{\chapter}{0em}{0em}{2em}
-%\titlespacing*{\section}{0em}{2em}{.5em}
-%\titlespacing*{\subsection}{0em}{1.5em}{0em}
-\titlespacing*{\subsubsection}{0em}{1em}{0em}
-\titlespacing*{\paragraph}{0em}{1em}{0em}
+%=== Chapter & Section Headings ===
+\titlespacing*{\chapter}{0em}{0em}{2em}
+\titlespacing*{\section}{0mm}{10mm}{0mm}
+\titlespacing*{\subsection}{0mm}{8mm}{0mm}
+\titlespacing*{\subsubsection}{0mm}{3mm}{0mm}
+\titlespacing*{\paragraph}{0mm}{3mm}{0mm}
 
 \titleformat{\chapter}
   [block]
-  {\sffamily\huge\color{Maroon}}
+  {\raggedright\sffamily\huge\color{Maroon}}
   {\thechapter ~~}
   {0em}
   {}
   []
 
-  % Section title
 \titleformat{\section}
   [block]
-  {\needspace{18em}\sffamily\LARGE\color{Maroon}}
+  {\needspace{12\baselineskip}\raggedright\rmfamily\LARGE\color{Maroon}}
   {\thesection ~~}
   {0em}
   {}
   []
 
-% Case, etc. title
+% Case, statute, rule, etc. title
 \titleformat{\subsection}
   [block]
-  {\needspace{12em}\rmfamily\Large\color{Maroon}}
+  {\needspace{6\baselineskip}\raggedright\rmfamily\Large\color{Maroon}}
   {\thesubsection ~~}
   {0em}
   {}
   [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{1pt}}]
 
-% Case, etc. first heading: large, bold 
+% Case, etc. first heading
 \titleformat{\subsubsection}
   [block]
-  {\needspace{9em}\rmfamily\large\bfseries}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
   {\thesubsubsection ~~}
   {0em}
   {}
   []
 
-% Case, etc. second heading: large, italic
+% Case, etc. second heading
 \titleformat{\paragraph}
   [block]
-  {\needspace{6em}\rmfamily\large\itshape}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
   {\theparagraph}
   {0em}
   {}
@@ -214,24 +204,20 @@
 
 \newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
 
-\newcommand{\openepigraph}[3]{ % This block sets up a command for printing an epigraph with 2 arguments - the quote and the author
-{\noindent\rmfamily\normalsize
+\renewcommand*{\figureformat}{}
+\renewcommand*{\captionformat}{}
+
+\newcommand{\openepigraph}[3]{ 
+{\noindent{\color{Maroon}{\Large\faQuoteLeft}}\hspace{.5em}\rmfamily\normalsize
 {\itshape{#1}}
-\begin{flushright}\noindent\faQuoteLeft ~{#2}, {\itshape{#3}} \end{flushright}}
+\begin{flushright}\noindent{\color{Maroon}{\faPenNib}} ~{#2}, {\itshape{#3}} \end{flushright}}
 }
 
-
-\usepackage{bookmark}
-\usepackage{hyperref}
-\hypersetup{
-  colorlinks=true,
-  linkcolor=HopkinsBlue,
-  citecolor=HopkinsBlue,
-  urlcolor=HopkinsBlue,
-  pdftitle={$title$},
-  pdfauthor={$author$},
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{texttt}
+\newcommand{\monthyear}{%
+  \ifcase\month\or January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or
+  December\fi\space\number\year
+}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -277,16 +263,17 @@
 \@ifpackageloaded{sidenotes}{}{\usepackage{sidenotes}}
 \@ifpackageloaded{marginnote}{}{\usepackage{marginnote}}
 \makeatother
-\makeatletter
-\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
-\makeatother
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
+\urlstyle{tt}
 \hypersetup{
   pdftitle={Civil Procedure},
   pdfauthor={Eric M. Fink},
-  hidelinks,
+  colorlinks=true,
+  linkcolor={HopkinsBlue},
+  filecolor={Maroon},
+  citecolor={HopkinsBlue},
+  urlcolor={HopkinsBlue},
   pdfcreator={LaTeX via pandoc}}
 
 
@@ -299,14 +286,111 @@
 \makeatother
 \subtitle{An Open-Source Casebook}
 \author{Eric M. Fink}
-\date{2025-08-01}
+\date{}
 \begin{document}
-\frontmatter
-\maketitle
+\color{OffBlack}
 
+\frontmatter
+
+\thispagestyle{empty}
+
+\begin{flushright}
+
+\vspace*{50mm}
+
+{\bfseries\Huge{Civil Procedure}} 
+
+{\bfseries\vspace{5mm}}
+
+{\Large{An Open-Source Casebook}} 
+
+\vspace{20mm}
+
+{\normalsize{Eric M. Fink}} 
+
+\vspace*{\fill}
+
+\begin{small}
+
+\rmfamily{Elon Law School}  
+
+\rmfamily{\textit{Greensboro, North Carolina}}  
+
+\rmfamily{\monthyear} 
+
+\end{small}
+
+\end{flushright}
+
+\clearpage
+
+\thispagestyle{empty}
+\begingroup
+\parindent 0pt
+\vspace*{\fill}
+
+\ccbyncsa
+
+\begin{small}
+\raggedright{This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.} \\
+\url{https://creativecommons.org/licenses/by-nc-sa/4.0/}
+\end{small}
+
+\vspace{1em}
+
+\begin{small}
+Eric M. Fink\\
+Associate Professor of Law \\
+Elon University School of Law \\
+Greensboro, North Carolina 27408 \\
+\url{https://www.emfink.net/ElonLaw/}
+
+\vspace{1em}
+
+Source code: \url{https://github.com/EricMFink/CivProCasebook}
+
+\itshape{version 4.1, }
+
+\end{small}
+\endgroup
+
+\clearpage
+
+\thispagestyle{empty}
+
+\topskip0pt
+\vspace*{\fill}
+\openepigraph{Jarndyce and Jarndyce drones on. This scarecrow of a suit
+has, in course of time, become so complicated that no man alive knows
+what it means. The parties to it understand it least, but it has been
+observed that no two Chancery lawyers can talk about it for five minutes
+without coming to a total disagreement as to all the premises.
+Innumerable children have been born into the cause; innumerable young
+people have married into it; innumerable old people have died out of it.
+Scores of persons have deliriously found themselves made parties in
+Jarndyce and Jarndyce without knowing how or why; whole families have
+inherited legendary hatreds with the suit. The little plaintiff or
+defendant who was promised a new rocking-horse when Jarndyce and
+Jarndyce should be settled has grown up, possessed himself of a real
+horse, and trotted away into the other world. Fair wards of court have
+faded into mothers and grandmothers; a long procession of Chancellors
+has come in and gone out; the legion of bills in the suit have been
+transformed into mere bills of mortality; there are not three Jarndyces
+left upon the earth perhaps since old Tom Jarndyce in despair blew his
+brains out at a coffee-house in Chancery Lane; but Jarndyce and Jarndyce
+still drags its dreary length before the court, perennially
+hopeless.}{Charles Dickens}{Bleak House}
+\vspace*{\fill}
+
+\chapter*{Preface}
+
+This book presents material for use in a first-year law school Civil Procedure course. Topics covered include the scope of a lawsuit (Party and Claim Joinder), selection of an appropriate forum (Personal and Subject Matter Jurisdiction), presentation of claims and defenses (Pleadings), choice of governing law (the {\textit{Erie}} doctrine), disposition without a trial (Summary Judgment), and the effect of judgments on future litigation (Claim and Issue Preclusion).
+
+Most of the materials reproduced here are in the public domain; excerpts from copyrighted materials are included for teaching purposes under the fair use doctrine. Materials have been redacted to omit passages not pertinent to the learning objectives. Judicial opinions have also been "cleaned up" for ease of reading.\footnote{\textit{See} Jack Metzler, {\textit{Cleaning Up Quotations}}, 18 J. App. Prac. \& Process 143 (2017) (proposing "cleaned up" parenthetical for quotations from judicial opinions, to indicate the author “has removed extraneous, non-substantive material like brackets, quotation marks, ellipses, footnote reference numbers, and internal citations; may have changed capitalization without using brackets to indicate that change; and affirmatively represents that the alterations were made solely to enhance readability and that the quotation otherwise faithfully reproduces the quoted text.”)} 
 \renewcommand*\contentsname{Contents}
 {
-\setcounter{tocdepth}{2}
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{1}
 \tableofcontents
 }
 
@@ -445,7 +529,7 @@ federal cases, including bankruptcy cases.
 
 }
 
-\caption{Fig. 1.3}
+\caption{Federal District Courts \& Appellate Circuits}
 
 \end{figure}%
 
@@ -1138,63 +1222,56 @@ every action and proceeding.
 
 There is one form of action---the civil action.
 
-\section{Stages of a Civil Suit}\label{stages-of-a-civil-suit}
-
-Figures 1 and 2 illustrate the stages of a civil suit.
-
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/CivilAction1.png}}
-
-}
-
-\caption{Fig. 1.2}
-
-\end{figure}%
-
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/CivilAction2.png}}
-
-}
-
-\caption{Fig. 1.3}
-
-\end{figure}%
+\subsection{Stages of a Civil Suit}\label{stages-of-a-civil-suit}
 
 Before commencing a suit, a lawyer (in consultation with the client)
-must decide who will be named as the plaintiff(s) and defendant(s)
-(Party Joinder), what claims the plaintiff(s) will assert (Claim
-Joinder), and where to file the suit (Subject Matter Jurisdiction,
-Personal Jurisdiction, \& Venue). Decisions about party and claim
-joinder may constrain the choice of forum, and vice versa. The limited
-subject matter jurisdiction of the federal courts means that federal
-courts may only decide certain claims. The constitutional limits on
-personal jurisdiction mean that courts (state or federal) may only
-decide cases against defendants having sufficient contacts with the
-forum state. At some point, it may also be necessary for the court to
-determine which law---state or federal, and if state law, which
-state---should apply to the various issues in the case.
+must decide who will be named as parties (Party Joinder), what claims to
+assert (Claim Joinder), and where to file the suit (Subject Matter
+Jurisdiction, Personal Jurisdiction, \& Venue). Decisions about joinder
+may constrain the choice of forum, and vice versa. The limited subject
+matter jurisdiction of the federal courts means that federal courts may
+only decide certain claims. The constitutional limits on personal
+jurisdiction mean that courts may only decide cases against defendants
+having sufficient contacts with the forum state. At some point, it may
+also be necessary to determine which law---state or federal, and if
+state law, which state---will apply to the various issues in the case.
 
-The next step is to commence the suit by filing a complaint with the
-court and serving a copy on the defendant. The defendant must then
-respond, either by admitting or denying the allegations in the complaint
-(Answer, which may also include counterclaims by the defendant against
-the plaintiff, crossclaims against co-defendants, or third party claims
-against additional parties not named in the plaintiff's complaint), or
-asking the court to dismiss the complaint on procedural grounds (Rule 12
-Motions).
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/CivilAction1.png}
+
+}
+
+\caption{Stages of a Civil Suit, pt.~1}
+
+\end{figure}%
+
+The next step is to file a complaint with the court and serve a copy on
+the defendant. The defendant must then respond, either by admitting or
+denying the allegations in the complaint (Answer) or moving to dismiss
+on procedural grounds (Rule 12 Motions). Defendants may also assert
+claims of their own against the plaintiff, other defendants, or new
+parties (Counterclaims, Crossclaims, Third party claims).
 
 If the case is not dismissed at the pleadings stage, the parties will
-then produce evidence through the discovery process. The parties may
-also ask the court to decide all or part of the suit based on the
-evidence in the pre-trial record (Summary Judgment).
+produce evidence (Discovery). They may also ask the court to decide the
+suit, or particular issues, based on the evidence in the pre-trial
+record (Summary Judgment).
+
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/CivilAction2.png}
+
+}
+
+\caption{Stages of a Civil Suit, pt.~2}
+
+\end{figure}%
 
 If the case is not fully decided on summary judgment (or settled), it
-will then proceed to trial, at the end of which the court will enter
-judgment in favor of the plaintiff(s) or defendant(s). After a final
-judgment has been entered, the losing party may appeal to a higher
-court. A final judgment may also have consequences for other lawsuits
+will proceed to trial, at the end of which the court will enter judgment
+in favor of the prevailing party. The losing party may then appeal to a
+higher court. A final judgment may have consequences for other lawsuits
 involving the same parties (Claim and Issue Preclusion).
 
 \chapter{Parties \& Claims}\label{parties-claims}
@@ -1240,8 +1317,6 @@ federal right to a jury trial.
 Co.~(E.D. Ky.
 2018)}\label{burdine-v.-metropolitan-direct-property-and-casualty-ins.-co.-e.d.-ky.-2018}
 
-\textbf{GREGORY F. VAN TATENHOVE, District Judge}
-
 Plaintiff Paulina Brooke Burdine originally filed this lawsuit against
 defendant Metropolitan Direct Property and Casualty Insurance Company
 (hereinafter ``MetDirect'') in Franklin Circuit Court. MetDirect removed
@@ -1250,8 +1325,6 @@ asserts two claims against MetDirect stemming from two separate
 automobile accidents. MetDirect moved to sever these claims or, in the
 alternative, bifurcate the proceedings. For the following reasons,
 MetDirect's Motion to Sever or Bifurcate is DENIED.
-
-\subsubsection{I}\label{i}
 
 Ms.~Burdine initiated this lawsuit in the wake of two separate
 automobile accidents. Collision one took place in Scott County, Kentucky
@@ -1269,10 +1342,6 @@ accident exceed the \$25,000 that she received from the other drivers'
 insurance policies. Ms.~Burdine now wishes to collect compensation from
 MetDirect, her own insurance carrier, because her hospital expenses are
 in excess of what she received from the policies of the other drivers.
-
-\subsubsection{II}\label{ii}
-
-\paragraph{A}\label{a}
 
 Joinder of claims is governed by Federal Rule of Civil Procedure 18,
 which states ``a party asserting a claim, counterclaim, crossclaim, or
@@ -1303,8 +1372,6 @@ this action---MetDirect---and Ms.~Burdine has two claims against that
 defendant. As such, Ms.~Burdine's claims are properly joined under Rule
 18(a). Whether or not Ms.~Burdine could have sued the individual drivers
 for negligence in a single action is irrelevant.
-
-\paragraph{B}\label{b}
 
 While Ms.~Burdine's claims are properly joined against MetDirect under
 Rule 18, the Court may sever them if inconvenience would result ``from
@@ -1360,8 +1427,6 @@ trial, then, will not be their negligence, but whether the damages
 Ms.~Burdine suffered exceed the \$25,000.00 offered under the other
 drivers' respective policies. Therefore, no reason exists to bifurcate
 these issues at trial.
-
-\subsubsection{III}\label{iii}
 
 In sum, Ms.~Burdine has properly joined her claims, which sound in
 contract, against single defendant MetDirect. This issue is controlled
@@ -1422,8 +1487,6 @@ party.
 
 \subsection{Mosley v. General Motors Corp.~(E.D. Missouri
 1980)}\label{mosley-v.-general-motors-corp.-e.d.-missouri-1980}
-
-\textbf{ROSS, Circuit Judge}
 
 Nathaniel Mosley and nine other persons joined in bringing this action
 individually and as class representatives alleging that their rights
@@ -1669,8 +1732,6 @@ person as a party to a counterclaim or crossclaim.
 \subsection{Jones v. Ford Motor Credit Co.~(2nd Cir.
 2004)}\label{jones-v.-ford-motor-credit-co.-2nd-cir.-2004}
 
-\textbf{NEWMAN, Circuit Judge}
-
 This appeal concerns the availability of subject matter jurisdiction for
 permissive counterclaims. It also demonstrates the normal utility of
 early decision of a motion for class certification. Defendant-Appellant
@@ -1685,8 +1746,6 @@ U.S.C. §1367 may be available for the permissive counterclaims, but that
 the District Court's discretion under subsection 1367(c) should not be
 exercised in this case until a ruling on the Plaintiffs' motion for
 class certification. We therefore vacate and remand.
-
-\subsubsection{Background}\label{background}
 
 Plaintiffs-Appellees Joyce Jones, Martha L. Edwards, Lou Cooper, and
 Vincent E. Jackson (``Plaintiffs''), individually and as class
@@ -1744,10 +1803,8 @@ On March 27, 2003, the District Court entered judgment pursuant to
 Fed.R.Civ.P. 54(b) in favor of the Plaintiffs, dismissing Ford Credit's
 counterclaims without prejudice. Ford Credit appeals from this decision.
 
-\subsubsection{Discussion}\label{discussion}
-
-\paragraph{I. Are Ford Credit's Counterclaims
-Permissive?}\label{i.-are-ford-credits-counterclaims-permissive}
+\subsubsection{Are Ford Credit's Counterclaims
+Permissive?}\label{are-ford-credits-counterclaims-permissive}
 
 Fed.R.Civ.P. 13(a) defines a compulsory counterclaim as
 
@@ -1798,8 +1855,6 @@ the ruling that its counterclaims are permissive.
 \subsection{Ginwright v. Exeter Finance Corp.~(D. Md.
 2017)}\label{ginwright-v.-exeter-finance-corp.-d.-md.-2017}
 
-\textbf{CHUANG, District Judge}
-
 On February 26, 2016, Plaintiff Billy Ginwright filed this action
 against Defendant Exeter Finance Corporation (``Exeter'') for violations
 of the Telephone Consumer Protection Act (``TCPA''), and the Maryland
@@ -1808,8 +1863,6 @@ filed its Amended Answer and Counterclaim, alleging that Ginwright
 breached the contract that led Exeter to seek to collect a debt by
 telephone. Pending before the Court is Ginwright's Motion to Dismiss
 Exeter's Counterclaim. For the following reasons, the Motion is granted.
-
-\subsubsection{Background}\label{background-1}
 
 In May 2013, Ginwright entered into a contract with BW Auto Outlet of
 Hanover, Maryland to finance the purchase of a vehicle. Within the
@@ -1833,8 +1886,6 @@ vehicle and the application of the sale proceeds to the full amount
 owed, Ginwright owed a remainder of \$23,782.17 under the contract as of
 May 3, 2016.
 
-\subsubsection{Discussion}\label{discussion-1}
-
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal
 Rule of Civil Procedure 12(b)(1) for lack of subject matter
 jurisdiction. Ginwright asserts that Exeter has failed to assert any
@@ -1845,8 +1896,7 @@ enactment of 28 U.S.C. §1367, a court, may exercise supplemental
 jurisdiction over a permissive counterclaim, and that, in any event, its
 counterclaim is compulsory.
 
-\subsubsection{III. Permissive
-Counterclaim}\label{iii.-permissive-counterclaim}
+\subsubsection{Permissive Counterclaim}\label{permissive-counterclaim}
 
 In assessing whether a counterclaim is compulsory or permissive, courts
 consider four inquiries:
@@ -1916,7 +1966,7 @@ car and resell it in accordance with Maryland's CLEC requirements.
 Third, \emph{res judicata} would not bar a subsequent suit on the breach
 of contract counterclaim. ``The preclusive effect of a federal-court
 judgment is determined by federal common law.'' An action is precluded
-when: {\marginnote{\begin{footnotesize}\emph{Res judicata} (a.k.a. claim
+when: {\marginnote{\begin{footnotesize}\emph{Res judicata} (claim
 preclusion) is covered in Chap. 7.\end{footnotesize}}}
 
 \begin{quote}
@@ -1977,8 +2027,6 @@ of contract counterclaim to a TCPA claim is permissive.
 \subsection{Pace v. Timmermann's Ranch and Saddle Shop Inc.~(7th Cir.
 2014)}\label{pace-v.-timmermanns-ranch-and-saddle-shop-inc.-7th-cir.-2014}
 
-\textbf{RIPPLE, Circuit Judge}
-
 In 2011, Timmermann's Ranch and Saddle Shop (``Timmermann's'') brought
 an action against its former employee, Jeanne Pace, for conversion,
 breach of fiduciary duty, fraud, and unjust enrichment. It alleged that
@@ -2013,9 +2061,7 @@ counterclaim, it was a mandatory counterclaim. We therefore affirm in
 part and reverse in part the judgment of the district court and remand
 the case for further proceedings.
 
-\subsubsection{I. Background}\label{i.-background}
-
-\paragraph{A.}\label{a.}
+\subsubsection{Background}\label{background}
 
 The issues in this case present a somewhat complex procedural situation.
 For ease of reading, we first will set forth the substantive allegations
@@ -2081,8 +2127,6 @@ brought charges against Ms.~Pace premised on the information provided by
 the company's employees. Ms.~Pace was charged with theft, forgery, and
 unlawful use of a credit card.
 
-\paragraph{B.}\label{b.}
-
 We turn now to the procedural history of this litigation in the district
 court, a history that produced the situation before us today.
 
@@ -2138,7 +2182,7 @@ claims were compulsory counterclaims because Mr.~Pace and the individual
 defendants could have been joined in the 2011 action under Federal Rule
 of Civil Procedure 20.
 
-\subsubsection{II. Discussion}\label{ii.-discussion}
+\subsubsection{Discussion}\label{discussion}
 
 The Paces now appeal the dismissal of the 2013 action. They concede that
 Ms.~Pace's false arrest and emotional distress claims against
@@ -2149,8 +2193,6 @@ not compulsory counterclaims. They also submit that Ms.~Pace's abuse of
 process claim against Timmermann's did not ``exist'' when the 2011
 action was filed and therefore could not have been a compulsory
 counterclaim.
-
-\paragraph{A.}\label{a.-1}
 
 Federal Rule of Civil Procedure 13 governs compulsory counterclaims.
 Rule 13(a)(1) provides:
@@ -2247,8 +2289,6 @@ district court erred by barring Ms.~Pace's claims against the individual
 defendants and Mr.~Pace's claims for failing to join them when she
 brought her counterclaim.
 
-\paragraph{B.}\label{b.-1}
-
 We turn now to whether the district court appropriately characterized
 Ms.~Pace's claim against Timmermann's for abuse of process as a
 compulsory counterclaim. Ms.~Pace submits that her abuse of process
@@ -2316,8 +2356,6 @@ person as a party to a counterclaim or crossclaim.
 \subsection{Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C.
 2002)}\label{kirkcaldy-v.-richmond-county-bd.-of-ed-m.d.n.c.-2002}
 
-\textbf{BEATY, District Judge}
-
 This case comes before the Court on Defendant Richmond County Board of
 Education's (``Board'') and Third-party Defendants Bruce Stanback, Sandy
 Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins,
@@ -2326,7 +2364,7 @@ Defendants'') Motion to Dismiss Defendant Marcus Smith's (``Smith'')
 Cross-claim and Third-party Complaint. For the reasons stated below, the
 Motion to Dismiss is hereby GRANTED.
 
-\subsubsection{I. FACTUAL BACKGROUND}\label{i.-factual-background}
+\subsubsection{Factual Background}\label{factual-background}
 
 Until August of 2000, Smith served as a principal of the Leak Street
 Alternative School, part of the Richmond County School System overseen
@@ -2403,8 +2441,8 @@ before the Court, asserting that dismissal of Smith's cross-claim and
 third-party complaint is proper pursuant to Rule 12(b)(6) for failure to
 state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
 
-\subsubsection{II. DISCUSSION OF DEFENDANTS' MOTION TO
-DISMISS}\label{ii.-discussion-of-defendants-motion-to-dismiss}
+\subsubsection{Discussion of Defendant's Motion to
+Dismiss}\label{discussion-of-defendants-motion-to-dismiss}
 
 When a co-defendant asserts a cross-claim against a co-defendant, as
 Smith now asserts against the Board, the co-defendant's cross-claim must
@@ -2655,16 +2693,6 @@ for lack of subject-matter jurisdiction.
 asserted against a plaintiff, the plaintiff may bring in a third party
 if this rule would allow a defendant to do so.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.9\linewidth,height=\textheight,keepaspectratio]{../img/Rule14.png}
-
-}
-
-\caption{Fig. 2.1: Third Party Claims Under Rule 14}
-
-\end{figure}%
-
 \subsection{Note: Contribution \&
 Indemnification}\label{note-contribution-indemnification}
 
@@ -2702,19 +2730,7 @@ hold someone else (D2) responsible for all (indemnification) or part
 (contribution) of the amount of a judgment against D1 in favor of
 another party (P1).
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.9\linewidth,height=\textheight,keepaspectratio]{../img/Indemnification_Contribution.png}
-
-}
-
-\caption{Fig. 2.2: Indemnification \& Contribution}
-
-\end{figure}%
-
-In Fig. 2.2, P1 asserts a claim against D1. D1 then asserts a claim
-against D2, contending that, if P1 prevails against D1, D2 must cover
-all or part of D1's liability to P1.
+\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/Indemnification_Contribution.png}
 
 D2 may already be a party to the lawsuit (i.e.~P1 has joined D2 as a
 co-defendant under Rule 20), in which case D2 would assert a crossclaim
@@ -2840,8 +2856,6 @@ class.
 \subsection{Lehman v. Revolution Portfolio LLC (1st Cir.
 1999)}\label{lehman-v.-revolution-portfolio-llc-1st-cir.-1999}
 
-\textbf{SELYA, Circuit Judge}
-
 This appeal grows out of a triangular 1987 financial transaction that
 involved the Farm Street Trust (the Trust), its beneficiaries (Barry
 Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the
@@ -2854,7 +2868,7 @@ judgment on the remaining count. The third-party defendant, Roffman, now
 appeals. After sorting through the muddled record and the case's
 serpentine procedural history, we affirm.
 
-\subsubsection{I. BACKGROUND}\label{i.-background-1}
+\subsubsection{Background}\label{background-1}
 
 The historical facts are not seriously disputed. On or about October 19,
 1987, the Trust, acting through its trustee, executed a promissory note
@@ -2887,7 +2901,7 @@ Portfolio LLC (``RP''), to which the FDIC had assigned its interest in
 the Farm Street Trust debt, replaced the FDIC as the real party in
 interest.}{]}
 
-\subsubsection{II. Discussion}\label{ii.-discussion-1}
+\subsubsection{Discussion}\label{discussion-1}
 
 We must answer the question whether the FDIC's deployment of a
 third-party complaint against Roffman was proper. In this regard,
@@ -2989,9 +3003,7 @@ should not preclude its prosecution. So here.
 \subsection{Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C.
 2002)}\label{kirkcaldy-v.-richmond-county-bd.-of-ed-m.d.n.c.-2002-1}
 
-\textbf{BEATY, District Judge}
-
-\subsubsection{I. FACTUAL BACKGROUND}\label{i.-factual-background-1}
+\subsubsection{Factual Background}\label{factual-background-1}
 
 Until August of 2000, Smith served as a principal of the Leak Street
 Alternative School, part of the Richmond County School System overseen
@@ -3068,8 +3080,8 @@ before the Court, asserting that dismissal of Smith's cross-claim and
 third-party complaint is proper pursuant to Rule 12(b)(6) for failure to
 state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
 
-\subsubsection{II. DISCUSSION OF DEFENDANTS' MOTION TO
-DISMISS}\label{ii.-discussion-of-defendants-motion-to-dismiss-1}
+\subsubsection{Discussion of Defendant's Motion to
+Dismiss}\label{discussion-of-defendants-motion-to-dismiss-1}
 
 In addition to the Board's argument for dismissal of Smith's claim
 against it, the School Defendants' Motion to Dismiss also requests that
@@ -3203,8 +3215,6 @@ relief, a party must state:
 \subsection{Camacho v. Major League Baseball (S.D. Cal.
 2013)}\label{camacho-v.-major-league-baseball-s.d.-cal.-2013}
 
-\textbf{LORENZ, District Judge}
-
 On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel
 Arrellano Pesqueira commenced this tort action against multiple
 defendants. This action arises from allegations that Major League
@@ -3220,12 +3230,12 @@ The Court found this motion suitable for determination on the papers
 submitted and without oral argument. For the following reasons, the
 Court GRANTS Defendants' motion to dismiss.
 
-\subsubsection[I. Background ]{\texorpdfstring{I. Background
+\subsubsection[Background ]{\texorpdfstring{Background
 \footnote{(n.3 in opinion) In the complaint, David Gonzalez Camacho is
   referred to as `Gonzalez,' and Daniel Arrellano Pesqueira, who is also
   once mentioned as `Daniel Pesqueira Arellano,' is referred to as
   `Pesqueira.' The Court will follow the same naming convention, and
-  refer to the plaintiffs as Mr.~Gonzalez and Mr.~Pesqueira.}}{I. Background }}\label{i.-background-camacho1}
+  refer to the plaintiffs as Mr.~Gonzalez and Mr.~Pesqueira.}}{Background }}\label{background-camacho1}
 
 Mr.~Gonzalez is a citizen of Mexico, ``who is domiciled and does
 business in the City of Tijuana in the country of Mexico, and who does
@@ -3328,7 +3338,7 @@ economic advantage; (3) negligent interference with economic relations;
 declaratory relief; (6) negligence; and (7) unfair business practices.
 Defendants now move to dismiss under Rule 12(b)(7). Plaintiffs oppose.
 
-\subsubsection{II. Legal Standard}\label{ii.-legal-standard}
+\subsubsection{Legal Standard}\label{legal-standard}
 
 A party may move to dismiss a case for ``failure to join a party under
 Rule 19.'' Fed. R. Civ. P. 12(b)(7). Rule 19 imposes a three-step
@@ -3357,7 +3367,7 @@ indispensable party demands a fact specific and practical inquiry.''
 ``To determine whether Rule 19 requires the joinder of additional
 parties, the court may consider evidence outside the pleadings.''
 
-\subsubsection{III. Discussion}\label{iii.-discussion}
+\subsubsection{Discussion}\label{discussion-2}
 
 Defendants argue that both the Red Devils and the Mexican League are
 necessary parties that cannot be feasibl4y joined to this action because
@@ -3539,8 +3549,6 @@ three---out.
 Pa.
 2020)}\label{sullivan-blake-v.-fedex-ground-package-system-inc.-w.d.-pa.-2020}
 
-\textbf{PATRICIA L. DODGE, Magistrate Judge}
-
 Pending before the Court in this collective action under the Fair Labor
 Standards Act (``FLSA'') is FedEx Ground Package System, Inc.'s
 (``FedEx'') Rule 19(a) Motion to Join Pennsylvania Service Providers as
@@ -3552,7 +3560,7 @@ Providers'') and dismissal of the remainder of the case as it pertains
 to opt-in Plaintiffs residing outside of Pennsylvania and Service
 Providers who employed drivers outside of Pennsylvania.
 
-\subsubsection{I. Relevant Background}\label{i.-relevant-background}
+\subsubsection{Relevant Background}\label{relevant-background}
 
 Plaintiffs Angel Sullivan-Blake and Horace Claiborne claim that they
 were not paid overtime compensation in accordance with the FLSA and have
@@ -3570,7 +3578,7 @@ November 27, 2015. Before notice was issued to potential collective
 members, FedEx filed the pending Motion which has been fully briefed and
 is ripe for disposition.
 
-\subsubsection{II. Discussion}\label{ii.-discussion-2}
+\subsubsection{Discussion}\label{discussion-3}
 
 FedEx contends that all Service Providers nationwide are necessary and
 indispensable parties to this litigation because these providers employ
@@ -3610,9 +3618,6 @@ Civ. P. 19(a)(1)(B)(ii).
 Contrary to FedEx's assertions, none of these situations are applicable
 here.
 
-\paragraph{A. The Court can accord complete relief among existing
-parties}\label{a.-the-court-can-accord-complete-relief-among-existing-parties}
-
 Under Rule 19(a)(1)(A), ``the Court must consider whether---in the
 absence of an un-joined party---complete relief can be granted to the
 persons already parties to the lawsuit.'' FedEx asserts that the Service
@@ -3647,9 +3652,6 @@ Providers are not ``required'' parties under Rule
   basis of those persons who are already parties, and not as between a
   party and the absent person whose joinder is sought.''}
 
-\paragraph{B. The Service Providers do not have a direct stake in this
-litigation}\label{b.-the-service-providers-do-not-have-a-direct-stake-in-this-litigation}
-
 Under Rule 19(a)(1)(B)(i), ``the court must decide whether determination
 of the rights of those persons named as parties to the action would
 impair or impede an absent party's ability to protect its interest in
@@ -3682,10 +3684,6 @@ brought either by Plaintiffs or FedEx. Because the Service Providers do
 not have a direct stake in this litigation, they are not ``required''
 parties under Rule 19(a)(1)(B).
 
-\paragraph{C. The absence of Service Providers would not subject FedEx
-to inconsistent
-obligations}\label{c.-the-absence-of-service-providers-would-not-subject-fedex-to-inconsistent-obligations}
-
 Under Rule 19(a)(2)(ii), ``a court must decide whether continuation of
 the action would expose named parties to the substantial risk of
 incurring double, multiple, or otherwise inconsistent obligations by
@@ -3711,11 +3709,6 @@ In short, the Service Providers are not ``required'' parties under any
 of the provisions of Rule 19(a). Because the threshold requirements Rule
 19(a) are not met, it is therefore unnecessary for the Court to conduct
 a Rule 19(b) analysis.
-
-\subsubsection{III. Conclusion}\label{iii.-conclusion}
-
-Based on the foregoing, FedEx's Motion will be denied. An appropriate
-Order will follow.
 
 \section{Intervention}\label{intervention}
 
@@ -3756,349 +3749,6 @@ anyone to intervene who:
   consider whether the intervention will unduly delay or prejudice the
   adjudication of the original parties' rights.
 \end{itemize}
-
-\subsection{Buck v. Gordon (6th Cir.
-2020)}\label{buck-v.-gordon-6th-cir.-2020}
-
-\textbf{GRIFFIN, Circuit Judge}
-
-The State of Michigan finds itself in a tug-of-war between faith-based
-child placement agencies and same-sex couples who wish to foster or
-adopt children. In an earlier round of litigation, appellants Kristy and
-Dana Dumont claimed the State violated their First and Fourteenth
-Amendment rights by allowing faith-based child placement agencies to
-refuse them service based on their sexual orientation. Michigan settled
-that suit by agreeing to enforce a policy prohibiting discrimination on
-the basis of sexual orientation against faith-based child placement
-agencies. That settlement spawned this litigation. Plaintiff St.~Vincent
-Catholic Charities claims the State violated its First and Fourteenth
-Amendment rights by directing it to perform its duties in a manner that
-violates its sincerely held religious beliefs.
-
-This appeal deals not with the merits of the underlying constitutional
-dispute, but rather with whether the district court erred as a matter of
-law in denying the Dumonts' motion for intervention as of right or, in
-the alternative, whether it abused its discretion in denying their
-motion for permissive intervention. For the reasons explained below, we
-reverse the district court's order regarding permissive intervention and
-remand for further proceedings consistent with this opinion.
-
-\subsubsection{I.}\label{i.}
-
-\paragraph{A.}\label{a.-2}
-
-The Michigan Department of Health and Human Services (MDHHS) is
-responsible for the care of more than 13,000 children within the state
-foster-care system due to abandonment or neglect. It has opted to
-contract out the majority of its fostering and adoption services to
-private child-placing agencies (CPAs). The State presently licenses and
-holds contracts with more than 50 private CPAs.
-
-Before becoming eligible as a foster or adoptive parent in Michigan, a
-person must first obtain a license from the State. Private CPAs play a
-significant role in the licensing process by performing a home
-evaluation of the prospective parent(s). The home evaluation is ``an
-exhaustive review of the family's eligibility'' to act as foster or
-adoptive parents and requires the agency to assess ``the relationships
-between all of the adults living in the home.'' It includes both
-objective and subjective components and requires the CPA to make a final
-recommendation on whether or not the State should grant a license.
-
-Some of the State's contracted CPAs are faith-based organizations,
-including plaintiff St.~Vincent Catholic Charities. Affiliated with the
-Catholic Diocese of Lansing, Michigan, St.~Vincent is a Michigan
-non-profit corporation organized for charitable and religious purposes.
-It has provided fostering and adoption services for more than 70 years.
-St.~Vincent shares the religious beliefs and teachings of the Roman
-Catholic Church regarding same-sex marriage. Therefore, it asserts that
-it ``cannot provide a written recommendation to the State evaluating and
-endorsing a family situation that would conflict with its religious
-beliefs.'' It thus refers out home evaluations for same-sex or unmarried
-couples to other CPAs that do not share its religious beliefs.
-
-Historically, MDHHS permitted St.~Vincent to refer out cases that could
-pose a conflict with the agency's sincerely held religious beliefs. And
-in 2015, the Michigan Legislature codified this practice, enacting a
-statute designed to ``ensure that faith-based child placing agencies
-could continue to provide adoption and foster care services'' in line
-with their religious beliefs. It provides that ``to the fullest extent
-permitted by state and federal law, a child placing agency shall not be
-required to provide any services if those services conflict with, or
-provide any services under circumstances that conflict with, the child
-placing agency's sincerely held religious beliefs.''
-
-\paragraph{B.}\label{b.-2}
-
-After Michigan enacted the 2015 Law, the Dumonts filed suit in the
-United States District Court for the Eastern District of Michigan (``the
-\emph{Dumont} litigation''). They alleged that they were a same-sex
-couple interested in fostering and adoption, but that St.~Vincent
-refused to assist them with the licensing process because of their
-sexual orientation. Based on this alleged discrimination, the Dumonts
-contended that MDHHS was violating their First and Fourteenth Amendment
-rights by permitting taxpayer-funded CPAs to use religious criteria to
-screen foster and adoptive parents.
-
-St.~Vincent successfully moved to intervene; indeed, the Dumonts did not
-oppose it. Both the MDHHS and St.~Vincent then moved to dismiss the
-Dumonts' complaint, with St.~Vincent raising its own constitutional
-rights as affirmative defenses to the Dumonts' claims. The district
-court denied both motions.
-
-Michigan elected a new governor and a new attorney general in 2018.
-Thereafter, the State's position in the litigation changed and the State
-ultimately entered into a settlement agreement with the Dumonts in March
-2019. In exchange for the Dumonts dismissing their constitutional claims
-with prejudice, the MDHHS agreed that ``unless prohibited by law or
-court order,'' it would consider sexual-orientation discrimination by a
-faith-based child placement agency as violating the anti-discrimination
-clause under its existing contracts. St.~Vincent was not included in the
-settlement discussions and is not a party to the agreement.
-
-\paragraph{C.}\label{c.}
-
-St.~Vincent commenced this lawsuit one month later in the United States
-District Court for the Western District of Michigan. It claimed that the
-State's shift in policy violated its First and Fourteenth Amendment
-rights, along with the Religious Freedom Restoration Act. And it sought
-to enjoin the defendants from enforcing the State's change in policy by
-terminating or suspending its contract.
-
-The Dumonts moved to intervene before any defendant filed an answer and
-requested expedited consideration under the district court's local
-rules. St.~Vincent opposed the Dumonts' motion. Agreeing with
-St.~Vincent, the district court denied the motion. On mandatory
-intervention, the district court reasoned as follows:
-
-\begin{quote}
-The proposed intervenors rest their claim for intervention as of right
-on their interest in maintaining the Settlement Agreement. But that is
-an insufficient basis to support intervention as of right for at least
-two reasons. First, Plaintiffs are not asking for any relief directed at
-the Settlement Agreement itself. They do not seek to interpret its
-terms. Nor do they seek to invalidate any of its terms. From Plaintiffs'
-point of view, the Settlement Agreement is beside the point and
-irrelevant to the constitutional and statutory claims asserted. Second,
-the State is fully capable of protecting any interest the Dumonts have
-in the terms of the Settlement Agreement in any event. The State
-Defendants and the Dumonts are fundamentally aligned at this time in not
-only their views of the Settlement Agreement, but also their views of
-the merits (or more accurately, the demerits) of Plaintiffs' claims.
-\end{quote}
-
-Regarding permissive intervention, the court observed:
-
-\begin{quote}
-It is possible to imagine a basis for permissive intervention if the
-interests of the State Defendants and the proposed intervenors diverge;
-or if the Court grants some or all of the preliminary injunctive relief
-Plaintiffs seek in a way that potentially affects the Dumonts in some
-way it does not affect the State Defendants; or if later developments in
-the case create a basis for defenses or counterclaims --- Establishment
-Clause theories, for example --- that may be uniquely available to the
-Dumonts.
-\end{quote}
-
-Despite recognizing this common question of law, the district court
-concluded that the Dumonts and the State were ``aligned in all material
-respects'' and that the Dumonts' ``unique contribution'' could be made
-as amici, rather than as parties to the suit. Thus, the court denied the
-Dumonts' motion to intervene without prejudice. The Dumonts then refiled
-their opposition to the motion for a preliminary injunction as an amicus
-brief in support of the defendants. They also timely filed this
-interlocutory appeal of the district court's denial of their motion for
-intervention.
-
-\paragraph{D.}\label{d.}
-
-Shortly after its rulings on the motion to intervene, the district court
-granted St.~Vincent's motion for a preliminary injunction. The State
-appealed the preliminary injunction and unsuccessfully sought a stay in
-our Court. It then changed course and moved to dismiss the appeal, which
-we granted. Back at the district court, St.~Vincent moved to stay
-further proceedings pending the Supreme Court's decision {[}In Fulton,
-the Court ultimately held that the City violated the 1st Amendment
-rights of a religious-affiliated foster care agency when, pursuant to a
-municipal anti-discrimination ordinance, it conditioned renewal of the
-agency's contract on its agreeing to certify same-sex married couples as
-foster parents. 141 S.Ct. 1868 (2021).{]} in a case involving similar
-claims, \emph{Fulton v. City of Philadelphia.} The district court
-granted the motion, reasoning that ``\emph{Fulton} is likely to
-illuminate and shape the legal standards controlling this case and may
-be outcome-determinative.'' Accordingly, the case has been stayed until
-the Supreme Court resolves \emph{Fulton}.
-
-\subsubsection{II.}\label{ii.}
-
-The only issues presented in this appeal are (1) whether the district
-court erred as a matter of law in denying the Dumonts intervention as of
-right, and (2) whether the district court abused its discretion in
-denying the Dumonts permissive intervention. Because we hold that the
-Dumonts ``are entitled to permissive intervention, we address only those
-arguments.''
-
-Federal Rule of Civil Procedure 24(b)(1) provides that, ``on timely
-motion, the court may permit anyone to intervene who has a claim or
-defense that shares with the main action a common question of law or
-fact.'' In deciding whether to allow a party to intervene, ``the court
-must consider whether the intervention will unduly delay or prejudice
-the adjudication of the original parties' rights.'' Fed. R. Civ. P.
-24(b)(3). ``So long as the motion for intervention is timely and there
-is at least one common question of law or fact, the balancing of undue
-delay, prejudice to the original parties, and \emph{any other relevant
-factors} is reviewed for an abuse of discretion.''
-
-\paragraph{A.}\label{a.-3}
-
-Because the Dumonts timely moved to intervene,\footnote{(n.4 in opinion)
-  There is no dispute that the Dumonts' motion was timely; they filed
-  their motion at the very outset of the suit, before any defendant had
-  filed an answer. (In fact, the motion to intervene was filed more than
-  five months prior to any defendant answering the suit.).} we first
-examine whether they presented a common question of law or fact for
-resolution by the district court. They did.
-
-St.~Vincent maintains that the First and Fourteenth Amendments guarantee
-it the right to refrain from certifying same-sex couples for adoption.
-The Dumonts' position is the inverse; they claim that the State may not
-allow St.~Vincent to turn away same-sex couples without violating
-prospective foster or adoptive parents' First and Fourteenth Amendment
-rights. There can be only one winner in this clash of constitutional
-guarantees, so the Dumonts have presented a common question of law that
-can be resolved by the district court. Even the district court
-recognized this, indicating that pending unspecified ``later
-developments,'' the Dumonts could present defenses or counterclaims
-which were ``uniquely available'' to them. Specifically, it highlighted
-the Dumonts' invocation of the Establishment Clause as a potential
-affirmative defense to St.~Vincent's claims.
-
-St.~Vincent resists this conclusion by contending that the Dumonts ``do
-not even allege a claim or defense common to this action'' and raise
-only ``Michigan's claims or defenses for it.'' The record says
-otherwise. The Dumonts have raised Establishment Clause and Equal
-Protection defenses that have not been asserted by the State.\footnote{(n.5
-  in opinion) We also note that when St.~Vincent intervened into the
-  \emph{Dumont} litigation, it was in the exact position the Dumonts are
-  now. In other words, if the Dumonts raise ``only Michigan's claims or
-  defenses for it,'' as St.~Vincent suggests, then the same was also
-  true of its position in the prior case.}
-
-Nor does \emph{Kirsch v. Dean} support St.~Vincent's
-no-common-ground-of-law position. There we discussed how permissive
-intervention is not appropriate where ``a proposed intervenor submits a
-filing that `substantially mirrors the positions advanced' by one of the
-parties.'' We then held that the district court did not abuse its
-discretion by denying an untimely motion for intervention, where the
-\emph{sole} basis was the proposed intervenor's desire to have opposing
-counsel disqualified for an alleged violation of the attorney-client
-privilege. There is no comparison to be drawn with \emph{Kirsch}---the
-Dumonts asserted affirmative defenses the State forwent, while the
-\emph{Kirsch} intervenors parroted the existing party's positions solely
-to have opposing counsel disqualified.
-
-\paragraph{B.}\label{b.-3}
-
-Having determined that the Dumonts' motion was timely and that it
-presented a common question of law, we turn to the remaining factors in
-Federal Rule of Civil Procedure 24(b)(3).
-
-We begin with the risk of undue delay or prejudice to the existing
-parties. But this is precisely where the district court went astray; it
-made no apparent effort to weigh the benefits of resolving the common
-question of law presented by the Dumonts against the risk of undue delay
-or prejudice to the original parties. This failure constitutes an abuse
-of discretion.
-
-A ``district court operates within a `zone of discretion' when deciding
-whether to allow intervention under Rule 24(b).'' But that discretion
-has bounds---unless the basis for the decision is obvious from the
-record, the court must ``provide enough of an explanation for its
-decision to enable us to conduct meaningful review.'' Here, the district
-court's departure from Federal Rule of Civil Procedure 24(b)'s ``must
-consider'' language leaves us with a ``definite and firm conviction that
-the trial court committed a clear error of judgment'' warranting
-reversal. And this is because the relevant factors weigh substantially
-in favor of permissive intervention.
-
-Consider the benefits of resolving the legal question presented by the
-Dumonts in the same action as St.~Vincent's claim. The core dispute
-between the Dumonts and St.~Vincent has spawned at least three actions
-in federal district court, two appeals to our court, and one motion for
-certification of a question to the Michigan Supreme Court. No case has
-yet reached a final judgment on the merits. Absent intervention, these
-numbers are likely to increase. Strong interest in judicial economy and
-desire to avoid multiplicity of litigation wherever and whenever
-possible therefore supports permissive intervention.
-
-We also discern no danger of undue delay or prejudice to the existing
-parties that would exceed the benefits of having both sides of this
-constitutional dispute litigated in a single action, either now or, more
-importantly, at the time the Dumonts moved to intervene. Particularly
-because the case has already been stayed by the district court--- on
-St.~Vincent's motion---the Dumonts' intervention will not unduly
-prejudice St.~Vincent. Nor do we find persuasive St.~Vincent's
-speculation about protracted or unduly burdensome discovery if we allow
-the Dumonts to intervene. The Dumonts and St.~Vincent have
-\emph{already} engaged in substantial discovery in the \emph{Dumont}
-litigation, cutting \emph{against} a finding of undue delay or prejudice
-because the same facts are relevant to the case brought by St.~Vincent.
-Moreover, were the Dumonts to abuse discovery after being allowed to
-intervene, the district court could resolve the dispute as necessary to
-meet the dictates of Federal Rules of Civil Procedure 26 and 37.
-
-Two other unique aspects of this case support our decision to reverse
-the district court's order regarding permissive intervention. First, the
-district court's decision to deny the motion to intervene without
-prejudice and to allow its renewal is difficult to square with Federal
-Rule of Civil Procedure 24(b). Timeliness of the motion is one of the
-primary factors. It makes little sense then to invite the Dumonts to
-renew their motion for intervention at some unspecified point in the
-future, when their motion will be less timely, and the case will have
-progressed to a point where undue delay or prejudice to the existing
-parties is more probable. Second, the district court strayed too far
-from the legal standard set out in Federal Rule of Civil Procedure 24(b)
-by treating the dispositive issue as whether the Dumonts' and the State
-defendants' interests were ``aligned.'' To be sure, ``we have recognized
-that identity of interest is one of several `relevant criteria' under
-Rule 24(b).'' But as explained above, their interests are not completely
-aligned. Moreover, by analyzing the identity of interests, and
-\emph{not} the risk of undue delay or prejudice to the existing parties,
-which plainly favored the Dumonts, the district court applied the wrong
-standard.
-
-St.~Vincent's remaining arguments are unconvincing. It asserts that
-because the district court allowed the Dumonts to participate in the
-litigation as amicus parties, it did not abuse its discretion in denying
-the motion. But there is more at stake for the Dumonts ``than just the
-opportunity to present argument to the district court.'' The Dumonts
-also ``desire the ability to seek appellate review.'' We have already
-seen this play out, as the Dumonts asserted at oral argument that they
-would not have abandoned the appeal of the preliminary injunction as the
-State did. Thus, the Dumonts' participation in the case as amicae does
-not shift the balance.
-
-Nor do we find persuasive St.~Vincent's assertion that permitting the
-Dumonts to intervene will open the floodgates to all same-sex couples
-who may wish to intervene. Permissive intervention has always been a
-discretionary decision, dictated by the particular circumstances of the
-case. The district court retains broad discretion to exclude additional
-parties---even parties presenting common questions of law or
-fact---based on the totality of the circumstances.
-
-District courts are afforded wide latitude to determine whether a party
-with a common question of law or fact may join a particular suit. But
-sometimes, a court steps outside its ``zone of discretion,'' and thus
-abuses its discretion. This is just such a case. The Dumonts filed a
-timely motion to intervene which raised a common question of law that
-was not outweighed by any countervailing factors, warranting permissive
-intervention. We therefore hold only that based on the unique facts and
-circumstances of this case, the district court abused its discretion by
-providing a cursory explanation of its denial of permissive
-intervention, failing to address the relevant legal factors or the
-unique circumstances of the case, and denying the motion without
-prejudice to be revisited in the future. Upon remand, ``the district
-court retains broad discretion in setting the precise scope of
-intervention'' going forward.
 
 \subsection{Amador County, Cal. v. US Dept. of the Interior (D.C. Cir.
 2014)}\label{amador-county-cal.-v.-us-dept.-of-the-interior-d.c.-cir.-2014}
@@ -4446,15 +4096,7 @@ proper under the FRCP:
   accordance with the contract that Driftwood signed.
 \end{enumerate}
 
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/JoinderProblem.png}}
-
-}
-
-\caption{Claims \& Applicable Joinder Rules}
-
-\end{figure}%
+\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/JoinderProblem.png}
 
 \chapter{Personal Jurisdiction}\label{personal-jurisdiction}
 
@@ -5003,7 +4645,7 @@ Process}{Note: International Shoe, the FRCP, \& Service of Process}}\label{note-
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/IntlShoeBldg2.jpg}}
+{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/IntlShoeBldg2.jpg}
 
 }
 
@@ -5040,32 +4682,15 @@ Carolina.
 
 The suit arises out of Dan's conduct in North Carolina, satisfying the
 minimum contacts requirement for personal jurisdiction. But there has
-been no service of process, so the court's power is not yet activated
-(Fig. 4.1).
+been no service of process, so the court's power is not yet activated.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.55\linewidth,height=\textheight,keepaspectratio]{../img/PJ-NoService.png}
-
-}
-
-\caption{Fig. 4.1}
-
-\end{figure}%
+\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/PJ-NoService.png}
 
 After filing the suit, Pat serves Dan with a copy of the summons and
 complaint, in a manner authorized, and within the time allowed, under
-Rule 4. The court's power is now active (Fig. 4.2).
+Rule 4. The court's power is now active.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.55\linewidth,height=\textheight,keepaspectratio]{../img/PJ-Service.png}
-
-}
-
-\caption{Fig. 4.2}
-
-\end{figure}%
+\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/PJ-Service.png}
 
 Suppose instead that Pat travels from North Carolina to Ohio for a
 football game between the Carolina Panthers and the Cleveland Browns.
@@ -5080,17 +4705,9 @@ Court for the Eastern District of North Carolina.
 In this case, the suit does not arise out of any contacts between Dan
 and North Carolina. Even Dan is served with a copy of the summons and
 complaint, flipping the service switch has no effect, because the court
-has no power over Dan at all (Fig. 4.3).
+has no power over Dan at all.
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.55\linewidth,height=\textheight,keepaspectratio]{../img/NoPJ-Service.png}
-
-}
-
-\caption{Fig. 4.3}
-
-\end{figure}%
+\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/NoPJ-Service.png}
 
 \section{Specific Jurisdiction}\label{specific-jurisdiction}
 
@@ -5215,7 +4832,7 @@ defendants' only connection with Oklahoma is the fact that an automobile
 sold in New York to New York residents became involved in an accident in
 Oklahoma.
 
-\subsubsection{I}\label{i-1}
+\subsubsection{I}\label{i}
 
 Respondents Harry and Kay Robinson purchased a new Audi automobile from
 petitioner Seaway Volkswagen, Inc.~(Seaway), in Massena, N. Y., in 1976.
@@ -5252,7 +4869,7 @@ argument, there was no showing that any automobile sold by World-Wide or
 Seaway has ever entered Oklahoma with the single exception of the
 vehicle involved in the present case.
 
-\subsubsection{II}\label{ii-1}
+\subsubsection{II}\label{ii}
 
 The Due Process Clause of the Fourteenth Amendment limits the power of a
 state court to render a valid personal judgment against a nonresident
@@ -5363,7 +4980,7 @@ is the most convenient location for litigation, the Due Process Clause,
 acting as an instrument of interstate federalism, may sometimes act to
 divest the State of its power to render a valid judgment.
 
-\subsubsection{III}\label{iii-1}
+\subsubsection{III}\label{iii}
 
 Applying these principles to the case at hand, we find in the record
 before us a total absence of those affiliating circumstances that are a
@@ -5459,7 +5076,7 @@ Court reads \emph{International Shoe} and its progeny too narrowly, and
 because I believe that the standards enunciated by those cases may
 already be obsolete as constitutional boundaries, I dissent.
 
-\subsubsection{I}\label{i-2}
+\subsubsection{I}\label{i-1}
 
 The Court's opinions focus tightly on the existence of contacts between
 the forum and the defendant. In so doing, they accord too little weight
@@ -5523,15 +5140,13 @@ the best forum or, for that matter, to any particular forum. We need
 only determine whether the forum States in these cases satisfy the
 constitutional minimum.
 
-\subsubsection{II}\label{ii-2}
+\subsubsection{II}\label{ii-1}
 
 I would find that the forum State has an interest in permitting the
 litigation to go forward, the litigation is connected to the forum, the
 defendant is linked to the forum, and the burden of defending is not
 unreasonable. Accordingly, I would hold that it is neither unfair nor
 unreasonable to require these defendants to defend in the forum State.
-
-\paragraph{B}\label{b-1}
 
 The interest of the forum State and its connection to the litigation is
 strong. The automobile accident underlying the litigation occurred in
@@ -5580,7 +5195,7 @@ contacts, and, given Oklahoma's connection to the litigation, the
 contacts are sufficiently significant to make it fair and reasonable for
 the petitioners to submit to Oklahoma's jurisdiction.
 
-\subsubsection{III}\label{iii-2}
+\subsubsection{III}\label{iii-1}
 
 \emph{International Shoe} inherited its defendant focus from
 \emph{Pennoyer v. Neff,} and represented the last major step this Court
@@ -5659,7 +5274,7 @@ like Ford serves a market for a product in a State and that product
 causes injury in the State to one of its residents, the State's courts
 may entertain the resulting suit.
 
-\subsubsection{I}\label{i-3}
+\subsubsection{I}\label{i-2}
 
 Ford is a global auto company. It is incorporated in Delaware and
 headquartered in Michigan. But its business is everywhere. Ford markets,
@@ -5716,9 +5331,7 @@ decisions) rejected Ford's argument.
 We granted certiorari to consider if Ford is subject to jurisdiction in
 these cases. We hold that it is.
 
-\subsubsection{II}\label{ii-3}
-
-\paragraph{A}\label{a-1}
+\subsubsection{II}\label{ii-2}
 
 The Fourteenth Amendment's Due Process Clause limits a state court's
 power to exercise jurisdiction over a defendant. The canonical decision
@@ -5783,8 +5396,6 @@ we have recognized, may prevent ``sister States'' from exercising their
 like authority. The law of specific jurisdiction thus seeks to ensure
 that States with ``little legitimate interest'' in a suit do not
 encroach on States more affected by the controversy.
-
-\paragraph{B}\label{b-2}
 
 Ford contends that our jurisdictional rules prevent Montana's and
 Minnesota's courts from deciding these two suits. In making that
@@ -5993,8 +5604,6 @@ litigation.'' So by channeling these suits to Washington and North
 Dakota, Ford's regime would undermine, rather than promote, what the
 company calls the Due Process Clause's ``jurisdiction-allocating
 function.''
-
-\paragraph{C}\label{c}
 
 Ford mainly relies for its rule on two of our recent
 decisions---\emph{Bristol-Myers} and \emph{Walden.} But those precedents
@@ -6441,8 +6050,6 @@ Constitution's text and the lessons of history.
 \subsection{Johnson v. Griffin (6th Circuit
 2023)}\label{johnson-v.-griffin-6th-circuit-2023}
 
-\textbf{SUTTON, Chief Judge.}
-
 Kathy Griffin, a California-based celebrity and social activist, sent a
 series of tweets to her two million Twitter followers asserting that
 Tennessean Samuel Johnson, the CEO of Tennessee-based Visu-Well, had
@@ -6457,7 +6064,7 @@ employment. Griffin argued that her tweets did not subject her to the
 State's personal jurisdiction, and the district court dismissed the
 case. We disagree and reverse.
 
-\subsubsection{I.}\label{i.-1}
+\subsubsection{I.}\label{i.}
 
 On April 24, 2021, Samuel Johnson sat down for dinner at a hotel in
 Franklin, Tennessee. Shortly after, a group of forty to fifty teenagers
@@ -6523,7 +6130,7 @@ invading their privacy, and negligently injuring them. The district
 court dismissed the lawsuit for lack of personal jurisdiction over
 Griffin.
 
-\subsubsection{II.}\label{ii.-1}
+\subsubsection{II.}\label{ii.}
 
 Federal courts start with state law in determining whether they have
 personal jurisdiction over a defendant in a diversity case. At its
@@ -6701,8 +6308,6 @@ We reverse and remand.
 \subsection{NBA Properties, Inc.~v. Hanwjh (7th Circuit
 2022)}\label{nba-properties-inc.-v.-hanwjh-7th-circuit-2022}
 
-\textbf{RIPPLE, Circuit Judge.}
-
 The plaintiffs in the underlying litigation are professional or
 collegiate sports associations who own, or license, trademarks related
 to their respective sports. The plaintiffs filed this action under the
@@ -6719,9 +6324,7 @@ expired without objection, the district court entered a final judgment.
 HANWJH timely appealed. For the reasons set forth in this opinion, we
 affirm the judgment of the district court.
 
-\subsubsection{I}\label{i-4}
-
-\paragraph{A.}\label{a.-4}
+\subsubsection{I}\label{i-3}
 
 NBA Properties is the owner and exclusive licensee of the trademarks of
 the National Basketball Association (``NBA'') and NBA teams. HANWJH
@@ -6743,8 +6346,6 @@ HANWJH maintained that it had never sold any other product to any
 consumer in Illinois nor had it any ``offices, employees,'' ``real or
 personal property,'' ``bank accounts,'' or any other commercial dealings
 with Illinois.
-
-\paragraph{B.}\label{b.-4}
 
 NBA Properties filed its complaint on December 18, 2020, consisting of
 two counts: 1) trademark infringement and counterfeiting, in violation
@@ -6789,9 +6390,7 @@ Illinois courts provided no ``efficiencies in resolving this matter.''
 The district court denied HANWJH's motion to dismiss and simultaneously
 entered a default.
 
-\subsubsection{II}\label{ii-4}
-
-\paragraph{A.}\label{a.-5}
+\subsubsection{II}\label{ii-3}
 
 We review a district court's determination of personal jurisdiction de
 novo. We ``take the plaintiff's asserted facts as true and resolve any
@@ -6805,8 +6404,6 @@ case for personal jurisdiction.'\,'' The district court may consider
 affidavits on the issue of personal jurisdiction; both parties'
 affidavits are accepted as true, and where they conflict, the plaintiff
 is entitled to resolution in its favor.
-
-\paragraph{B.}\label{b.-5}
 
 ``In a case involving federal question jurisdiction, `a federal court
 has personal jurisdiction over the defendant if either federal law or
@@ -6867,8 +6464,6 @@ policies. But, again, we must remember that the ``minimum contacts''
 analysis is aimed principally at protecting ``the liberty of the
 nonresident defendant---not the convenience of plaintiffs \ldots{} and
 the forum state.''
-
-\paragraph{C.}\label{c.-1}
 
 We have applied these principles to online retailers. In \emph{uBID,
 Inc.,} we reversed a dismissal for want of personal jurisdiction where
@@ -6961,7 +6556,7 @@ allow plaintiffs to base jurisdiction on a contact that did not exist at
 the time they filed suit.
 \end{quote}
 
-\subsubsection{III}\label{iii-3}
+\subsubsection{III}\label{iii-2}
 
 Having set forth the relevant legal background, we now apply these
 principles to the case before us. Again, these requirements are:
@@ -7137,13 +6732,6 @@ trademark is protected against confusion in the Illinois market.
 Illinois no doubt has an interest in protecting its consumers from
 purchasing fraudulent merchandise. Finally, HANWJH alleges no unusual
 burden in defending the suit in Illinois.
-
-\subsubsection{CONCLUSION}\label{conclusion-1}
-
-HANWJH availed itself of the Illinois market in offering and shipping a
-product to the forum. Because of this purposeful direction, and because
-these contacts are related to the suit, it is subject to jurisdiction in
-Illinois. We affirm the judgment of the district court.
 
 \subsection{Note: Specific Jurisdiction Based on a Federal
 Statute}\label{note-specific-jurisdiction-based-on-a-federal-statute}
@@ -7324,8 +6912,6 @@ by \emph{Goodyear,} we conclude Daimler is not ``at home'' in
 California, and cannot be sued there for injuries plaintiffs attribute
 to MB Argentina's conduct in Argentina.
 
-\subsubsection{I}\label{i-5}
-
 In 2004, plaintiffs (respondents here) filed suit in the United States
 District Court for the Northern District of California, alleging that MB
 Argentina collaborated with Argentinian state security forces to kidnap,
@@ -7402,8 +6988,6 @@ Clause of the Fourteenth Amendment, Daimler is amenable to suit in
 California courts for claims involving only foreign plaintiffs and
 conduct occurring entirely abroad.
 
-\subsubsection{II}\label{ii-5}
-
 Federal courts ordinarily follow state law in determining the bounds of
 their jurisdiction over persons. Under California's long-arm statute,
 California state courts may exercise personal jurisdiction ``on any
@@ -7412,8 +6996,6 @@ United States.'' California's long-arm statute allows the exercise of
 personal jurisdiction to the full extent permissible under the U.S.
 Constitution. We therefore inquire whether the Ninth Circuit's holding
 comports with the limits imposed by federal due process.
-
-\subsubsection{III}\label{iii-4}
 
 In \emph{Pennoyer v. Neff,} decided shortly after the enactment of the
 Fourteenth Amendment, the Court held that a tribunal's jurisdiction over
@@ -7533,8 +7115,6 @@ among the defendant, the forum, and the litigation,'' \emph{i.e.,}
 specific jurisdiction, general jurisdiction has come to occupy a less
 dominant place in the contemporary scheme.
 
-\subsubsection{IV}\label{iv}
-
 With this background, we turn directly to the question whether Daimler's
 affiliations with California are sufficient to subject it to the general
 (all-purpose) personal jurisdiction of that State's courts. In the
@@ -7553,13 +7133,9 @@ assertion that the California courts could exercise all-purpose
 jurisdiction over MBUSA. We will assume then, for purposes of this
 decision only, that MBUSA qualifies as at home in California.
 
-\paragraph{A}\label{a-2}
-
 This Court has not yet addressed whether a foreign corporation may be
 subjected to a court's general jurisdiction based on the contacts of its
 in-state subsidiary.
-
-\paragraph{B}\label{b-3}
 
 Even if we were to assume that MBUSA is at home in California, and
 further to assume MBUSA's contacts are imputable to Daimler, there would
@@ -7618,8 +7194,6 @@ and hence subject to suit there on claims by foreign plaintiffs having
 nothing to do with anything that occurred or had its principal impact in
 California.
 
-\paragraph{C}\label{c-1}
-
 Finally, the transnational context of this dispute bears attention. The
 Court of Appeals emphasized, as supportive of the exercise of general
 jurisdiction, plaintiffs' assertion of claims under the Alien Tort
@@ -7647,8 +7221,6 @@ In this admiralty case we primarily consider whether the United States
 Court of Appeals for the Ninth Circuit correctly refused to enforce a
 forum-selection clause contained in tickets issued by petitioner
 Carnival Cruise Lines, Inc., to respondents Eulala and Russel Shute.
-
-\subsubsection{I}\label{i-6}
 
 The Shutes, through an Arlington, Wash., travel agent, purchased passage
 for a 7-day cruise on petitioner's ship, the \emph{Tropicale.}
@@ -7685,8 +7257,6 @@ Courts of any other state or country.''
 \end{quote}
 
 The last quoted paragraph is the forum-selection clause at issue.
-
-\subsubsection{II}\label{ii-6}
 
 Respondents boarded the \emph{Tropicale} in Los Angeles, Cal. The ship
 sailed to Puerto Vallarta, Mexico, and then returned to Los Angeles.
@@ -7733,8 +7303,6 @@ forum-selection clause to be dispositive of this question, we need not
 consider petitioner's constitutional argument as to personal
 jurisdiction.
 
-\subsubsection{III}\label{iii-5}
-
 We begin by noting the boundaries of our inquiry. First, this is a case
 in admiralty, and federal law governs the enforceability of the
 forum-selection clause we
@@ -7757,10 +7325,6 @@ Within this context, respondents urge that the forum clause should not
 be enforced because, contrary to this Court's teachings in \emph{The
 Bremen,} the clause was not the product of negotiation, and enforcement
 effectively would deprive respondents of their day in court.
-
-\subsubsection{IV}\label{iv-1}
-
-\paragraph{A}\label{a-3}
 
 Both petitioner and respondents argue vigorously that the Court's
 opinion in \emph{The Bremen} governs this case, and each side purports
@@ -8061,7 +7625,7 @@ favorable rule, one shielding it from suits even its employees must
 answer. We reject the company's argument. Nothing in the Due Process
 Clause requires such an incongruous result.
 
-\subsubsection{I}\label{i-7}
+\subsubsection{I}\label{i-4}
 
 Robert Mallory worked for Norfolk Southern as a freight-car mechanic for
 nearly 20 years, first in Ohio, then in Virginia. During his time with
@@ -8114,7 +7678,7 @@ decide whether the Due Process Clause of the Fourteenth Amendment
 prohibits a State from requiring an out-of-state corporation to consent
 to personal jurisdiction to do business there.
 
-\subsubsection{II}\label{ii-7}
+\subsubsection{II}\label{ii-4}
 
 The question before us is not a new one. In truth, it is a very old
 question---and one this Court resolved in \emph{Pennsylvania Fire Ins.
@@ -8187,9 +7751,9 @@ railroads and insurance companies. Mr.~Mallory has collected an array of
 these statutes, enacted between 1835 and 1915, in his statutory
 appendix.
 
-\subsubsection{III}\label{iii-6}
+\subsubsection{III}\label{iii-3}
 
-\paragraph{A}\label{a-4}
+\paragraph{A}\label{a}
 
 Unsurprisingly, some corporations challenged statutes like these on
 various grounds, due process included. And, ultimately, one of these
@@ -8260,7 +7824,7 @@ similar cases in the years leading up to \emph{Pennsylvania Fire}. In
 the years following \emph{Pennsylvania Fire}, too, this Court reaffirmed
 its holding as often as the issue arose.
 
-\paragraph{B}\label{b-4}
+\paragraph{B}\label{b}
 
 \emph{Pennsylvania Fire} controls this case. Much like the Missouri law
 at issue there, the Pennsylvania law at issue here provides that an
@@ -8320,7 +7884,7 @@ prerogative of overruling its own decisions.'' This is true even if the
 lower court thinks the precedent is in tension with ``some other line of
 decisions.''
 
-\subsubsection{IV}\label{iv-2}
+\subsubsection{IV}\label{iv}
 
 Now before us, Norfolk Southern candidly asks us to do what the
 Pennsylvania Supreme Court could not---overrule \emph{Pennsylvania
@@ -8330,7 +7894,7 @@ done much of the hard work for us. That decision, the company insists,
 seriously undermined \emph{Pennsylvania Fire}'s foundations. We
 disagree. The two precedents sit comfortably side by side.
 
-\paragraph{A}\label{a-5}
+\paragraph{A}\label{a-1}
 
 Start with how Norfolk Southern sees things. On the company's telling,
 echoed by the dissent, \emph{International Shoe} held that the Due
@@ -8408,7 +7972,7 @@ rejected that submission. Instead, as Justice Scalia explained,
 personal jurisdiction that did nothing to displace other ``traditional
 ones.'' What held true there must hold true here.
 
-\paragraph{B}\label{b-5}
+\paragraph{B}\label{b-1}
 
 Norfolk Southern offers several replies, but none persuades. The company
 begins by pointing to this Court's decision in Shaffer. There, as the
@@ -8559,9 +8123,9 @@ relabeling their long-arm statutes, States may now manufacture
 governments to circumvent constitutional limits so easily, I
 respectfully dissent.
 
-\subsubsection{I}\label{i-8}
+\subsubsection{I}\label{i-5}
 
-\paragraph{A}\label{a-6}
+\paragraph{A}\label{a-2}
 
 Personal jurisdiction is the authority of a court to issue a judgment
 that binds a defendant. If a defendant submits to a court's authority,
@@ -8594,7 +8158,7 @@ corporation is typically ``at home'' in both its place of incorporation
 and principal place of business. Absent an exceptional circumstance,
 general jurisdiction is cabined to these locations.
 
-\paragraph{B}\label{b-6}
+\paragraph{B}\label{b-2}
 
 This case involves a Pennsylvania statute authorizing courts to exercise
 general jurisdiction over corporations that are not ``at home'' in the
@@ -8631,9 +8195,9 @@ does not change that conclusion. If it did, ``every corporation would be
 subject to general jurisdiction in every state in which it registered,
 and Daimler's ruling would be robbed of meaning by a back-door thief.''
 
-\subsubsection{II}\label{ii-8}
+\subsubsection{II}\label{ii-5}
 
-\paragraph{A}\label{a-7}
+\paragraph{A}\label{a-3}
 
 The Court short-circuits this precedent by characterizing this case as
 one about consent rather than contacts-based jurisdiction. Consent is an
@@ -8688,7 +8252,7 @@ Pennsylvania's long-arm statute constitutional.'' Brief for United
 States as Amicus Curiae 4. Yet the Court takes this route without so
 much as acknowledging its circularity.
 
-\paragraph{B}\label{b-7}
+\paragraph{B}\label{b-3}
 
 While our due process precedent permits States to place reasonable
 conditions on foreign corporations in exchange for access to their
@@ -8737,9 +8301,9 @@ business. The same logic applies here. Pennsylvania's power grab
 infringes on more than just the rights of defendants---it upsets the
 proper role of the States in our federal system.
 
-\subsubsection{III}\label{iii-7}
+\subsubsection{III}\label{iii-4}
 
-\paragraph{A}\label{a-8}
+\paragraph{A}\label{a-4}
 
 The plurality attempts to minimize the novelty of its conclusion by
 pointing to our decision in \emph{Burnham v. Superior Court of Cal}.
@@ -8796,7 +8360,7 @@ this era articulate the same line. Although ``plaintiffs typically did
 not sue defendants in fora that had no rational relation to causes of
 action,'' courts repeatedly turned them away when they did.
 
-\paragraph{B}\label{b-8}
+\paragraph{B}\label{b-4}
 
 Sidestepping \emph{Burnham}'s logic, the plurality seizes on its
 bottom-line approval of tag jurisdiction. According to the plurality,
@@ -8835,7 +8399,7 @@ Pennsylvania's registration statute is based on deemed consent. And this
 kind of legally implied consent is one of the very fictions that our
 decision in \emph{International Shoe} swept away.
 
-\paragraph{C}\label{c-2}
+\paragraph{C}\label{c}
 
 Neither JUSTICE ALITO nor the plurality seriously contests this history.
 Nor does either deny that Mallory's theory would gut \emph{Daimler}.
@@ -8889,7 +8453,7 @@ nothing about that registration is ``voluntary.'' Consent in
 is deemed by statute. If ``mere formalities'' matter as much as the
 plurality says they do, it should respect this one too.
 
-\subsubsection{IV}\label{iv-3}
+\subsubsection{IV}\label{iv-1}
 
 By now, it should be clear that the plurality's primary approach to this
 case is to look past our personal jurisdiction precedent. Relying on a
@@ -8916,22 +8480,14 @@ respectfully dissent.
 \subsection{Synthesis: Analyzing a Personal Jurisdiction
 Problem}\label{synthesis-analyzing-a-personal-jurisdiction-problem}
 
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/personal-jurisdiction.png}}
-
-}
-
-\caption{Fig. 4.4}
-
-\end{figure}%
+\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/personal-jurisdiction.png}
 
 \section{Statutory Authorization: Long-Arm
 Statutes}\label{statutory-authorization-long-arm-statutes}
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/Long-Arm.jpg}}
+{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/Long-Arm.jpg}
 
 }
 
@@ -9352,7 +8908,7 @@ federal-question jurisdiction over the disputed issue on removal, which
 would not distort any division of labor between the state and federal
 courts, provided or assumed by Congress.
 
-\subsubsection{I}\label{i-9}
+\subsubsection{I}\label{i-6}
 
 In 1994, the Internal Revenue Service seized Michigan real property
 belonging to petitioner Grable \& Sons Metal Products, Inc., to satisfy
@@ -9408,7 +8964,7 @@ Dow Pharmaceuticals Inc.~v. Thompson}, 478 U. S. 804 (1986), always
 requires a federal cause of action as a condition for exercising
 federal-question jurisdiction. We now affirm.
 
-\subsubsection{II}\label{ii-9}
+\subsubsection{II}\label{ii-6}
 
 Darue was entitled to remove the quiet title action if Grable could have
 brought it in federal district court originally, 28 U.S.C. §1441(a), as
@@ -9477,9 +9033,7 @@ actually disputed and substantial, which a federal forum may entertain
 without disturbing any congressionally approved balance of federal and
 state judicial responsibilities.
 
-\subsubsection{III}\label{iii-8}
-
-\paragraph{A}\label{a-9}
+\subsubsection{III}\label{iii-5}
 
 This case warrants federal jurisdiction. Grable's state complaint must
 specify ``the facts establishing the superiority of its claim,'' and
@@ -9503,8 +9057,6 @@ case that raises a contested matter of federal law, federal jurisdiction
 to resolve genuine disagreement over federal tax title provisions will
 portend only a microscopic effect on the federal-state division of
 labor.
-
-\paragraph{B}\label{b-9}
 
 \emph{Merrell Dow Pharmaceuticals Inc.~v. Thompson}, 478 U. S. 804
 (1986), on which Grable rests its position, is not to the contrary.
@@ -9645,7 +9197,7 @@ from Grable in satisfaction of a tax delinquency.
 \begin{itemize}
 \tightlist
 \item
-  Under state law, Grable was required to specify ``the facts
+  • Under state law, Grable was required to specify ``the facts
   establishing the superiority of its claim'' to the property.
 \end{itemize}
 
@@ -9653,9 +9205,9 @@ Under the federal statute governing the sale of property to satisfy tax
 delinquencies, the IRS was supposed to give Grable written notice of the
 seizure. The IRS sent Grable notice of the seizure by certified mail,
 but Grable contended that the statute required personal service of the
-notice. - Grable argued that failure to satisfy the federal statutory
+notice. - • Grable argued that failure to satisfy the federal statutory
 notice requirement rendered the sale of the property to Darue invalid. -
-Darue argued that, since Grable received actual notice of the seizure
+• Darue argued that, since Grable received actual notice of the seizure
 and sale, but failed to exercise its
 \href{https://www.law.cornell.edu/uscode/text/26/6337}{statutory right
 to redeem the property} within 180 days of the sale, Darue's purchase of
@@ -9680,13 +9232,13 @@ Dow.
 \begin{itemize}
 \tightlist
 \item
-  The plaintiffs alleged that Merrell Dow's failure to warn about
+  • The plaintiffs alleged that Merrell Dow's failure to warn about
   potential birth defects was negligent.
 \end{itemize}
 
 Under state tort law, one way a plaintiff could satisfy the negligence
 element was by showing that the defendant failed to comply with an
-applicable state or federal legal standard. - The plaintiffs relied on
+applicable state or federal legal standard. - • The plaintiffs relied on
 federal law for this purpose, asserting that FDA regulations required a
 warning about potential birth defects.
 
@@ -9705,12 +9257,12 @@ have prevailed in that suit but for Gunn's negligence.
 
 \begin{itemize}
 \item
-  Minton alleged that Gunn failed to raise a certain argument in the
+  • Minton alleged that Gunn failed to raise a certain argument in the
   patent infringement suit, that a competent lawyer would have raised
   the argument, and that Minton would have won if Gunn had raised the
   argument.
 \item
-  To decide whether the argument would have been successful, the court
+  • To decide whether the argument would have been successful, the court
   would have to apply federal patent law.
 \end{itemize}
 
@@ -9720,7 +9272,7 @@ federal law.
 \begin{itemize}
 \tightlist
 \item
-  The patent law issue arose only as a benchmark for establishing
+  • The patent law issue arose only as a benchmark for establishing
   whether Gunn suffered an injury as a result of negligent legal
   representation.
 \end{itemize}
@@ -9741,12 +9293,12 @@ violations of the federal statutory requirements.
 
 \begin{itemize}
 \item
-  The federal statute provides no special enforcement mechanism for
+  • The federal statute provides no special enforcement mechanism for
   those requirements, so private suits aren't interfering with anything.
 \item
-  But the federal statute gives individual taxpayers private rights, so
-  it makes sense for federal courts to adjudicate claims that depend on
-  whether those rights were violated.
+  • But the federal statute gives individual taxpayers private rights,
+  so it makes sense for federal courts to adjudicate claims that depend
+  on whether those rights were violated.
 \end{itemize}
 
 Only rarely will a state-law quiet title claim depend on an issue of
@@ -9764,7 +9316,7 @@ state-law product liability claims.
 \begin{itemize}
 \tightlist
 \item
-  Decisions in those cases would not affect any rights, interests, or
+  • Decisions in those cases would not affect any rights, interests, or
   duties under the FDCA itself.
 \end{itemize}
 
@@ -9774,7 +9326,7 @@ application, through exclusive enforcement by the FDA.
 \begin{itemize}
 \tightlist
 \item
-  A state court determination in the negligence suit would not be
+  • A state court determination in the negligence suit would not be
   binding in an enforcement action by the FDA.
 \end{itemize}
 
@@ -9783,12 +9335,12 @@ private right of action under the statute.
 
 \begin{itemize}
 \item
-  The statutory enforcement scheme evidences a Congressional intent that
-  the federal courts not adjudicate private suits arising under the
+  • The statutory enforcement scheme evidences a Congressional intent
+  that the federal courts not adjudicate private suits arising under the
   FDCA.
 \item
-  Allowing plaintiffs to litigate FDCA non-compliance under the guise of
-  state-law tort claims would undermine this statutory scheme.
+  • Allowing plaintiffs to litigate FDCA non-compliance under the guise
+  of state-law tort claims would undermine this statutory scheme.
 \end{itemize}
 
 The plaintiffs in these cases asserted routine state-law claims, in
@@ -9797,10 +9349,10 @@ defendants' liability under state law.
 
 \begin{itemize}
 \item
-  State law commonly allows plaintiffs to use federal legal standards as
-  a baseline for establish the standard of care under state tort law.
+  • State law commonly allows plaintiffs to use federal legal standards
+  as a baseline for establish the standard of care under state tort law.
 \item
-  If every such case were regarded as arising under federal law for
+  • If every such case were regarded as arising under federal law for
   purposes of jurisdiction under §1331, this would effectively
   ``federalize'' much routine tort law, subjecting the federal courts to
   a flood of cases that raise no substantial federal interest, and
@@ -9815,11 +9367,11 @@ context of state-law attorney malpractice claims.
 
 \begin{itemize}
 \item
-  State court interpretations of federal patent law in the context of
+  • State court interpretations of federal patent law in the context of
   attorney malpractice claims do not actually affect any rights or
   interests under federal patent law.
 \item
-  The federal issues arise only as counterfactual hypotheticals: what
+  • The federal issues arise only as counterfactual hypotheticals: what
   would have happened if the attorney had done something different?
 \end{itemize}
 
@@ -9831,8 +9383,8 @@ not hear those claims at all).
 \begin{itemize}
 \tightlist
 \item
-  Parties asserting rights under federal patent law have a private right
-  of action in federal court.
+  • Parties asserting rights under federal patent law have a private
+  right of action in federal court.
 \end{itemize}
 
 Malpractice claims based on an attorney's conduct in a federal patent
@@ -9841,12 +9393,12 @@ patent law.
 
 \begin{itemize}
 \item
-  Minton's patent remains invalid, regardless of what happens in the
+  • Minton's patent remains invalid, regardless of what happens in the
   malpractice case
 \item
-  Allowing state courts to decide malpractice claims arising from patent
-  suits won't interfere with the exclusive federal jurisdiction over
-  patent claims themselves.
+  • Allowing state courts to decide malpractice claims arising from
+  patent suits won't interfere with the exclusive federal jurisdiction
+  over patent claims themselves.
 \end{itemize}
 
 \section{Diversity Jurisdiction}\label{diversity-jurisdiction}
@@ -9905,16 +9457,11 @@ Rico.
 \subsection{Hanks v Coan (M.D.N.C.
 1999)}\label{hanks-v-coan-m.d.n.c.-1999}
 
-\textbf{OSTEEN, J.}
-
 This matter comes before the court on Defendant Frances Coan's motion to
 dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to
 dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter
 jurisdiction. For the reasons discussed herein, the court will grant
 Defendants' motions to dismiss.
-
-\subsubsection{I. FACTUAL AND PROCEDURAL
-BACKGROUND}\label{i.-factual-and-procedural-background}
 
 Plaintiff filed this action asserting claims arising out of the same
 transactions and occurrences that are the subject matter of the
@@ -9925,11 +9472,6 @@ that complete diversity of citizenship does not exist. On April 26,
 1999, the court held a hearing solely on the diversity jurisdiction
 issue. The two motions to dismiss are the matters now pending before the
 court.
-
-\subsubsection{II. DISCUSSION}\label{ii.-discussion-3}
-
-\paragraph{A. Citizens of Different
-States}\label{a.-citizens-of-different-states}
 
 It has long been held that federal courts are courts of limited
 jurisdiction and can only entertain actions over which they possess
@@ -10100,8 +9642,6 @@ organized and the state of its principal place of business. 28 U.S.C.
 \subsection{Ottawa Township Board of Trustees v. New Par (I) (N.D. Ohio
 2017)}\label{ottawa-township-board-of-trustees-v.-new-par-i-n.d.-ohio-2017}
 
-\textbf{CARR, Senior District Judge}
-
 This state-law declaratory-judgment action tests whether the
 construction of a new cell tower must comply with an Ohio township's
 zoning regulations.
@@ -10162,7 +9702,7 @@ the declaratory relief that the Trustees seek exceeds \$75,000.
 Accordingly, I will hold the remainder of the motion in abeyance pending
 further submissions from the parties.
 
-\subsubsection{Discussion}\label{discussion-2}
+\subsubsection{Discussion}\label{discussion-4}
 
 ``Any civil action brought in a State court of which the district courts
 of the United States have original jurisdiction, may be removed by the
@@ -10179,9 +9719,6 @@ of subject matter jurisdiction is determined by examining the complaint
 as it existed at the time of removal.'' ``The burden of showing that the
 district court has original jurisdiction is on the party seeking
 removal.''
-
-\paragraph{A. Defendants' Counterclaim
-Damages}\label{a.-defendants-counterclaim-damages}
 
 Neither the United States Supreme Court nor the United States Court of
 Appeals for the Sixth Circuit has decided whether a defendant's
@@ -10240,10 +9777,7 @@ an action could have been brought in federal court originally is
 determined by the amount in controversy at the time of removal.''
 
 For these reasons, defendants' counterclaim damages cannot and do not
-satisfy the amount-in-controversy requirement.2
-
-\paragraph{B. Value of Declaratory
-Relief}\label{b.-value-of-declaratory-relief}
+satisfy the amount-in-controversy requirement.
 
 ``In actions seeking declaratory or injunctive relief, it is well
 established that the amount in controversy is measured by the value of
@@ -10302,8 +9836,6 @@ whether this court has subject-matter jurisdiction.
 
 \subsection{Ottawa Township Board of Trustees v. New Par (II) (N.D. Ohio
 2017)}\label{ottawa-township-board-of-trustees-v.-new-par-ii-n.d.-ohio-2017}
-
-\textbf{CARR, Senior District Judge}
 
 This is a state-law declaratory-judgment case.
 
@@ -10413,8 +9945,6 @@ deny the Trustees' motion to remand.
 Pops (E.D. Pa.
 2020)}\label{complete-business-solutions-group-inc.-v.-annies-pooch-pops-e.d.-pa.-2020}
 
-\textbf{PRATTER, District Judge}
-
 Pennsylvania law permits a prothonotary
 {\marginnote{\begin{footnotesize}``Prothonotary'' is the title of the
 chief clerk in most Pennsylvania state courts. This is one of many
@@ -10445,8 +9975,6 @@ Because Annie's Pooch Pops has failed to demonstrate the requisite
 amount-in-controversy in this case, it has lost its bark. The Court will
 remand the case.
 
-\subsubsection{Legal Standard}\label{legal-standard}
-
 When confronted with a motion to remand, the removing party has the
 burden of establishing the propriety of removal. ``Removal statutes `are
 to be strictly construed against removal, and all doubts resolved in
@@ -10472,11 +10000,6 @@ the evidence that the amount-in-controversy is met. In making this
 determination, the Court generally looks to the complaint, but can look
 to other proofs.
 
-\subsubsection{Discussion}\label{discussion-3}
-
-\subsubsection{I. The parties' respective
-arguments.}\label{i.-the-parties-respective-arguments.}
-
 The dispute hinges on the defendant's assertion concerning attorneys'
 fees. As an initial note, attorneys' fees may be considered as part of
 the amount-in-controversy if available to plaintiff's under their cause
@@ -10493,9 +10016,6 @@ emphatically asserts that it has specifically averred the
 amount-in-controversy in the amount of \$41,371.78. Because its fees are
 static, any additional right to fees is based on future events not yet
 knowable at the time of the filing of the complaint or removal.
-
-\subsubsection{II. Annie's Pooch Pops have not met their
-burden.}\label{ii.-annies-pooch-pops-have-not-met-their-burden.}
 
 Annie's Pooch Pops have not met their burden in showing the
 amount-in-controversy meets the federal requirement. While Complete
@@ -10581,8 +10101,6 @@ employment and with his contract of haulage.''
 The jury's verdict was that the UMW had violated both §303 and state
 law. The Court of Appeals for the Sixth Circuit affirmed. We granted
 certiorari. We reverse.
-
-\subsubsection{I.}\label{i.-2}
 
 A threshold question is whether the District Court properly entertained
 jurisdiction of the claim based on Tennessee law.
@@ -10761,8 +10279,6 @@ possession of the United States.
 \subsection{Jones v. Ford Motor Credit Co.~(2nd Cir.
 2004)}\label{jones-v.-ford-motor-credit-co.-2nd-cir.-2004-1}
 
-\textbf{NEWMAN, Circuit Judge}
-
 This appeal concerns the availability of subject matter jurisdiction for
 permissive counterclaims. It also demonstrates the normal utility of
 early decision of a motion for class certification. Defendant-Appellant
@@ -10834,10 +10350,8 @@ On March 27, 2003, the District Court entered judgment pursuant to
 Fed.R.Civ.P. 54(b) in favor of the Plaintiffs, dismissing Ford Credit's
 counterclaims without prejudice. Ford Credit appeals from this decision.
 
-\subsubsection{Discussion}\label{discussion-4}
-
-\subsubsection{II. Is There Jurisdiction over the Permissive
-Counterclaims?}\label{ii.-is-there-jurisdiction-over-the-permissive-counterclaims}
+\subsubsection{Is There Jurisdiction over the Permissive
+Counterclaims?}\label{is-there-jurisdiction-over-the-permissive-counterclaims}
 
 For several decades federal courts have asserted that permissive
 counterclaims require an independent basis of jurisdiction, \emph{i.e}.,
@@ -10889,9 +10403,8 @@ question or diversity jurisdiction). The issue in this case therefore
 becomes whether supplemental jurisdiction is available for Ford Credit's
 counterclaims.
 
-\subsubsection{III. Application of Section 1367's Standards for
-Supplemental
-Jurisdiction}\label{iii.-application-of-section-1367s-standards-for-supplemental-jurisdiction}
+\subsubsection{Application of Section 1367's Standards for Supplemental
+Jurisdiction}\label{application-of-section-1367s-standards-for-supplemental-jurisdiction}
 
 Whether or not the Gibbs ``common nucleus'' standard provides the outer
 limit of an Article III ``case,'' and is therefore a requirement for
@@ -10970,8 +10483,6 @@ determine whether to exercise or decline supplemental jurisdiction.
 \subsection{Ginwright v. Exeter Finance Corp.~(D. Md.
 2017)}\label{ginwright-v.-exeter-finance-corp.-d.-md.-2017-1}
 
-\textbf{CHUANG, District Judge}
-
 On February 26, 2016, Plaintiff Billy Ginwright filed this action
 against Defendant Exeter Finance Corporation (``Exeter'') for violations
 of the Telephone Consumer Protection Act (``TCPA''), 47 U.S.C. §227
@@ -10981,8 +10492,6 @@ alleging that Ginwright breached the contract that led Exeter to seek to
 collect a debt by telephone. Pending before the Court is Ginwright's
 Motion to Dismiss Exeter's Counterclaim. For the following reasons, the
 Motion is granted.
-
-\subsubsection{Background}\label{background-4}
 
 In May 2013, Ginwright entered into a contract with BW Auto Outlet of
 Hanover, Maryland to finance the purchase of a vehicle. Within the
@@ -11006,8 +10515,6 @@ vehicle and the application of the sale proceeds to the full amount
 owed, Ginwright owed a remainder of \$23,782.17 under the contract as of
 May 3, 2016.
 
-\subsubsection{Discussion}\label{discussion-5}
-
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal
 Rule of Civil Procedure 12(b)(1) for lack of subject matter
 jurisdiction. Ginwright asserts that Exeter has failed to assert any
@@ -11018,8 +10525,6 @@ enactment of 28 U.S.C. §1367, a court, may exercise supplemental
 jurisdiction over a permissive counterclaim, and that, in any event, its
 counterclaim is compulsory.
 
-\subsubsection{I. Legal Standard}\label{i.-legal-standard}
-
 It is the burden of the party asserting jurisdiction to show that
 subject matter jurisdiction exists. Rule 12(b)(1) allows a party to move
 for dismissal when it believes that the claimant has failed to make that
@@ -11029,9 +10534,6 @@ jurisdiction, the allegations in the counterclaim are assumed to be true
 under the same standard as in a Rule 12(b)(6) motion, and the motion
 must be denied if the counterclaim alleges sufficient facts to invoke
 subject matter jurisdiction.
-
-\subsubsection{II. Supplemental
-Jurisdiction}\label{ii.-supplemental-jurisdiction}
 
 In asserting its counterclaim, Exeter does not allege that the Court has
 federal question jurisdiction or diversity jurisdiction. Rather, Exeter
@@ -11088,8 +10590,6 @@ basis exists for doing so, the Court declines to deviate from Fourth
 Circuit precedent and will continue to apply the rule that a federal
 court has supplemental jurisdiction over compulsory counterclaims only.
 
-\subsubsection{IV. 28 U.S.C. §1367(c)}\label{iv.-28-u.s.c.-1367c}
-
 Even if the Court could exercise supplemental jurisdiction over a
 permissive counterclaim, the Court may decline to do so under certain
 circumstances. 28 U.S.C. §1367(c). Among those circumstances are where
@@ -11137,15 +10637,7 @@ Rule 13 are functionally equivalent. Under that view, supplemental
 jurisdiction over a permissive counterclaim is never allowed. See
 \emph{Ginwright}.
 
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/joinder_smj.png}}
-
-}
-
-\caption{Fig. 4.1}
-
-\end{figure}%
+\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/joinder_smj.png}
 
 \subsection{Exxon Mobil Corp.~v. Allapattah Services, Inc.~(U.S.
 2005)}\label{exxon-mobil-corp.-v.-allapattah-services-inc.-u.s.-2005}
@@ -11178,19 +10670,17 @@ Court of Appeals for the Eleventh Circuit in {[}\emph{Allapattah
 Services}{]}, and we reverse the judgment of the Court of Appeals for
 the First Circuit in {[}\emph{Rosario-Ortega}{]}.
 
-\subsubsection{I}\label{i-10}
+\subsubsection{I}\label{i-7}
 
-In the other case now before us the Court of Appeals for the First
-Circuit took a different position on the meaning of §1367(a). In that
-case, a 9-year-old girl sued Star-Kist in a diversity action in the
-United States District Court for the District of Puerto Rico, seeking
-damages for unusually severe injuries she received when she sliced her
-finger on a tuna can. Her family joined in the suit, seeking damages for
-emotional distress and certain medical expenses. The District Court
-granted summary judgment to Star-Kist, finding that none of the
-plaintiffs met the minimum amount-in-controversy requirement. The Court
-of Appeals for the First Circuit, however, ruled that the injured girl,
-but not her family members, had made allegations of damages in the
+\hyperref[a]{A} 9-year-old girl sued Star-Kist in a diversity action in
+the United States District Court for the District of Puerto Rico,
+seeking damages for unusually severe injuries she received when she
+sliced her finger on a tuna can. Her family joined in the suit, seeking
+damages for emotional distress and certain medical expenses. The
+District Court granted summary judgment to Star-Kist, finding that none
+of the plaintiffs met the minimum amount-in-controversy requirement. The
+Court of Appeals for the First Circuit, however, ruled that the injured
+girl, but not her family members, had made allegations of damages in the
 requisite amount.
 
 The Court of Appeals then addressed whether, in light of the fact that
@@ -11202,9 +10692,7 @@ the action, and that in a diversity case original jurisdiction is
 lacking if one plaintiff fails to satisfy the amount-in-controversy
 requirement.
 
-\subsubsection{II}\label{ii-10}
-
-\paragraph{A}\label{a-10}
+\subsubsection{II}\label{ii-7}
 
 The district courts of the United States, as we have said many times,
 are ``courts of limited jurisdiction. They possess only that power
@@ -11255,8 +10743,6 @@ supplemental jurisdiction under \emph{Gibbs,} it must first have
 original jurisdiction over at least one claim in the action. Incomplete
 diversity destroys original jurisdiction with respect to all claims, so
 there is nothing to which supplemental jurisdiction can adhere.
-
-\paragraph{B}\label{b-10}
 
 In \emph{Finley} we emphasized that ``whatever we say regarding the
 scope of jurisdiction conferred by a particular statute can of course be
@@ -11489,17 +10975,17 @@ Diagrams}\label{supplemental-jurisdiction-diagrams}
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/1367.png}}
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367.png}
 
 }
 
-\caption{Supplemental Jurisdiction}
+\caption{Supplemental Jurisdiction Analysis}
 
 \end{figure}%
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/1367b_Co-Plaintiffs.png}}
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367b_Co-Plaintiffs.png}
 
 }
 
@@ -11509,7 +10995,7 @@ Diagrams}\label{supplemental-jurisdiction-diagrams}
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/1367b_Co-Defendants.png}}
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367b_Co-Defendants.png}
 
 }
 
@@ -11519,7 +11005,7 @@ Diagrams}\label{supplemental-jurisdiction-diagrams}
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/joinder_smj.png}}
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/joinder_smj.png}
 
 }
 
@@ -11758,37 +11244,31 @@ states''?
 
 \subsection{Swift v. Tyson (U.S. 1842)}\label{swift-v.-tyson-u.s.-1842}
 
-\begin{itemize}
-\item
-  \textbf{Summary of Facts}
-\item
-  {\emph{George Tyson purchased some land from Nathaniel Norton and
-  Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill
-  of exchange.\footnote{A bill of exchange \ldots{} is a signed,
-    unconditional, written order binding one party to pay a fixed sum of
-    money to another party on demand or at a predetermined date.''
-    \href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
-    Dictionary}.} It turned out that, not only was the land virtually
-  worthless, North and Keith did not actually own it. Before the bill of
-  exchange came due, Norton signed it over to the plaintiff, John Swift,
-  ostensibly in payment of a debt.\footnote{Swift may have been in
-    cahoots with the swindlers: ``The circumstances surrounding the
-    giving of the promissory note of Norton and Keith to Swift and the
-    fact that after indorsing the bill to Swift the two erstwhile real
-    estate salesmen disappeared, all hinted that Swift, Keith, and
-    Norton had attempted to manufacture Swift's status as bona fide
-    holder in order to allow him to collect the bill in spite of the
-    hanky panky surrounding the land deal. Perhaps in return Swift gave
-    Norton and Keith enough cash with which to make their escape.''
-    LaPiana (1986): 796.}}}
-\item
-  {\emph{Swift then sought payment on the bill of exchange from Tyson,
-  who refused on the ground that it was procured by fraud. Swift (a
-  resident of Maine) sued Tyson (a resident of New York) in federal
-  court, which had jurisdiction based on diversity of citizenship.}}
-\end{itemize}
+\textbf{Summary of Facts}
 
-{\faIcon{gavel}}
+{[}\emph{George Tyson purchased some land from Nathaniel Norton and
+Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of
+exchange.\footnote{A bill of exchange \ldots{} is a signed,
+  unconditional, written order binding one party to pay a fixed sum of
+  money to another party on demand or at a predetermined date.''
+  \href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
+  Dictionary}.} It turned out that, not only was the land virtually
+worthless, North and Keith did not actually own it. Before the bill of
+exchange came due, Norton signed it over to the plaintiff, John Swift,
+ostensibly in payment of a debt.\footnote{Swift may have been in cahoots
+  with the swindlers: ``The circumstances surrounding the giving of the
+  promissory note of Norton and Keith to Swift and the fact that after
+  indorsing the bill to Swift the two erstwhile real estate salesmen
+  disappeared, all hinted that Swift, Keith, and Norton had attempted to
+  manufacture Swift's status as bona fide holder in order to allow him
+  to collect the bill in spite of the hanky panky surrounding the land
+  deal. Perhaps in return Swift gave Norton and Keith enough cash with
+  which to make their escape.'' LaPiana (1986): 796.}}{]}
+
+{[}\emph{Swift then sought payment on the bill of exchange from Tyson,
+who refused on the ground that it was procured by fraud. Swift (a
+resident of Maine) sued Tyson (a resident of New York) in federal court,
+which had jurisdiction based on diversity of citizenship.}{]}
 
 \textbf{Justice STORY delivered the opinion of the Court.}
 
@@ -12601,8 +12081,6 @@ to give petitioner an opportunity to introduce further evidence; and (2)
 whether petitioner, state practice notwithstanding, is entitled to a
 jury determination of the factual issues raised by this defense.
 
-\subsubsection{I.}\label{i.-3}
-
 The Supreme Court of South Carolina has held that there is no particular
 formula by which to determine whether an owner is a statutory employer
 under {[}the South Carolina workers' compensation statute{]}:
@@ -12657,8 +12135,6 @@ respondent was a statutory employer.
 
 At all events, the petitioner is plainly entitled to have an opportunity
 to try the issue under the Court of Appeals' interpretation.
-
-\subsubsection{II.}\label{ii.-2}
 
 A question is also presented as to whether on remand the factual issue
 is to be decided by the judge or by the jury. The respondent argues on
@@ -13299,14 +12775,12 @@ rule is intended to serve, I concur in the judgment of the Court.
 \subsection{Dolphin Kickboxing Co.~v. Franchoice, Inc.~(D. Minn.
 2020)}\label{dolphin-kickboxing-co.-v.-franchoice-inc.-d.-minn.-2020}
 
-\textbf{ELIZABETH COWAN WRIGHT, Magistrate Judge}
-
 This matter is before the Court on Plaintiffs' Motion to Amend
 Complaint. For the reasons stated below, the Motion is granted in part
 and denied in part.
 
-\subsubsection{I. FACTUAL AND PROCEDURAL
-BACKGROUND}\label{i.-factual-and-procedural-background-1}
+\subsubsection{Factual and Procedural
+Background}\label{factual-and-procedural-background}
 
 The ``Facts'' section of the proposed amended complaint is exactly the
 same as found in the original Complaint. For the sake of brevity, the
@@ -13335,7 +12809,7 @@ vetted; that such franchises were of high quality; and that Defendants
 would provide Plaintiffs with all knowledge necessary to make an
 informed decisions {[}sic{]}, when, in fact:
 
-Defendants knew that the founder of ILKB, Michael Parrella, had filed
+• Defendants knew that the founder of ILKB, Michael Parrella, had filed
 for bankruptcy in 2003 and that his discharge had been vacated in 2008;
 and knew or should have known, in the exercise of reasonable inquiry of
 Parrella's bankruptcy consistent with their representations to
@@ -13343,30 +12817,30 @@ Plaintiffs, that Parrella's discharge had been revoked for failure to
 pay federal taxes and that there were two adversary proceedings in the
 bankruptcy accusing Parrella of fraud and fraudulent transfers.
 
-Defendants failed to perform any serious, systematic or professional due
-diligence upon ILKB; instead all they did was talk to a few existing
+• Defendants failed to perform any serious, systematic or professional
+due diligence upon ILKB; instead all they did was talk to a few existing
 franchisees, many of whom did not own the type of ILKB franchise that
 Plaintiffs were considering buying, and Defendants prepared no report,
 summary or investigation of ILKB.
 
-Defendants simply took representations of ILKB about the nature of the
+• Defendants simply took representations of ILKB about the nature of the
 franchise, including the representations that it was suitable for
 absentee ownership; that no units had closed; that average ILKB
 franchisees made revenues and profits at a certain level; and that ILKB
 did all of the marketing for franchisees, and passed them on to
 Plaintiffs without checking on them.
 
-Defendants knew that ILKB engaged in blatantly illegal marketing
+• Defendants knew that ILKB engaged in blatantly illegal marketing
 techniques as early as March 2015 and never questioned whether such
 techniques had ceased, thus exposing Plaintiffs to the high likelihood,
 if not certainty, that Plaintiffs would be the victims of fraud.
 
-Defendants disregarded complaints and warning signs from ILKB
+• Defendants disregarded complaints and warning signs from ILKB
 franchisees as the whining of ``stupid, selfish and ungrateful
 franchisees'' instead of investigating such complaints and determining
 whether they were true.
 
-Defendants made specific representations as set forth in the proposed
+• Defendants made specific representations as set forth in the proposed
 amended complaint about ILKB without investigating or verifying them,
 when such representations were false and were known or should have been
 known to Defendants as false.
@@ -13376,7 +12850,7 @@ According to the proposed amended complaint, as a result of Defendants'
 deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to
 punitive damages.
 
-\subsubsection{II. LEGAL STANDARD}\label{ii.-legal-standard-1}
+\subsubsection{Legal Standard}\label{legal-standard-1}
 
 The Court held oral argument during which it sua sponte raised the issue
 of the appropriate standard for adding punitive damages claims. Both
@@ -13597,15 +13071,7 @@ damages based on the allegations in the proposed amended complaint.
 \section{Analyzing Choice of Law Under Erie and
 Hanna}\label{analyzing-choice-of-law-under-erie-and-hanna}
 
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/Erie-Hanna.png}}
-
-}
-
-\caption{Erie-Hanna Analysis}
-
-\end{figure}%
+\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/Erie-Hanna.png}
 
 \section{Review Questions}\label{review-questions-3}
 
@@ -13868,16 +13334,16 @@ Each page of plaintiff's complaint appears on an e-filing which is
 dominated by a large multi-colored cartoon dragon dressed in a suit,
 presumably because she is represented by the law firm of ``Dragon
 Lawyers PC © Award Winning Lawyers''.
-{\marginnote{\begin{footnotesize}See Fig. 1 below. Surprisingly, the
-court did not mention the egregious use of colored type in the
-complaint. Many federal and state courts have local rules governing the
-typography of pleadings, motions, briefs, and other documents. Butterick
-(2015) is a very useful guide to producing attractive, reader-friendly,
-legal documents.\end{footnotesize}}} Fed. R. Civ. P. 12(f)(1) allows a
-court to ``strike from a pleading \ldots{} any redundant, immaterial,
-impertinent, or scandalous matter.'' Use of this dragon cartoon logo is
-not only distracting, it is juvenile and impertinent. The Court is not a
-cartoon. Accordingly,
+{\marginnote{\begin{footnotesize}The first page of the complaint is
+reproduced below. Surprisingly, the court did not mention the egregious
+use of colored type in the complaint. Many federal and state courts have
+local rules governing the typography of pleadings, motions, briefs, and
+other documents. Butterick (2015) is a very useful guide to producing
+attractive, reader-friendly, legal documents.\end{footnotesize}}} Fed.
+R. Civ. P. 12(f)(1) allows a court to ``strike from a pleading \ldots{}
+any redundant, immaterial, impertinent, or scandalous matter.'' Use of
+this dragon cartoon logo is not only distracting, it is juvenile and
+impertinent. The Court is not a cartoon. Accordingly,
 
 \textbf{IT IS ORDERED} that plaintiff's complaint is \textbf{STRICKEN}.
 Plaintiff is directed to file an amended complaint, containing the same
@@ -13889,37 +13355,27 @@ documents with the cartoon dragon or other inappropriate content.
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/DragonComplaint.jpg}
+{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/DragonComplaint.jpg}
 
 }
 
-\caption{Fig. 1}
+\caption{Doe v. Clinton County Complaint}
 
 \end{figure}%
 
 \subsection{Smith v. Safemarine Corp.~(M.D.~Louisiana
 2024)}\label{smith-v.-safemarine-corp.-m.d.-louisiana-2024}
 
-\textbf{SHELLY D. DICK, CHIEF DISTRICT JUDGE}
-
-\subsubsection{I. BACKGROUND}\label{i.-background-2}
-
-\begin{quote}
 \textbf{Summary of the Facts}
 
-{\emph{Plaintiff sued multiple defendants---including Archer Daniels
+{[}\emph{Plaintiff sued multiple defendants---including Archer Daniels
 Midland Company (``ADM''), ARTCO Stevedoring (``ARTCO''), Riverside
 Shipping (``Riverside''), and Phoenix Bulk Carriers (``Phoenix
 Bulk'')---in connection with injuries he sustained while working aboard
 a container ship called the M/V Eva Paris. Defendants filed motions for
 a more definite statement under Rule 12(e), contending that the
 complaint contained insufficient factual detail regarding each
-defendants' role in the accident and the basis for liability.}}
-\end{quote}
-
-\subsubsection{II. LAW AND ANALYSIS}\label{ii.-law-and-analysis}
-
-\paragraph{A. Legal Standards}\label{a.-legal-standards}
+defendants' role in the accident and the basis for liability.}{]}
 
 The United States Supreme Court {[}has{]} set forth the basic criteria
 necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss:
@@ -13963,8 +13419,6 @@ well be stated intelligibly enough to enable the framing of a response,
 and a plausible claim, which would survive a Rule 12(b)(6) motion, may
 be pleaded vaguely enough to make response impossible, which would make
 it vulnerable to a Rule 12(e) motion.''
-
-\paragraph{B. Plaintiff's Allegations}\label{b.-plaintiffs-allegations}
 
 In separate paragraphs, Plaintiff's Petition for Damages
 {\marginnote{\begin{footnotesize}The plaintiff originally filed his suit
@@ -14127,14 +13581,14 @@ either factual or legal insufficiency:
 
 \begin{itemize}
 \item
-  A claim is \emph{factually insufficient} if the facts alleged, even
+  • A claim is \emph{factually insufficient} if the facts alleged, even
   assuming they are true, would not satisfy the elements of a claim. For
   example, if a plaintiff asserts a claim for negligence, but fails to
   allege any injury resulting from the defendant's conduct, the claim
   would be factually insufficient, because injury is a necessary element
   of the claim.
 \item
-  A claim is \emph{legally insufficient} if the law does not recognize
+  • A claim is \emph{legally insufficient} if the law does not recognize
   the purported claim at all. For example, if a plaintiff sues for
   ``tortious bad taste in music'', alleging that the defendant
   incessantly played ``We Built this City'' by The Starship and
@@ -14450,8 +13904,6 @@ factual content to ``nudge'' his claim of purposeful discrimination
 \subsection{Williams v. Mitchell (4th Circuit
 2024)}\label{williams-v.-mitchell-4th-circuit-2024}
 
-\textbf{GREGORY, Circuit Judge}
-
 This case, now before us after the district court's grant of motions to
 dismiss based on the insufficiency of the pleadings, involves a series
 of interactions between Plaintiff Brandon Williams and Norfolk,
@@ -14489,8 +13941,6 @@ consistent with this opinion. Finally, we vacate the court's dismissal
 of Williams' IIED claims, which are also remanded for consideration
 consistent with this opinion.
 
-\subsubsection{I.}\label{i.-4}
-
 The following facts were alleged in Williams' Second Amended Complaint.
 In January 2020, Brandon Williams was detained by Norfolk, Virginia,
 police officer John D. McClanahan on a misdemeanor trespassing charge.
@@ -14519,8 +13969,6 @@ limit, had not been drinking, and that his car had suffered a steering
 defect. This was allegedly done with the intent to deny Williams his
 rights by minimizing the accident and deflecting blame from Aman.
 
-\subsubsection{II.}\label{ii.-3}
-
 As for his retaliation claim, Williams alleged in the operative
 complaint that ``by recording McClanahan during his arrest on the
 trespassing charge, and by pointing out that McClanahan had lied during
@@ -14548,19 +13996,15 @@ perjury, and the second related to the Defendants' conduct at the
 accident scene. He alleged that both incidents have caused him physical
 and emotional injuries. ims.
 
-\subsubsection{III.}\label{iii.}
-
 We review a district court's dismissal under Rule 12(b)(6) \emph{de
 novo} and view the complaint in the light most favorable to the
 plaintiff, accepting as true all well-pleaded allegations.
-
-\subsubsection{IV.}\label{iv.}
 
 Before us on appeal is the district court's dismissal of Williams'
 retaliation, conspiracy, and IIED claims, which will each be addressed
 in turn.
 
-\paragraph{A.}\label{a.-6}
+\subsubsection{A.}\label{a.}
 
 A plaintiff seeking to recover for First and Sixth Amendment retaliation
 must allege that (1) he engaged in protected activity, (2) the defendant
@@ -14673,7 +14117,7 @@ Williams has thus alleged a First and Sixth Amendment retaliation claim
 sufficient to survive a motion to dismiss, and the district court's
 opinion granting Defendants' motions on this claim must be reversed.
 
-\paragraph{B.}\label{b.-6}
+\subsubsection{B.}\label{b.}
 
 To state a claim for civil conspiracy under 42 U.S.C. §1983, a plaintiff
 must allege that defendants ``acted jointly in concert and that some
@@ -14695,19 +14139,8 @@ constitutional right---that being his claim of First and Sixth Amendment
 retaliation--- Williams' conspiracy claim should be remanded to the
 district court for reconsideration.
 
-\subsubsection{V.}\label{v.}
-
-For the foregoing reasons, we reverse the district court's dismissal of
-Williams' retaliation claim. We vacate the court's dismissal of
-Williams' conspiracy and IIED claims and remand those claims for
-reconsideration consistent with this opinion.
-
 \subsection{Johnson v. Cricket Council USA, Inc.~(E.D.N.C.
 2023)}\label{johnson-v.-cricket-council-usa-inc.-e.d.n.c.-2023}
-
-\textbf{JAMES C. DEVER III, United States District Judge}
-
-\subsubsection{I.}\label{i.-5}
 
 On April 13, 2021, Johnson and Cricket Council USA, Inc.~entered into a
 real property contract (the ``Agreement'') for the purchase and sale of
@@ -14755,8 +14188,6 @@ Defendants also contend that when Cricket Council USA, Inc.~signed the
 Amendment, Cricket Council USA, Inc.~paid \$7,500.00 in nonrefundable
 extension funds in escrow to Johnson. On January 23, 2023, Johnson
 notified defendants that he was terminating the Agreement.
-
-\subsubsection{II.}\label{ii.-4}
 
 To withstand a Rule 12(b)(6) motion, a pleading ``must contain
 sufficient factual matter, accepted as true, to state a claim to relief
@@ -14909,11 +14340,11 @@ allegations fail under the first ``control'' element of the
 instrumentality rule, the court need not address if the breach of
 contract claim is within the ``wrongs'' contemplated by the second
 element or address proximate cause. Thus, the court dismisses Johnson's
-request to pierce the corporate veil.{[}As Judge Lorenz (\emph{Camacho
-v. Major League Baseball}) might have written, Johnson was batting on a
-sticky wicket and got bowled out for a duck.
+request to pierce the corporate veil.{\marginnote{\begin{footnotesize}As
+a cricket fan might say, Johnson was batting on a sticky wicket and got
+bowled out for a duck.
 \href{https://www.bbc.co.uk/bitesize/articles/z683qp3}{BBC, \emph{The
-Origins of Cricket Jargon}}{]}
+Origins of Cricket Jargon}}\end{footnotesize}}}
 
 \section{Responsive Pleadings}\label{responsive-pleadings}
 
@@ -15147,8 +14578,6 @@ But a party may assert the following defenses by motion:
 \subsection{Reis Robotics USA, Inc.~v. Concept Industries (N.D. Ill.
 2006)}\label{reis-robotics-usa-inc.-v.-concept-industries-n.d.-ill.-2006}
 
-\textbf{CASTILLO, District Court}
-
 This is a diversity action governed by Illinois law in which Plaintiff
 Reis Robotics USA, Inc.~(``Reis'') filed a complaint against Defendant
 Concept Industries, Inc.~(``Concept''), seeking redress for breach of
@@ -15158,9 +14587,7 @@ to strike and dismiss Concept's affirmative defenses; strike portions of
 Concept's answer; and dismiss Concept's counterclaims. For the reasons
 set forth below, Reis's motions are granted in part and denied in part.
 
-\subsubsection{BACKGROUND}\label{background-5}
-
-\textbf{1. Reis's Allegations}
+\subsubsection{Background}\label{background-4}
 
 The following facts are taken from Reis's complaint. Reis, an Illinois
 corporation, manufactures and supplies industrial robotics equipment.
@@ -15207,8 +14634,6 @@ The parties agree that Concept has paid' Reis \$588,600 to date. Reis
 asserts that Concept has breached the Agreement by failing to pay a
 remaining balance of \$264,300 plus interest. Concept denies that it
 owes Reis any additional money under the Agreement.
-
-\textbf{2. Concept's Allegations}
 
 The following additional facts are gleaned from Concept's ``Answer,
 Affirmative Defenses and Counterclaim.'' Concept alleges that prior to
@@ -15284,13 +14709,11 @@ estoppel; (5) breach of contract; (6) breach of express warranty; and
 (7) overpayment. All of the claims are premised on the Laser's inability
 to achieve the cycle time allegedly discussed by the parties.
 
-\subsubsection{MOTION TO STRIKE AND DISMISS AFFIRMATIVE
-DEFENSES}\label{motion-to-strike-and-dismiss-affirmative-defenses}
+\subsubsection{Motion to Strike and Dismiss Affirmative
+Defenses}\label{motion-to-strike-and-dismiss-affirmative-defenses}
 
 We turn first to Reis's motion to strike and dismiss various portions of
 Concept's affirmative defenses.
-
-\subsubsection{I. Legal Standard}\label{i.-legal-standard-1}
 
 Federal Rule of Civil Procedure 12(f) permits the Court to strike ``any
 insufficient defense or any redundant, immaterial, impertinent or
@@ -15322,8 +14745,6 @@ case premised on diversity jurisdiction, ``the legal and factual
 sufficiency of an affirmative defense is examined with reference to
 state law.'' With these principles in mind, we turn to the specific
 arguments raised in the motion.
-
-\subsubsection{II. Analysis}\label{ii.-analysis}
 
 For its first affirmative defense Concept asserts: ``The complaint fails
 to state a claim upon which relief can be granted.'' Reis argues that
@@ -15424,8 +14845,8 @@ appropriate standards, including the limitations set forth in Rule 12(b)
 and (h). Accordingly, Concept's sixth affirmative defense is stricken
 with prejudice.
 
-\subsubsection{MOTION TO STRIKE PORTIONS OF DEFENDANT'S
-ANSWER}\label{motion-to-strike-portions-of-defendants-answer}
+\subsubsection{Motion to Strike Portions of Defendant's
+Answer}\label{motion-to-strike-portions-of-defendants-answer}
 
 Reis next moves to strike various portions of Concept's answer for
 failing to comply with Rule 8. Rule 8 provides in relevant part:
@@ -15540,14 +14961,10 @@ costs.
 \subsection{Shiftlet v. Allstate Insurance Co.~(D.S.C.
 2006)}\label{shiftlet-v.-allstate-insurance-co.-d.s.c.-2006}
 
-\textbf{DUFFY, District Judge}
-
 This matter is before the court on Defendant Allstate Insurance
 Company's Motion to Amend the Answer. Plaintiff Kathryn Shiftlet opposes
 this motion. For the reasons set forth herein, Defendant's motion is
 granted.
-
-\subsubsection{BACKGROUND}\label{background-6}
 
 On January 4, 2004, Plaintiff Kathryn Shiftlet's mobile home and
 personal belongings were destroyed by fire. At the time of the fire,
@@ -15575,8 +14992,6 @@ On January 13, 2006, Plaintiff filed her response in opposition to
 Defendant's motion to amend its answer. Plaintiff argues that the
 proposed amendment should be denied because it is prejudicial to
 Plaintiff, in bad faith, and would be futile.
-
-\subsubsection{DISCUSSION}\label{discussion-6}
 
 Rule 15(a) of the Federal Rules of Civil Procedure provides that ``a
 party may amend the party's pleading only by leave of court or by
@@ -15620,22 +15035,15 @@ bad faith, and not obviously futile. Accordingly, the court grants
 Defendant's motion, and directs Plaintiff to file appropriate responsive
 pleadings to the First Amended Answer.
 
-\subsubsection{CONCLUSION}\label{conclusion-2}
-
-It is therefore ORDERED, for the foregoing reasons, that Defendant's
-Motion to Amend Answer is GRANTED.
-
 \subsection{Dolphin Kickboxing Co.~v. Franchoice, Inc.~(D. Minn.
 2020)}\label{dolphin-kickboxing-co.-v.-franchoice-inc.-d.-minn.-2020-1}
-
-{[}ELIZABETH COWAN WRIGHT, Magistrate Judge{]}
 
 This matter is before the Court on Plaintiffs' Motion to Amend
 Complaint. For the reasons stated below, the Motion is granted in part
 and denied in part.
 
-\subsubsection{I. FACTUAL AND PROCEDURAL
-BACKGROUND}\label{i.-factual-and-procedural-background-2}
+\subsubsection{Factual and Procedural
+Background}\label{factual-and-procedural-background-1}
 
 The ``Facts'' section of the proposed amended complaint is exactly the
 same as found in the original Complaint. For the sake of brevity, the
@@ -15699,7 +15107,7 @@ According to the proposed amended complaint, as a result of Defendants'
 deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to
 punitive damages.
 
-\subsubsection{II. LEGAL STANDARD}\label{ii.-legal-standard-2}
+\subsubsection{Legal Standard}\label{legal-standard-2}
 
 Rule 15(a) sets the general standard for amending pleadings in Federal
 court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend
@@ -15744,7 +15152,7 @@ probability of injury to the rights or safety of others.
 \end{quote}
 \end{quote}
 
-\subsubsection{III. ANALYSIS}\label{iii.-analysis}
+\subsubsection{Analysis}\label{analysis-1}
 
 With respect to Rule 15, Defendants argue that the Motion should be
 denied because it is futile. Plaintiffs' amendment is not futile if the
@@ -15929,17 +15337,12 @@ claim for punitive damages.
 \subsection{Moore v. Baker (11th Circuit
 1993)}\label{moore-v.-baker-11th-circuit-1993}
 
-\textbf{MORGAN, Senior Circuit Judge}
-
 Appellant contends that her doctor violated Georgia's informed consent
 law by failing to advise her that ethylene diamine tetra acetic acide
 chelation (EDTA) therapy was available as an alternative to surgery. The
 district court granted summary judgment in favor of defendants/appellees
 on the ground that EDTA therapy is not a ``generally recognized or
 accepted'' alternative treatment for coronary surgery. We AFFIRM.
-
-\subsubsection{FACTUAL AND PROCEDURAL
-BACKGROUND}\label{factual-and-procedural-background}
 
 Appellant, Judith Moore, was suffering from a partial blockage of her
 left common carotid artery, which impeded the flow of oxygen to her
@@ -15983,8 +15386,6 @@ motion to amend her complaint, thus terminating all of Moore's
 outstanding claims. Moore now appeals the denial of her motion to amend
 her complaint as well as the grant of summary judgment in favor of
 Dr.~Baker and NIS.
-
-\subsubsection{I.}\label{i.-6}
 
 Moore claims that the district court abused its discretion by vacating
 it's earlier order and denying Moore's motion to amend her complaint.
@@ -16066,8 +15467,6 @@ abuse its discretion in denying Moore's motion to amend her complaint.
 \subsection{Palacio v. City of Springfield (D. Mass.
 2014)}\label{palacio-v.-city-of-springfield-d.-mass.-2014}
 
-\textbf{EIMAN, United States Magistrate Judge}
-
 Carlos A. Palacio, Sidney G. Gaviria Orrego and Carlos D. Palacio
 (``Plaintiffs'') seek to amend their complaint to substitute the names
 of five police officers---Greg Bigda, Clayton Roberson, Steven Kent,
@@ -16078,8 +15477,6 @@ motion not only as untimely but as failing the ``relation-back''
 provision set forth in Fed.R.Civ.P. 15(c)(1)(C). For the reasons which
 follow, the court will allow the motion, as Plaintiffs seek, pursuant to
 another subdivision of Rule 15, namely, (c)(1)(A).
-
-\subsubsection{I. Background}\label{i.-background-3}
 
 Plaintiffs filed their complaint in the Hampden County Superior Court on
 July 31, 2013, against the City, Fitchet and certain ``John Does'' who
@@ -16097,8 +15494,6 @@ entered a scheduling order on November 25, 2013, establishing February
 additional parties. This latter deadline was subsequently extended to
 April 15, 2014. Plaintiffs filed their instant motion for leave to amend
 on April 14, 2014.
-
-\subsubsection{II. Discussion}\label{ii.-discussion-4}
 
 As the parties are well aware, leave to amend a complaint under Rule
 15(a) is to be ``freely given when justice so requires'' absent an
@@ -16418,14 +15813,12 @@ under Rules 26 through 37.
 \subsection{Turton v. Virginia Department of Education (E.D. Va.
 2015)}\label{turton-v.-virginia-department-of-education-e.d.-va.-2015}
 
-\textbf{ROBERT E. PAYNE, Senior District Judge}
-
 This matter is before the Court on DEFENDANT PATRICK T. ANDRIANO'S
 MOTION FOR SANCTIONS TO RULE 11. For the reasons set forth herein, the
 motion will be granted.
 
-\subsubsection{FACTUAL AND PROCEDURAL
-BACKGROUND}\label{factual-and-procedural-background-1}
+\subsubsection{Factual and Procedural
+Background}\label{factual-and-procedural-background-2}
 
 Counsel for the 28 plaintiffs in this case filed the Amended Complaint
 on July 11, 2014. The Complaint generally alleges various incidents of
@@ -16495,7 +15888,7 @@ Order provides that: ``the Court retains jurisdiction to decide
 Defendant Patrick T. Andriano's Motion for Sanctions pursuant to Rule
 11.''
 
-\subsubsection{LEGAL STANDARD UNDER RULE
+\subsubsection{Legal Standard Under Rule
 11}\label{legal-standard-under-rule-11}
 
 Fed. R. Civ. P. 11 provides in relevant part:
@@ -16569,8 +15962,6 @@ which the Court ``does not approve,'' sanctions are only appropriate if
 ``the added purpose is undertaken in bad faith or is so excessive as to
 eliminate a proper purpose.''
 
-\subsubsection{DISCUSSION}\label{discussion-7}
-
 Andriano argues that the claims against him: (1) lack legal basis; (2)
 lack factual basis; and (3) were filed for an improper purpose. He also
 notes that Plaintiffs and their counsel were put on notice after the
@@ -16580,8 +15971,8 @@ claims. Andriano now seeks Rule 11 Sanctions, asking this Court to
 ``enter an order imposing the maximum sanctions permitted by law against
 plaintiffs and their counsel.''
 
-\paragraph{A. Alleged Lack of Legal
-Basis}\label{a.-alleged-lack-of-legal-basis}
+\paragraph{Alleged Lack of Legal
+Basis}\label{alleged-lack-of-legal-basis}
 
 Andriano argues that the claims against him lacked legal basis because:
 (1) the Court lacks subject matter jurisdiction over the claims against
@@ -16657,7 +16048,7 @@ research was undertaken. On this record then, the Court finds that there
 was no prefiling inquiry into the law that applies to the special
 relationship assertions in the Amended Complaint.
 
-\paragraph{B. Factual Basis}\label{b.-factual-basis}
+\paragraph{Factual Basis}\label{factual-basis}
 
 Next, Andriano asserts that Plaintiffs' claims against him are factually
 unsupported. In short, Andriano argues that the ``Complaint fails to set
@@ -16688,7 +16079,7 @@ the development of IEPs for the student-plaintiffs attending schools in
 those counties. In sum, there was not an adequate investigation into the
 factual basis for allegations to the contrary.
 
-\paragraph{C. Improper Purpose}\label{c.-improper-purpose}
+\paragraph{Improper Purpose}\label{improper-purpose}
 
 Finally, Andriano argues that Plaintiff's claims against him are not
 asserted for any proper purpose. In support, Andriano cites the fact
@@ -16733,8 +16124,7 @@ baseless complaint, a court may properly infer that it was filed. . .for
 some purpose other than to vindicate rights through the judicial
 process.''
 
-\paragraph{D. Are Sanctions
-Appropriate?}\label{d.-are-sanctions-appropriate}
+\paragraph{Are Sanctions Appropriate?}\label{are-sanctions-appropriate}
 
 Given the findings that there was a lack of legal support for, and a
 lack of legal inquiry into, the special relationship theory that lies at
@@ -16742,8 +16132,8 @@ the core of claims against Adriano, and considering the public
 statements of Plaintiffs' counsel, the Court concludes that sanctions
 are appropriate.
 
-\paragraph{E. Appropriate Sanction(s) and Possible Need for a
-Hearing}\label{e.-appropriate-sanctions-and-possible-need-for-a-hearing}
+\paragraph{Appropriate Sanction(s) and Possible Need for a
+Hearing}\label{appropriate-sanctions-and-possible-need-for-a-hearing}
 
 Sanctions under Rule 11 may be monetary or nonmonetary, and only ``the
 least severe sanction adequate to serve the purposes of Rule 11 Should
@@ -16768,8 +16158,6 @@ consideration.
 \subsection{Hunter v. Earthgrains Co.~Bakery (4th Circuit
 2001)}\label{hunter-v.-earthgrains-co.-bakery-4th-circuit-2001}
 
-\textbf{KING, Circuit Judge}
-
 By Order of October 23, 2000, appellant Pamela A. Hunter, a practicing
 attorney in Charlotte, North Carolina, and an active member of the North
 Carolina State Bar, was suspended from practice in the Western District
@@ -16777,8 +16165,6 @@ of North Carolina for five years. Ms.~Hunter appeals this suspension,
 imposed upon her pursuant to Rule 11 of the Federal Rules of Civil
 Procedure. As explained below, we conclude that her appeal has merit,
 and we vacate her suspension from practice by the district court.
-
-\subsubsection{I.}\label{i.-7}
 
 Ms.~Hunter, along with her co-counsel N. Clifton Cannon and Charlene E.
 Bell, represented a group of workers at a Charlotte, North Carolina,
@@ -16915,10 +16301,6 @@ maintaining that Rule 11 sanctions are unwarranted and that her
 suspension from practice was an overly severe penalty. We possess
 jurisdiction under 28 U.S.C. §1291.
 
-\subsubsection{II.}\label{ii.-5}
-
-\paragraph{B.}\label{b.-7}
-
 Although Rule 11 does not specify the sanction to be imposed for any
 particular violation of its provisions, the Advisory Committee Note to
 the Rule's 1993 amendments provides guidance with an illustrative list.
@@ -16961,10 +16343,6 @@ sanction imposed.'' Fed.R.Civ.P. 11(c).\footnote{(n.9 in opinion) An
   sanctions upon lawyers are appropriate under each source; thus, a
   court must ensure that the authority relied upon supports the
   sanctions imposed.}
-
-\subsubsection{III.}\label{iii.-1}
-
-\paragraph{B.}\label{b.-8}
 
 The primary basis for the suspension of Ms.~Hunter is that she advanced
 a frivolous legal position in the First Lawsuit. By presentation of a
@@ -17148,8 +16526,6 @@ this basis does not withstand scrutiny.
 \subsection{Williams v. The Estates LLC (M.D.N.C.
 2023)}\label{williams-v.-the-estates-llc-m.d.n.c.-2023}
 
-\textbf{Catherine C. Eagles, District Judge}
-
 In September 2022, two separate groups of defendants filed a motion for
 attorney's fees. The Court denied the motion and initiated proceedings
 to determine if the moving defendants and their two attorneys, Steven W.
@@ -17162,8 +16538,6 @@ Mr.~Shaw vexatiously multiplied the proceedings. Mr.~Shaw and
 Mr.~Matheny violated Rule 11(b)(2) and (3), Mr.~Shaw and Mr.~Brooksby
 violated Rule 11(b)(1), and Mr.~Shaw violated §1927. Sanctions are
 appropriate.
-
-\subsubsection{I. Background}\label{i.-background-4}
 
 In September 2022, five months after the jury ruled for the plaintiffs,
 two separate groups encompassing many of the defendants filed a single
@@ -17201,9 +16575,6 @@ Rules of Civil Procedure by presenting a written motion for attorney's
 fees for the improper purpose of wasting plaintiffs' counsel's time and
 increasing their expenses;
 \end{quote}
-
-\subsubsection{II. Federal Rule of Civil Procedure
-11(b)-(c)}\label{ii.-federal-rule-of-civil-procedure-11b-c}
 
 Federal Rule of Civil Procedure Rule 11(b) prohibits attorneys from
 filing motions or other papers with the court if they are made for
@@ -17262,7 +16633,7 @@ November 2022 and provided Mr.~Shaw, Mr.~Matheny, and the moving
 defendants with an opportunity to be heard. All have taken advantage of
 the opportunity to submit evidence and briefs.
 
-\paragraph{A. Rule 11(b)(2) and (3)}\label{a.-rule-11b2-and-3}
+\subsubsection{Rule 11(b)(2) and (3)}\label{rule-11b2-and-3}
 
 By signing a motion, an attorney certifies that ``the claims, defenses,
 and other legal contentions'' contained within ``are warranted by
@@ -17465,7 +16836,7 @@ Mr.~Matheny violated Federal Rule of Civil Procedure 11(b)(2) and (3)
 when they filed the motion for attorney's fees without legal or factual
 support and without undertaking a reasonable investigation into the law.
 
-\paragraph{B. Rule 11(b)(1)}\label{b.-rule-11b1}
+\subsubsection{Rule 11(b)(1)}\label{rule-11b1}
 
 Rule 11 requires attorneys to certify that motions are ``not being
 presented for any improper purpose, such as to harass, cause unnecessary
@@ -17484,7 +16855,7 @@ outrageous nature of the claims made'' in the motion, and the attorney's
 Court may impose an appropriate sanction on any attorney, law firm, or
 party that ``is responsible for the violation.''
 
-\textbf{1. Mr.~Shaw}
+\paragraph{Mr.~Shaw}\label{mr.-shaw}
 
 Many facts show that Mr.~Shaw filed the motion for attorney's fees with
 an improper purpose. First, the motion lacked a basis in law or in fact,
@@ -17580,7 +16951,7 @@ Viewing all of the evidence as a whole, the Court finds by clear and
 convincing evidence that Mr.~Shaw filed the motion for attorney's fees
 for an improper purpose and that by filing it he violated Rule 11(b)(1).
 
-\textbf{2. Mr.~Matheny}
+\paragraph{Mr.~Matheny}\label{mr.-matheny}
 
 Although Mr.~Matheny was responsible for the conduct of the litigation
 and was required to review and sign all pleadings and papers, the Court
@@ -17593,7 +16964,7 @@ the evidence would support a finding that he personally filed the motion
 for an improper purpose, but the Court declines to so find in its
 discretion, given the overall context.
 
-\textbf{3. The Moving Defendants}
+\paragraph{The Moving Defendants}\label{the-moving-defendants}
 
 Craig Brooksby, one of the Group 1 defendants, is ``the primary
 individual defendant'' and ``the primary contact for nearly all of the
@@ -17676,7 +17047,7 @@ Mr.~Brooksby is the litigant running the show. He is the defendant
 personally responsible for the Rule 11 violation, not the LLCs he
 controls.
 
-\paragraph{C. Sanctions}\label{c.-sanctions}
+\subsubsection{Sanctions}\label{sanctions}
 
 When a court ``determines that Rule 11(b) has been violated,'' it ``may
 impose an appropriate sanction on any attorney, law firm, or party that
@@ -17715,7 +17086,7 @@ They include, \emph{inter alia,} reprimands, warnings, orders to undergo
 continuing legal education, circulation of the Rule 11 Order to members
 of the offending attorney's firm, suspensions, and disbarment.
 
-\textbf{1. Mr.~Matheny}
+\paragraph{Mr.~Matheny}\label{mr.-matheny-1}
 
 As to Mr.~Matheny, the appropriate sanction for violating Rule 11(b)(2)
 and (3) is to make this Order public and to impose a fine. A public
@@ -17743,7 +17114,7 @@ plaintiffs in connection with the motion. But when Rule 11 proceedings
 are initiated by the Court, the Court cannot require a financial
 sanction payable to a party. Fed. R. Civ. P. 11(c)(4).
 
-\textbf{2. Mr.~Shaw}
+\paragraph{Mr.~Shaw}\label{mr.-shaw-1}
 
 The Court will direct that a copy of this Order is sent to the Utah
 Supreme Court and the Utah State Bar. Mr.~Shaw's misconduct should not
@@ -17793,7 +17164,7 @@ contempt. And any monetary sanctions imposed under Rule 11 must be
 payable into the court because the Court initiated the present action.
 In this procedural context, it is not an appropriate sanction.
 
-\textbf{3. Mr.~Brooksby}
+\paragraph{Mr.~Brooksby}\label{mr.-brooksby}
 
 As to Mr.~Brooksby, it was clear from his testimony at trial that he
 lives in his wallet; under ordinary circumstances, a fine would be
@@ -17842,13 +17213,7 @@ Mr.~Brooksby is warned that if he fails to appear as directed, an order
 for his arrest will be issued pending a show cause hearing for contempt
 of court.
 
-\begin{enumerate}
-\def\labelenumi{\Roman{enumi}.}
-\setcounter{enumi}{3}
-\tightlist
-\item
-  Conclusion
-\end{enumerate}
+\subsubsection{Conclusion}\label{conclusion-1}
 
 Steven W. Shaw filed the motion for attorney's fees with no legal or
 factual support and for improper purposes, and he vexatiously multiplied
@@ -18195,8 +17560,6 @@ bar are applicable to the judgment.
 \subsection{Johnson v. Spencer (10th Circuit
 2020)}\label{johnson-v.-spencer-10th-circuit-2020}
 
-\textbf{HOLMES, Circuit Judge}
-
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of
 crimes for which he was then incarcerated. In 2017, after his release,
 Mr.~Johnson brought suit under 42 U.S.C. §1983 against the City of
@@ -18224,9 +17587,7 @@ claims against Officer Spencer because the judgment in the 1992
 Action---in which he was the defendant---was not on the merits and,
 thus, is not entitled to claim-preclusive effect.
 
-\subsubsection{I. BACKGROUND}\label{i.-background-5}
-
-\paragraph{A. Factual Background}\label{a.-factual-background}
+\subsubsection{Factual Background}\label{factual-background-2}
 
 Late one night in June 1989, Mr.~Johnson ran into a female acquaintance
 at a bar in Cheyenne and returned with her to the apartment that she
@@ -18327,9 +17688,9 @@ Cheyenne Police Department should not have believed the acquaintance and
 her boyfriend when they told the police that the boyfriend was out of
 town for work on the night she was sexually assaulted.
 
-\paragraph{B. Procedural Background}\label{b.-procedural-background}
+\subsubsection{Procedural Background}\label{procedural-background}
 
-\textbf{1. The 1991 Action}
+\paragraph{The 1991 Action}\label{the-1991-action}
 
 While incarcerated, Mr.~Johnson filed at least two federal civil-rights
 actions in Wyoming federal district court against those he claimed were
@@ -18374,7 +17735,7 @@ with prejudice.
 Mr.~Johnson appealed, and a panel of our court entered an order and
 judgment affirming the district court's judgment.
 
-\textbf{2. The 1992 Action}
+\paragraph{The 1992 Action}\label{the-1992-action}
 
 While his 1991 Action was pending, Mr.~Johnson filed another federal
 civil-rights action---this time a 42 U.S.C. §1983 suit against Officer
@@ -18410,7 +17771,7 @@ so, we stated that ``Mr.~Johnson's lawsuit is based upon an indisputably
 meritless legal theory because a testifying police officer is entitled
 to absolute immunity.'' Thus, ``dismissal was appropriate.''
 
-\textbf{3. The 2017 Action}
+\paragraph{The 2017 Action}\label{the-2017-action}
 
 After he was exonerated, Mr.~Johnson filed a third federal civil-rights
 action, i.e., the 2017 Action under §1983. He alleged that Cheyenne,
@@ -18449,7 +17810,7 @@ Estate's motion to dismiss, the court granted it, too, ``because the res
 judicata analysis did not differ and was equally dispositive as to
 Detective Stanford.''
 
-\subsubsection{II. DISCUSSION}\label{ii.-discussion-5}
+\subsubsection{Discussion}\label{discussion-5}
 
 The central question in this appeal is whether the judgments in the
 prior litigation concerning Mr.~Johnson's conviction---i.e., the
@@ -18478,8 +17839,8 @@ motion to dismiss the 2017 Action and remand for further proceedings,
 and (2) affirm the district court's order granting the Estate's and
 Cheyenne's Rule 12(b)(6) motions to dismiss the 2017 Action.
 
-\paragraph{B. The Defendants' Rule 12(b)(6) Motions in the 2017
-Action}\label{b.-the-defendants-rule-12b6-motions-in-the-2017-action}
+\subsubsection{The Defendants' Rule 12(b)(6) Motions in the 2017
+Action}\label{the-defendants-rule-12b6-motions-in-the-2017-action}
 
 In the following discussion, we address (1) our standard of review, (2)
 the general framework governing claim-preclusion, and (3) how that law
@@ -18488,7 +17849,8 @@ court correctly held that the 1991 Action has claim-preclusive effect on
 the 2017 Action, but erred in holding that the 1992 Action has such
 effect. We, thus, affirm in part and reverse in part.
 
-\textbf{2. Background Principles of Claim Preclusion}
+\paragraph{Background Principles of Claim
+Preclusion}\label{background-principles-of-claim-preclusion}
 
 Before proceeding further into our de novo review, we pause to frame the
 applicable claim-preclusion doctrine. ``The principle underlying the
@@ -18529,7 +17891,7 @@ in the 1991 Action. We conclude that he did have such an opportunity.
 We, thus, affirm that aspect of the district court's claim-preclusion
 determination.
 
-\textbf{3. Application}
+\paragraph{Application}\label{application}
 
 In the following discussion, as indicated, we focus on whether the 1991
 Action provided Mr.~Johnson with a ``full and fair opportunity to
@@ -18549,7 +17911,7 @@ those against the Estate and Cheyenne---but reverse its dismissal of the
 claims ostensibly precluded by the 1992 Action---i.e., those against
 Officer Spencer.
 
-\emph{a. The 1991 Action is entitled to claim-preclusive effect.}
+\textbf{The 1991 Action is entitled to claim-preclusive effect.}
 
 The parties dispute whether the 1991 Action is entitled to
 claim-preclusive effect and, more specifically, whether it constituted a
@@ -18563,7 +17925,7 @@ the parties to the 1991 Action.
 \begin{itemize}
 \tightlist
 \item
-  i. The ``Full and Fair Opportunity to Litigate'' Requirement
+  \emph{The ``Full and Fair Opportunity to Litigate'' Requirement}
 \end{itemize}
 
 The ``full and fair opportunity to litigate'' inquiry is a ``narrow
@@ -18642,8 +18004,8 @@ litigate.''
 \begin{itemize}
 \tightlist
 \item
-  ii. Cheyenne and the Estate carried their burden on the
-  claim-preclusion defense.
+  \emph{Cheyenne and the Estate carried their burden on the
+  claim-preclusion defense.}
 \end{itemize}
 
 Mr.~Johnson also contends that, even if the 1991 Action could give rise
@@ -18702,7 +18064,7 @@ preclusion as to the 1991 Action.
 \begin{itemize}
 \tightlist
 \item
-  iii. Heck v. Humphrey Redux
+  \emph{Heck v. Humphrey Redux}
 \end{itemize}
 
 Mr.~Johnson also returns to an iteration of his \emph{Heck} argument. He
@@ -18758,7 +18120,7 @@ In sum, we hold that the claims in the 2017 Action against Cheyenne and
 the Estate are precluded by the 1991 Action. We, thus, affirm the
 dismissal of those claims.
 
-\emph{b. The 1992 Action is not entitled to claim-preclusive effect.}
+\textbf{The 1992 Action is not entitled to claim-preclusive effect.}
 
 With respect to the 1992 Action, Mr.~Johnson primarily disputes the
 first element of claim preclusion, i.e., whether there was ``a final
@@ -18776,7 +18138,7 @@ fair opportunity to litigate.''
 \begin{itemize}
 \tightlist
 \item
-  i. Relevant Procedural History
+  \emph{Relevant Procedural History}
 \end{itemize}
 
 Mr.~Johnson's 1992 Action was a §1983 suit alleging that Officer Spencer
@@ -18826,7 +18188,7 @@ to absolute immunity.''
 \begin{itemize}
 \tightlist
 \item
-  ii. The ``On the Merits'' Requirement
+  \emph{The ``On the Merits'' Requirement}
 \end{itemize}
 
 As mentioned, a successful claim-preclusion defense requires ``a final
@@ -18920,7 +18282,7 @@ need not and do not address whether the district court's order was also
 erroneous because it determined that the 1992 Action provided
 Mr.~Johnson with a ``full and fair opportunity to litigate.''
 
-\subsubsection{III. CONCLUSION}\label{iii.-conclusion-1}
+\subsubsection{Conclusion}\label{conclusion-2}
 
 We acknowledge the terrible reality that Mr.~Johnson must have faced
 during the twenty-four years that he was wrongly incarcerated. As the
@@ -18969,8 +18331,6 @@ action.
 
 \subsection{Hernandez v. Asset Acceptance, LLC (D. Colorado
 2013)}\label{hernandez-v.-asset-acceptance-llc-d.-colorado-2013}
-
-\textbf{MARCIA S. KRIEGER, Chief Judge}
 
 Ms.~Hernandez claims that the Defendant, a debt collection agency,
 violated the Fair Debt Collection Practice Act (FDCPA), when it failed
@@ -19093,7 +18453,7 @@ We disapprove the doctrine of preclusion by ``virtual representation,''
 and hold, based on the record as it now stands, that the judgment
 against Herrick does not bar Taylor from maintaining this suit.
 
-\subsubsection{I}\label{i-11}
+\subsubsection{I}\label{i-8}
 
 The Freedom of Information Act (FOIA or Act) accords ``any person'' a
 right to request any records held by a federal agency. No reason need be
@@ -19108,8 +18468,6 @@ The courts below held the instant FOIA suit barred by the judgment in
 earlier litigation seeking the same records. Because the lower courts'
 decisions turned on the connection between the two lawsuits, we begin
 with a full account of each action.
-
-\paragraph{A}\label{a-11}
 
 The first suit was filed by Greg Herrick, an antique aircraft enthusiast
 and the owner of an F-45 airplane, a vintage model manufactured by the
@@ -19169,8 +18527,6 @@ the documents even though the company claimed that status only
 The Court of Appeals expressed no opinion on the validity of these
 suppositions.
 
-\paragraph{B}\label{b-11}
-
 The Tenth Circuit's decision issued on July 24, 2002. Less than a month
 later, on August 22, petitioner Brent Taylor---a friend of Herrick's and
 an antique aircraft enthusiast in his own right---submitted a FOIA
@@ -19212,7 +18568,7 @@ We granted certiorari, to resolve the disagreement among the Circuits
 over the permissibility and scope of preclusion based on ``virtual
 representation.''
 
-\subsubsection{II}\label{ii-11}
+\subsubsection{II}\label{ii-8}
 
 The preclusive effect of a federal-court judgment is determined by
 federal common law. For judgments in federal-question cases--- for
@@ -19227,8 +18583,6 @@ adopted (in varying forms) by several Circuits and relied upon by the
 courts below. Our inquiry, however, is guided by well-established
 precedent regarding the propriety of nonparty preclusion. We review that
 precedent before taking up directly the issue of virtual representation.
-
-\paragraph{A}\label{a-12}
 
 The preclusive effect of a judgment is defined by claim preclusion and
 issue preclusion, which are collectively referred to as ``res
@@ -19254,8 +18608,6 @@ tradition, we have often repeated the general rule that ``one is not
 bound by a judgment \emph{in personam} in a litigation in which he is
 not designated as a party or to which he has not been made a party by
 service of process.''
-
-\paragraph{B}\label{b-12}
 
 Though hardly in doubt, the rule against nonparty preclusion is subject
 to exceptions. For present purposes, the recognized exceptions can be
@@ -19320,7 +18672,7 @@ of the public have standing as citizens and taxpayers.''
 Dictionary}\end{footnotesize}}} actions or other suits that, ``under the
 governing law, may be brought only on behalf of the public at large''.
 
-\subsubsection{III}\label{iii-9}
+\subsubsection{III}\label{iii-6}
 
 Reaching beyond these six established categories, some lower courts have
 recognized a ``virtual representation'' exception to the rule against
@@ -19335,8 +18687,6 @@ within any of the established exceptions.
 The D.C. Circuit, the FAA, and Fairchild have presented three arguments
 in support of an expansive doctrine of virtual representation. We find
 none of them persuasive.
-
-\paragraph{B}\label{b-13}
 
 Fairchild and the FAA do not argue that the D.C. Circuit's virtual
 representation doctrine fits within any of the recognized grounds for
@@ -19391,8 +18741,6 @@ provides no firm guidance.Preclusion doctrine, it should be recalled, is
 intended to reduce the burden of litigation on courts and parties. ``In
 this area of the law,'' we agree, ``\,`crisp rules with sharp corners'
 are preferable to a round-about doctrine of opaque standards.''
-
-\paragraph{C}\label{c-3}
 
 Finally, the FAA maintains that nonparty preclusion should apply more
 broadly in ``public law'' litigation than in ``private law''
@@ -19452,7 +18800,7 @@ The FAA has not called our attention to any instances of abusive FOIA
 suits in the Circuits that reject the virtual representation theory
 respondents advocate here.
 
-\subsubsection{IV}\label{iv-4}
+\subsubsection{IV}\label{iv-2}
 
 For the foregoing reasons, we disapprove the theory of virtual
 representation on which the decision below rested. The preclusive
@@ -19474,8 +18822,6 @@ doctrine's proper bounds. We now turn back to Taylor's action to
 determine whether his suit is such a case, or whether the result reached
 by the courts below can be justified on one of the recognized grounds
 for nonparty preclusion.
-
-\paragraph{A}\label{a-13}
 
 It is uncontested that four of the six grounds for nonparty preclusion
 have no application here: There is no indication that Taylor agreed to
@@ -19520,8 +18866,6 @@ of agency law are suggestive. They indicate that preclusion is
 appropriate only if the putative agent's conduct of the suit is subject
 to the control of the party who is bound by the prior adjudication.
 
-\paragraph{B}\label{b-14}
-
 On remand, Fairchild suggests, Taylor should bear the burden of proving
 he is not acting as Herrick's agent. When a defendant points to evidence
 establishing a close relationship between successive litigants,
@@ -19544,19 +18888,13 @@ the proof burden.
 \subsection{Lee v. POW! Entertainment, Inc.~(C.D. Cal.
 2020)}\label{lee-v.-pow-entertainment-inc.-c.d.-cal.-2020}
 
-\textbf{OTIS D. WRIGHT, II, United States District Judge}
-
-\subsubsection{I. INTRODUCTION}\label{i.-introduction-1}
-
 Defendant POW! Entertainment, Inc., (``POW'') filed a motion to dismiss
 the amended complaint filed by Plaintiff Joan Celia Lee (``JC Lee'').
 POW argues that JC Lee's amended complaint is barred by the doctrines of
 res judicata, collateral estoppel, and statute of limitations. For the
 reasons discussed below, the Court GRANTS POW's Motion to Dismiss.
 
-\subsubsection{II. FACTUAL BACKGROUND}\label{ii.-factual-background}
-
-\paragraph{A. Present Lawsuit}\label{a.-present-lawsuit}
+\subsubsection{Present Lawsuit}\label{present-lawsuit}
 
 JC Lee is the daughter and trustee for the estate of comic book author
 Stan Lee. Stan Lee is responsible for co-creating comic book characters
@@ -19574,7 +18912,7 @@ to Stan Lee's intellectual property, name, and likeness, and asserts a
 cause of action against POW for cybersquatting in violation of 15 U.S.C.
 §1125(d).
 
-\paragraph{B. Factual Background}\label{b.-factual-background}
+\subsubsection{Factual Background}\label{factual-background-3}
 
 After departing from Marvel in August 1998, Stan Lee formed SLEI, to
 which he allegedly ``conveyed clear title to his name, likeness and all
@@ -19601,7 +18939,7 @@ title and interest to Stan Lee's Name and likeness and Brand, along with
 copyrights and trademarks now reside with SLEI in association with the
 Lee Trust.''
 
-\paragraph{C. Prior Litigation}\label{c.-prior-litigation}
+\subsubsection{Prior Litigation}\label{prior-litigation}
 
 The 1998 Agreement between Stan Lee and SLMI has been the subject of
 numerous cases in federal courts throughout the country. \emph{See}
@@ -19645,9 +18983,7 @@ settlement prompting JC Lee to file this suit for declaratory relief,
 though neither the substance of the settlement nor the judgment have
 been provided to the Court.
 
-\subsubsection{III. MOTION TO DISMISS}\label{iii.-motion-to-dismiss}
-
-\paragraph{B. Res Judicata}\label{b.-res-judicata}
+\subsubsection{Res Judicata}\label{res-judicata}
 
 POW moves to dismiss all of JC Lee's claims arguing that her claims are
 barred by res judicata, also known as claim preclusion. Res judicata
@@ -19656,9 +18992,10 @@ raised in a prior action.'' Res judicata applies to bar a suit where
 there is ``(1) an identity of claims; (2) a final judgment on the
 merits; and (3) identity or privity between parties.''
 
-\textbf{3. Identity or Privity Between Parties}
+\paragraph{Identity or Privity Between
+Parties}\label{identity-or-privity-between-parties}
 
-Third, the parties in the current action must be identical to or in
+{[}T{]}he parties in the current action must be identical to or in
 privity with the parties from the prior actions. \emph{Abadin} was filed
 by SLMI's shareholders derivatively on behalf of SLMI against Marvel
 Entertainment, Inc.~and others. In \emph{SLMI II,} SLMI filed suit
@@ -19751,8 +19088,6 @@ against the defendant:
 \subsection{Passaro v. Virginia (4th Circuit
 2019)}\label{passaro-v.-virginia-4th-circuit-2019}
 
-\textbf{RICHARDSON, Circuit Judge}
-
 Antonio Passaro Jr.~is a former Special Agent with the Virginia State
 Police. He claims that he faced unlawful discrimination based on his
 mental disability (post-traumatic stress disorder) and national origin
@@ -19775,7 +19110,7 @@ Commonwealth has not waived its sovereign immunity from that claim. But
 we reverse the district court's decision that claim preclusion bars
 Passaro's Title VII claims.
 
-\subsubsection{I.}\label{i.-8}
+\subsubsection{I.}\label{i.-1}
 
 Passaro worked as a Trooper with the Department of State Police until
 his promotion to Special Agent. In 2008, he transferred to the
@@ -19856,7 +19191,7 @@ sovereign immunity. He also argues that claim preclusion does not bar
 his Title VII claims, asserting that the Commonwealth also waived this
 defense and, alternatively, that claim preclusion does not apply.
 
-\subsubsection{III.}\label{iii.-2}
+\subsubsection{III.}\label{iii.}
 
 We reverse the district court's ruling at summary judgment that claim
 preclusion bars Passaro's Title VII claims. State law governs whether a
@@ -20082,8 +19417,6 @@ to obtain a full and fair adjudication in the initial action.
 Circuit
 2001)}\label{national-satellite-sports-inc.-v.-eliadis-inc.-6th-circuit-2001}
 
-\textbf{RONALD LEE GILMAN, Circuit Judge.}
-
 On the night of December 14, 1996, the Melody Lane Lounge, a commercial
 bar located in Massillon, Ohio, showed the live broadcast of a boxing
 match between Riddick Bowe and Andrew Golota (the event). National
@@ -20116,9 +19449,7 @@ court erred in failing to give preclusive effect to an adverse judgment
 against NSS in prior litigation between the parties on an allegedly
 controlling issue. We AFFIRM the judgment of the district court.
 
-\subsubsection{I. BACKGROUND}\label{i.-background-6}
-
-\paragraph{A. Factual background}\label{a.-factual-background-1}
+\subsubsection{Factual background}\label{factual-background-4}
 
 NSS and Time Warner obtained their respective rights to broadcast the
 event through separate contracts. New Jersey Sports Productions, Inc.,
@@ -20181,8 +19512,8 @@ would not have chosen to show the event had it been required to pay
 NSS's high commercial rate. Only 23 patrons were in the bar at the time
 the event was broadcast.
 
-\paragraph{B. Procedural background and prior litigation between the
-parties}\label{b.-procedural-background-and-prior-litigation-between-the-parties}
+\subsubsection{Procedural background and prior litigation between the
+parties}\label{procedural-background-and-prior-litigation-between-the-parties}
 
 NSS commenced its action in the United States District Court for the
 Northern District of Ohio in November of 1997. Eliadis, Inc.~and its
@@ -20231,10 +19562,8 @@ distribution at issue in this case as well as 47 U.S.C. §605.'' NSS did
 not appeal. Time Warner argues that the \emph{Coach's Corner} decision
 precludes NSS from raising the identical §605 claim in the present case.
 
-\subsubsection{II. ANALYSIS}\label{ii.-analysis-1}
-
-\paragraph{B. NSS is not bound by the decision in Coach's
-Corner}\label{b.-nss-is-not-bound-by-the-decision-in-coachs-corner}
+\subsubsection{NSS is not bound by the decision in Coach's
+Corner}\label{nss-is-not-bound-by-the-decision-in-coachs-corner}
 
 NSS brought suit in both this case and in the \emph{Coach's Corner} case
 under 47 U.S.C. §605. Section 605 defines what constitutes the
@@ -20469,11 +19798,8 @@ But because all four elements must be satisfied before the prior opinion
 will be given preclusive effect, NSS is not bound by the decision in
 \emph{Coach's Corner.}
 
-\subsection{}\label{section}
-
-In re Nageleisen (E.D. Kentucky, Bankr. 2014)
-
-\textbf{TRACEY N. WISE, Bankruptcy Judge}
+\subsection{In re Nageleisen (E.D. Kentucky, Bankr.
+2014)}\label{in-re-nageleisen-e.d.-kentucky-bankr.-2014}
 
 This matter is before the Court on the Bank of Kentucky's motion for
 judgment on the pleadings. In this adversary proceeding, the Bank of
@@ -20598,10 +19924,10 @@ provided that proceeds from the sale of those properties would be held
 in escrow pending further order from this Court upon the resolution of
 the adversary proceeding. The Court granted the Trustee's motion.
 
-\subsubsection{Analysis}\label{analysis-1}
+\subsubsection{Analysis}\label{analysis-2}
 
-\paragraph{A. The Decoursey Pike
-Property}\label{a.-the-decoursey-pike-property}
+\paragraph{The Decoursey Pike
+Property}\label{the-decoursey-pike-property}
 
 Plaintiff seeks a declaratory judgment determining that the Decoursey
 Pike property is not property of the estate. Plaintiff contends in its
@@ -20672,8 +19998,8 @@ decided is not identical to the issue of whether the estate has an
 interest under §541 in the Decoursey Pike property. Plaintiff is not
 entitled to judgment on the pleadings on this count.
 
-\paragraph{C. Nondischargeability of the Money
-Judgment}\label{c.-nondischargeability-of-the-money-judgment}
+\paragraph{Nondischargeability of the Money
+Judgment}\label{nondischargeability-of-the-money-judgment}
 
 Finally, Plaintiff seeks a determination that the \$90,000 judgment debt
 created in the state-court action is nondischargeable under §523(a)(6)
@@ -20838,8 +20164,6 @@ nondischargeability count of its complaint.
 \subsection{Janjua v. Neufeld (9th Circuit
 2019)}\label{janjua-v.-neufeld-9th-circuit-2019}
 
-\textbf{A. Wallace Tashima, Circuit Judge}
-
 In this case we address, as a matter of first impression in our Circuit,
 the standard for determining whether an issue was ``actually litigated''
 in a previous adjudication for purposes of issue preclusion, also known
@@ -20870,9 +20194,7 @@ asylum proceeding, it was not actually litigated. Issue preclusion does
 not bar the government from disputing that issue in Janjua's adjustment
 of status proceeding. We therefore affirm.
 
-\subsubsection{BACKGROUND}\label{background-7}
-
-\subsubsection{I. Factual Background}\label{i.-factual-background-2}
+\subsubsection{Factual Background}\label{factual-background-5}
 
 Janjua is a native and citizen of Pakistan. As a Muhajir\footnote{(n.1
   in opinion) ``Muhajir'' refers to those people who are or are
@@ -20886,8 +20208,7 @@ and by members of the opposition party numerous times while in Pakistan.
 Janjua eventually fled Pakistan in July 1998, entering the United States
 without inspection in Arizona on January 17, 1999.
 
-\subsubsection{II. Procedural
-Background}\label{ii.-procedural-background}
+\subsubsection{Procedural Background}\label{procedural-background-1}
 
 In November 1999, Janjua applied for asylum with the legacy Immigration
 and Naturalization Service. In January 2000, Janjua's application was
@@ -20976,7 +20297,7 @@ motion for summary judgment.\footnote{(n.2 in opinion) The court further
   terrorist organization, which Janjua had not contested and therefore
   waived.} Janjua timely appealed.
 
-\subsubsection{DISCUSSION}\label{discussion-8}
+\subsubsection{Discussion}\label{discussion-6}
 
 Issue preclusion, also known as collateral estoppel, ``bars the
 relitigation of issues actually adjudicated in previous litigation.''
@@ -21124,16 +20445,6 @@ of status proceeding is not merely a new \emph{argument;} rather, the
 the asylum proceeding. Thus, it was not actually litigated and issue
 preclusion cannot apply.
 
-\subsubsection{CONCLUSION}\label{conclusion-3}
-
-For the foregoing reasons, we hold that an issue is ``actually
-litigated'' for purposes of issue preclusion when it is raised,
-contested by the parties, and submitted for determination in the prior
-proceeding. Because the issue of whether Janjua was inadmissible on
-terrorism-related grounds was not raised, contested, and submitted for
-determination at his asylum proceeding, it was not actually litigated.
-Issue preclusion does not apply.
-
 \subsection{Rest. (2d) of Judgments}\label{rest.-2d-of-judgments-5}
 
 \subsubsection{§ 29. Issue Preclusion in Subsequent Litigation with
@@ -21236,7 +20547,7 @@ adjudicated in a prior proceeding, nothing remains for trial, either
 with or without a jury.'' Because of an intercircuit conflict, we
 granted certiorari.
 
-\subsubsection{I}\label{i-12}
+\subsubsection{I}\label{i-9}
 
 The threshold question to be considered is whether, quite apart from the
 right to a jury trial under the Seventh Amendment, the petitioners can
@@ -21253,7 +20564,7 @@ resolved in the earlier proceeding.\footnote{(n.4 in Opinion) In this
   prevent a plaintiff from asserting a claim the plaintiff has
   previously litigated and lost against another defendant.}
 
-\paragraph{A}\label{a-14}
+\paragraph{A}\label{a-5}
 
 Collateral estoppel, like the related doctrine of res
 judicata,\footnote{(n.5 in Opinion) Under the doctrine of res judicata,
@@ -21312,7 +20623,7 @@ estoppel is asserted had a full and fair opportunity to litigate is a
 most significant safeguard.
 \end{quote}
 
-\paragraph{B}\label{b-15}
+\paragraph{B}\label{b-5}
 
 The \emph{Blonder-Tongue} case involved defensive use of collateral
 estoppel---a plaintiff was estopped from asserting a claim that the
@@ -21369,7 +20680,7 @@ different result.\footnote{(n.15 in Opinion) If, for example, the
   estoppel, however, because the defendant against whom estoppel is
   asserted typically will not have chosen the forum in the first action.}
 
-\paragraph{C}\label{c-4}
+\paragraph{C}\label{c-1}
 
 We have concluded that the preferable approach for dealing with these
 problems in the federal courts is not to preclude the use of offensive
@@ -21553,8 +20864,6 @@ established in the case.
 \subsection{Crane v. City of Arlington, Texas (5th Cir.
 2022)}\label{crane-v.-city-of-arlington-texas-5th-cir.-2022}
 
-\textbf{PATRICK E. HIGGINBOTHAM, Circuit Judge}
-
 In 1996, the Supreme Court approved the use of pretextual stops in
 \emph{Whren v. United States.} Since then, pretextual stops have become
 a cornerstone of law enforcement practice. Police officers follow a
@@ -21589,7 +20898,7 @@ To be clear, we apply only settled laws that govern this case today,
 cast as they are against the larger frame of their play in the streets
 across the country.
 
-\subsubsection{I.}\label{i.-9}
+\subsubsection{I.}\label{i.-2}
 
 Tavis Crane's estate and the passengers of Crane's car sued Arlington
 Police Officer Craig Roper and the City of Arlington for the use of
@@ -21697,7 +21006,7 @@ Crane, asking why he had not stopped, but Crane was silent. An autopsy
 concluded that Crane was shot four times and died of gunshot wounds to
 his abdomen.
 
-\subsubsection{II.}\label{ii.-6}
+\subsubsection{II.}\label{ii.-1}
 
 On January 31, 2019, Crane's mother, as the administrator of Crane's
 estate and on behalf of his surviving children, and the other passengers
@@ -21721,7 +21030,7 @@ claims against Roper and the City with prejudice. The plaintiffs timely
 appealed the order on the motion to dismiss and the grant of summary
 judgment.
 
-\subsubsection{IV.}\label{iv.-1}
+\subsubsection{IV.}\label{iv.}
 
 First, we review the district court's grant of summary judgment. ``When
 a defendant official moves for summary judgment on the basis of
@@ -21774,7 +21083,7 @@ Crane's of what occurred inside the car. ``At the summary judgment stage
 the judge's function is not himself to weigh the evidence and determine
 the truth of the matter,'' that job is reserved for the jury.
 
-\paragraph{A.}\label{a.-7}
+\paragraph{A.}\label{a.-1}
 
 Next, we must consider whether Roper is entitled to qualified immunity
 under Crane's account of events. We hold he is not at this stage.
@@ -21906,7 +21215,7 @@ unreasonable. Because Roper's use of force in this situation was
 unreasonable, violating Crane's Fourth Amendment right, we now turn to
 the clearly established prong.
 
-\paragraph{B.}\label{b.-9}
+\paragraph{B.}\label{b.-1}
 
 The second step of the qualified immunity inquiry is asking ``whether
 the violated constitutional right was clearly established at the time of
@@ -21957,7 +21266,7 @@ violation of a clearly established right and material facts are in
 dispute, the district court erred in granting summary judgment to Roper
 and perforce dismissing the City.
 
-\subsubsection{V.}\label{v.-1}
+\subsubsection{V.}\label{v.}
 
 We turn to the claims of the three passengers---Jefferson, Valencia
 Johnson, and Z.C.---against Roper and the City, suing under §1983 and
@@ -22169,24 +21478,24 @@ methods:
 \begin{itemize}
 \tightlist
 \item
-  \emph{Depositions}: recorded testimony of parties and other potential
-  witnesses, either by oral examination
+  • \emph{Depositions}: recorded testimony of parties and other
+  potential witnesses, either by oral examination
   (\href{https://www.law.cornell.edu/rules/frcp/rule_30}{Rule 30}) or
   written questions
   (\href{https://www.law.cornell.edu/rules/frcp/rule_31}{Rule 31});
   deposition testimony may be admitted in court under certain conditions
   (\href{https://www.law.cornell.edu/rules/frcp/rule_32}{Rule 31});
 \item
-  \emph{Interrogatories}: written questions directed to a party
+  • \emph{Interrogatories}: written questions directed to a party
   (\href{https://www.law.cornell.edu/rules/frcp/rule_33}{Rule 33});
 \item
-  \emph{Requests for production of documents or things}
+  • \emph{Requests for production of documents or things}
   (\href{https://www.law.cornell.edu/rules/frcp/rule_34}{Rule 34});
 \item
-  \emph{Physical and mental examinations of a party}
+  • \emph{Physical and mental examinations of a party}
   (\href{https://www.law.cornell.edu/rules/frcp/rule_35}{Rule 35});
 \item
-  \emph{Requests for admission}
+  • \emph{Requests for admission}
   (\href{https://www.law.cornell.edu/rules/frcp/rule_36}{Rule 36}).
 \end{itemize}
 
@@ -22318,16 +21627,14 @@ concluding Appellants ``have not presented any evidence'' in support of
 their claim that Officer Vincent's conduct ``was at least partially
 based on their race.'' Stout and Montgomery appealed.
 
-\subsubsection{Discussion}\label{discussion-9}
-
 On appeal, Stout and Montgomery raise only one issue: whether the
 district court erred when concluding there was no genuine issue of
 material fact that Officer Vincent's actions were impermissibly
 motivated by race.
 
-\subsubsection{I. Legal Standard}\label{i.-legal-standard-2}
+\subsubsection{Legal Standard}\label{legal-standard-3}
 
-\paragraph{A. Summary Judgment}\label{a.-summary-judgment}
+\paragraph{Summary Judgment}\label{summary-judgment-1}
 
 Under Federal Rule of Civil Procedure 56, a ``court shall grant summary
 judgment if the movant shows that there is no genuine dispute as to any
@@ -22354,8 +21661,8 @@ party seeking summary judgment but fails to properly acknowledge key
 evidence offered by the nonmoving party, it misapprehends the summary
 judgment standard.
 
-\paragraph{C. Fourteenth Amendment Racial
-Profiling}\label{c.-fourteenth-amendment-racial-profiling}
+\paragraph{Fourteenth Amendment Racial
+Profiling}\label{fourteenth-amendment-racial-profiling}
 
 ``The Constitution prohibits selective enforcement of the law based on
 considerations such as race.'' ``The constitutional basis for objecting
@@ -22379,8 +21686,8 @@ Finally, ``discriminatory intent of one official may not be imputed to
 another for purposes of imposing individual liability under the civil
 rights laws.''
 
-\subsubsection{II. Lack of Evidence of Fourteenth Amendment
-Violation}\label{ii.-lack-of-evidence-of-fourteenth-amendment-violation}
+\subsubsection{Lack of Evidence of Fourteenth Amendment
+Violation}\label{lack-of-evidence-of-fourteenth-amendment-violation}
 
 The district court concluded that Montgomery and Stout ``have not
 presented any evidence to support their claim'' that Officer Vincent's
@@ -22397,43 +21704,37 @@ On appeal, Montgomery and Stout detail the evidence they claim
 demonstrates Officer Vincent's discriminatory intent and unequal
 treatment:
 
-\begin{quote}
-\begin{itemize}
-\item
-  They were traveling from Memphis, Tennessee to Jackson, Mississippi,
-  which are both predominantly black cities.
-\item
-  They are both black.
-\item
-  They were driving a Lexus SUV.
-\item
-  Stout believed ``they were being held because they are African
-  American and for no other reason.''
-\item
-  Montgomery also believed ``it appeared that the only reason Officer
-  Vincent was keeping them was that they were black and driving a
-  Lexus.''
-\item
-  Officer Vincent later remembered that Stout and Montgomery had
-  indicated that the purpose of their trip to Mississippi was a concert
-  when in fact they had told him they were in Mississippi for Stout's
-  graduate student research. According to Stout and Montgomery, this
-  lapse is evidence that Officer Vincent had discriminatory intent
-  because ``he did not see a highly educated Black woman and her
-  partner; he saw two Black people in a nice car going to a concert.''
-\item
-  No trooper issued them a ticket or citation, even though the officers
-  claim they found marijuana in the SUV.
-\item
-  They both stated there was no marijuana in the car that day.
-\item
-  On the day before Officer Vincent detained Appellants, the City of
-  Mound Bayou approved a resolution against the racial profiling of
-  people of color by the MHSP. The mayor of Winstonville also condemned
-  racial profiling of black people by the MHSP. Officer Vincent has been
-  with the MHSP since 1997.
-\end{itemize}
-\end{quote}
+• They were traveling from Memphis, Tennessee to Jackson, Mississippi,
+which are both predominantly black cities.
+
+• They are both black.
+
+• They were driving a Lexus SUV.
+
+• Stout believed ``they were being held because they are African
+American and for no other reason.''
+
+• Montgomery also believed ``it appeared that the only reason Officer
+Vincent was keeping them was that they were black and driving a Lexus.''
+
+• Officer Vincent later remembered that Stout and Montgomery had
+indicated that the purpose of their trip to Mississippi was a concert
+when in fact they had told him they were in Mississippi for Stout's
+graduate student research. According to Stout and Montgomery, this lapse
+is evidence that Officer Vincent had discriminatory intent because ``he
+did not see a highly educated Black woman and her partner; he saw two
+Black people in a nice car going to a concert.''
+
+• No trooper issued them a ticket or citation, even though the officers
+claim they found marijuana in the SUV.
+
+• They both stated there was no marijuana in the car that day.
+
+• On the day before Officer Vincent detained Appellants, the City of
+Mound Bayou approved a resolution against the racial profiling of people
+of color by the MHSP. The mayor of Winstonville also condemned racial
+profiling of black people by the MHSP. Officer Vincent has been with the
+MHSP since 1997.
 
 In light of this evidence, Montgomery and Stout argue that the district
 court misapplied the summary judgment standard when it concluded that
@@ -22541,15 +21842,7 @@ base. The diameter of the base is about two inches less than the
 diameter of the tub, and the bottom of the tub is about three inches off
 the floor.
 
-\begin{figure}[H]
-
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/TubChair.jpg}}
-
-}
-
-\caption{Tub Chair}
-
-\end{figure}%
+\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/TubChair.jpg}
 
 The chair was designed for residential use. Mebelmacher assumes that
 people commonly walk barefoot in their homes. Nonetheless, he never
@@ -22603,7 +21896,7 @@ placement of a protective trim along the bottom of the Swivel Tub Chair.
 Plastic edge guards have been added to similar chairs in the last few
 years.
 
-{}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Under the applicable state law, the elements of Schlimazel's claim is as
 follows:
@@ -22635,6 +21928,175 @@ chair resulted from the manufacturing process, not the design.
 
 
 \backmatter
+
+\pagestyle{plain.scrheadings}
+
+\chapter*{Sources}
+
+{\bfseries\Large{Cases}}
+
+\textit{Amador County, Cal. v. U.S. Dept. of the Interior}, 772 F. 3d 901 (D.C. Cir. 2014)
+
+\textit{Buck v. Gordon}, 959 F. 3d 219 (6th Cir. 2020)
+
+\textit{Burdine v. Metropolitan Direct Property and Casualty Ins. Co.}, 3:17-cv-00093-GFVT (E.D. Ky. November 1, 2018)
+
+\textit{Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.}, 356 U.S. 525 (1958)
+
+\textit{Camacho v. Major League Baseball}, Case No. 12-cv-2859-L(BGS) (S.D. Cal. December 19, 2013)
+
+\textit{Carnival Cruise Lines}, Inc. v. Shute, 499 U.S. 585 (1991)
+
+\textit{Complete Business Solutions Group, Inc. v. Annie’s Pooch Pops}, No. 20-724 (E.D. Pa. July 18, 2020)
+
+\textit{Crane v. City of Arlington}, Texas, 50 F. 4th 453 (5th Cir. 2022)
+
+\textit{Daimler Ag v. Bauman}, 571 U.S. 117 (2014)
+
+\textit{Doe v. Clinton County}, 1:25-cv-368 (W.D. Mich. April 28, 2025)
+
+\textit{Dolphin Kickboxing Co. v. Franchoice, Inc.}, Case No. 19-cv-1477 (MJD/ECW) (D. Minn. May 6, 2020)
+
+\textit{Erie R. Co. v. Tompkins}, 304 U.S. 64 (1938)
+
+\textit{Exxon Mobil Corp. v. Allapattah Services, Inc.}, 545 U.S. 546 (2005)
+
+\textit{Ford Motor Co. v. Montana Eighth Judicial Dist. Court}, 592 U.S. 351 (2021)
+
+\textit{Ginwright v. Exeter Finance Corp.}, 280 F. Supp. 3d 674 (D. Md. 2017)
+
+\textit{Grable \& Sons Metal Products, Inc. v. Darue Engineering \& Mfg.}, 545 U.S. 308 (2005)
+
+\textit{Hanks v Coan}, 1:99CV00119 (M.D.N.C. August 17, 1999)
+
+\textit{Hanna v. Plumer}, 380 U.S. 460 (1967)
+
+\textit{Hernandez v. Asset Acceptance}, LLC, 970 F. Supp. 2d 1194 (D. Colorado 2013)
+
+\textit{Hunter v. Earthgrains Co. Bakery}, 281 F. 3d 144 (4th Circuit 2001)
+
+\textit{In re Nageleisen}, 523 BR 522 (E.D. Kentucky, Bankr. 2014)
+
+\textit{International Shoe Co. v. Washington}, 326 U.S. 310 (1945)
+
+\textit{Janjua v. Neufeld}, 933 F. 3d 1061 (9th Circuit 2019)
+
+\textit{Johnson v. Cricket Council USA, Inc.}, 658 F. Supp. 3d 276 (E.D.N.C. 2023)
+
+\textit{Johnson v. Griffin}, 85 F. 4th 429 (6th Circuit 2023)
+
+\textit{Johnson v. Spencer}, 950 F. 3d 680 (10th Circuit 2020)
+
+\textit{Jones v. Ford Motor Credit Co.}, 358 F. 3d 205 (2nd Cir. 2004)
+
+\textit{Kirkcaldy v. Richmond County Bd. of Ed}, 212 F.R.D. 289 (M.D.N.C. 2002)
+
+\textit{Lee v. POW! Entertainment, Inc.}, 468 F. Supp. 3d 1220 (C.D. Cal. 2020)
+
+\textit{Lehman v. Revolution Portfolio LLC}, 166 F. 3d 389 (1st Cir. 1999)
+
+\textit{Louisville \& Nashville R. Co. v. Mottley}, 211 U.S. 149 (1908)
+
+\textit{Mallory v. Norfolk Southern Ry. Co.}, 600 U.S. 122 (2023)
+
+\textit{McGee v. International Life Ins. Co.}, 355 U.S. 220 (1957)
+
+\textit{Mine Workers v. Gibbs}, 383 U.S. 715 (1966)
+
+\textit{Moore v. Baker}, 989 F. 2d 1129 (11th Circuit 1993)
+
+\textit{Mosley v. General Motors Corp.}, 497 F. Supp. 583 (E.D. Missouri 1980)
+
+\textit{National Satellite Sports, Inc. v. Eliadis, Inc.}, 253 F. 3d 900 (6th Circuit 2001)
+
+\textit{NBA Properties, Inc. v. Hanwjh}, 46 F. 4th 614 (7th Circuit 2022)
+
+\textit{Ottawa Township Board of Trustees v. New Par (I)}, Case No. 3:17CV228 (N.D. Ohio July 10, 2017)
+
+\textit{Ottawa Township Board of Trustees v. New Par (II)}, Case No. 3:17CV228 (N.D. Ohio October 10, 2017)
+
+\textit{Pace v. Timmermann’s Ranch and Saddle Shop Inc.}, 795 F. 3d 748 (7th Cir. 2014)
+
+\textit{Palacio v. City of Springfield}, 25 F. Supp. 3d 163 (D. Mass. 2014)
+
+\textit{Parklane Hosiery Co. v. Shore}, 439 U.S. 322 (1978)
+
+\textit{Passaro v. Virginia}, 935 F. 3d 243 (4th Circuit 2019)
+
+\textit{Pennoyer v. Neff}, 95 U.S. 714 (1878)
+
+\textit{Reis Robotics USA, Inc. v. Concept Industries}, 462 F. Supp. 2d 897 (N.D. Ill. 2006)
+
+\textit{Shiftlet v. Allstate Insurance Co.}, 451 F. Supp. 2d 763 (D.S.C. 2006)
+
+\textit{Smith v. Safemarine Corp.}, 749 F. Supp. 3d 687 (M.D. Louisiana 2024)
+
+\textit{Stout v. Vincent}, 717 Fed. Appx. 468 (5th Cir. 2018)
+
+\textit{Sullivan-Blake v. Fedex Ground Package System, Inc}., Civil Action No. 18-1698 (W.D. Pa. January 31, 2020)
+
+\textit{Swift v. Tyson}, 41 U.S. 1 (1842)
+
+\textit{Taylor v. Sturgell}, 553 U.S. 880 (2008)
+
+\textit{Turton v. Virginia Department of Education}, Civil Action No. 3:14cv446 (E.D. Va. January 15, 2015)
+
+\textit{Williams v. Mitchell}, 122 F. 4th 85 (4th Circuit 2024)
+
+\textit{Williams v. The Estates LLC}, 663 F. Supp. 3d 466 (M.D.N.C. 2023)
+
+\textit{World-Wide Volkswagen Corp. v. Woodson}, 444 U.S. 286 (1979)
+
+\textit{Zielinski v. Philadelphia Piers}, 139 F. Supp. 408 (Dist. Court A. No. 15153)
+
+\vspace{2em}
+
+{\bfseries\Large{Books, Articles, \& Other Publications}}
+
+Administrative Office of the U.S. Courts, \href{https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf}{\textit{Understanding the Federal Courts}}, (n.d.)
+
+Matthew Butterick, \href{https://typographyforlawyers.com}{\textit{Typography for Lawyers 2nd}} (2015)
+
+William R Casto, \textit{The Erie Doctrine and the Structure of Constitutional Revolutions}, 62 Tulane Law Review 907 (1987)
+
+Charles Dickens, \href{https://standardebooks.org/ebooks/charles-dickens/bleak-house}{\textit{Bleak House}} (1853)
+
+William Felstiner, Richard Abel \& Austin Sarat, \textit{The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…}, 15 Law \& Society Review 631 (1980)
+
+Brian L Frye, \textit{The Ballad of Harry James Tompkins}, 52 Akron Law Review 531 (2018)
+
+Oliver Wendell Holmes, \textit{The Common Law} (1881)
+
+E. Polk Johnson,\href{https://play.google.com/books/reader?id=FXQUAAAAYAAJ\&pg=GBS.PA1144.w.2.1.0_421}{\textit{A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities}} (1912), 
+
+Franz Kafka, \href{https://www.kafka-online.info/before-the-law.html}{\textit{Before the Law}}, (1915) 
+
+Thomas S. Kuhn \& Ian Hacking, \textit{The Structure of Scientific Revolutions: 50th Anniversary Edition} (2012)
+
+William P. LaPiana, \textit{Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America}, 20 Suffolk U. L. Rev. 771 (1986)
+
+David Marcus, \textit{The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform}, 44 Georgia Law Review 433 (2009)
+
+Jack Metzler, \textit{Cleaning Up Quotations}, 18 The Journal of Appellate Practice and Process 143 (2017)
+
+Wendy Perdue, \textit{Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered}, 62 Washington Law Review 479 (1987)
+
+George Rutherglen, \textit{International Shoe and the Legacy of Legal Realism}, 2001 The Supreme Court Review 347 (2001)
+
+Logan Everett Sawyer III, \textit{Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe}, 10 George Mason Law Review 59 (2001)
+
+\chapter*{Acknowledgements}
+
+Many thanks to my students in \href{https://www.emfink.net/CivPro/}{Civil Procedure at Elon Law School} for their feedback on previous versions of this casebook and their patience with typographical errors \& formatting glitches. 
+
+\chapter*{Colophon}
+
+\raggedright{Set in \href{https://www.type-together.com/literata-font/}{Literata} and \href{https://www.type-together.com/adelle-sans-font/}{Adelle Sans} by \href{https://www.type-together.com/veronika-burian/}{Veronika Burian} and \href{https://www.type-together.com/jose-scaglione/}{José Scaglione}; \href{https://www.type-together.com/lft-etica-mono-font/}{LFT Etica Mono} by \href{https://www.type-together.com/leftloft/}{Leftloft}.}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.3\textwidth]{../img/gutenberg_press.png}
+\end{figure}
 
 
 \end{document}

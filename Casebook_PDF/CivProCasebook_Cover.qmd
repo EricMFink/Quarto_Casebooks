@@ -1,0 +1,18 @@
+---
+title: Civil Procedure
+subtitle: An Open-Source Casebook
+author: Eric M. Fink
+affiliation: Elon Law School
+pub-date: "August 2025"
+
+format:
+  pdf
+
+---
+
+# Civil Procedure 
+
+## An Open-Source Casebook
+
+
+![](../img/cover.png)

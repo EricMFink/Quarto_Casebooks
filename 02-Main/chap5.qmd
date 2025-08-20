@@ -14,17 +14,15 @@ The Rules of Decision Act applies to cases in which federal courts hear claims t
 
 ### Swift v. Tyson (U.S. 1842) 
 
-- **Summary of Facts**
+**Summary of Facts**
 
-- [_George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_]{.small-size}
+[_George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swiftb] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swiftc]_]
 
-- [_Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._]{.small-size}
+[_Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._]
 
 [^Swiftb]: A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange).
 
 [^Swiftc]: Swift may have been in cahoots with the swindlers: "The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape." LaPiana (1986): 796.
-
-[{{< fa gavel >}}]{.center-icon-large}
 
 **Justice STORY delivered the opinion of the Court.**
 
@@ -180,8 +178,6 @@ The respondent is in the business of selling electric power to subscribers in ru
 
 One of respondent's affirmative defenses was that, under the South Carolina Workmen's Compensation Act, the petitioner---because the work contracted to be done by his employer was work of the kind also done by the respondent's own construction and maintenance crews---had the status of a statutory employee of the respondent and was therefore barred from suing the respondent at law because obliged to accept statutory compensation benefits as the exclusive remedy for his injuries. Two questions concerning this defense are before us: (1) whether the Court of Appeals erred in directing judgment for respondent without a remand to give petitioner an opportunity to introduce further evidence; and (2) whether petitioner, state practice notwithstanding, is entitled to a jury determination of the factual issues raised by this defense.
 
-#### I.
-
 The Supreme Court of South Carolina has held that there is no particular formula by which to determine whether an owner is a statutory employer under [the South Carolina workers' compensation statute]:
 
 > while the language of the statute is plain and unambiguous, there are so many different factual situations which may arise that no easily applied formula can be laid down for the determination of all cases. In other words, 'it is often a matter of extreme difficulty to decide whether the work in a given case falls within the designation of the statute. It is in each case largely a question of degree and of fact.'
@@ -197,8 +193,6 @@ While the matter is not adverted to in the court's opinion, implicit in the dire
 We believe that the Court of Appeals erred. The petitioner is entitled to have the question determined in the trial court. This would be necessary even if petitioner offered no proof of his own. Although the respondent's evidence was sufficient to withstand the motion under the meaning given the statute by the Court of Appeals, it presented a fact question, which, in the circumstances of this case is properly to be decided by a jury. the jury on the entire record---consistent with the view of the South Carolina cases that this question is in each case largely one of degree and of fact---might reasonably reach an opposite conclusion from the Court of Appeals as to the ultimate fact whether the respondent was a statutory employer.
 
 At all events, the petitioner is plainly entitled to have an opportunity to try the issue under the Court of Appeals' interpretation.
-
-#### II.
 
 A question is also presented as to whether on remand the factual issue is to be decided by the judge or by the jury. The respondent argues on the basis of the decision of the Supreme Court of South Carolina in _Adams v. Davison-Paxon Co._ that the issue of immunity should be decided by the judge and not by the jury. That was a negligence action brought in the state trial court against a store owner by an employee of an independent contractor who operated the store's millinery department. The trial judge denied the store owner's motion for a directed verdict made upon the ground that [the workers' compensation statute] barred the plaintiff's action. The jury returned a verdict for the plaintiff. The South Carolina Supreme Court reversed, holding that it was for the judge and not the jury to decide on the evidence whether the owner was a statutory employer, and that the store owner had sustained his defense. The court rested its holding on decisions involving judicial review of the Industrial Commission.
 
@@ -318,11 +312,9 @@ It remains to apply what has been said to the present case. The Massachusetts ru
 
 ### Dolphin Kickboxing Co. v. Franchoice, Inc. (D. Minn. 2020) 
 
-**ELIZABETH COWAN WRIGHT, Magistrate Judge**
-
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-#### I\. FACTUAL AND PROCEDURAL BACKGROUND
+#### Factual and Procedural Background
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -330,21 +322,21 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 > Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions [sic], when, in fact:
 > 
-> {{< bi dot >}} Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
 > 
-> {{< bi dot >}} Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
 > 
-> {{< bi dot >}} Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
 > 
-> {{< bi dot >}} Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+> • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
 >  
-> {{< bi dot >}} Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+> • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
 >  
-> {{< bi dot >}} Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-#### II\. LEGAL STANDARD
+#### Legal Standard
 
 The Court held oral argument during which it sua sponte raised the issue of the appropriate standard for adding punitive damages claims. Both parties had initially addressed in their written submissions the appropriateness of amending the Complaint to add a claim for punitive damages under Minnesota Statutes Sections 549.191 and 549.20. The Court ordered the parties to file supplemental pleadings with respect to their positions regarding whether Minn. Stat. §549.191, or Rule 15 of the Federal Rules of Civil Procedure, applies to a motion to amend to add a claim for punitive damages. Both parties filed supplemental briefs and agree, based on recent decisions within this District, that Rule 15, and not Minn. Stat. §549 applies to the present motion to amend. That said, the parties disagree about whether the proposed amended complaint plausibly sets forth a claim for punitive damages under Minn. Stat. §549.20.
 
@@ -398,7 +390,7 @@ Accordingly, the Court will apply the Rule 15 standard in determining whether to
 
 ## Analyzing Choice of Law Under Erie and Hanna
 
-![Erie-Hanna Analysis](../img/Erie-Hanna.png)
+![](../img/Erie-Hanna.png)
 
 ## Review Questions 
 

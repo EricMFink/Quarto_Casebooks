@@ -10,8 +10,6 @@
 
 ### Crane v. City of Arlington, Texas (5th Cir. 2022) 
 
-**PATRICK E. HIGGINBOTHAM, Circuit Judge**
-
 In 1996, the Supreme Court approved the use of pretextual stops in _Whren v. United States._ Since then, pretextual stops have become a cornerstone of law enforcement practice. Police officers follow a suspicious person until they identify a traffic violation to make a lawful stop, even though the officer intends to use the stop to investigate a hunch that, by itself, would not amount to reasonable suspicion or probable cause. Often pulled over for minor traffic violations, these stops create grounds for violent—and often deadly—encounters that disproportionately harm people of color.
 
 When _Whren_ was decided, the Court did not have what we have now—twenty-five years of data on the effects of pretextual stops. Indeed, the _Whren_ Court differentiated pretextual stops from "extreme practices" like the use of deadly force. Today, traffic stops and the use of deadly force are too often one and the same—with Black and Latino drivers overrepresented among those killed—and have been sanctioned by numerous counties and major police departments.
@@ -186,11 +184,11 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 The parties may seek further information through various discovery methods: 
 
-- {{< bi dot >}} _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
-- {{< bi dot >}} _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
-- {{< bi dot >}} _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
-- {{< bi dot >}} _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
-- {{< bi dot >}} _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
+- • _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
+- • _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
+- • _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
+- • _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
+- • _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
 
 _Rule 26(b)(1)_ defines the scope of discovery: 
 
@@ -230,13 +228,11 @@ Officer Vincent called for a K-9 officer, and Deputy Joseph Mangino soon arrived
 
 Stout and Montgomery sued Officer Vincent, seeking injunctive relief and damages for violation of their Fourteenth Amendment rights under 42 U.S.C. §1983. Specifically, they alleged that impermissible considerations of race motivated their extended detention by Officer Vincent. Officer Vincent moved for summary judgment on the basis of qualified immunity, and the district court granted his motion, concluding Appellants "have not presented any evidence" in support of their claim that Officer Vincent's conduct "was at least partially based on their race." Stout and Montgomery appealed.
 
-#### Discussion
-
 On appeal, Stout and Montgomery raise only one issue: whether the district court erred when concluding there was no genuine issue of material fact that Officer Vincent's actions were impermissibly motivated by race.
 
-#### I\. Legal Standard
+#### Legal Standard
 
-##### A\. Summary Judgment
+##### Summary Judgment
 
 Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
 
@@ -244,7 +240,7 @@ If the moving party meets its burden, "the nonmovant must go beyond the pleading
 
 A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
-##### C\. Fourteenth Amendment Racial Profiling
+##### Fourteenth Amendment Racial Profiling
 
 "The Constitution prohibits selective enforcement of the law based on considerations such as race." "The constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause." 
 
@@ -254,29 +250,29 @@ In another context, we have said that a plaintiff's "subjective belief of discri
 
 Finally, "discriminatory intent of one official may not be imputed to another for purposes of imposing individual liability under the civil rights laws."
 
-#### II\. Lack of Evidence of Fourteenth Amendment Violation
+#### Lack of Evidence of Fourteenth Amendment Violation
 
 The district court concluded that Montgomery and Stout "have not presented any evidence to support their claim" that Officer Vincent's decision to detain them was "at least partially based on their race." The district court further concluded that Montgomery and Stout "have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable Montgomery have failed to produce _any_ material evidence showing that race motivated Officer Vincent's conduct, we need not address the issue. suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion."
 
 On appeal, Montgomery and Stout detail the evidence they claim demonstrates Officer Vincent's discriminatory intent and unequal treatment:
 
-> - {{< bi dot >}} They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
-> 
-> - {{< bi dot >}} They are both black.
-> 
-> - {{< bi dot >}} They were driving a Lexus SUV.
-> 
-> - {{< bi dot >}} Stout believed "they were being held because they are African American and for no other reason."
-> 
-> - {{< bi dot >}} Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
-> 
-> - {{< bi dot >}} Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
-> 
-> - {{< bi dot >}} No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
-> 
-> - {{< bi dot >}} They both stated there was no marijuana in the car that day.
-> 
-> - {{< bi dot >}} On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
+• They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
+
+• They are both black.
+
+• They were driving a Lexus SUV.
+
+• Stout believed "they were being held because they are African American and for no other reason."
+
+• Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
+
+• Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
+
+• No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
+
+• They both stated there was no marijuana in the car that day.
+
+• On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
 
 In light of this evidence, Montgomery and Stout argue that the district court misapplied the summary judgment standard when it concluded that they failed to raise a genuine issue of material fact. They stress that, after the Supreme Court's decision in _Tolan,_ this evidence must be viewed as a whole, and not in individual pieces. And the evidence must be viewed in a light most favorable to them.
 
@@ -312,7 +308,7 @@ Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his
 
 The chair consists of a “tub” seat attached to a plywood base in a manner that permits the “tub” to tilt and swivel. A chrome veneer, about one-sixteenth of an inch thick, is affixed to the outside of the base. The diameter of the base is about two inches less than the diameter of the tub, and the bottom of the tub is about three inches off the floor.
 
-![Tub Chair](../img/TubChair.jpg)
+![](../img/TubChair.jpg)
 
 The chair was designed for residential use. Mebelmacher assumes that people commonly walk barefoot in their homes. Nonetheless, he never anticipated that someone might put their foot in the area between the tub seat and the top of the base. 
 
