@@ -196,7 +196,7 @@ a:active {
 	display: block;
 }
 
-/* Lists -- ul default is unstyled; use {{< bi dot >}} for bullets */
+/* Lists -- ul default is unstyled; use • for bullets */
 ol, ul {
 	padding-left: 1.5rem;
 }
