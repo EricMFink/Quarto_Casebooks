@@ -1,7 +1,5 @@
 %\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
 
-%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
-
 \usepackage{scrlayer-scrpage}
 \usepackage{needspace}
 \usepackage[]{titlesec}
@@ -11,7 +9,7 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 
-%\usepackage[defaultlines=4,all]{nowidow}
+%\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
 
@@ -35,9 +33,12 @@
     ItalicFont     = adelle-sans-light-italic.otf ,
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
+
 \renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\footnotesize}
+\renewcommand{\captionsize}{\small\itshape}
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+\renewcommand*{\raggedleftmarginnote}{\raggedright}
 
 \usepackage{enumitem}
 \setlist[itemize]{label={}}
@@ -95,6 +96,7 @@
 
 \newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
 
+\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
 \renewcommand*{\captionformat}{}
 

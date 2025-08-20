@@ -6,13 +6,40 @@ affiliation: Elon Law School
 pub-date: "August 2025"
 
 format:
-  pdf
+  pdf: 
+    documentclass: scrarticle
+    classoption: [letterpaper, 14pt, DIV=10, oneside]
+    include-in-header:
+      - "partials/in-header.tex"
+    toc: false
+    number-sections: false
 
 ---
 
-# Civil Procedure 
+\clearpage
+\thispagestyle{empty}
 
-## An Open-Source Casebook
+\begin{flushleft}
 
+\vspace*{25mm}
 
-![](../img/cover.png)
+{\sffamily\bfseries\color{Maroon}\Huge{Civil Procedure}} 
+
+\vspace{5mm}
+
+{\sffamily\color{Maroon}\Large{An Open-Source Casebook}} 
+
+\vspace{10mm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{../img/cover.png}
+\end{figure}
+
+\vspace*{\fill}
+
+{\sffamily\color{Maroon}\large{Eric M. Fink}} 
+
+\end{flushleft}
+
+\clearpage

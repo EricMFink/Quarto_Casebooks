@@ -197,7 +197,7 @@ Applying the four inquiries here, the Court concludes that Exeter's counterclaim
 
 Second, because the legal and factual issues are different, the evidence would not be "substantially the same." While the alleged contract underlying the counterclaim might be admissible on the TCPA claim to the extent that it is relevant to establishing prior express consent for phone calls or the lack thereof, the evidence on the TCPA claim will primarily consist of records and testimony about the number of calls received and the use of the automatic dialing system, which would be of no relevance to the breach of contract counterclaim. Likewise, Exeter's counterclaim, which contains no allegations relating to phone calls or an automatic dialing system, will rely primarily on evidence that does not pertain to the TCPA claim, such as proof of Ginwright's failure to make car payments and evidence that Exeter did or did not repossess the car and resell it in accordance with Maryland's CLEC requirements.
 
-Third, _res judicata_ would not bar a subsequent suit on the breach of contract counterclaim. "The preclusive effect of a federal-court judgment is determined by federal common law." An action is precluded when: [_Res judicata_ (claim preclusion) is covered in Chap. 7.]{.aside}
+Third, _res judicata_ [_Res judicata_ (claim preclusion) is covered in Chap. 7.]{.aside} would not bar a subsequent suit on the breach of contract counterclaim. "The preclusive effect of a federal-court judgment is determined by federal common law." An action is precluded when:
 
 > 1\) the prior judgment was final and on the merits, and rendered by a court of competent jurisdiction in accordance with the requirements of due process; 2) the parties are identical, or in privity, in the two actions; and, 3) the claim in the second matter is based upon the same cause of action involved in the earlier proceeding.
 
@@ -301,8 +301,6 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
-#### Factual Background
-
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
 In his Answer to Kirkcaldy's Complaint, Smith brings a cross-claim against the Board and a third-party complaint against the Superintendent of the Richmond County School System, Larry K. Weatherly ("Weatherly"), and Board members Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, and Carlene Hill, all in their individual and official capacities. Smith's claim against these Defendants is filed pursuant to 42 U.S.C. §1983 based on the Individual School Defendants and the Board's (together, "School Defendants") alleged violation of Smith's due process rights. It is this Section 1983 claim that the School Defendants now move to dismiss.
@@ -316,8 +314,6 @@ At the August 24, 2000 hearing, Smith was allowed to present his evidence. Smith
 At the conclusion of the August 24, 2000 hearing, the Board entered an order dismissing Smith from his position as principal. Smith appealed the Board's decision dismissing him to the North Carolina Superior Court, which affirmed the Board's decision. Smith then appealed the North Carolina Superior Court's decision to the North Carolina Court of Appeals. This court affirmed the Superior Court's decision, which upheld the Board's decision to dismiss Smith.
 
 Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
-
-#### Discussion of Defendant's Motion to Dismiss
 
 When a co-defendant asserts a cross-claim against a co-defendant, as Smith now asserts against the Board, the co-defendant's cross-claim must meet the requirements of Rule 13(g). In relevant part, Rule 13(g) specifies that "a pleading may state as a cross-claim any claim by one party against a co-party arising out of the transaction or occurrence that is the subject matter either of the original action or of a counterclaim therein." The Board asserts that Smith's cross-claim does not qualify for joinder because the cross-claim does not arise out of the transaction or occurrence that is the subject of Kirkcaldy's suit, namely, the incidents of harassment that she allegedly suffered, which ended on June 12, 2000. Rather, the Board maintains that Smith's claim of a due process violation is based on the separate and different transaction or occurrence which involved the Board and Individual School Defendants' conduct in preparing and conducting the August 24, 2000 hearing that resulted in Smith's dismissal.
 
@@ -379,7 +375,7 @@ FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to h
 
 These provisions refer to claims for _indemnification_ and _contribution_. They arise where a party to a suit (D1) seeks to hold someone else (D2) responsible for all (indemnification) or part (contribution) of the amount of a judgment against D1 in favor of another party (P1).
 
-![](../img/Indemnification_Contribution.png){width="90%"}
+![Indemnification and Contribution](../img/Indemnification_Contribution.png){width=66%}
 
 D2 may already be a party to the lawsuit (i.e. P1 has joined D2 as a co-defendant under Rule 20), in which case D2 would assert a crossclaim for indemnification or contribution under Rule 13(g). Or D2 may not yet be a party, in which case D1 would join D2 as a third-party defendant and assert a claim for indemnification or contribution under Rule 14(a).
 
@@ -461,8 +457,6 @@ There is, moreover, a broader point. A district court must oversee third-party p
 
 ### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002)
 
-#### Factual Background
-
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
 In his Answer to Kirkcaldy's Complaint, Smith brings a cross-claim against the Board and a third-party complaint against the Superintendent of the Richmond County School System, Larry K. Weatherly ("Weatherly"), and Board members Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, and Carlene Hill, all in their individual and official capacities. Smith's claim against these Defendants is filed pursuant to 42 U.S.C. §1983 based on the Individual School Defendants and the Board's (together, "School Defendants") alleged violation of Smith's due process rights. It is this Section 1983 claim that the School Defendants now move to dismiss.
@@ -476,8 +470,6 @@ At the August 24, 2000 hearing, Smith was allowed to present his evidence. Smith
 At the conclusion of the August 24, 2000 hearing, the Board entered an order dismissing Smith from his position as principal. Smith appealed the Board's decision dismissing him to the North Carolina Superior Court, which affirmed the Board's decision. Smith then appealed the North Carolina Superior Court's decision to the North Carolina Court of Appeals. This court affirmed the Superior Court's decision, which upheld the Board's decision to dismiss Smith.
 
 Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
-
-#### Discussion of Defendant's Motion to Dismiss
 
 In addition to the Board's argument for dismissal of Smith's claim against it, the School Defendants' Motion to Dismiss also requests that the Court dismiss Smith's claim against the Individual School Defendants because Smith's third-party complaint does not satisfy the jurisdictional requirements of the Federal Rules of Civil Procedure. As the Individual School Defendants, unlike the School Board itself, were not parties to Kirkcaldy's original action, Smith's joinder of the Individual School Defendants must meet the requirements of one of the two Rules that allow the joinder of non-parties by a party defendant: Rule 14(a), which governs the impleader of non-parties as third-party defendants, or Rule 13(h), which governs the joinder of non-parties in certain other situations.
 
@@ -635,92 +627,6 @@ In short, the Service Providers are not "required" parties under any of the prov
 
 [^sullivan-blake1]: (n.1 in opinion) FedEx also contends that Plaintiffs cannot obtain complete relief without the joinder of the Service Providers because if Plaintiffs cannot prove that FedEx is their joint employer, their FLSA claims against the Service Providers would likely be time barred. This contention is irrelevant to the Court's analysis, however, because the focal point of the inquiry under Rule 19(a)(1)(A) is whether the Court can accord complete relief if Plaintiffs prevail in *this* litigation. Similarly, FedEx's assertion that the Court cannot accord complete relief to FedEx because the indemnification agreements between itself and the Service Providers may lead to future litigation does not compel joinder. Whether the Court can accord complete relief "is determined on the basis of those persons who are already parties, and not as between a party and the absent person whose joinder is sought."
 
-## Intervention
-
-### Fed. R. Civ. P. Rule 24
-
-(a\) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
-
-- (1\) is given an unconditional right to intervene by a federal statute; or
-
-- (2\) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-(b\) Permissive Intervention.
-
-- (1\) In General. On timely motion, the court may permit anyone to intervene who:
-
-	- (A\) is given a conditional right to intervene by a federal statute; or
-
-	- (B\) has a claim or defense that shares with the main action a common question of law or fact.
-
-- (3\) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
-
-### Amador County, Cal. v. US Dept. of the Interior (D.C. Cir. 2014) 
-
-**SENTELLE, Senior Circuit Judge**
-
-In 2005, Amador County, California brought suit against the Department of Interior challenging the Secretary's approval of a gaming compact between the Buena Vista Rancheria of Me-Wuk Indians (the "Tribe") and the State of California. After nearly six-and-a-half years of litigation, the Tribe sought to intervene for the limited purpose of moving to dismiss the amended complaint under Federal Rule of Civil Procedure 19. The district court denied the motion as untimely, and this appeal followed. Because we conclude that the district court did not abuse its discretion, we affirm.
-
-#### BACKGROUND
-
-The Buena Vista Rancheria of Me-Wuk Indians is a federally recognized Indian tribe that occupies a 67-acre parcel of land located entirely within Amador County, California. In 1999, the Tribe negotiated a gaming compact with the State of California under the Indian Gaming Regulatory Act ("IGRA"), and submitted the compact to the Secretary of the Interior for approval. Under the IGRA, once the Tribe submits a gaming compact to the Secretary, the Secretary can either approve the compact; disapprove the compact, if it violates certain federal laws; or do nothing. If the Secretary does nothing, the compact is deemed approved after forty-five days. In 2000, the Secretary approved the compact. In 2004, the Tribe submitted an amended gaming compact to the Secretary. This time, the Secretary took no action on the amended compact for forty-five days, at which point the compact was deemed approved by operation of law.
-
-In April 2005, Amador County challenged the Secretary's "no-action" approval of the amended compact, arguing that the Tribe's land fails to qualify as "Indian lands"—a statutory requirement for gaming under the IGRA. On July 22, 2005, Interior filed a motion to dismiss the case, arguing that the County's claims were not subject to judicial review under the Administrative Procedure Act ("APA"). Shortly thereafter, the Tribe sought leave to participate in the case as amicus curiae. The Tribe argued that the suit had to be dismissed under Rule 19 of the Federal Rules of Civil Procedure because the Tribe was an indispensable party to the litigation, and the Tribe is protected by sovereign immunity so that the litigation could not proceed. The Tribe also claimed that Interior did not adequately represent the Tribe's interests. The district court denied the Tribe's motion without explanation.
-
-In 2008, while Interior's motion to dismiss was still pending, Amador County filed an amended complaint, and Interior again moved to dismiss. The district court granted Interior's motion, finding that the Secretary's "no action" approval was "unreviewable," as the decision to approve a gaming compact is committed to agency discretion.  Amador County appealed to this court. We reversed.
-
-Following this court's remand, the district court ordered the parties to file a Joint Status Report by November 7, 2011. Three days before the parties filed the Joint Status Report, the Tribe filed its motion to intervene. In June 2013, the district court denied as untimely the Tribe's motion to intervene, noting that the parties' Joint Status Report stated that the case is "ready for oral argument and decision on the merits." The Tribe now appeals the district court's denial of its motion for intervention.
-
-#### ANALYSIS
-
-Intervention of right as sought by appellant is governed by Federal Rule of Civil Procedure 24. That rule provides:
-
-> (a\) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
-
-> > (1\) is given an unconditional right to intervene by a federal statute; or
-
-> > (2\) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-Under that rule, a district court must grant a motion to intervene if the motion is timely, and the prospective intervenor claims a legally protected interest in the action, and the action threatens to impair that interest, unless that interest is adequately represented by existing parties. At the threshold, however, the motion to intervene must be timely. If the motion is untimely, the explicit language of the rule dictates that "intervention must be denied."
-
-Timeliness "is to be judged in consideration of all the circumstances, especially weighing the factors of time elapsed since the inception of the suit, the purpose for which intervention is sought, the need for intervention as a means of preserving the applicant's rights, and the probability of prejudice to those already parties in the case." We review the district court's denial of intervention for untimeliness under the abuse of discretion standard. A district court abuses its discretion when it applies the wrong legal standard or relies on clearly erroneous findings of fact.
-
-In this case, after setting forth the timeliness test, the district court found that the Tribe's motion for intervention was untimely. The district court found that the Tribe, from the outset of this litigation, both knew that the suit could adversely affect its rights, and questioned the adequacy of the United States' representation. The district court reasoned that regardless of whether it measured the elapsed time from the time when the prospective intervenor "'knew or should have known that any of its rights would be directly affected by the litigation,'" or when the "'potential inadequacy of representation came into existence,'" timeliness weighs against the The district court also considered the Tribe's purpose for intervention, namely to file a Rule 19 motion, and noted that the Tribe's need to intervene to maintain its sovereign immunity was a "significant factor" weighing in favor of allowing intervention. Lastly, the district court found that granting the Tribe's motion will "further delay resolution of the merits to the detriment of the existing parties," since the case was otherwise ready for a decision on the merits. Weighing all these factors, the district court found that the Tribe's motion was untimely. Having considered "all the circumstances," we conclude that the district court did not abuse its discretion.
-
-Nevertheless, the Tribe offers multiple arguments for reversing the judgment. First, the Tribe asserts that the district court "undervalued" the Tribe's purpose for intervention, that is, to seek dismissal of the action on the basis of the Tribe's sovereign immunity. The Tribe, argues that because sovereign immunity is jurisdictional, or at least quasi-jurisdictional, the district court had a "heightened duty" to "weigh heavily" the Tribe's purpose for intervention.
-
-The Tribe's argument fails. We have never held that a district court must give extra weight or special consideration to a sovereign's purpose for intervention. We have held that a decision maker abuses its discretion if it fails to consider a relevant factor. Such is the holding of _Acree,_ where this court reversed a district court's finding of untimeliness because it "failed to weigh the purposes for which the Government sought to intervene." In this case, the district court considered all the relevant factors, including the Tribe's purpose for intervention, and we will not disturb its judgment.
-
-Next, the Tribe argues that the district court abused its discretion by using the wrong date in computing the elapsed time. As the Tribe correctly notes, and as the district court acknowledged, courts measure elapsed time from when the "potential inadequacy of representation comes into existence."The Tribe contends that a conflict of interest did not arise until 2011, when the government, in a separate but related proceeding, acknowledged that a Rule 19 defense was available but refused to assert it because of the United States' interest in seeking a resolution to this case on the merits. Accordingly, the Tribe argues that the district court should have used 2011, instead of 2005, when weighing the elapsed time factor. We disagree.
-
-Nothing changed in 2011 that warrants using that date in computing the elapsed time. In 2005, the Tribe, in the amicus curiae brief it proffered to the district court, argued that it was an indispensable party to the litigation, that the suit should be dismissed under Rule 19, and the government's representation of the Tribe's interests may be inadequate. Thus, at a minimum, the Tribe and the government knew as early as 2005 that a Rule 19 defense was available. Yet the government never asserted this defense, even though it had the opportunity to do so in its 2008 motion to dismiss. That record belies the notion that the Tribe could have expected inadequate representation from the government after, but not before, 2011. Indeed, the Tribe all but admits as much by stating it had "earlier concerns about a potential conflict of interest in the United States' representation."
-
-The Tribe seeks to avoid this conclusion by arguing that it was not until 2011 that its suspicion of inadequate representation became a reality. Yet the Tribe argued in 2005 that "the presence of the United States in this case does not fully protect the Tribe's interests." The record demonstrates that the Tribe knew in 2005 as well that the United States might not adequately represent the Tribe's interest. Therefore, the district court did not abuse its discretion in using 2005 as the relevant date in its elapsed time analysis.
-
-Lastly, the Tribe argues that even if the district court used the correct date in the elapsed time analysis, the district court erred because it treated the elapsed time analysis as determinative. According to the Tribe, the district court conflated the elapsed time with the prejudice analysis by focusing exclusively on the delay the motion for intervention will cause, instead of further analyzing how the delay will prejudice the parties.
-
-As we recently stated, the length of time passed "'is not in itself the determinative test.'" This is because "we do not require timeliness for its own sake." Rather, "the requirement of timeliness is aimed primarily at preventing potential intervenors from unduly disrupting litigation, to the unfair detriment of the existing parties." Accordingly, in assessing timeliness, a district court must weigh whether the intervention will "'_unfairly_ disadvantage the original parties.'"
-
-The district court in this case found that the case was ready for a decision on the merits, and that the Tribe's intervention would delay resolution of the merits. We have previously concluded that the delay caused by a potential intervenor was sufficient to constitute prejudice where a decision on the merits was pending. 
-
-In this case, the County filed the complaint over nine years ago. In November 2011, the County and Interior agreed that the case was "ready for oral argument and decision on the merits." The Tribe's motion for intervention and the subsequent appeal have delayed a decision on the merits for three years. If the Tribe's motion were granted, a resolution of this case would be further delayed as the district court at the very least would need to accept briefing on the Tribe's Rule 19 motion, hear argument, and rule on the motion. On such facts, we cannot say that the district court abused its discretion in finding that the Tribe's intervention would cause prejudicial delay.
-
-Because we conclude that the district court did not abuse its discretion on the threshold question of timeliness, we need not reach the Tribe's argument that the United States does not adequately represent its interest. 
-
-**RANDOLPH, Senior Circuit Judge, concurring**
-
-I agree that the Tribe's motion to intervene pursuant to Rule 24 of the Federal Rules of Civil Procedure was untimely. I write separately to mention another basis for denying the motion.
-
-Under Rule 24(a)(2), the motion to intervene must not only be timely, but also the movant must claim
-
-> an interest relating to the property or transaction that is the subject of the action, and be so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-Fed.R.Civ.P. 24(a)(2).
-
-The Tribe wanted to intervene in order to assert that it was an indispensable party under Rule 19(a). The idea being that the Tribe could then invoke its sovereign immunity and have the court dismiss Amador County's action against the Department of the Interior. In terms of Rule 24(a)(2), the Tribe claimed that the United States did not "adequately represent" the Tribe's "interest"—which the Tribe defined as its sovereign immunity. 
-
-The strategy was clever but it would not have worked. The Tribe's interest in its sovereign immunity was not—in the words of Rule 24(a)(2)—"an interest relating to the property or transaction that is the subject of the action." The very point of the Tribe's motion was to inject sovereign immunity into the case. The Tribe therefore would not have qualified for intervention as of right even if it had timely filed its motion.
-
 ## Review Questions
 
 Mrs. Claypool, an aspiring society matron, hears that the director of the New York Opera Company, Herman Gottlieb, is seeking a patron. Claypool believes this is a perfect way to enhance her standing in society. She hires Otis Driftwood to act as her agent in negotiating a deal with Gottlieb, under which Claypool will donate $500,000 to the Opera Company so it can hire Rodolfo Lassparri, the greatest tenor in the world. In exchange, Gottlieb agrees to name the Opera House after Claypool. 
@@ -757,4 +663,4 @@ For each of the following additional claims, explain whether joinder is proper u
 
 7. A claim by Baroni against Driftwood for failure to pay Baroni in accordance with the contract that Driftwood signed. 
 
-![](../img/JoinderProblem.png)
+![Parties & Claims in Claypool v. Gottlieb](../img/JoinderProblem.png){width=75%}

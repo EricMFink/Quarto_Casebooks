@@ -75,6 +75,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
 
+
 ### Johnson v. Spencer (10th Circuit 2020) 
 
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. §1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"), and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
@@ -131,8 +132,6 @@ In May 2017, Cheyenne and Officer Spencer separately moved to dismiss the compla
 
 In July 2017, the district court granted all three motions to dismiss. "Although Defendants raised several bases for dismissal of Plaintiff's claims against them," the district court concluded that "res judicata, or claim preclusion, barred Plaintiff's action and was therefore dispositive of Defendants' motions to dismiss." In particular, the district court concluded that both the 1991 and 1992 Actions had resulted in final judgments on the merits against Mr. Johnson, had been between the same parties as the 2017 Action, and had concerned the same transaction as the 2017 Action. The district court rejected Mr. Johnson's argument that _Heck v. Humphrey_, 512 U.S. 477 (1994)---which held that prisoners may not bring a §1983 action that calls into question the lawfulness of their conviction until the conviction has been invalidated---implied that the judgments against him in his 1991 and 1992 pre-_Heck_ Actions were not entitled to claim-preclusive effect because his underlying conviction had not yet been invalidated. Although Mr. Johnson had yet to respond to the Estate's motion to dismiss, the court granted it, too, "because the res judicata analysis did not differ and was equally dispositive as to Detective Stanford."
 
-#### Discussion
-
 The central question in this appeal is whether the judgments in the prior litigation concerning Mr. Johnson's conviction---i.e., the judgments in the 1991 and 1992 Actions---prevent him from bringing a new lawsuit---i.e., the 2017 Action---against the same defendants after his exoneration. The answer turns on the doctrine of claim preclusion. Claim preclusion "prevents a party from litigating a legal claim that was or could have been the subject of a previously issued final judgment." For claim preclusion to apply, "three elements must exist: (1) a final judgment on the merits in an earlier action; (2) identity of parties or privies in the two suits; and (3) identity of the cause of action in both suits." "Even if these three elements are satisfied, there is an exception to the application of claim preclusion where the party resisting it did not have a 'full and fair opportunity to litigate' the claim in the prior action." 
 
 We address in Part B whether the judgments in the 1991 and 1992 Actions have claim-preclusive effect on the 2017 Action. We conclude that the judgment in the 1991 Action---in which Detective Stanford and Cheyenne were defendants---has claim-preclusive effect. But we conclude that the judgment in the 1992 Action---in which Officer Spencer was the defendant---does not have claim-preclusive effect because that case was not decided "on the merits." We, thus, do the following: (1) reverse the district court's order granting Officer Spencer's Rule 12(b)(6) motion to dismiss the 2017 Action and remand for further proceedings, and (2) affirm the district court's order granting the Estate's and Cheyenne's Rule 12(b)(6) motions to dismiss the 2017 Action.
@@ -141,23 +140,19 @@ We address in Part B whether the judgments in the 1991 and 1992 Actions have cla
 
 In the following discussion, we address (1) our standard of review, (2) the general framework governing claim-preclusion, and (3) how that law applies to the 1991 and 1992 Actions. We conclude that the district court correctly held that the 1991 Action has claim-preclusive effect on the 2017 Action, but erred in holding that the 1992 Action has such effect. We, thus, affirm in part and reverse in part.
 
-##### Background Principles of Claim Preclusion
-
 Before proceeding further into our de novo review, we pause to frame the applicable claim-preclusion doctrine. "The principle underlying the rule of claim preclusion is that a party who once has had a chance to litigate a claim before an appropriate tribunal usually ought not have another chance to do so." "The preclusive effect of a federal-court judgment is determined by federal common law." We require defendants to prove three elements to prevail on this defense: "(1) a final judgment on the merits in an earlier action; (2) identity of parties or privies in the two suits; and (3) identity of the cause of action in both suits." "In addition, even if these three elements are satisfied, there is an exception to the application of claim preclusion where the party resisting it did not have a 'full and fair opportunity to litigate' the claim in the prior action."
 
 Although we have at times "characterized the 'full and fair opportunity to litigate' as a fourth requirement of res judicata," we have since clarified that "the absence of a full and fair opportunity to litigate is more appropriately treated as an exception to the application of claim preclusion when the three referenced requirements are met."
 
 In this case, Mr. Johnson concedes that the district court correctly ruled that the second and third elements of claim preclusion are satisfied here. See Thus, the judgments in the 1991 and 1992 Actions will have claim-preclusive effect against Mr. Johnson so long as they were "on the merits" and he had a "full and fair opportunity to litigate." Although Mr. Johnson argues that the 1992 Action did not provide him with a "full and fair opportunity to litigate," we do not address the merits of that argument because, as explicated below, we agree with his contention that the district court erred in holding that the judgment in that action was "on the merits." The 1992 Action, accordingly, should not have been given claim-preclusive effect. As for the 1991 Action, Mr. Johnson does not argue that the district court erred in concluding that it had entered a judgment "on the merits." Consequently, we take up below solely the question of whether Mr. Johnson had a "full and fair opportunity to litigate" his claims in the 1991 Action. We conclude that he did have such an opportunity. We, thus, affirm that aspect of the district court's claim-preclusion determination.
 
-##### Application
-
 In the following discussion, as indicated, we focus on whether the 1991 Action provided Mr. Johnson with a "full and fair opportunity to litigate" and whether the 1992 Action was adjudicated "on the merits." As to the 1991 Action, we conclude that Mr. Johnson had a "full and fair opportunity to litigate" his claims because the decision to conduct a bench trial that ostensibly deprived him of that opportunity presented a procedural issue that he had a full and fair opportunity to litigate before the district court, but then waived on appeal, even though he could have fully and fairly litigated it there as well. As to the 1992 Action, in contrast, we conclude that Mr. Johnson correctly contends that the action was not adjudicated "on the merits" because the district court expressly dismissed it as frivolous under the then-applicable 28 U.S.C. §1915(d). Accordingly, we affirm the district court's dismissal of the claims precluded by the 1991 Action---i.e., those against the Estate and Cheyenne---but reverse its dismissal of the claims ostensibly precluded by the 1992 Action---i.e., those against Officer Spencer.
 
-**The 1991 Action is entitled to claim-preclusive effect.**
+#### The 1991 Action is entitled to claim-preclusive effect.
 
 The parties dispute whether the 1991 Action is entitled to claim-preclusive effect and, more specifically, whether it constituted a "full and fair opportunity to litigate." Mr. Johnson also argues that, even if the 1991 Action might give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject both arguments and, thus, uphold the district court's dismissal of the claims against Cheyenne and the Estate, i.e., the parties to the 1991 Action.
 
-- _The "Full and Fair Opportunity to Litigate" Requirement_
+##### The "Full and Fair Opportunity to Litigate" Requirement
 
 The "full and fair opportunity to litigate" inquiry is a "narrow exception" that "applies only where the requirements of due process were not afforded---where a party shows 'a deficiency that would undermine the fundamental fairness of the original proceedings.'" "The fairness of the prior proceeding 'is determined by examining any procedural limitations, the party's incentive to fully litigate the claim, and whether effective litigation was limited by the nature or relationship of the parties.'" Here, Mr. Johnson argues, that the district court's decision in the 1991 Action to convene a bench trial instead of a jury trial was a procedural limitation that denied him a "full and fair opportunity to litigate" his claims. We disagree.
 
@@ -169,7 +164,7 @@ As in _Hanley_, so too here. Mr. Johnson had a full and fair opportunity to liti
 
 In sum, it is clear to us that Mr. Johnson cannot escape from the claim-preclusive effect of the 1991 Action based on a procedural argument that was previously litigated and adjudicated in that action and that he had an opportunity to appeal before that judgment became final. Consequently, we reject Mr. Johnson's contention that the 1991 Action did not provide him with a "full and fair opportunity to litigate."
 
-- _Cheyenne and the Estate carried their burden on the claim-preclusion defense._
+##### Cheyenne and the Estate carried their burden on the claim-preclusion defense.
 
 Mr. Johnson also contends that, even if the 1991 Action could give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject this argument.
 
@@ -181,7 +176,7 @@ It is beyond cavil that claim preclusion is an affirmative defense, as to which 
 
 In sum, we reject Mr. Johnson's argument that Cheyenne and the Estate have failed to muster legally sufficient proof to establish claim preclusion as to the 1991 Action.
 
-- _Heck v. Humphrey Redux_
+##### Heck v. Humphrey Redux
 
 Mr. Johnson also returns to an iteration of his _Heck_ argument. He argues that, under _Heck_, he could not have brought the claims in his 2017 Action until he was exonerated in 2013 and so the district court erred in deeming those claims precluded by his earlier actions. 
 
@@ -195,11 +190,11 @@ We, thus, reject Mr. Johnson's argument that the claims in the 2017 Action were 
 
 In sum, we hold that the claims in the 2017 Action against Cheyenne and the Estate are precluded by the 1991 Action. We, thus, affirm the dismissal of those claims.
 
-**The 1992 Action is not entitled to claim-preclusive effect.**
+#### The 1992 Action is not entitled to claim-preclusive effect.
 
 With respect to the 1992 Action, Mr. Johnson primarily disputes the first element of claim preclusion, i.e., whether there was "a final judgment on the merits." We recount the relevant procedural history before agreeing with Mr. Johnson that the 1992 Action was not adjudicated "on the merits" and, therefore, did not have claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's dismissal of the claims against Officer Spencer---the only defendant in the 1992 Action---and remand for further proceedings on those claims. Because we conclude that the 1992 Action was not adjudicated "on the merits," we need not entertain Mr. Johnson's separate argument that the 1992 Action did not afford him a "full and fair opportunity to litigate."
 
-- _Relevant Procedural History_
+##### Relevant Procedural History
 
 Mr. Johnson's 1992 Action was a §1983 suit alleging that Officer Spencer violated his due-process rights by providing false testimony about his eyeglasses at his criminal trial. The district court dismissed the complaint sua sponte with prejudice as frivolous, (1) noting that in the 1991 Action it had "concluded there were no facts justifying the plaintiff's claims that his constitutional rights were violated" and (2) holding that "the present complaint was simply another attempt by plaintiff to revisit the same claim that has previously been dismissed." The court reviewed the exhibits that Mr. Johnson had submitted with his complaint and concluded that they did not "establish even the slightest indication that Officer Spencer made false, or inconsistent statements at the trial." The court, in conclusion, observed that Mr. Johnson had "made no new argument in his complaint" and, thus, held that his complaint was "frivolous and completely devoid of merit." 
 
@@ -207,7 +202,7 @@ Further, the district court stated that "even assuming Mr. Johnson's constitutio
 
 On appeal from that judgment, we noted that the district court "dismissed the action as factually frivolous" and affirmed on the ground that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." 
 
-- _The "On the Merits" Requirement_
+##### The "On the Merits" Requirement
 
 As mentioned, a successful claim-preclusion defense requires "a final judgment on the merits in the earlier action." Mr. Johnson argues that the 1992 Action was not an adjudication "on the merits" because the suit was dismissed as frivolous. We agree.
 
@@ -253,7 +248,7 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 
 Ms. Hernandez claims that the Defendant, a debt collection agency, violated the Fair Debt Collection Practice Act (FDCPA), when it failed to communicate to Experian, a credit reporting agency that she disputed a debt she had incurred. Ms. Hernandez allegedly incurred a debt with Xcel Energy and defaulted on the debt. The account was transferred to the Defendant for collection. In May 2011, Ms. Hernandez reviewed a copy of her Experian credit report and saw the Defendant's entry for the Xcel account on the report. On May 5, 2011, she called the Defendant to dispute the account. In June, August, October, and November 2011, the Defendant allegedly failed to communicate to Experian that Ms. Hernandez's Xcel Energy account was disputed. Ms. Hernandez asserts that this "Complaint and Jury Demand only seeks relief for activity that occurred after August 7, 2011." She seeks statutory damages available under the FDCPA, as well as attorney fees and costs.
 
-By way of additional background, the Court notes that on July 1, 2011, Ms. Hernandez initiated Civil Action No. 11-cv-01729 (_Hernandez I_). In that case, Ms. Hernandez claimed that in June 2011, the Defendant violated the FDCPA by failing to report the Xcel Energy account as disputed between May 5, 2011 and July 1, 2011. She alleged violations of the FDCPA\. A two-day jury trial was held on September 10, 2012. The jury returned a verdict in favor of the Defendant. Final judgment was entered in _Hernandez I_ on September 21, 2012.
+By way of additional background, the Court notes that on July 1, 2011, Ms. Hernandez initiated [a prior suit] (_Hernandez I_). In that case, Ms. Hernandez claimed that in June 2011, the Defendant violated the FDCPA by failing to report the Xcel Energy account as disputed between May 5, 2011 and July 1, 2011. She alleged violations of the FDCPA. A two-day jury trial was held on September 10, 2012. The jury returned a verdict in favor of the Defendant. Final judgment was entered in _Hernandez I_ on September 21, 2012.
 
 As relevant here, the Defendant moved to dismiss Ms. Hernandez's claims in this case under the doctrine of _res judicata,_ also referred to as claim preclusion. The matter was referred to the Magistrate Judge, who recommends that the motion be granted. The Magistrate Judge found that Ms. Hernandez's claims must be dismissed because the claims asserted in this case arise from the same transaction, or series of transactions, as the claims asserted in _Hernandez I.
 
@@ -269,7 +264,7 @@ For the forgoing reasons, the Plaintiff's Objections are OVERRULED and the Recom
 
 ### Taylor v. Sturgell (U.S. 2008) 
 
-**Justice GINSBURG delivered the opinion of the Court.**
+#### Justice Ginsburg delivered the opinion of the Court.
 
 "It is a principle of general application in Anglo-American jurisprudence that one is not bound by a judgment _in personam_ in a litigation in which he is not designated as a party or to which he has not been made a party by service of process." Several exceptions, recognized in this Court's decisions, temper this basic rule. In a class action, for example, a person not named as a party may be bound by a judgment on the merits of the action, if she was adequately represented by a party who actively participated in the litigation. In this case, we consider for the first time whether there is a "virtual representation" exception to the general rule against precluding nonparties. Adopted by a number of courts, including the courts below in the case now before us, the exception so styled is broader than any we have so far approved.
 
@@ -289,7 +284,7 @@ To gain a certificate authorizing the manufacture and sale of the F-45, FEAC had
 
 Herrick then filed suit in the U.S. District Court for the District of Wyoming. Challenging the FAA's invocation of the trade-secret exemption, Herrick placed heavy weight on a 1955 letter from FEAC to the Civil Aeronautics Authority. The letter authorized the agency to lend any documents in its files to the public "for use in making repairs or replacement parts for aircraft produced by Fairchild." This broad authorization, Herrick maintained, showed that the F-45 certification records held by the FAA could not be regarded as "secret" or "confidential" within the meaning of §552(b)(4).
 
-Rejecting Herrick's argument, the District Court granted summary judgment to the FAA\. The 1955 letter, the court reasoned, did not deprive the F-45 certification documents of trade-secret status, for those documents were never in fact released pursuant to the letter's blanket authorization. The court also stated that even if the 1955 letter had waived trade-secret protection, Fairchild had successfully "reversed" the waiver by objecting to the FAA's release of the records to Herrick. 
+Rejecting Herrick's argument, the District Court granted summary judgment to the FAA. The 1955 letter, the court reasoned, did not deprive the F-45 certification documents of trade-secret status, for those documents were never in fact released pursuant to the letter's blanket authorization. The court also stated that even if the 1955 letter had waived trade-secret protection, Fairchild had successfully "reversed" the waiver by objecting to the FAA's release of the records to Herrick. 
 
 On appeal, the Tenth Circuit agreed with Herrick that the 1955 letter had stripped the requested documents of trade-secret protection. But the Court of Appeals upheld the District Court's alternative determination —_i.e.,_ that Fairchild had restored trade-secret status by objecting to Herrick's FOIA request. On that ground, the appeals court affirmed the entry of summary judgment for the FAA.
 
@@ -301,9 +296,9 @@ After Fairchild intervened as a defendant, the District Court in D.C\. concluded
 
 The record before the District Court in Taylor's suit revealed the following facts about the relationship between Taylor and Herrick: Taylor is the president of the Antique Aircraft Association, an organization to which Herrick belongs; the two men are "close associates"; Herrick asked Taylor to help restore Herrick's F-45, though they had no contract or agreement for Taylor's participation in the restoration; Taylor was represented by the lawyer who represented Herrick in the earlier litigation; and Herrick apparently gave Taylor documents that Herrick had obtained from the FAA during discovery in his suit.
 
-Fairchild and the FAA conceded that Taylor had not participated in Herrick's suit. The D.C\. District Court determined, however, that Herrick ranked as Taylor's virtual representative. Accordingly, the District Court held Taylor's suit, seeking the same documents Herrick had requested, barred by the judgment against Herrick. 
+Fairchild and the FAA conceded that Taylor had not participated in Herrick's suit. The D.C. District Court determined, however, that Herrick ranked as Taylor's virtual representative. Accordingly, the District Court held Taylor's suit, seeking the same documents Herrick had requested, barred by the judgment against Herrick. 
 
-The D.C\. Circuit affirmed. 
+The D.C. Circuit affirmed. 
 
 We granted certiorari, to resolve the disagreement among the Circuits over the permissibility and scope of preclusion based on "virtual representation."
 
@@ -331,7 +326,7 @@ Fourth, a nonparty is bound by a judgment if she "assumed control" over the liti
 
 Fifth, a party bound by a judgment may not avoid its preclusive force by relitigating through a proxy. Preclusion is thus in order when a person who did not participate in a litigation later brings suit as the designated representative of a person who was a party to the prior adjudication. And although our decisions have not addressed the issue directly, it also seems clear that preclusion is appropriate when a nonparty later brings suit as an agent for a party who is bound by a judgment. 
 
-Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ ["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office. A state may also use a _quo warranto_ action to revoke a corporation's charter. When bringing a petition for writ of _quo warranto_, individual members of the public have standing as citizens and taxpayers." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside} actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
+Sixth, ["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside} in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
 
 #### III
 
@@ -575,9 +570,9 @@ The district court granted Time Warner's motion for summary judgment in the _Coa
 
 > With regard to the ruling, NSS has failed to state a claim pursuant to the terms of the contracts at issue in this case as well as 47 United States Code Section 605.
 >  
-> > Paragraph 14(e) of the Television Licensing Agreement provides for the enforcement of unauthorized display of the closed circuit television feed. That also provides that Joe Hand Promotions the licensor of the event could not assert any piracy claim without prior notice.
+> Paragraph 14(e) of the Television Licensing Agreement provides for the enforcement of unauthorized display of the closed circuit television feed. That also provides that Joe Hand Promotions the licensor of the event could not assert any piracy claim without prior notice.
 > 
-> > > The agreement provides that a sublicensee NSS has no rights to enforceability, quote, "It being understood that your sublicensee shall have no right to commence or settle any claim or litigation hereunder."
+> The agreement provides that a sublicensee NSS has no rights to enforceability, quote, "It being understood that your sublicensee shall have no right to commence or settle any claim or litigation hereunder."
 > 
 > The other relevant agreement is the March 12, 1996 Closed Circuit Television Agreement entered into between the licensor and NSS.
 > 
@@ -593,7 +588,7 @@ Our circuit has held that a prior decision shall have preclusive effect on an is
 
 In the present case, the district court concluded that Time Warner had failed to establish the second and fourth elements of this test. Because Time Warner and NSS disagree as to whether these four elements were met, an analysis of each is necessary in order to decide if the district court erred by failing to give preclusive effect to the _Coach's Corner_ decision.
 
-**1\. Identity of issues**
+##### 1\. Identity of issues
 
 Time Warner argues that the _Coach's Corner_ court was faced with the precise threshold question that the district court encountered in the current case. This question is whether NSS has standing to sue under §605; in particular, whether NSS had a proprietary interest in the communication that was sent from Time Warner via its authorized residential-cable service to its pay-per-view customers. Time Warner further contends that the bifurcation of the satellite transmission of the Holyfield/Czyz boxing match at issue in _Coach's Corner_ was identical to the manner in which the event in question was sent to Time Warner and NSS in Ohio on December 14, 1996.
 
@@ -601,7 +596,7 @@ NSS counters that there is no identity of issues in these two cases. First, it c
 
 We believe that Time Warner's argument is the more persuasive on this "identity of issues" element. Although HBO and pay-per-view are different subscriber services, the key issue in both cases is the same — the consequences of a commercial establishment gaining access to view a boxing match by being inaccurately listed as a residential customer of Time Warner. As a result, Time Warner has satisfied the first element for issue preclusion.
 
-**2\. Necessary to the outcome of the prior proceeding**
+##### 2\. Necessary to the outcome of the prior proceeding
 
 The district court held that Time Warner failed to establish that NSS's lack of standing under §605 was necessary to the grant of summary judgment for Time Warner in _Coach's Corner._ It determined that the _Coach's Corner_ decision was instead primarily based on the conclusion that NSS was contractually barred from pursuing an action against Time Warner because of the particular language in the license agreements involved in that case. As such, it held that the alternative ground in _Coach's Corner_ for granting Time Warner's motion for summary judgment — namely, that NSS was not a "person aggrieved" under §605 — was not necessary to that court's judgment.
 
@@ -615,11 +610,11 @@ We find NSS's point persuasive because, while it might have won the "battle" ove
 
 This circuit has not decided whether alternative grounds for a judgment are each "necessary to the outcome" for the purposes of issue preclusion in a subsequent case involving only one of the grounds. Based on the actual decision in _Coach's Corner,_ we do not find it necessary to fully resolve this issue at the present time. We do hold, however, that where, as in _Coach's Corner,_ one ground for the decision is clearly primary and the other only secondary, the secondary ground is not "necessary to the outcome" for the purposes of issue preclusion. _Coach's Corner's_ secondary holding that NSS failed to state a claim under §605 was thus not necessary to the granting of Time Warner's motion for summary judgment.
 
-**3\. Final judgment on the merits**
+##### 3\. Final judgment on the merits
 
 Although the district court held that the _Coach's Corner_ decision was a final judgment on the merits for the purpose of issue preclusion, NSS argues that it was not. In particular, it claims that the court's judgment in _Coach's Corner_ was a dismissal of NSS's suit without prejudice for failure to state a claim. This argument is without merit. _Coach's Corner_ granted Time Warner's motion for summary judgment pursuant to Rule 56 of the Federal Rules of Civil Procedure. Furthermore, the district court made clear that its judgment was final. It recognized that "both parties will more than likely have a disagreement over everything I say, pretty much, and you can take it up to the Sixth Circuit and they can tell us whether I was right or wrong." Finally, summary judgment is recognized as a final judgment for the purpose of issue preclusion. Time Warner has therefore satisfied this third element for issue preclusion.
 
-**4\. Full and fair opportunity to litigate**
+##### 4\. Full and fair opportunity to litigate
 
 Turning to the final element, Time Warner contends that the district court in _Coach's Corner_ granted its motion for summary judgment after full briefing and argument, and that both parties had a sufficient opportunity to litigate the §605 issue before that court. NSS, however, argues that the district court in _Coach's Corner_ primarily focused on the question of whether NSS's license agreement contractually barred it from initiating a suit against Time Warner. It therefore contends that the question of whether NSS had a proprietary right in the communication under §605 was secondary. The district court agreed with NSS.
 
@@ -677,7 +672,7 @@ The elements of offensive issue preclusion (that is, issue preclusion asserted b
 
 In order for Plaintiff to satisfy the first element of issue preclusion — identity of issues — Plaintiff must show that the state court's decision quieting legal title to the Decoursey Pike property in the Partnership answers whether the estate has any interest in the property under §541. Plaintiff cannot make that showing, because the property interests encompassed by §541 are not limited to legal title.
 
-Section 541 states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case." Possessory interests ["Possessory interest refers to the right of an individual to occupy a piece of land or possess a piece of property. A person with a possessory interest does not own the property, but the person has some present right to control it such as a lease." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)]{.aside} are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
+Section 541 ["Possessory interest refers to the right of an individual to occupy a piece of land or possess a piece of property. A person with a possessory interest does not own the property, but the person has some present right to control it such as a lease." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)]{.aside} states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case." Possessory interests are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
 
 The state-court judgment, while preclusively quieting legal title to the Decoursey Pike property in the Partnership, did not address any possessory interest that Debtor — whose schedules indicate she resides at the property — may have. Therefore, the issue the state court decided is not identical to the issue of whether the estate has an interest under §541 in the Decoursey Pike property. Plaintiff is not entitled to judgment on the pleadings on this count.
 
@@ -789,7 +784,7 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 
 ### Parklane Hosiery Co. v. Shore (U.S. 1978) 
 
-**Justice Stewart delivered the opinion of the Court.**
+#### Justice Stewart delivered the opinion of the Court.
 
 This case presents the question whether a party who has had issues of fact adjudicated adversely to it in an equitable action may be collaterally estopped from relitigating the same issues before a jury in a subsequent legal action brought against it by a new party.
 
@@ -886,4 +881,3 @@ Guy then files a lawsuit in Hudson federal court against Elke Corp. (which has j
 _May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
 
 _May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_
- 

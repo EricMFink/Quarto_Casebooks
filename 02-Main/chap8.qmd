@@ -202,8 +202,6 @@ In addition to the materials produced in discovery, the record may also include 
 
 ### Stout v. Vincent (5th Cir. 2018) 
 
-**Per Curiam**
-
 We decide whether the district court erred when granting summary judgment in favor of a police officer on the racial profiling claims of a black couple. The district court found that the couple failed to raise any genuine issue of material fact showing that the officer violated their equal protection rights under the Fourteenth Amendment. We affirm.
 
 #### Facts and Proceedings
@@ -230,9 +228,7 @@ Stout and Montgomery sued Officer Vincent, seeking injunctive relief and damages
 
 On appeal, Stout and Montgomery raise only one issue: whether the district court erred when concluding there was no genuine issue of material fact that Officer Vincent's actions were impermissibly motivated by race.
 
-#### Legal Standard
-
-##### Summary Judgment
+#### Summary Judgment
 
 Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
 
@@ -240,7 +236,7 @@ If the moving party meets its burden, "the nonmovant must go beyond the pleading
 
 A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
-##### Fourteenth Amendment Racial Profiling
+#### Fourteenth Amendment Racial Profiling
 
 "The Constitution prohibits selective enforcement of the law based on considerations such as race." "The constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause." 
 
@@ -250,29 +246,27 @@ In another context, we have said that a plaintiff's "subjective belief of discri
 
 Finally, "discriminatory intent of one official may not be imputed to another for purposes of imposing individual liability under the civil rights laws."
 
-#### Lack of Evidence of Fourteenth Amendment Violation
-
 The district court concluded that Montgomery and Stout "have not presented any evidence to support their claim" that Officer Vincent's decision to detain them was "at least partially based on their race." The district court further concluded that Montgomery and Stout "have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable Montgomery have failed to produce _any_ material evidence showing that race motivated Officer Vincent's conduct, we need not address the issue. suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion."
 
 On appeal, Montgomery and Stout detail the evidence they claim demonstrates Officer Vincent's discriminatory intent and unequal treatment:
 
-• They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
+- • They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
 
-• They are both black.
+- • They are both black.
 
-• They were driving a Lexus SUV.
+- • They were driving a Lexus SUV.
 
-• Stout believed "they were being held because they are African American and for no other reason."
+- • Stout believed "they were being held because they are African American and for no other reason."
 
-• Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
+- • Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
 
-• Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
+- • Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
 
-• No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
+- • No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
 
-• They both stated there was no marijuana in the car that day.
+- • They both stated there was no marijuana in the car that day.
 
-• On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
+- • On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
 
 In light of this evidence, Montgomery and Stout argue that the district court misapplied the summary judgment standard when it concluded that they failed to raise a genuine issue of material fact. They stress that, after the Supreme Court's decision in _Tolan,_ this evidence must be viewed as a whole, and not in individual pieces. And the evidence must be viewed in a light most favorable to them.
 
@@ -306,9 +300,9 @@ Schlimazel submitted a sworn affidavit from her neighbor. Freddie Frankel. Frank
 
 Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his deposition that he designed the Swivel Tub Chair. Mebelmacher licensed the design to Hahn, Inc., which is the exclusive licensed manufacturer of the chairs. 
 
-The chair consists of a “tub” seat attached to a plywood base in a manner that permits the “tub” to tilt and swivel. A chrome veneer, about one-sixteenth of an inch thick, is affixed to the outside of the base. The diameter of the base is about two inches less than the diameter of the tub, and the bottom of the tub is about three inches off the floor.
+The chair (Mebelmacher Deposition, Exhibit A) consists of a “tub” seat attached to a plywood base in a manner that permits the “tub” to tilt and swivel. A chrome veneer, about one-sixteenth of an inch thick, is affixed to the outside of the base. The diameter of the base is about two inches less than the diameter of the tub, and the bottom of the tub is about three inches off the floor.
 
-![](../img/TubChair.jpg)
+![Mebelmacher Deposition, Exhibit A](../img/TubChair.jpg){width=66%}
 
 The chair was designed for residential use. Mebelmacher assumes that people commonly walk barefoot in their homes. Nonetheless, he never anticipated that someone might put their foot in the area between the tub seat and the top of the base. 
 
@@ -324,7 +318,7 @@ Julius Hahn, founder and president of Hahn, Inc., testified that his company man
 
 Mebelmacher generally furnishes Hahn with a pencil sketch of the furniture design, as well as a working sketch giving the actual dimensions of the piece and specifying the exterior material to be used. The Swivel Tub Chair was designed so that the chrome veneer edge would be flush with the plywood and the edges of the veneer would be sanded down. Chrome veneer is sharp because it is thin. However, the chair was not designed to have sharp edges. Hahn considers a sharp edge to be a manufacturing defect, not a design defect. Nothing prevented the placement of a protective trim along the bottom of the Swivel Tub Chair. Plastic edge guards have been added to similar chairs in the last few years.
 
-[{{< bi three-dots >}}]{.center-icon}
+---
 
 Under the applicable state law, the elements of Schlimazel’s claim is as follows:
 

@@ -5,9 +5,9 @@
 \PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-  letter,
+  letterpaper,
   11pt,
-  DIV=8,
+  DIV=9,
   openright]{scrbook}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb}
@@ -109,8 +109,6 @@
 
 %\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
 
-%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
-
 \usepackage{scrlayer-scrpage}
 \usepackage{needspace}
 \usepackage[]{titlesec}
@@ -120,7 +118,7 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 
-%\usepackage[defaultlines=4,all]{nowidow}
+%\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
 
@@ -144,9 +142,12 @@
     ItalicFont     = adelle-sans-light-italic.otf ,
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
+
 \renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\footnotesize}
+\renewcommand{\captionsize}{\small\itshape}
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+\renewcommand*{\raggedleftmarginnote}{\raggedright}
 
 \usepackage{enumitem}
 \setlist[itemize]{label={}}
@@ -204,6 +205,7 @@
 
 \newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
 
+\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
 \renewcommand*{\captionformat}{}
 
@@ -349,7 +351,7 @@ Greensboro, North Carolina 27408 \\
 
 Source code: \url{https://github.com/EricMFink/CivProCasebook}
 
-\itshape{version 4.1, }
+\itshape{version 4.1, August 2025}
 
 \end{small}
 \endgroup
@@ -445,7 +447,7 @@ to him, since he can no longer lift up his stiffening body.
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/Mann_zwischen_Gittern.png}
+{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{Mann_zwischen_Gittern.png}
 
 }
 
@@ -525,7 +527,7 @@ federal cases, including bankruptcy cases.
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/FedCourtsMap.png}}
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{FedCourtsMap.png}
 
 }
 
@@ -1238,11 +1240,11 @@ state law, which state---will apply to the various issues in the case.
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/CivilAction1.png}
+{\centering \includegraphics[width=0.6\linewidth,height=\textheight,keepaspectratio]{CivilAction1.png}
 
 }
 
-\caption{Stages of a Civil Suit, pt.~1}
+\caption{Stages of a Civil Suit, part 1}
 
 \end{figure}%
 
@@ -1260,11 +1262,11 @@ record (Summary Judgment).
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/CivilAction2.png}
+{\centering \includegraphics[width=0.6\linewidth,height=\textheight,keepaspectratio]{CivilAction2.png}
 
 }
 
-\caption{Stages of a Civil Suit, pt.~2}
+\caption{Stages of a Civil Suit, part 2}
 
 \end{figure}%
 
@@ -1963,11 +1965,11 @@ not pertain to the TCPA claim, such as proof of Ginwright's failure to
 make car payments and evidence that Exeter did or did not repossess the
 car and resell it in accordance with Maryland's CLEC requirements.
 
-Third, \emph{res judicata} would not bar a subsequent suit on the breach
-of contract counterclaim. ``The preclusive effect of a federal-court
-judgment is determined by federal common law.'' An action is precluded
-when: {\marginnote{\begin{footnotesize}\emph{Res judicata} (claim
-preclusion) is covered in Chap. 7.\end{footnotesize}}}
+Third, \emph{res judicata} {\marginnote{\begin{footnotesize}\emph{Res
+judicata} (claim preclusion) is covered in Chap. 7.\end{footnotesize}}}
+would not bar a subsequent suit on the breach of contract counterclaim.
+``The preclusive effect of a federal-court judgment is determined by
+federal common law.'' An action is precluded when:
 
 \begin{quote}
 1) the prior judgment was final and on the merits, and rendered by a
@@ -2364,8 +2366,6 @@ Defendants'') Motion to Dismiss Defendant Marcus Smith's (``Smith'')
 Cross-claim and Third-party Complaint. For the reasons stated below, the
 Motion to Dismiss is hereby GRANTED.
 
-\subsubsection{Factual Background}\label{factual-background}
-
 Until August of 2000, Smith served as a principal of the Leak Street
 Alternative School, part of the Richmond County School System overseen
 by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy
@@ -2440,9 +2440,6 @@ response, the School Defendants have filed the Motion to Dismiss now
 before the Court, asserting that dismissal of Smith's cross-claim and
 third-party complaint is proper pursuant to Rule 12(b)(6) for failure to
 state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
-
-\subsubsection{Discussion of Defendant's Motion to
-Dismiss}\label{discussion-of-defendants-motion-to-dismiss}
 
 When a co-defendant asserts a cross-claim against a co-defendant, as
 Smith now asserts against the Board, the co-defendant's cross-claim must
@@ -2730,7 +2727,15 @@ hold someone else (D2) responsible for all (indemnification) or part
 (contribution) of the amount of a judgment against D1 in favor of
 another party (P1).
 
-\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/Indemnification_Contribution.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{Indemnification_Contribution.png}
+
+}
+
+\caption{Indemnification and Contribution}
+
+\end{figure}%
 
 D2 may already be a party to the lawsuit (i.e.~P1 has joined D2 as a
 co-defendant under Rule 20), in which case D2 would assert a crossclaim
@@ -3003,8 +3008,6 @@ should not preclude its prosecution. So here.
 \subsection{Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C.
 2002)}\label{kirkcaldy-v.-richmond-county-bd.-of-ed-m.d.n.c.-2002-1}
 
-\subsubsection{Factual Background}\label{factual-background-1}
-
 Until August of 2000, Smith served as a principal of the Leak Street
 Alternative School, part of the Richmond County School System overseen
 by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy
@@ -3079,9 +3082,6 @@ response, the School Defendants have filed the Motion to Dismiss now
 before the Court, asserting that dismissal of Smith's cross-claim and
 third-party complaint is proper pursuant to Rule 12(b)(6) for failure to
 state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
-
-\subsubsection{Discussion of Defendant's Motion to
-Dismiss}\label{discussion-of-defendants-motion-to-dismiss-1}
 
 In addition to the Board's argument for dismissal of Smith's claim
 against it, the School Defendants' Motion to Dismiss also requests that
@@ -3710,302 +3710,6 @@ of the provisions of Rule 19(a). Because the threshold requirements Rule
 19(a) are not met, it is therefore unnecessary for the Court to conduct
 a Rule 19(b) analysis.
 
-\section{Intervention}\label{intervention}
-
-\subsection{Fed. R. Civ. P. Rule 24}\label{fed.-r.-civ.-p.-rule-24}
-
-(a) Intervention of Right. On timely motion, the court must permit
-anyone to intervene who:
-
-\begin{itemize}
-\item
-  (1) is given an unconditional right to intervene by a federal statute;
-  or
-\item
-  (2) claims an interest relating to the property or transaction that is
-  the subject of the action, and is so situated that disposing of the
-  action may as a practical matter impair or impede the movant's ability
-  to protect its interest, unless existing parties adequately represent
-  that interest.
-\end{itemize}
-
-(b) Permissive Intervention.
-
-\begin{itemize}
-\item
-  (1) In General. On timely motion, the court may permit anyone to
-  intervene who:
-
-  \begin{itemize}
-  \item
-    (A) is given a conditional right to intervene by a federal statute;
-    or
-  \item
-    (B) has a claim or defense that shares with the main action a common
-    question of law or fact.
-  \end{itemize}
-\item
-  (3) Delay or Prejudice. In exercising its discretion, the court must
-  consider whether the intervention will unduly delay or prejudice the
-  adjudication of the original parties' rights.
-\end{itemize}
-
-\subsection{Amador County, Cal. v. US Dept. of the Interior (D.C. Cir.
-2014)}\label{amador-county-cal.-v.-us-dept.-of-the-interior-d.c.-cir.-2014}
-
-\textbf{SENTELLE, Senior Circuit Judge}
-
-In 2005, Amador County, California brought suit against the Department
-of Interior challenging the Secretary's approval of a gaming compact
-between the Buena Vista Rancheria of Me-Wuk Indians (the ``Tribe'') and
-the State of California. After nearly six-and-a-half years of
-litigation, the Tribe sought to intervene for the limited purpose of
-moving to dismiss the amended complaint under Federal Rule of Civil
-Procedure 19. The district court denied the motion as untimely, and this
-appeal followed. Because we conclude that the district court did not
-abuse its discretion, we affirm.
-
-\subsubsection{BACKGROUND}\label{background-2}
-
-The Buena Vista Rancheria of Me-Wuk Indians is a federally recognized
-Indian tribe that occupies a 67-acre parcel of land located entirely
-within Amador County, California. In 1999, the Tribe negotiated a gaming
-compact with the State of California under the Indian Gaming Regulatory
-Act (``IGRA''), and submitted the compact to the Secretary of the
-Interior for approval. Under the IGRA, once the Tribe submits a gaming
-compact to the Secretary, the Secretary can either approve the compact;
-disapprove the compact, if it violates certain federal laws; or do
-nothing. If the Secretary does nothing, the compact is deemed approved
-after forty-five days. In 2000, the Secretary approved the compact. In
-2004, the Tribe submitted an amended gaming compact to the Secretary.
-This time, the Secretary took no action on the amended compact for
-forty-five days, at which point the compact was deemed approved by
-operation of law.
-
-In April 2005, Amador County challenged the Secretary's ``no-action''
-approval of the amended compact, arguing that the Tribe's land fails to
-qualify as ``Indian lands''---a statutory requirement for gaming under
-the IGRA. On July 22, 2005, Interior filed a motion to dismiss the case,
-arguing that the County's claims were not subject to judicial review
-under the Administrative Procedure Act (``APA''). Shortly thereafter,
-the Tribe sought leave to participate in the case as amicus curiae. The
-Tribe argued that the suit had to be dismissed under Rule 19 of the
-Federal Rules of Civil Procedure because the Tribe was an indispensable
-party to the litigation, and the Tribe is protected by sovereign
-immunity so that the litigation could not proceed. The Tribe also
-claimed that Interior did not adequately represent the Tribe's
-interests. The district court denied the Tribe's motion without
-explanation.
-
-In 2008, while Interior's motion to dismiss was still pending, Amador
-County filed an amended complaint, and Interior again moved to dismiss.
-The district court granted Interior's motion, finding that the
-Secretary's ``no action'' approval was ``unreviewable,'' as the decision
-to approve a gaming compact is committed to agency discretion. Amador
-County appealed to this court. We reversed.
-
-Following this court's remand, the district court ordered the parties to
-file a Joint Status Report by November 7, 2011. Three days before the
-parties filed the Joint Status Report, the Tribe filed its motion to
-intervene. In June 2013, the district court denied as untimely the
-Tribe's motion to intervene, noting that the parties' Joint Status
-Report stated that the case is ``ready for oral argument and decision on
-the merits.'' The Tribe now appeals the district court's denial of its
-motion for intervention.
-
-\subsubsection{ANALYSIS}\label{analysis}
-
-Intervention of right as sought by appellant is governed by Federal Rule
-of Civil Procedure 24. That rule provides:
-
-\begin{quote}
-(a) Intervention of Right. On timely motion, the court must permit
-anyone to intervene who:
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-(1) is given an unconditional right to intervene by a federal statute;
-or
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-(2) claims an interest relating to the property or transaction that is
-the subject of the action, and is so situated that disposing of the
-action may as a practical matter impair or impede the movant's ability
-to protect its interest, unless existing parties adequately represent
-that interest.
-\end{quote}
-\end{quote}
-
-Under that rule, a district court must grant a motion to intervene if
-the motion is timely, and the prospective intervenor claims a legally
-protected interest in the action, and the action threatens to impair
-that interest, unless that interest is adequately represented by
-existing parties. At the threshold, however, the motion to intervene
-must be timely. If the motion is untimely, the explicit language of the
-rule dictates that ``intervention must be denied.''
-
-Timeliness ``is to be judged in consideration of all the circumstances,
-especially weighing the factors of time elapsed since the inception of
-the suit, the purpose for which intervention is sought, the need for
-intervention as a means of preserving the applicant's rights, and the
-probability of prejudice to those already parties in the case.'' We
-review the district court's denial of intervention for untimeliness
-under the abuse of discretion standard. A district court abuses its
-discretion when it applies the wrong legal standard or relies on clearly
-erroneous findings of fact.
-
-In this case, after setting forth the timeliness test, the district
-court found that the Tribe's motion for intervention was untimely. The
-district court found that the Tribe, from the outset of this litigation,
-both knew that the suit could adversely affect its rights, and
-questioned the adequacy of the United States' representation. The
-district court reasoned that regardless of whether it measured the
-elapsed time from the time when the prospective intervenor ``\,`knew or
-should have known that any of its rights would be directly affected by
-the litigation,'\,'' or when the ``\,`potential inadequacy of
-representation came into existence,'\,'' timeliness weighs against the
-The district court also considered the Tribe's purpose for intervention,
-namely to file a Rule 19 motion, and noted that the Tribe's need to
-intervene to maintain its sovereign immunity was a ``significant
-factor'' weighing in favor of allowing intervention. Lastly, the
-district court found that granting the Tribe's motion will ``further
-delay resolution of the merits to the detriment of the existing
-parties,'' since the case was otherwise ready for a decision on the
-merits. Weighing all these factors, the district court found that the
-Tribe's motion was untimely. Having considered ``all the
-circumstances,'' we conclude that the district court did not abuse its
-discretion.
-
-Nevertheless, the Tribe offers multiple arguments for reversing the
-judgment. First, the Tribe asserts that the district court
-``undervalued'' the Tribe's purpose for intervention, that is, to seek
-dismissal of the action on the basis of the Tribe's sovereign immunity.
-The Tribe, argues that because sovereign immunity is jurisdictional, or
-at least quasi-jurisdictional, the district court had a ``heightened
-duty'' to ``weigh heavily'' the Tribe's purpose for intervention.
-
-The Tribe's argument fails. We have never held that a district court
-must give extra weight or special consideration to a sovereign's purpose
-for intervention. We have held that a decision maker abuses its
-discretion if it fails to consider a relevant factor. Such is the
-holding of \emph{Acree,} where this court reversed a district court's
-finding of untimeliness because it ``failed to weigh the purposes for
-which the Government sought to intervene.'' In this case, the district
-court considered all the relevant factors, including the Tribe's purpose
-for intervention, and we will not disturb its judgment.
-
-Next, the Tribe argues that the district court abused its discretion by
-using the wrong date in computing the elapsed time. As the Tribe
-correctly notes, and as the district court acknowledged, courts measure
-elapsed time from when the ``potential inadequacy of representation
-comes into existence.''The Tribe contends that a conflict of interest
-did not arise until 2011, when the government, in a separate but related
-proceeding, acknowledged that a Rule 19 defense was available but
-refused to assert it because of the United States' interest in seeking a
-resolution to this case on the merits. Accordingly, the Tribe argues
-that the district court should have used 2011, instead of 2005, when
-weighing the elapsed time factor. We disagree.
-
-Nothing changed in 2011 that warrants using that date in computing the
-elapsed time. In 2005, the Tribe, in the amicus curiae brief it
-proffered to the district court, argued that it was an indispensable
-party to the litigation, that the suit should be dismissed under Rule
-19, and the government's representation of the Tribe's interests may be
-inadequate. Thus, at a minimum, the Tribe and the government knew as
-early as 2005 that a Rule 19 defense was available. Yet the government
-never asserted this defense, even though it had the opportunity to do so
-in its 2008 motion to dismiss. That record belies the notion that the
-Tribe could have expected inadequate representation from the government
-after, but not before, 2011. Indeed, the Tribe all but admits as much by
-stating it had ``earlier concerns about a potential conflict of interest
-in the United States' representation.''
-
-The Tribe seeks to avoid this conclusion by arguing that it was not
-until 2011 that its suspicion of inadequate representation became a
-reality. Yet the Tribe argued in 2005 that ``the presence of the United
-States in this case does not fully protect the Tribe's interests.'' The
-record demonstrates that the Tribe knew in 2005 as well that the United
-States might not adequately represent the Tribe's interest. Therefore,
-the district court did not abuse its discretion in using 2005 as the
-relevant date in its elapsed time analysis.
-
-Lastly, the Tribe argues that even if the district court used the
-correct date in the elapsed time analysis, the district court erred
-because it treated the elapsed time analysis as determinative. According
-to the Tribe, the district court conflated the elapsed time with the
-prejudice analysis by focusing exclusively on the delay the motion for
-intervention will cause, instead of further analyzing how the delay will
-prejudice the parties.
-
-As we recently stated, the length of time passed ``\,`is not in itself
-the determinative test.'\,'' This is because ``we do not require
-timeliness for its own sake.'' Rather, ``the requirement of timeliness
-is aimed primarily at preventing potential intervenors from unduly
-disrupting litigation, to the unfair detriment of the existing
-parties.'' Accordingly, in assessing timeliness, a district court must
-weigh whether the intervention will ``\,`\emph{unfairly} disadvantage
-the original parties.'\,''
-
-The district court in this case found that the case was ready for a
-decision on the merits, and that the Tribe's intervention would delay
-resolution of the merits. We have previously concluded that the delay
-caused by a potential intervenor was sufficient to constitute prejudice
-where a decision on the merits was pending.
-
-In this case, the County filed the complaint over nine years ago. In
-November 2011, the County and Interior agreed that the case was ``ready
-for oral argument and decision on the merits.'' The Tribe's motion for
-intervention and the subsequent appeal have delayed a decision on the
-merits for three years. If the Tribe's motion were granted, a resolution
-of this case would be further delayed as the district court at the very
-least would need to accept briefing on the Tribe's Rule 19 motion, hear
-argument, and rule on the motion. On such facts, we cannot say that the
-district court abused its discretion in finding that the Tribe's
-intervention would cause prejudicial delay.
-
-Because we conclude that the district court did not abuse its discretion
-on the threshold question of timeliness, we need not reach the Tribe's
-argument that the United States does not adequately represent its
-interest.
-
-\textbf{RANDOLPH, Senior Circuit Judge, concurring}
-
-I agree that the Tribe's motion to intervene pursuant to Rule 24 of the
-Federal Rules of Civil Procedure was untimely. I write separately to
-mention another basis for denying the motion.
-
-Under Rule 24(a)(2), the motion to intervene must not only be timely,
-but also the movant must claim
-
-\begin{quote}
-an interest relating to the property or transaction that is the subject
-of the action, and be so situated that disposing of the action may as a
-practical matter impair or impede the movant's ability to protect its
-interest, unless existing parties adequately represent that interest.
-\end{quote}
-
-Fed.R.Civ.P. 24(a)(2).
-
-The Tribe wanted to intervene in order to assert that it was an
-indispensable party under Rule 19(a). The idea being that the Tribe
-could then invoke its sovereign immunity and have the court dismiss
-Amador County's action against the Department of the Interior. In terms
-of Rule 24(a)(2), the Tribe claimed that the United States did not
-``adequately represent'' the Tribe's ``interest''---which the Tribe
-defined as its sovereign immunity.
-
-The strategy was clever but it would not have worked. The Tribe's
-interest in its sovereign immunity was not---in the words of Rule
-24(a)(2)---``an interest relating to the property or transaction that is
-the subject of the action.'' The very point of the Tribe's motion was to
-inject sovereign immunity into the case. The Tribe therefore would not
-have qualified for intervention as of right even if it had timely filed
-its motion.
-
 \section{Review Questions}\label{review-questions}
 
 Mrs.~Claypool, an aspiring society matron, hears that the director of
@@ -4096,7 +3800,15 @@ proper under the FRCP:
   accordance with the contract that Driftwood signed.
 \end{enumerate}
 
-\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/JoinderProblem.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{JoinderProblem.png}
+
+}
+
+\caption{Parties \& Claims in Claypool v. Gottlieb}
+
+\end{figure}%
 
 \chapter{Personal Jurisdiction}\label{personal-jurisdiction}
 
@@ -4118,7 +3830,8 @@ property, without due process of law; \ldots.
 \subsection{Pennoyer v. Neff (U.S.
 1878)}\label{pennoyer-v.-neff-u.s.-1878}
 
-\textbf{MR. JUSTICE FIELD delivered the opinion of the court.}
+\subsubsection{Justice Field delivered the opinion of the
+court.}\label{justice-field-delivered-the-opinion-of-the-court.}
 
 This is an action to recover the possession of a tract of land, of the
 alleged value of \$15,000, situated in the State of Oregon. The
@@ -4165,60 +3878,61 @@ connection with the case was caused by a levy of the execution. It was
 not, therefore, disposed of pursuant to any adjudication, but only in
 enforcement of a personal judgment, having no relation to the property,
 rendered against a non-resident without service of process upon him in
-the action, or his appearance therein. The court below did not consider
-that an attachment of the property was essential to its jurisdiction or
-to the validity of the sale, but held that the judgment was invalid from
-defects in the affidavit {\marginnote{\begin{footnotesize}The Supreme
-Court held that a challenge to the form of the affidavit could only be
-raised on a direct appeal, not a collateral attack.\end{footnotesize}}}
-upon which the order of publication was obtained, and in the affidavit
-by which the publication was proved.
+the action, or his appearance therein.
+{\marginnote{\begin{footnotesize}The Supreme Court held that a challenge
+to the form of the affidavit could only be raised on a direct appeal,
+not a collateral attack.\end{footnotesize}}} The court below did not
+consider that an attachment of the property was essential to its
+jurisdiction or to the validity of the sale, but held that the judgment
+was invalid from defects in the affidavit upon which the order of
+publication was obtained, and in the affidavit by which the publication
+was proved.
 
-It was also contended in that court, and is insisted upon here, that the
-judgment in the State court against the plaintiff was void for want of
-personal service of process on him, or of his appearance in the action
-in which it was rendered, and that the premises in controversy could not
-be subjected to the payment of the demand of a resident creditor except
-by a proceeding \emph{in rem};{\marginnote{\begin{footnotesize}``In-rem
-jurisdiction refers to the power of a court over an item of real or
-personal property. The''thing'' over which the court has power may be a
-piece of land or even a marriage. Thus, a court with only in-rem
-jurisdiction may terminate a marriage or declare who owns a piece of
-land. In-rem jurisdiction is based on the location of the property and
-enforcement follows property rather than person.''
-\href{https://www.law.cornell.edu/wex/in_rem}{Wex Legal
-Dictionary}.\end{footnotesize}}} that is, by a direct proceeding against
-the property for that purpose. If these positions are sound, the ruling
-of the Circuit Court as to the invalidity of that judgment must be
-sustained, notwithstanding our dissent from the reasons upon which it
-was made. And that they are sound would seem to follow from two
-well-established principles of public law respecting the jurisdiction of
-an independent State over persons and property. The several States of
-the Union are not, it is true, in every respect independent, many of the
-rights and powers which originally belonged to them being now vested in
-the government created by the Constitution. But, except as restrained
-and limited by that instrument, they possess and exercise the authority
-of independent States, and the principles of public law to which we have
-referred are applicable to them. One of these principles is, that every
-State possesses exclusive jurisdiction and sovereignty over persons and
-property within its territory. As a consequence, every State has the
-power to determine for itself the civil status and capacities of its
-inhabitants; to prescribe the subjects upon which they may contract, the
-forms and solemnities with which their contracts shall be executed, the
-rights and obligations arising from them, and the mode in which their
-validity shall be determined and their obligations enforced; and also to
-regulate the manner and conditions upon which property situated within
-such territory, both personal and real, may be acquired, enjoyed, and
-transferred. The other principle of public law referred to follows from
-the one mentioned; that is, that no State can exercise direct
-jurisdiction and authority over persons or property without its
-territory. The several States are of equal dignity and authority, and
-the independence of one implies the exclusion of power from all others.
-And so it is laid down by jurists, as an elementary principle, that the
-laws of one State have no operation outside of its territory, except so
-far as is allowed by comity; and that no tribunal established by it can
-extend its process beyond that territory so as to subject either persons
-or property to its decisions.
+It was also contended in that court,
+{\marginnote{\begin{footnotesize}``In-rem jurisdiction refers to the
+power of a court over an item of real or personal property. The''thing''
+over which the court has power may be a piece of land or even a
+marriage. Thus, a court with only in-rem jurisdiction may terminate a
+marriage or declare who owns a piece of land. In-rem jurisdiction is
+based on the location of the property and enforcement follows property
+rather than person.'' \href{https://www.law.cornell.edu/wex/in_rem}{Wex
+Legal Dictionary}.\end{footnotesize}}} and is insisted upon here, that
+the judgment in the State court against the plaintiff was void for want
+of personal service of process on him, or of his appearance in the
+action in which it was rendered, and that the premises in controversy
+could not be subjected to the payment of the demand of a resident
+creditor except by a proceeding \emph{in rem}; that is, by a direct
+proceeding against the property for that purpose. If these positions are
+sound, the ruling of the Circuit Court as to the invalidity of that
+judgment must be sustained, notwithstanding our dissent from the reasons
+upon which it was made. And that they are sound would seem to follow
+from two well-established principles of public law respecting the
+jurisdiction of an independent State over persons and property. The
+several States of the Union are not, it is true, in every respect
+independent, many of the rights and powers which originally belonged to
+them being now vested in the government created by the Constitution.
+But, except as restrained and limited by that instrument, they possess
+and exercise the authority of independent States, and the principles of
+public law to which we have referred are applicable to them. One of
+these principles is, that every State possesses exclusive jurisdiction
+and sovereignty over persons and property within its territory. As a
+consequence, every State has the power to determine for itself the civil
+status and capacities of its inhabitants; to prescribe the subjects upon
+which they may contract, the forms and solemnities with which their
+contracts shall be executed, the rights and obligations arising from
+them, and the mode in which their validity shall be determined and their
+obligations enforced; and also to regulate the manner and conditions
+upon which property situated within such territory, both personal and
+real, may be acquired, enjoyed, and transferred. The other principle of
+public law referred to follows from the one mentioned; that is, that no
+State can exercise direct jurisdiction and authority over persons or
+property without its territory. The several States are of equal dignity
+and authority, and the independence of one implies the exclusion of
+power from all others. And so it is laid down by jurists, as an
+elementary principle, that the laws of one State have no operation
+outside of its territory, except so far as is allowed by comity; and
+that no tribunal established by it can extend its process beyond that
+territory so as to subject either persons or property to its decisions.
 
 But as contracts made in one State may be enforceable only in another
 State, and property may be held by non-residents, the exercise of the
@@ -4260,20 +3974,20 @@ personam,{\marginnote{\begin{footnotesize}``In personam refers to
 courts' power to adjudicate matters directed against a party, as
 distinguished from in-rem proceedings over disputed property.''
 \href{https://www.law.cornell.edu/wex/in_personam}{Wex Legal
-Dictionary}.\end{footnotesize}}} obtained ex parte
+Dictionary}.\end{footnotesize}}} obtained ex parte against non-residents
+and absent parties, upon mere publication of process, which, in the
+great majority of cases, would never be seen by the parties interested,
+could be upheld and enforced, they would be the constant instruments of
+fraud and oppression. Judgments for all sorts of claims upon contracts
+and for torts, real or pretended, would be thus obtained, under which
+property would be seized, when the evidence of the transactions upon
+which they were founded, if they ever had any existence, had perished.
 {\marginnote{\begin{footnotesize}``In civil procedure, ex parte is used
 to refer to motions for orders that can be granted without waiting for a
 response from the other side. Generally, these are orders that are only
 in place until further hearings can be held, such as a temporary
 restraining order.'' \href{https://www.law.cornell.edu/wex/ex_parte}{Wex
-Legal Dictionary}.\end{footnotesize}}} against non-residents and absent
-parties, upon mere publication of process, which, in the great majority
-of cases, would never be seen by the parties interested, could be upheld
-and enforced, they would be the constant instruments of fraud and
-oppression. Judgments for all sorts of claims upon contracts and for
-torts, real or pretended, would be thus obtained, under which property
-would be seized, when the evidence of the transactions upon which they
-were founded, if they ever had any existence, had perished.
+Legal Dictionary}.\end{footnotesize}}}
 
 Substituted service by publication, or in any other authorized form, may
 be sufficient to inform parties of the object of proceedings taken where
@@ -4447,7 +4161,8 @@ doctrine, see Perdue (1987).
 \subsection{International Shoe Co.~v. Washington (U.S.
 1945)}\label{international-shoe-co.-v.-washington-u.s.-1945}
 
-\textbf{Chief Justice STONE delivered the opinion of the Court.}
+\subsubsection{Chief Justice STONE delivered the opinion of the
+Court.}\label{chief-justice-stone-delivered-the-opinion-of-the-court.}
 
 The questions for decision are (1) whether, within the limitations of
 the due process clause of the Fourteenth Amendment, appellant, a
@@ -4496,22 +4211,22 @@ samples, in business buildings, or rent rooms in hotels or business
 buildings temporarily for that purpose. The cost of such rentals is
 reimbursed by appellant.
 
-The authority of the salesmen is limited to exhibiting their samples and
-soliciting orders from prospective buyers, at prices and on terms fixed
-by appellant. The salesmen transmit the orders to appellant's office in
-St.~Louis for acceptance or rejection, and when accepted the merchandise
-for filling the orders is shipped
-f.o.b.{\marginnote{\begin{footnotesize}F.O.B. (``free on board'') is a
+The {\marginnote{\begin{footnotesize}F.O.B. (``free on board'') is a
 commercial law term indicating the point at which responsibility for
 goods shifts from the seller to the buyer. In this case, International
 Shoe shipped its shoes ``F.O.B. Origin'', meaning it was no longer
 responsible for the shoes once they left the point of shipment outside
 Washington. The company relied on this legal formality to contend it
-engaged in no activity within Washington.\end{footnotesize}}} from
-points outside Washington to the purchasers within the state. All the
-merchandise shipped into Washington is invoiced at the place of shipment
-from which collections are made. No salesman has authority to enter into
-contracts or to make collections.
+engaged in no activity within Washington.\end{footnotesize}}} authority
+of the salesmen is limited to exhibiting their samples and soliciting
+orders from prospective buyers, at prices and on terms fixed by
+appellant. The salesmen transmit the orders to appellant's office in
+St.~Louis for acceptance or rejection, and when accepted the merchandise
+for filling the orders is shipped f.o.b. from points outside Washington
+to the purchasers within the state. All the merchandise shipped into
+Washington is invoiced at the place of shipment from which collections
+are made. No salesman has authority to enter into contracts or to make
+collections.
 
 Historically the jurisdiction of courts to render judgment \emph{in
 personam} is grounded on their de facto power over the defendant's
@@ -4645,11 +4360,11 @@ Process}{Note: International Shoe, the FRCP, \& Service of Process}}\label{note-
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/IntlShoeBldg2.jpg}
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{IntlShoeBldg2.jpg}
 
 }
 
-\caption{International Shoe Co.~headquarters, St.~Louis}
+\caption{International Shoe Co.~building, St.~Louis}
 
 \end{figure}%
 
@@ -4684,13 +4399,29 @@ The suit arises out of Dan's conduct in North Carolina, satisfying the
 minimum contacts requirement for personal jurisdiction. But there has
 been no service of process, so the court's power is not yet activated.
 
-\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/PJ-NoService.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.33\linewidth,height=\textheight,keepaspectratio]{PJ-NoService.png}
+
+}
+
+\caption{Pat v. Dan: Jurisdiction, No Service}
+
+\end{figure}%
 
 After filing the suit, Pat serves Dan with a copy of the summons and
 complaint, in a manner authorized, and within the time allowed, under
 Rule 4. The court's power is now active.
 
-\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/PJ-Service.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.33\linewidth,height=\textheight,keepaspectratio]{PJ-Service.png}
+
+}
+
+\caption{Pat v. Dan: Jurisdiction \& Service}
+
+\end{figure}%
 
 Suppose instead that Pat travels from North Carolina to Ohio for a
 football game between the Carolina Panthers and the Cleveland Browns.
@@ -4707,15 +4438,24 @@ and North Carolina. Even Dan is served with a copy of the summons and
 complaint, flipping the service switch has no effect, because the court
 has no power over Dan at all.
 
-\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/NoPJ-Service.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.33\linewidth,height=\textheight,keepaspectratio]{NoPJ-Service.png}
+
+}
+
+\caption{Pat v. Dan: Service, No Jurisdiction}
+
+\end{figure}%
 
 \section{Specific Jurisdiction}\label{specific-jurisdiction}
 
 \subsection{McGee v. International Life Ins. Co.~(U.S.
 1957)}\label{mcgee-v.-international-life-ins.-co.-u.s.-1957}
 
-\textbf{Opinion of the Court by Justice BLACK, announced by Justice
-DOUGLAS.}
+\subsubsection{Opinion of the Court by Justice BLACK, announced by
+Justice
+DOUGLAS.}\label{opinion-of-the-court-by-justice-black-announced-by-justice-douglas.}
 
 Petitioner, Lulu B. McGee, recovered a judgment in a California state
 court against respondent, International Life Insurance Company, on a
@@ -4822,7 +4562,8 @@ further proceedings not inconsistent with this opinion.
 \subsection{World-Wide Volkswagen Corp.~v. Woodson (U.S.
 1979)}\label{world-wide-volkswagen-corp.-v.-woodson-u.s.-1979}
 
-\textbf{Justice WHITE delivered the opinion of the Court.}
+\subsubsection{Justice White delivered the opinion of the
+Court.}\label{justice-white-delivered-the-opinion-of-the-court.}
 
 The issue before us is whether, consistently with the Due Process Clause
 of the Fourteenth Amendment, an Oklahoma court may exercise \emph{in
@@ -5065,7 +4806,8 @@ the fact that their products are capable of use in Oklahoma is far too
 attenuated a contact to justify that State's exercise of \emph{in
 personam} jurisdiction over them.
 
-\textbf{Justice BRENNAN, dissenting.}
+\subsubsection{Justice Brennan,
+dissenting.}\label{justice-brennan-dissenting.}
 
 The Court holds that the Due Process Clause of the Fourteenth Amendment
 bars the States from asserting jurisdiction over the defendants in these
@@ -6303,8 +6045,6 @@ act has two consequences---one creating jurisdiction, the other
 facilitating speech---the First Amendment has nothing to do with the
 jurisdictional inquiry.
 
-We reverse and remand.
-
 \subsection{NBA Properties, Inc.~v. Hanwjh (7th Circuit
 2022)}\label{nba-properties-inc.-v.-hanwjh-7th-circuit-2022}
 
@@ -6693,7 +6433,8 @@ The likelihood of confusion, the basis for the suit, is sufficiently
 related to HANWJH's act of selling the infringing product to Illinois,
 the basis for personal jurisdiction, that due process is not offended.
 
-C. Traditional Notions of Fair Play \& Substantial Justice
+\paragraph{C. Traditional Notions of Fair Play \& Substantial
+Justice}\label{c.-traditional-notions-of-fair-play-substantial-justice}
 
 We now examine whether subjecting HANWJH to jurisdiction in Illinois
 offends our traditional notions of fair play and substantial justice.
@@ -6758,15 +6499,8 @@ international terrorism, or his or her estate, survivors, or heirs
 personal jurisdiction over the PLO and the Palestinian Authority based
 on certain activity:
 
-\textbf{18 U.S. Code §2334 - Jurisdiction and venue}
-{\marginnote{\begin{footnotesize}The Court in \emph{Fuld} declined to
-address ``whether the statute comports with our cases addressing the
-circumstances under which a defendant may be deemed, consistent with due
-process, to have consented to jurisdiction''. ``Since we hold that the
-statute ties the assertion of jurisdiction to predicate conduct that in
-and of itself bears a meaningful relationship to the United States, we
-need not further consider the matter through the lens of
-consent.''\end{footnotesize}}}
+\subsubsection{18 U.S. Code §2334 - Jurisdiction and
+venue}\label{u.s.-code-2334---jurisdiction-and-venue}
 
 \begin{quote}
 (e) Consent of Certain Parties to Personal Jurisdiction.
@@ -6841,13 +6575,20 @@ jurisdictional inquiry commensurate with the Federal Government's
 broader sovereign authority.
 \end{quote}
 
-The Court declined ``to delineate the outer bounds of the Federal
-Government's power, consistent with due process, to hale foreign
-defendants into U.S. courts.'' Instead, it held that the PSJVTA's
-``provision for personal jurisdiction comports with the Due Process
-Clause of the Fifth Amendment'', because it ``reasonably ties the
-assertion of federal jurisdiction over the PLO and PA to conduct that
-involves the United States and implicates sensitive foreign policy
+The {\marginnote{\begin{footnotesize}The Court in \emph{Fuld} did not
+address ``whether the statute comports with our cases addressing the
+circumstances under which a defendant may be deemed, consistent with due
+process, to have consented to jurisdiction''. ``Since we hold that the
+statute ties the assertion of jurisdiction to predicate conduct that in
+and of itself bears a meaningful relationship to the United States, we
+need not further consider the matter through the lens of
+consent.''\end{footnotesize}}} Court declined ``to delineate the outer
+bounds of the Federal Government's power, consistent with due process,
+to hale foreign defendants into U.S. courts.'' Instead, it held that the
+PSJVTA's ``provision for personal jurisdiction comports with the Due
+Process Clause of the Fifth Amendment'', because it ``reasonably ties
+the assertion of federal jurisdiction over the PLO and PA to conduct
+that involves the United States and implicates sensitive foreign policy
 matters within the prerogative of the political branches''.
 
 In a concurring opinion, Justice Thomas, joined in part by Justice
@@ -6863,7 +6604,8 @@ federal jurisdiction beyond the Nation's borders.''
 \subsection{Daimler Ag v. Bauman (U.S.
 2014)}\label{daimler-ag-v.-bauman-u.s.-2014}
 
-\textbf{Justice GINSBURG delivered the opinion of the Court.}
+\subsubsection{Justice Ginsburg delivered the opinion of the
+Court.}\label{justice-ginsburg-delivered-the-opinion-of-the-court.}
 
 This case concerns the authority of a court in the United States to
 entertain a claim brought by foreign plaintiffs against a foreign
@@ -6912,35 +6654,28 @@ by \emph{Goodyear,} we conclude Daimler is not ``at home'' in
 California, and cannot be sued there for injuries plaintiffs attribute
 to MB Argentina's conduct in Argentina.
 
-In 2004, plaintiffs (respondents here) filed suit in the United States
-District Court for the Northern District of California, alleging that MB
-Argentina collaborated with Argentinian state security forces to kidnap,
-detain, torture, and kill plaintiffs and their relatives during the
-military dictatorship in place there from 1976 through 1983, a period
-known as Argentina's ``Dirty War.'' Based on those allegations,
-plaintiffs asserted claims under the Alien Tort
-Statute,{\marginnote{\begin{footnotesize}The Alien Tort Statute gives
-federal district courts subject matter jurisdiction over suits ``by an
-alien for a tort only, committed in violation of the law of nations or a
-treaty of the United States.'' The Torture Victims Protection Act
-(`TVPA') amended the Alien Tort Statute to establish a civil cause of
-action against ``An individual who, under actual or apparent authority,
-or color of law, of any foreign nation subjects an individual to torture
-or subjects an individual to extrajudicial killing''. In
-\href{https://scholar.google.com/scholar_case?case=8123691441658588112}{Mohamad
-v. Palestinian Authority}, 566 U.S. 449 (2012), the Supreme Court held
-that the TVPA authorized suits only against individuals, not
-organizations. In a later case,
-\href{https://scholar.google.com/scholar_case?case=3924931054627865651}{Jesner
-v. Arab Bank, PLC}, 584 U.S. 241 (2018), the Court likewise held that
-the Alien Tort Statute does not authorize suits against foreign
-corporations.\end{footnotesize}}} 28 U.S.C. §1350, and the Torture
-Victim Protection Act of 1991, as well as claims for wrongful death and
-intentional infliction of emotional distress under the laws of
-California and Argentina. The incidents recounted in the complaint
-center on MB Argentina's plant in Gonzalez Catan, Argentina; no part of
-MB Argentina's alleged collaboration with Argentinian authorities took
-place in California or anywhere else in the United States.
+In 2004, plaintiffs (respondents here) filed suit
+{\marginnote{\begin{footnotesize}The Alien Tort Statute gives federal
+courts subject matter jurisdiction over suits ``by an alien for a tort
+only, committed in violation of the law of nations or a treaty of the
+United States.'' The Torture Victims Protection Act amended the Alien
+Tort Statute to establish a civil cause of action against ``An
+individual who, under actual or apparent authority, or color of law, of
+any foreign nation subjects an individual to torture or subjects an
+individual to extrajudicial killing''.\end{footnotesize}}} in the United
+States District Court for the Northern District of California, alleging
+that MB Argentina collaborated with Argentinian state security forces to
+kidnap, detain, torture, and kill plaintiffs and their relatives during
+the military dictatorship in place there from 1976 through 1983, a
+period known as Argentina's ``Dirty War.'' Based on those allegations,
+plaintiffs asserted claims under the Alien Tort Statute, 28 U.S.C.
+§1350, and the Torture Victim Protection Act of 1991, as well as claims
+for wrongful death and intentional infliction of emotional distress
+under the laws of California and Argentina. The incidents recounted in
+the complaint center on MB Argentina's plant in Gonzalez Catan,
+Argentina; no part of MB Argentina's alleged collaboration with
+Argentinian authorities took place in California or anywhere else in the
+United States.
 
 Plaintiffs' operative complaint names only one corporate defendant:
 Daimler, the petitioner here. Plaintiffs seek to hold Daimler
@@ -7215,12 +6950,18 @@ justice'' due process demands.
 \subsection{Carnival Cruise Lines, Inc.~v. Shute (U.S.
 1991)}\label{carnival-cruise-lines-inc.-v.-shute-u.s.-1991}
 
-\textbf{JUSTICE BLACKMUN delivered the opinion of the Court.}
+\subsubsection{Justice Blackmun delivered the opinion of the
+Court.}\label{justice-blackmun-delivered-the-opinion-of-the-court.}
 
-In this admiralty case we primarily consider whether the United States
-Court of Appeals for the Ninth Circuit correctly refused to enforce a
-forum-selection clause contained in tickets issued by petitioner
-Carnival Cruise Lines, Inc., to respondents Eulala and Russel Shute.
+In this admiralty case {\marginnote{\begin{footnotesize}``Admiralty law
+(or maritime law) is the body of law that governs navigation and
+shipping. It includes substantive and procedural law.''
+\href{https://www.law.cornell.edu/wex/admiralty}{Wex Legal
+Dictionary}.\end{footnotesize}}} we primarily consider whether the
+United States Court of Appeals for the Ninth Circuit correctly refused
+to enforce a forum-selection clause contained in tickets issued by
+petitioner Carnival Cruise Lines, Inc., to respondents Eulala and Russel
+Shute.
 
 The Shutes, through an Arlington, Wash., travel agent, purchased passage
 for a 7-day cruise on petitioner's ship, the \emph{Tropicale.}
@@ -7305,21 +7046,17 @@ jurisdiction.
 
 We begin by noting the boundaries of our inquiry. First, this is a case
 in admiralty, and federal law governs the enforceability of the
-forum-selection clause we
-scrutinize.{\marginnote{\begin{footnotesize}``Admiralty law (or maritime
-law) is the body of law that governs navigation and shipping. It
-includes substantive and procedural law.''
-\href{https://www.law.cornell.edu/wex/admiralty}{Wex Legal
-Dictionary}.\end{footnotesize}}} Second, we do not address the question
-whether respondents had sufficient notice of the forum clause before
-entering the contract for passage. Respondents essentially have conceded
-that they had notice of the forum-selection provision (``The respondents
-do not contest the incorporation of the provisions nor that the forum
-selection clause was reasonably communicated to the respondents, as much
-as three pages of fine print can be communicated''). Additionally, the
-Court of Appeals evaluated the enforceability of the forum clause under
-the assumption, although ``doubtful,'' that respondents could be deemed
-to have had knowledge of the clause.
+forum-selection clause we scrutinize. Second, we do not address the
+question whether respondents had sufficient notice of the forum clause
+before entering the contract for passage. Respondents essentially have
+conceded that they had notice of the forum-selection provision (``The
+respondents do not contest the incorporation of the provisions nor that
+the forum selection clause was reasonably communicated to the
+respondents, as much as three pages of fine print can be
+communicated''). Additionally, the Court of Appeals evaluated the
+enforceability of the forum clause under the assumption, although
+``doubtful,'' that respondents could be deemed to have had knowledge of
+the clause.
 
 Within this context, respondents urge that the forum clause should not
 be enforced because, contrary to this Court's teachings in \emph{The
@@ -7427,13 +7164,15 @@ the salutary effect of dispelling any confusion about where suits
 arising from the contract must be brought and defended, sparing
 litigants the time and expense of pretrial motions to determine the
 correct forum and conserving judicial resources that otherwise would be
-devoted to deciding those motions. Finally, it stands to reason
-{\marginnote{\begin{footnotesize}Does this really ``stand to reason''?
+devoted to deciding those motions. {\marginnote{\begin{footnotesize}Does
+it really ``stand to reason'' that consumers will benefit from lower
+prices when their purchases are subject to a forum selection clause?
 What is the basis for the Court's assertion? Assuming the assertion is
-correct, why does it matter?\end{footnotesize}}} that passengers who
-purchase tickets containing a forum clause like that at issue in this
-case benefit in the form of reduced fares reflecting the savings that
-the cruise line enjoys by limiting the fora in which it may be sued.
+correct, why does it matter?\end{footnotesize}}} Finally, it stands to
+reason that passengers who purchase tickets containing a forum clause
+like that at issue in this case benefit in the form of reduced fares
+reflecting the savings that the cruise line enjoys by limiting the fora
+in which it may be sued.
 
 We also do not accept the Court of Appeals' ``independent
 justification'' for its conclusion that \emph{The Bremen} dictates that
@@ -7475,7 +7214,8 @@ option of rejecting the contract with impunity. In the case before us,
 therefore, we conclude that the Court of Appeals erred in refusing to
 enforce the forum-selection clause.
 
-\textbf{JUSTICE STEVENS, with whom JUSTICE MARSHALL joins, dissenting.}
+\subsubsection{Justice Stevens, with whom Justice Marshall joins,
+dissenting.}\label{justice-stevens-with-whom-justice-marshall-joins-dissenting.}
 
 The Court prefaces its legal analysis with a factual statement that
 implies that a purchaser of a Carnival Cruise Lines passenger ticket is
@@ -7596,10 +7336,11 @@ arrangements between parties with equal bargaining power.
 \subsection{Mallory v. Norfolk Southern Ry. Co.~(U.S.
 2023)}\label{mallory-v.-norfolk-southern-ry.-co.-u.s.-2023}
 
-\textbf{Justice Gorsuch announced the judgment of the Court and
+\subsubsection{Justice Gorsuch announced the judgment of the Court and
 delivered the opinion of the Court with respect to Parts I and III--B,
 and an opinion with respect to Parts II, III--A, and IV, in which
-Justice Thomas, Justice Sotomayor, and Justice Jackson join.}
+Justice Thomas, Justice Sotomayor, and Justice Jackson
+join.}\label{justice-gorsuch-announced-the-judgment-of-the-court-and-delivered-the-opinion-of-the-court-with-respect-to-parts-i-and-iiib-and-an-opinion-with-respect-to-parts-ii-iiia-and-iv-in-which-justice-thomas-justice-sotomayor-and-justice-jackson-join.}
 
 Imagine a lawsuit based on recent events. A few months ago, a Norfolk
 Southern train derailed in Ohio near the Pennsylvania border. Its cargo?
@@ -8008,7 +7749,7 @@ presence this way:
 
 \begin{figure}[H]
 
-{\centering \pandocbounded{\includegraphics[keepaspectratio]{../img/NorfolkSouthern.png}}
+{\centering \includegraphics[width=0.33\linewidth,height=\textheight,keepaspectratio]{NorfolkSouthern.png}
 
 }
 
@@ -8097,8 +7838,9 @@ indeed---one this Court resolved more than a century ago in
 judgment of the Supreme Court of Pennsylvania is vacated, and the case
 is remanded.
 
-\textbf{Justice Barrett, with whom The Chief Justice, Justice Kagan, and
-Justice Kavanaugh join, dissenting.}
+\subsubsection{Justice Barrett, with whom The Chief Justice, Justice
+Kagan, and Justice Kavanaugh join,
+dissenting.}\label{justice-barrett-with-whom-the-chief-justice-justice-kagan-and-justice-kavanaugh-join-dissenting.}
 
 For 75 years, we have held that the Due Process Clause does not allow
 state courts to assert general jurisdiction over foreign defendants
@@ -8477,17 +8219,25 @@ obsolete, and, at least for corporations, specific jurisdiction will be
 ``superfluous.'' Because I would not work this sea change, I
 respectfully dissent.
 
-\subsection{Synthesis: Analyzing a Personal Jurisdiction
-Problem}\label{synthesis-analyzing-a-personal-jurisdiction-problem}
+\subsection{Synthesis: Personal Jurisdiction
+Analysis}\label{synthesis-personal-jurisdiction-analysis}
 
-\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/personal-jurisdiction.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{personal-jurisdiction.png}
+
+}
+
+\caption{Personal Jurisdiction Flowchart}
+
+\end{figure}%
 
 \section{Statutory Authorization: Long-Arm
 Statutes}\label{statutory-authorization-long-arm-statutes}
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/Long-Arm.jpg}
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{Long-Arm.jpg}
 
 }
 
@@ -8501,18 +8251,15 @@ standard, the exercise of personal jurisdiction are subject to
 additional limits under state ``long-arm'' statutes. There are two types
 of long-arm statute.
 
-\subsection{Enumerated Statutes}\label{enumerated-statutes}
+\subsubsection{Enumerated Statutes}\label{enumerated-statutes}
 
 Enumerated long-arm statutes identify particular circumstances in which
 a state's courts may exercise jurisdiction over a non-resident. The New
 York long-arm statute is an example:
 
-\begin{quote}
-\textbf{NY CPLR §302: Personal jurisdiction by acts of
-non-domiciliaries.}
-\end{quote}
+\paragraph{NY CPLR §302: Personal jurisdiction by acts of
+non-domiciliaries.}\label{ny-cplr-302-personal-jurisdiction-by-acts-of-non-domiciliaries.}
 
-\begin{quote}
 \emph{(a) Acts which are the basis of jurisdiction. As to a cause of
 action arising from any of the acts enumerated in this section, a court
 may exercise personal jurisdiction over any non-domiciliary, or his
@@ -8532,9 +8279,9 @@ executor or administrator, who in person or through an agent:}
 
   \begin{itemize}
   \item
-    (i) regularly does or solicits business, or engages in any other
-    persistent course of conduct, or derives substantial revenue from
-    goods used or consumed or services rendered, in the state, or
+    \emph{(i) regularly does or solicits business, or engages in any
+    other persistent course of conduct, or derives substantial revenue
+    from goods used or consumed or services rendered, in the state, or}
   \item
     \emph{(ii) expects or should reasonably expect the act to have
     consequences in the state and derives substantial revenue from
@@ -8593,7 +8340,6 @@ permitted by the United States constitution, provided:}
   defamation proceedings outside the United States prior to and/or after
   the effective date of this subdivision.}
 \end{itemize}
-\end{quote}
 
 Under an enumerated long-arm statute, determining whether the court may
 exercise personal jurisdiction requires a two-step analysis:
@@ -8608,22 +8354,19 @@ exercise personal jurisdiction requires a two-step analysis:
   state to satisfy the constitutional due process standard?
 \end{enumerate}
 
-\subsection{Constitutional Limit
+\subsubsection{Constitutional Limit
 Statutes}\label{constitutional-limit-statutes}
 
 This type of long-arm statute grants a state's courts jurisdiction to
 the full extent permitted under the Constitution. The California
 long-arm statute is an example:
 
-\begin{quote}
-\textbf{Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.}
-\end{quote}
+\paragraph{Cal. Code Civ. Proc §410.10: Jurisdiction
+exercisable.}\label{cal.-code-civ.-proc-410.10-jurisdiction-exercisable.}
 
-\begin{quote}
 \emph{A court of this state may exercise jurisdiction on any basis not
 inconsistent with the Constitution of this state or of the United
 States.}
-\end{quote}
 
 Under this type of long-arm statute, the same analysis (i.e.~does the
 defendant have minimum contacts with the forum state?) answers both the
@@ -8759,13 +8502,24 @@ States.
 \subsection{Louisville \& Nashville R. Co.~v. Mottley (U.S.
 1908)}\label{louisville-nashville-r.-co.-v.-mottley-u.s.-1908}
 
-\textbf{Statement by Justice MOODY}
+\subsubsection{Statement by Justice
+Moody}\label{statement-by-justice-moody}
 
-The appellees (husband and wife), being residents and citizens of
-Kentucky, brought this suit in equity in the circuit court of the United
-States for the western district of Kentucky against the appellant, a
-railroad company and a citizen of the same state. The object of the suit
-was to compel the specific performance of the following contract:
+The {\marginnote{\begin{footnotesize}The remedy that the Mottleys sought
+was ``specific performance'', i.e.~an order requiring the Railroad to
+honor the free passes. This is a form a equitable relief, sometimes
+available instead of money damages, which is the usual legal relief for
+breach of contract. Prior to the advent of the Federal Rules of Civil
+Procedure, different procedures applied to suits for equitable relief
+and suits for legal relief. A suit in equity was commenced by filing a
+``bill'', functionally equivalent to a complaint. You can
+\href{../exhibits/Mottley-complaint.pdf}{read the Mottleys' bill
+here}.\end{footnotesize}}} appellees (husband and wife), being residents
+and citizens of Kentucky, brought this suit in equity in the circuit
+court of the United States for the western district of Kentucky against
+the appellant, a railroad company and a citizen of the same state. The
+object of the suit was to compel the specific performance of the
+following contract:
 
 \begin{quote}
 Louisville, Ky., Oct.~2d, 1871.
@@ -8781,29 +8535,20 @@ the remainder of the present year, and thereafter to renew said passes
 annually during the lives of said Mottley and wife or either of them.
 \end{quote}
 
-The bill {\marginnote{\begin{footnotesize}The remedy that the Mottleys
-sought was ``specific performance'', i.e.~an order requiring the
-Railroad to honor the free passes. This is a form a equitable relief,
-sometimes available instead of money damages, which is the usual legal
-relief for breach of contract. Prior to the advent of the Federal Rules
-of Civil Procedure, different procedures applied to suits for equitable
-relief and suits for legal relief. A suit in equity was commenced by
-filing a ``bill'', functionally equivalent to a complaint. You can
-\href{../exhibits/Mottley-complaint.pdf}{read the Mottleys' bill
-here}.\end{footnotesize}}} alleged that in September, 1871, plaintiffs,
-while passengers upon the defendant railroad, were injured by the
-defendant's negligence, and released their respective claims for damages
-in consideration of the agreement for transportation during their lives,
-expressed in the contract. It is alleged that the contract was performed
-by the defendant up to January 1, 1907, when the defendant declined to
-renew the passes. The bill then alleges that the refusal to comply with
-the contract was based solely upon that part of the act of Congress of
-June 29, 1906,{\marginnote{\begin{footnotesize}The
+The bill alleged that in September, 1871, plaintiffs, while passengers
+upon the defendant railroad, were injured by the defendant's negligence,
+and released their respective claims for damages in consideration of the
+agreement for transportation during their lives, expressed in the
+contract. It is alleged that the contract was performed by the defendant
+up to January 1, 1907, when the defendant declined to renew the passes.
+{\marginnote{\begin{footnotesize}The
 \href{https://www.archives.gov/legislative/features/hepburn}{Hepburn
 Act} gave the Interstate Commerce Commission regulatory authority over
 railroad shipping and passenger rates. The Act also restriced the
-practice of giving rate rebates and free passes.\end{footnotesize}}}
-which forbids the giving of free passes or free transportation. The bill
+practice of giving rate rebates and free passes.\end{footnotesize}}} The
+bill then alleges that the refusal to comply with the contract was based
+solely upon that part of the act of Congress of June 29, 1906, which
+forbids the giving of free passes or free transportation. The bill
 further alleges: First, that the act of Congress referred to does not
 prohibit the giving of passes under the circumstances of this case; and,
 second, that, if the law is to be construed as prohibiting such passes,
@@ -8896,7 +8641,8 @@ unsuccessful candidate for public office. E. Polk Johnson (1912):
 Mfg. (U.S.
 2005)}\label{grable-sons-metal-products-inc.-v.-darue-engineering-mfg.-u.s.-2005}
 
-\textbf{Justice SOUTER delivered the opinion of the Court.}
+\subsubsection{Justice Souter delivered the opinion of the
+Court.}\label{justice-souter-delivered-the-opinion-of-the-court.}
 
 The question is whether want of a federal cause of action to try claims
 of title to land obtained at a federal tax sale precludes removal to
@@ -8910,29 +8656,29 @@ courts, provided or assumed by Congress.
 
 \subsubsection{I}\label{i-6}
 
-In 1994, the Internal Revenue Service seized Michigan real property
-belonging to petitioner Grable \& Sons Metal Products, Inc., to satisfy
-Grable's federal tax delinquency. Title 26 U.S.C. §6335 required the IRS
-to give notice of the seizure, and there is no dispute that Grable
-received actual notice by certified mail before the IRS sold the
-property to respondent Darue Engineering \& Manufacturing. Although
-Grable also received notice of the sale itself, it did not exercise its
-statutory right to redeem the property within 180 days of the sale, and
-after that period had passed, the Government gave Darue a quitclaim
-deed.{\marginnote{\begin{footnotesize}A \emph{quitclaim deed} is ``a
+In 1994, {\marginnote{\begin{footnotesize}A \emph{quitclaim deed} is ``a
 document by which a grantor conveys his or her present interest, if any,
 in a given parcel of real property to a grantee without representing,
 covenanting, or warranting that the title is good.''
 \href{https://www.law.cornell.edu/wex/quitclaim_deed}{Wex Legal
-Dictionary}.\end{footnotesize}}}
+Dictionary}.\end{footnotesize}}} the Internal Revenue Service seized
+Michigan real property belonging to petitioner Grable \& Sons Metal
+Products, Inc., to satisfy Grable's federal tax delinquency. Title 26
+U.S.C. §6335 required the IRS to give notice of the seizure, and there
+is no dispute that Grable received actual notice by certified mail
+before the IRS sold the property to respondent Darue Engineering \&
+Manufacturing. Although Grable also received notice of the sale itself,
+it did not exercise its statutory right to redeem the property within
+180 days of the sale, and after that period had passed, the Government
+gave Darue a quitclaim deed.
 
-Five years later, Grable brought a quiet title action in state
-court,{\marginnote{\begin{footnotesize}``A quiet title action is a
-special legal proceeding to determine ownership of real property. A
-party with a claim of ownership to land can file an action to quiet
-title, which serves as a sort of lawsuit against anyone and everyone
-else who has a claim to the land. If the owner prevails in the quiet
-title action, no further challenges to the title can be brought.''
+Five years later, Grable brought a quiet title action in state court,
+{\marginnote{\begin{footnotesize}``A quiet title action is a special
+legal proceeding to determine ownership of real property. A party with a
+claim of ownership to land can file an action to quiet title, which
+serves as a sort of lawsuit against anyone and everyone else who has a
+claim to the land. If the owner prevails in the quiet title action, no
+further challenges to the title can be brought.''
 \href{https://www.law.cornell.edu/wex/quiet_title_action}{Wex Legal
 Dictionary}.\end{footnotesize}}} claiming that Darue's record title was
 invalid because the IRS had failed to notify Grable of its seizure of
@@ -8982,23 +8728,23 @@ questions of federal law, and thus justify resort to the experience,
 solicitude, and hope of uniformity that a federal forum offers on
 federal issues.
 
-The classic example is \emph{Smith v. Kansas City Title \& Trust Co.},
-255 U.S. 180 (1921), a suit by a shareholder claiming that the defendant
-corporation could not lawfully buy certain bonds of the National
-Government because their issuance was unconstitutional. Although
-Missouri law provided the cause of action, the Court recognized
-federal-question jurisdiction because the principal issue in the case
-was the federal constitutionality of the bond
-issue.{\marginnote{\begin{footnotesize}Recall that, in \emph{Louisville
-\& Nashville R. Co.~v. Mottley}, the Court held there was no federal
+The {\marginnote{\begin{footnotesize}Recall that, in \emph{Louisville \&
+Nashville R. Co.~v. Mottley}, the Court held there was no federal
 question jurisdiction even though the principal issue in that case was
 the legality of the Mottleys' free passes under the 1906 federal
 statute. How is \emph{Mottley} distinguishable from \emph{Smith v.
-Kansas City Title \& Trust}?\end{footnotesize}}} \emph{Smith} thus held,
-in a somewhat generous statement of the scope of the doctrine, that a
-state-law claim could give rise to federal-question jurisdiction so long
-as it ``appears from the complaint that the right to relief depends upon
-the construction or application of {[}federal law{]}.''
+Kansas City Title \& Trust}?\end{footnotesize}}} classic example is
+\emph{Smith v. Kansas City Title \& Trust Co.}, 255 U.S. 180 (1921), a
+suit by a shareholder claiming that the defendant corporation could not
+lawfully buy certain bonds of the National Government because their
+issuance was unconstitutional. Although Missouri law provided the cause
+of action, the Court recognized federal-question jurisdiction because
+the principal issue in the case was the federal constitutionality of the
+bond issue. \emph{Smith} thus held, in a somewhat generous statement of
+the scope of the doctrine, that a state-law claim could give rise to
+federal-question jurisdiction so long as it ``appears from the complaint
+that the right to relief depends upon the construction or application of
+{[}federal law{]}.''
 
 The \emph{Smith} statement has been subject to some trimming to fit
 earlier and later cases recognizing the vitality of the basic doctrine,
@@ -9947,29 +9693,26 @@ Pops (E.D. Pa.
 
 Pennsylvania law permits a prothonotary
 {\marginnote{\begin{footnotesize}``Prothonotary'' is the title of the
-chief clerk in most Pennsylvania state courts. This is one of many
-quaint features of the Pennsylvania legal system, lending a Dickensian
-air to litigation in the Keystone State.\end{footnotesize}}} of any of
-its courts of common pleas to enter judgment by
-confession,{\marginnote{\begin{footnotesize}``A confession of judgment
-is a legal device---usually a clause within a contract---in which a
-debtor agrees to allow a creditor, upon the nonoccurrence of a payment,
-to obtain a judgment against the debtor, often without advanced notice
-or a hearing. These clauses may also require the debtor to waive their
-right to assert any defense against the entry of judgment or be
+chief clerk in most Pennsylvania state courts.\end{footnotesize}}} of
+any of its courts of common pleas to enter judgment by confession, in
+ministerial fashion, when a plaintiff files a complaint that, among
+other requisites, includes a copy of an instrument that the defendant
+has signed authorizing such judgment.
+
+In this case, {\marginnote{\begin{footnotesize}``A confession of
+judgment is a legal device---usually a clause within a contract---in
+which a debtor agrees to allow a creditor, upon the nonoccurrence of a
+payment, to obtain a judgment against the debtor, often without advanced
+notice or a hearing. These clauses may also require the debtor to waive
+their right to assert any defense against the entry of judgment or be
 represented by an attorney appointed by the creditor.''
 \href{https://www.law.cornell.edu/wex/confession_of_judgment}{Wex Legal
-Dictionary}.\end{footnotesize}}} in ministerial fashion, when a
-plaintiff files a complaint that, among other requisites, includes a
-copy of an instrument that the defendant has signed authorizing such
-judgment.
-
-In this case, confessed judgment was entered by the state court against
-Defendants, dog treat company Annie's Pooch Pops LLC, and its owner,
-Annie Hartig (hereinafter, ``Annie's Pooch Pops''). The defendants
-removed the case, and filed a petition to strike or open the confessed
-judgment in this Court. Plaintiff Complete Business Solutions Group,
-Inc.~seeks remand, and a stay of the litigation.
+Dictionary}.\end{footnotesize}}} confessed judgment was entered by the
+state court against Defendants, dog treat company Annie's Pooch Pops
+LLC, and its owner, Annie Hartig (hereinafter, ``Annie's Pooch Pops'').
+The defendants removed the case, and filed a petition to strike or open
+the confessed judgment in this Court. Plaintiff Complete Business
+Solutions Group, Inc.~seeks remand, and a stay of the litigation.
 
 Because Annie's Pooch Pops has failed to demonstrate the requisite
 amount-in-controversy in this case, it has lost its bark. The Court will
@@ -10043,18 +9786,20 @@ Pooch Pops cannot establish federal subject matter jurisdiction.
 \subsection{Mine Workers v. Gibbs (U.S.
 1966)}\label{mine-workers-v.-gibbs-u.s.-1966}
 
-\textbf{Justice BRENNAN delivered the opinion of the Court.}
+\subsubsection{Justice Brennan delivered the opinion of the
+Court.}\label{justice-brennan-delivered-the-opinion-of-the-court.}
 
-Respondent Paul Gibbs was awarded compensatory and punitive damages in
-this action against petitioner United Mine Workers of America (UMW) for
-alleged violations of §303 of the Labor Management Relations Act, 1947,
+Respondent
 {\marginnote{\begin{footnotesize}\href{https://www.law.cornell.edu/uscode/text/29/187}{§303
 of the Labor Management Relations Act (``LMRA'')} authorizes suits to
 recover damages for injury to business or property resulting from
 certain unlawful conduct by a labor union. The federal court had subject
 matter jurisdiction over the §303 claim, because it arises under federal
-law (the LMRA).\end{footnotesize}}} and of the common law of Tennessee.
-The case grew out of the rivalry between the United Mine Workers and the
+law (the LMRA).\end{footnotesize}}} Paul Gibbs was awarded compensatory
+and punitive damages in this action against petitioner United Mine
+Workers of America (UMW) for alleged violations of §303 of the Labor
+Management Relations Act, 1947, and of the common law of Tennessee. The
+case grew out of the rivalry between the United Mine Workers and the
 Southern Labor Union over representation of workers in the southern
 Appalachian coal fields. Tennessee Consolidated Coal Company, not a
 party here, laid off 100 miners of the UMW's Local 5881 when it closed
@@ -10294,7 +10039,7 @@ the District Court's discretion under subsection 1367(c) should not be
 exercised in this case until a ruling on the Plaintiffs' motion for
 class certification. We therefore vacate and remand.
 
-\subsubsection{Background}\label{background-3}
+\subsubsection{Background}\label{background-2}
 
 Plaintiffs-Appellees Joyce Jones, Martha L. Edwards, Lou Cooper, and
 Vincent E. Jackson (``Plaintiffs''), individually and as class
@@ -10637,12 +10382,11 @@ Rule 13 are functionally equivalent. Under that view, supplemental
 jurisdiction over a permissive counterclaim is never allowed. See
 \emph{Ginwright}.
 
-\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/joinder_smj.png}
-
 \subsection{Exxon Mobil Corp.~v. Allapattah Services, Inc.~(U.S.
 2005)}\label{exxon-mobil-corp.-v.-allapattah-services-inc.-u.s.-2005}
 
-\textbf{JUSTICE KENNEDY delivered the opinion of the Court.}
+\subsubsection{Justice Kennedy delivered the opinion of the
+Court.}\label{justice-kennedy-delivered-the-opinion-of-the-court.}
 
 These consolidated cases {\marginnote{\begin{footnotesize}In this
 opinion, the Court decided two cases: \emph{Rosario Ortega v. Star-Kist
@@ -10665,10 +10409,7 @@ amount-in-controversy requirement, §1367 does authorize supplemental
 jurisdiction over the claims of other plaintiffs in the same Article III
 case or controversy, even if those claims are for less than the
 jurisdictional amount specified in the statute setting forth the
-requirements for diversity jurisdiction. We affirm the judgment of the
-Court of Appeals for the Eleventh Circuit in {[}\emph{Allapattah
-Services}{]}, and we reverse the judgment of the Court of Appeals for
-the First Circuit in {[}\emph{Rosario-Ortega}{]}.
+requirements for diversity jurisdiction.
 
 \subsubsection{I}\label{i-7}
 
@@ -10971,45 +10712,15 @@ case or controversy, subject only to enumerated exceptions not
 applicable in the cases now before us.
 
 \subsection{Supplemental Jurisdiction
-Diagrams}\label{supplemental-jurisdiction-diagrams}
+Analysis}\label{supplemental-jurisdiction-analysis}
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367.png}
+{\centering \includegraphics[width=0.9\linewidth,height=\textheight,keepaspectratio]{1367.png}
 
 }
 
 \caption{Supplemental Jurisdiction Analysis}
-
-\end{figure}%
-
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367b_Co-Plaintiffs.png}
-
-}
-
-\caption{Supplemental Jurisdiction: Claims by Co-Plaintiffs}
-
-\end{figure}%
-
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/1367b_Co-Defendants.png}
-
-}
-
-\caption{Supplemental Jurisdiction: Claims Against Co-Defendants}
-
-\end{figure}%
-
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/joinder_smj.png}
-
-}
-
-\caption{Joinder \& Supplemental Jurisdiction}
 
 \end{figure}%
 
@@ -11044,17 +10755,10 @@ action is brought.
 
 \subsubsection{Nonremovable actions}\label{nonremovable-actions}
 
-(a) A {\marginnote{\begin{footnotesize}Interestingly, of the four types
-of action that are not removable, three involve suits arising under
-federal statutes. 45 U.S.C. §56; 49 U.S.C. §11706(d)(1); 34 U.S.C,
-§12361(e)(3). Those statutes expressly allow suits to be brought in
-either federal or state court. But, if the plaintiff opts to sue in
-state court, the defendant may not remove, even though the federal court
-would have original jurisdiction under §1331.\end{footnotesize}}} civil
-action in any State court against a railroad or its receivers or
-trustees, arising under sections 1--4 and 5--10 of the Act of April 22,
-1908 (45 U.S.C.§51--54, 55--60), may not be removed to any district
-court of the United States.
+(a) A civil action in any State court against a railroad or its
+receivers or trustees, arising under sections 1--4 and 5--10 of the Act
+of April 22, 1908 (45 U.S.C.§51--54, 55--60), may not be removed to any
+district court of the United States.
 
 (b) A civil action in any State court against a carrier or its receivers
 or trustees to recover damages for delay, loss, or injury of shipments,
@@ -11066,14 +10770,24 @@ exceeds \$10,000, exclusive of interest and costs.
 compensation laws of such State may not be removed to any district court
 of the United States.
 
-(d) A civil action in any State court arising under section
-40302{\marginnote{\begin{footnotesize}In \emph{U.S. v. Morrison}, 529
-U.S. 598 (2000), the Supreme Court struck down section 40302 of the
-Violence Against Women Act, holding that Congress lacked constitutional
-authority to establish a federal cause of action for victims of crimes
-of violence motivated by gender.\end{footnotesize}}} of the Violence
-Against Women Act of 1994 may not be removed to any district court of
-the United States.
+(d) A civil action in any State court arising under section 40302 of the
+Violence Against Women Act of 1994 may not be removed to any district
+court of the United States.
+
+\subsection{Note on § 1445}\label{note-on-1445}
+
+Interestingly, of the four types of action that are not removable, three
+involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C.
+§11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow
+suits to be brought in either federal or state court. But, if the
+plaintiff sues in state court, the defendant may not remove, even though
+the federal court would have original jurisdiction under §1331.
+
+In \emph{U.S. v. Morrison}, 529 U.S. 598 (2000), the Supreme Court
+struck down section 40302 of the Violence Against Women Act, holding
+that Congress lacked constitutional authority to establish a federal
+cause of action for victims of crimes of violence motivated by gender.
+Consequently, § 1445(d) is now moot.
 
 \subsection{28 U.S.C. § 1447}\label{u.s.c.-1447}
 
@@ -11244,33 +10958,24 @@ states''?
 
 \subsection{Swift v. Tyson (U.S. 1842)}\label{swift-v.-tyson-u.s.-1842}
 
-\textbf{Summary of Facts}
+{[}\textbf{Summary of Facts.} {\marginnote{\begin{footnotesize}A bill of
+exchange \ldots{} is a signed, unconditional, written order binding one
+party to pay a fixed sum of money to another party on demand or at a
+predetermined date.''
+\href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
+Dictionary}\end{footnotesize}}} \emph{George Tyson purchased some land
+from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave
+Norton and Keith a bill of exchange. It turned out that, not only was
+the land virtually worthless, North and Keith did not actually own it.
+Before the bill of exchange came due, Norton signed it over to the
+plaintiff, John Swift, ostensibly in payment of a debt. Swift then
+sought payment on the bill of exchange from Tyson, who refused on the
+ground that it was procured by fraud. Swift (a resident of Maine) sued
+Tyson (a resident of New York) in federal court, which had jurisdiction
+based on diversity of citizenship.}{]}
 
-{[}\emph{George Tyson purchased some land from Nathaniel Norton and
-Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of
-exchange.\footnote{A bill of exchange \ldots{} is a signed,
-  unconditional, written order binding one party to pay a fixed sum of
-  money to another party on demand or at a predetermined date.''
-  \href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
-  Dictionary}.} It turned out that, not only was the land virtually
-worthless, North and Keith did not actually own it. Before the bill of
-exchange came due, Norton signed it over to the plaintiff, John Swift,
-ostensibly in payment of a debt.\footnote{Swift may have been in cahoots
-  with the swindlers: ``The circumstances surrounding the giving of the
-  promissory note of Norton and Keith to Swift and the fact that after
-  indorsing the bill to Swift the two erstwhile real estate salesmen
-  disappeared, all hinted that Swift, Keith, and Norton had attempted to
-  manufacture Swift's status as bona fide holder in order to allow him
-  to collect the bill in spite of the hanky panky surrounding the land
-  deal. Perhaps in return Swift gave Norton and Keith enough cash with
-  which to make their escape.'' LaPiana (1986): 796.}}{]}
-
-{[}\emph{Swift then sought payment on the bill of exchange from Tyson,
-who refused on the ground that it was procured by fraud. Swift (a
-resident of Maine) sued Tyson (a resident of New York) in federal court,
-which had jurisdiction based on diversity of citizenship.}{]}
-
-\textbf{Justice STORY delivered the opinion of the Court.}
+\subsubsection{Justice Story delivered the opinion of the
+Court.}\label{justice-story-delivered-the-opinion-of-the-court.}
 
 There is no doubt, that a bonâ fide holder of a negotiable instrument
 for a valuable consideration, without any notice of facts which impeach
@@ -11356,15 +11061,16 @@ doctrines of commercial jurisprudence. Undoubtedly, the decisions of the
 local tribunals upon such subjects are entitled to, and will receive,
 the most deliberate attention and respect of this Court; but they cannot
 furnish positive rules, or conclusive authority, by which our own
-judgments are to be bound up and governed. The law respecting negotiable
-instruments may be truly declared in the language of Cicero, to be in a
-great measure, not the law of a single country only, but of the
-commercial world.{\marginnote{\begin{footnotesize}``There will not be
-different laws at Rome and at Athens, or different laws now and in the
-future, but one eternal and unchangeable law will be valid for all
-nations and all times''.\end{footnotesize}}} \emph{Non erit alia lex
-Romæ, alia Athenis, alia nunc, alia posthac, sed et apud omnes gentes,
-et omni tempore, una eademque lex obtenebit}.
+judgments are to be bound up and governed.
+{\marginnote{\begin{footnotesize}``There will not be different laws at
+Rome and at Athens, or different laws now and in the future, but one
+eternal and unchangeable law will be valid for all nations and all
+times''.\end{footnotesize}}} The law respecting negotiable instruments
+may be truly declared in the language of Cicero, to be in a great
+measure, not the law of a single country only, but of the commercial
+world. \emph{Non erit alia lex Romæ, alia Athenis, alia nunc, alia
+posthac, sed et apud omnes gentes, et omni tempore, una eademque lex
+obtenebit}.
 
 It becomes necessary for us, therefore, upon the present occasion to
 express our own opinion of the true result of the commercial law upon
@@ -11648,7 +11354,8 @@ Decision Act.
 \subsection{Erie R. Co.~v. Tompkins (U.S.
 1938)}\label{erie-r.-co.-v.-tompkins-u.s.-1938}
 
-\textbf{Justice BRANDEIS delivered the opinion of the Court.}
+\subsubsection{Justice Brandeis delivered the opinion of the
+Court.}\label{justice-brandeis-delivered-the-opinion-of-the-court.}
 
 The question for decision is whether the oft-challenged doctrine of
 \emph{Swift v. Tyson} shall now be disapproved.
@@ -12094,10 +11801,10 @@ work in a given case falls within the designation of the statute. It is
 in each case largely a question of degree and of fact.'
 \end{quote}
 
-{[}The trial judge concluded, based on his interpretation of the South
-Carolina statute and the evidence presented, that Byrd was not a
+{[}\emph{The trial judge concluded, based on his interpretation of the
+South Carolina statute and the evidence presented, that Byrd was not a
 statutory employee of Blue Ridge and thus denied Blue Ridge's motion to
-dismiss based on the workers' compensation bar.{]}
+dismiss based on the workers' compensation bar.}{]}
 
 The Court of Appeals disagreed with the District Court's construction of
 {[}the statute{]}. Relying on the decisions of the Supreme Court of
@@ -12291,7 +11998,8 @@ the purposes of appeal under section 1291 of this title.
 \subsection{Hanna v. Plumer (U.S.
 1967)}\label{hanna-v.-plumer-u.s.-1967}
 
-\textbf{Chief Justice WARREN delivered the opinion of the Court.}
+\subsubsection{Chief Justice Warren delivered the opinion of the
+Court.}\label{chief-justice-warren-delivered-the-opinion-of-the-court.}
 
 The question to be decided is whether, in a civil action where the
 jurisdiction of the United States district court is based upon diversity
@@ -12623,20 +12331,20 @@ Constitution's grant of power over federal procedure or Congress'
 attempt to exercise that power in the Enabling Act. Rule 4(d)(1) is
 valid and controls the instant case.
 
-\textbf{Justice HARLAN, concurring.}
+\subsubsection{Justice Harlan,
+concurring.}\label{justice-harlan-concurring.}
 
-It is unquestionably true that up to now \emph{Erie} and the cases
-following it have not succeeded in articulating a workable doctrine
-governing choice of law in diversity actions. I respect the Court's
-effort to clarify the situation in today's
-opinion.{\marginnote{\begin{footnotesize}Justice Harlan agrees that the
+It {\marginnote{\begin{footnotesize}Justice Harlan agrees that the
 Federal Rules of Civil Procedure, rather than state law, should govern
 service of process in this case, but disagrees with the majority's
 rationale. What test does Justice Harlan propose and how does it differ
-from the majority's test?\end{footnotesize}}} However, in doing so I
-think it has misconceived the constitutional premises of \emph{Erie} and
-has failed to deal adequately with those past decisions upon which the
-courts below relied.
+from the majority's test?\end{footnotesize}}} is unquestionably true
+that up to now \emph{Erie} and the cases following it have not succeeded
+in articulating a workable doctrine governing choice of law in diversity
+actions. I respect the Court's effort to clarify the situation in
+today's opinion. However, in doing so I think it has misconceived the
+constitutional premises of \emph{Erie} and has failed to deal adequately
+with those past decisions upon which the courts below relied.
 
 \emph{Erie} was something more than an opinion which worried about
 ``forum-shopping and avoidance of inequitable administration of the
@@ -12644,12 +12352,12 @@ laws,'' although to be sure these were important elements of the
 decision. I have always regarded that decision as one of the modern
 cornerstones of our federalism, expressing policies that profoundly
 touch the allocation of judicial power between the state and federal
-systems. \emph{Erie} recognized that there should not be two conflicting
-systems of law controlling the primary activity of
-citizens,{\marginnote{\begin{footnotesize}What does Justice Harlan mean
+systems. {\marginnote{\begin{footnotesize}What does Justice Harlan mean
 by ``primary activity''? How does this concept help distinguish
-``substantive'' from ``procedural'' legal rules?\end{footnotesize}}} for
-such alternative governing authority must necessarily give rise to a
+``substantive'' from ``procedural'' legal rules?\end{footnotesize}}}
+\emph{Erie} recognized that there should not be two conflicting systems
+of law controlling the primary activity of citizens, for such
+alternative governing authority must necessarily give rise to a
 debilitating uncertainty in the planning of everyday affairs. And it
 recognized that the scheme of our Constitution envisions an allocation
 of law-making functions between state and federal legislative processes
@@ -12881,11 +12589,11 @@ prejudice to the opposing party.'' ``Denial of a motion for leave to
 amend on the basis of futility means the district court has reached the
 legal conclusion that the amended complaint could not withstand a motion
 to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure.
+{\marginnote{\begin{footnotesize}The \emph{Twombly} standard and Fed. R.
+Civ. P. 12(b)(6) are covered in Chap. 6.\end{footnotesize}}}
 Accordingly, in reviewing a denial of leave to amend we ask whether the
 proposed amended complaint states a cause of action under the
-\emph{Twombly} pleading standard.''{\marginnote{\begin{footnotesize}The
-\emph{Twombly} standard and Fed. R. Civ. P. 12(b)(6) are covered in
-Chap. 6.\end{footnotesize}}}
+\emph{Twombly} pleading standard.''
 
 On a motion to dismiss filed pursuant to Rule 12(b)(6), the Court must
 take the well-pleaded allegations of a claim as true, and construe the
@@ -13068,10 +12776,18 @@ Accordingly, the Court will apply the Rule 15 standard in determining
 whether to grant Plaintiffs' motion to amend to add a claim for punitive
 damages based on the allegations in the proposed amended complaint.
 
-\section{Analyzing Choice of Law Under Erie and
-Hanna}\label{analyzing-choice-of-law-under-erie-and-hanna}
+\section{Synthesis: Choice of Law Under Erie \&
+Hanna}\label{synthesis-choice-of-law-under-erie-hanna}
 
-\includegraphics[width=0.75\linewidth,height=\textheight,keepaspectratio]{../img/Erie-Hanna.png}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.9\linewidth,height=\textheight,keepaspectratio]{Erie-Hanna.png}
+
+}
+
+\caption{Erie-Hanna Analysis}
+
+\end{figure}%
 
 \section{Review Questions}\label{review-questions-3}
 
@@ -13328,21 +13044,21 @@ scandalous matter. The court may act:
 \subsection{Doe v. Clinton County (W.D. Mich.
 2025)}\label{doe-v.-clinton-county-w.d.-mich.-2025}
 
-\textbf{Order Striking Complaint}
+\subsubsection{Order Striking Complaint}\label{order-striking-complaint}
 
-Each page of plaintiff's complaint appears on an e-filing which is
-dominated by a large multi-colored cartoon dragon dressed in a suit,
-presumably because she is represented by the law firm of ``Dragon
-Lawyers PC © Award Winning Lawyers''.
-{\marginnote{\begin{footnotesize}The first page of the complaint is
-reproduced below. Surprisingly, the court did not mention the egregious
-use of colored type in the complaint. Many federal and state courts have
-local rules governing the typography of pleadings, motions, briefs, and
-other documents. Butterick (2015) is a very useful guide to producing
-attractive, reader-friendly, legal documents.\end{footnotesize}}} Fed.
-R. Civ. P. 12(f)(1) allows a court to ``strike from a pleading \ldots{}
-any redundant, immaterial, impertinent, or scandalous matter.'' Use of
-this dragon cartoon logo is not only distracting, it is juvenile and
+Each page {\marginnote{\begin{footnotesize}The first page of the
+complaint is reproduced below. Surprisingly, the court did not mention
+the egregious use of colored type in the complaint. Many federal and
+state courts have local rules governing the typography of pleadings,
+motions, briefs, and other documents. Butterick (2015) is a very useful
+guide to producing attractive, reader-friendly, legal
+documents.\end{footnotesize}}} of plaintiff's complaint appears on an
+e-filing which is dominated by a large multi-colored cartoon dragon
+dressed in a suit, presumably because she is represented by the law firm
+of ``Dragon Lawyers PC © Award Winning Lawyers''. Fed. R. Civ. P.
+12(f)(1) allows a court to ``strike from a pleading \ldots{} any
+redundant, immaterial, impertinent, or scandalous matter.'' Use of this
+dragon cartoon logo is not only distracting, it is juvenile and
 impertinent. The Court is not a cartoon. Accordingly,
 
 \textbf{IT IS ORDERED} that plaintiff's complaint is \textbf{STRICKEN}.
@@ -13355,7 +13071,7 @@ documents with the cartoon dragon or other inappropriate content.
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/DragonComplaint.jpg}
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{DragonComplaint.jpg}
 
 }
 
@@ -13366,16 +13082,15 @@ documents with the cartoon dragon or other inappropriate content.
 \subsection{Smith v. Safemarine Corp.~(M.D.~Louisiana
 2024)}\label{smith-v.-safemarine-corp.-m.d.-louisiana-2024}
 
-\textbf{Summary of the Facts}
-
-{[}\emph{Plaintiff sued multiple defendants---including Archer Daniels
-Midland Company (``ADM''), ARTCO Stevedoring (``ARTCO''), Riverside
-Shipping (``Riverside''), and Phoenix Bulk Carriers (``Phoenix
-Bulk'')---in connection with injuries he sustained while working aboard
-a container ship called the M/V Eva Paris. Defendants filed motions for
-a more definite statement under Rule 12(e), contending that the
-complaint contained insufficient factual detail regarding each
-defendants' role in the accident and the basis for liability.}{]}
+{[}\textbf{Summary of the Facts.} \emph{Plaintiff sued multiple
+defendants---including Archer Daniels Midland Company (``ADM''), ARTCO
+Stevedoring (``ARTCO''), Riverside Shipping (``Riverside''), and Phoenix
+Bulk Carriers (``Phoenix Bulk'')---in connection with injuries he
+sustained while working aboard a container ship called the M/V Eva
+Paris. Defendants filed motions for a more definite statement under Rule
+12(e), contending that the complaint contained insufficient factual
+detail regarding each defendants' role in the accident and the basis for
+liability.}{]}
 
 The United States Supreme Court {[}has{]} set forth the basic criteria
 necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss:
@@ -13383,7 +13098,7 @@ necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss:
 not need detailed factual allegations, a plaintiff's obligation to
 provide the grounds of his entitlement to relief requires more than
 labels and conclusions, and a formulaic recitation of the elements of a
-cause of action will not do.''{\marginnote{\begin{footnotesize}See §3
+cause of action will not do.''{\marginnote{\begin{footnotesize}See §6.3
 Claims for Relief.\end{footnotesize}}} A complaint is also insufficient
 if it merely ``tenders `naked assertions' devoid of `further factual
 enhancement.'\,'' However, ``a claim has facial plausibility when the
@@ -14283,14 +13998,17 @@ Subject Property; (4) their ability to close on the Subject Property;
 and, (5) such other acts and omissions as may be shown at trial.
 \end{quote}
 
-Johnson's allegations are conclusory and do not plausibly allege a UDTPA
-claim. {\marginnote{\begin{footnotesize}The court does not explain why
-it regards the allegations as ``conclusory'' or why they ``do not
+Johnson's {\marginnote{\begin{footnotesize}The court does not explain
+why it regards the allegations as ``conclusory'' nor why they ``do not
 plausibly allege a UDTPA claim.'' Can you discern the court's
-rationale?\end{footnotesize}}} Thus, the court dismisses Johnson's UDTPA
-claim.
+rationale?\end{footnotesize}}} allegations are conclusory and do not
+plausibly allege a UDTPA claim. Thus, the court dismisses Johnson's
+UDTPA claim.
 
-As for Johnson's request to pierce the corporate veil,
+As for Johnson's request to pierce the corporate veil, the court must
+assess whether Johnson plausibly alleges sufficient facts that would, if
+believed, tend to establish the required elements to pierce the
+corporate veil under North Carolina's ``instrumentality rule.''
 {\marginnote{\begin{footnotesize}``Piercing the corporate veil refers to
 a special instance where the court holds the shareholder or director of
 a corporation personally liable for the corporation's debts.''
@@ -14298,10 +14016,7 @@ a corporation personally liable for the corporation's debts.''
 Legal Dictionary}. In this case, the plaintiff was seeking to hold
 Mohammed Qureshi, the CEO and Board Chair of Cricket Council USA,
 personally liable for the alleged breach of
-contract.\end{footnotesize}}} the court must assess whether Johnson
-plausibly alleges sufficient facts that would, if believed, tend to
-establish the required elements to pierce the corporate veil under North
-Carolina's ``instrumentality rule.'' In order to prevail under the
+contract.\end{footnotesize}}} In order to prevail under the
 instrumentality rule, the aggrieved party must establish three elements:
 ``(1) stockholders' control of the corporation amounts to `complete
 domination' with respect to the transaction at issue; (2) stockholders'
@@ -14326,6 +14041,12 @@ allegations addressed three of the four elements of control:
 formalities,'' and ``complete domination and control of the corporation
 so that it has no independent identity.''
 
+\marginnote{\begin{footnotesize}
+
+\includegraphics[width=0.95\linewidth,height=\textheight,keepaspectratio]{../img/bowled-out.jpg}
+
+\end{footnotesize}}
+
 Although the analysis of the control element does not depend on the
 presence or absence of any particular factor, Johnson's sole reliance on
 the factual allegations that Qureshi is the ``sole or dominant owner of
@@ -14340,9 +14061,9 @@ allegations fail under the first ``control'' element of the
 instrumentality rule, the court need not address if the breach of
 contract claim is within the ``wrongs'' contemplated by the second
 element or address proximate cause. Thus, the court dismisses Johnson's
-request to pierce the corporate veil.{\marginnote{\begin{footnotesize}As
-a cricket fan might say, Johnson was batting on a sticky wicket and got
-bowled out for a duck.
+request to pierce the corporate veil.
+{\marginnote{\begin{footnotesize}In the language of cricket, Johnson was
+batting on a sticky wicket and got bowled out for a duck.
 \href{https://www.bbc.co.uk/bitesize/articles/z683qp3}{BBC, \emph{The
 Origins of Cricket Jargon}}\end{footnotesize}}}
 
@@ -14587,7 +14308,7 @@ to strike and dismiss Concept's affirmative defenses; strike portions of
 Concept's answer; and dismiss Concept's counterclaims. For the reasons
 set forth below, Reis's motions are granted in part and denied in part.
 
-\subsubsection{Background}\label{background-4}
+\subsubsection{Background}\label{background-3}
 
 The following facts are taken from Reis's complaint. Reis, an Illinois
 corporation, manufactures and supplies industrial robotics equipment.
@@ -15063,45 +14784,59 @@ The only substantive addition to the proposed amended complaint is Count
 V seeking punitive damages. This proposed count incorporates the
 allegations in the preceding paragraphs and then alleges as follows:
 
-\begin{quote}
-Defendants deliberately and intentionally disregarded the rights of
-Plaintiffs and disregarded the substantial likelihood of serious injury
-and damages to Plaintiffs by representing that they offered to match
-Plaintiffs only with franchises that Defendants had investigated and
-vetted; that such franchises were of high quality; and that Defendants
-would provide Plaintiffs with all knowledge necessary to make an
-informed decisions sic, when, in fact: \textgreater{} \textgreater{} •
-Defendants knew that the founder of ILKB, Michael Parrella, had filed
-for bankruptcy in 2003 and that his discharge had been vacated in 2008;
-and knew or should have known, in the exercise of reasonable inquiry of
-Parrella's bankruptcy consistent with their representations to
-Plaintiffs, that Parrella's discharge had been revoked for failure to
-pay federal taxes and that there were two adversary proceedings in the
-bankruptcy accusing Parrella of fraud and fraudulent transfers.
-\textgreater{} \textgreater{} • Defendants failed to perform any
-serious, systematic or professional due diligence upon ILKB; instead all
-they did was talk to a few existing franchisees, many of whom did not
-own the type of ILKB franchise that Plaintiffs were considering buying,
-and Defendants prepared no report, summary or investigation of ILKB.
-\textgreater{} \textgreater{} • Defendants simply took representations
-of ILKB about the nature of the franchise, including the representations
-that it was suitable for absentee ownership; that no units had closed;
-that average ILKB franchisees made revenues and profits at a certain
-level; and that ILKB did all of the marketing for franchisees, and
-passed them on to Plaintiffs without checking on them. \textgreater{}
-\textgreater{} • Defendants knew that ILKB engaged in blatantly illegal
-marketing techniques as early as March 2015 and never questioned whether
-such techniques had ceased, thus exposing Plaintiffs to the high
-likelihood, if not certainty, that Plaintiffs would be the victims of
-fraud. \textgreater{} \textgreater{} • Defendants disregarded complaints
-and warning signs from ILKB franchisees as the whining of ``stupid,
-selfish and ungrateful franchisees'' instead of investigating such
-complaints and determining whether they were true. \textgreater{}
-\textgreater{} • Defendants made specific representations as set forth
-in the proposed amended complaint about ILKB without investigating or
-verifying them, when such representations were false and were known or
-should have been known to Defendants as false.
-\end{quote}
+\begin{itemize}
+\tightlist
+\item
+  • Defendants deliberately and intentionally disregarded the rights of
+  Plaintiffs and disregarded the substantial likelihood of serious
+  injury and damages to Plaintiffs by representing that they offered to
+  match Plaintiffs only with franchises that Defendants had investigated
+  and vetted; that such franchises were of high quality; and that
+  Defendants would provide Plaintiffs with all knowledge necessary to
+  make an informed decisions sic, when, in fact:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    • Defendants knew that the founder of ILKB, Michael Parrella, had
+    filed for bankruptcy in 2003 and that his discharge had been vacated
+    in 2008; and knew or should have known, in the exercise of
+    reasonable inquiry of Parrella's bankruptcy consistent with their
+    representations to Plaintiffs, that Parrella's discharge had been
+    revoked for failure to pay federal taxes and that there were two
+    adversary proceedings in the bankruptcy accusing Parrella of fraud
+    and fraudulent transfers.
+  \item
+    • Defendants failed to perform any serious, systematic or
+    professional due diligence upon ILKB; instead all they did was talk
+    to a few existing franchisees, many of whom did not own the type of
+    ILKB franchise that Plaintiffs were considering buying, and
+    Defendants prepared no report, summary or investigation of ILKB.
+  \item
+    • Defendants simply took representations of ILKB about the nature of
+    the franchise, including the representations that it was suitable
+    for absentee ownership; that no units had closed; that average ILKB
+    franchisees made revenues and profits at a certain level; and that
+    ILKB did all of the marketing for franchisees, and passed them on to
+    Plaintiffs without checking on them.
+  \item
+    • Defendants knew that ILKB engaged in blatantly illegal marketing
+    techniques as early as March 2015 and never questioned whether such
+    techniques had ceased, thus exposing Plaintiffs to the high
+    likelihood, if not certainty, that Plaintiffs would be the victims
+    of fraud.
+  \item
+    • Defendants disregarded complaints and warning signs from ILKB
+    franchisees as the whining of ``stupid, selfish and ungrateful
+    franchisees'' instead of investigating such complaints and
+    determining whether they were true.
+  \item
+    • Defendants made specific representations as set forth in the
+    proposed amended complaint about ILKB without investigating or
+    verifying them, when such representations were false and were known
+    or should have been known to Defendants as false.
+  \end{itemize}
+\end{itemize}
 
 According to the proposed amended complaint, as a result of Defendants'
 deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to
@@ -15152,7 +14887,7 @@ probability of injury to the rights or safety of others.
 \end{quote}
 \end{quote}
 
-\subsubsection{Analysis}\label{analysis-1}
+\subsubsection{Analysis}\label{analysis}
 
 With respect to Rule 15, Defendants argue that the Motion should be
 denied because it is futile. Plaintiffs' amendment is not futile if the
@@ -15614,24 +15349,23 @@ were a court to conclude that subparagraph (c)(1)(C) does not apply,
 subparagraph (c)(1)(A) does provide the relief Plaintiffs seek in
 amending their complaint.
 
-One further note in this regard. While this is not a diversity
-case---the more common route to applying Rule 15(c)(1)(A)---relation
-back is nonetheless available in the context of a section 1983 claim
-such as this so long as the borrowed limitation period,
-{\marginnote{\begin{footnotesize}Where federal law establishes a cause
-of action but does not specify an applicable limitations period for
-asserting claims, courts ``borrow'' the statute of limitations for
-analogus claims under state law. \emph{See Owens v. Okure}, 488 US 235,
-240 (1989) (state statute of limitations for personal injury claims
-applies to federal civil rights claims under 42 U.S.C.
-§1983).\end{footnotesize}}} under state law, is subject to relation
-back. ``Rule 15(c)(1)(A) instructs courts, then, to look to the entire
-body of limitations law that provides the applicable statute of
-limitations.'' Since section 1983 derives its statute of limitations
-from state law, ``under Rule 15(c)(1)(A), {[}the court{]} must determine
-if state law provides a `more forgiving principle of relations back' in
-the John Doe context, compared to the federal relation back doctrine
-under Rule 15(c)(1)(C).''
+One further note in this regard. {\marginnote{\begin{footnotesize}Where
+federal law establishes a cause of action but does not specify an
+applicable limitations period for asserting claims, courts ``borrow''
+the statute of limitations for analogus claims under state law.
+\emph{See Owens v. Okure}, 488 US 235, 240 (1989) (state statute of
+limitations for personal injury claims applies to federal civil rights
+claims under 42 U.S.C. §1983).\end{footnotesize}}} While this is not a
+diversity case---the more common route to applying Rule
+15(c)(1)(A)---relation back is nonetheless available in the context of a
+section 1983 claim such as this so long as the borrowed limitation
+period, under state law, is subject to relation back. ``Rule 15(c)(1)(A)
+instructs courts, then, to look to the entire body of limitations law
+that provides the applicable statute of limitations.'' Since section
+1983 derives its statute of limitations from state law, ``under Rule
+15(c)(1)(A), {[}the court{]} must determine if state law provides a
+`more forgiving principle of relations back' in the John Doe context,
+compared to the federal relation back doctrine under Rule 15(c)(1)(C).''
 
 Although, as noted, the City and Fitchet do not address subparagraph
 (c)(1)(A) at all, they do acknowledge that a federal court which is
@@ -15702,10 +15436,10 @@ amendment to their complaint.
 
 The only factor which might call for a denial of Plaintiffs' motion is
 possible ``futility,'' a factor that is inextricably intertwined with
-the relation-back issue. Thus, were Rule 15(c)(1)(C) controlling,
-Plaintiffs' proposed amendment might be deemed futile given its ``but
-for a mistake'' language. {\marginnote{\begin{footnotesize}What does the
-court mean here?\end{footnotesize}}} For all the reasons explicated,
+the relation-back issue. {\marginnote{\begin{footnotesize}What does the
+court mean here?\end{footnotesize}}} Thus, were Rule 15(c)(1)(C)
+controlling, Plaintiffs' proposed amendment might be deemed futile given
+its ``but for a mistake'' language. For all the reasons explicated,
 however, Rule 15(c)(1)(A) applies. Accordingly, Plaintiffs' proposed
 amendment to the complaint can readily be found to relate back to the
 original complaint, thereby avoiding the statute of limitations barrier
@@ -15812,13 +15546,6 @@ under Rules 26 through 37.
 
 \subsection{Turton v. Virginia Department of Education (E.D. Va.
 2015)}\label{turton-v.-virginia-department-of-education-e.d.-va.-2015}
-
-This matter is before the Court on DEFENDANT PATRICK T. ANDRIANO'S
-MOTION FOR SANCTIONS TO RULE 11. For the reasons set forth herein, the
-motion will be granted.
-
-\subsubsection{Factual and Procedural
-Background}\label{factual-and-procedural-background-2}
 
 Counsel for the 28 plaintiffs in this case filed the Amended Complaint
 on July 11, 2014. The Complaint generally alleges various incidents of
@@ -17587,7 +17314,7 @@ claims against Officer Spencer because the judgment in the 1992
 Action---in which he was the defendant---was not on the merits and,
 thus, is not entitled to claim-preclusive effect.
 
-\subsubsection{Factual Background}\label{factual-background-2}
+\subsubsection{Factual Background}\label{factual-background}
 
 Late one night in June 1989, Mr.~Johnson ran into a female acquaintance
 at a bar in Cheyenne and returned with her to the apartment that she
@@ -17810,8 +17537,6 @@ Estate's motion to dismiss, the court granted it, too, ``because the res
 judicata analysis did not differ and was equally dispositive as to
 Detective Stanford.''
 
-\subsubsection{Discussion}\label{discussion-5}
-
 The central question in this appeal is whether the judgments in the
 prior litigation concerning Mr.~Johnson's conviction---i.e., the
 judgments in the 1991 and 1992 Actions---prevent him from bringing a new
@@ -17848,9 +17573,6 @@ applies to the 1991 and 1992 Actions. We conclude that the district
 court correctly held that the 1991 Action has claim-preclusive effect on
 the 2017 Action, but erred in holding that the 1992 Action has such
 effect. We, thus, affirm in part and reverse in part.
-
-\paragraph{Background Principles of Claim
-Preclusion}\label{background-principles-of-claim-preclusion}
 
 Before proceeding further into our de novo review, we pause to frame the
 applicable claim-preclusion doctrine. ``The principle underlying the
@@ -17891,8 +17613,6 @@ in the 1991 Action. We conclude that he did have such an opportunity.
 We, thus, affirm that aspect of the district court's claim-preclusion
 determination.
 
-\paragraph{Application}\label{application}
-
 In the following discussion, as indicated, we focus on whether the 1991
 Action provided Mr.~Johnson with a ``full and fair opportunity to
 litigate'' and whether the 1992 Action was adjudicated ``on the
@@ -17911,7 +17631,8 @@ those against the Estate and Cheyenne---but reverse its dismissal of the
 claims ostensibly precluded by the 1992 Action---i.e., those against
 Officer Spencer.
 
-\textbf{The 1991 Action is entitled to claim-preclusive effect.}
+\subsubsection{The 1991 Action is entitled to claim-preclusive
+effect.}\label{the-1991-action-is-entitled-to-claim-preclusive-effect.}
 
 The parties dispute whether the 1991 Action is entitled to
 claim-preclusive effect and, more specifically, whether it constituted a
@@ -17922,11 +17643,8 @@ establish this. We reject both arguments and, thus, uphold the district
 court's dismissal of the claims against Cheyenne and the Estate, i.e.,
 the parties to the 1991 Action.
 
-\begin{itemize}
-\tightlist
-\item
-  \emph{The ``Full and Fair Opportunity to Litigate'' Requirement}
-\end{itemize}
+\paragraph{The ``Full and Fair Opportunity to Litigate''
+Requirement}\label{the-full-and-fair-opportunity-to-litigate-requirement}
 
 The ``full and fair opportunity to litigate'' inquiry is a ``narrow
 exception'' that ``applies only where the requirements of due process
@@ -18001,12 +17719,9 @@ final. Consequently, we reject Mr.~Johnson's contention that the 1991
 Action did not provide him with a ``full and fair opportunity to
 litigate.''
 
-\begin{itemize}
-\tightlist
-\item
-  \emph{Cheyenne and the Estate carried their burden on the
-  claim-preclusion defense.}
-\end{itemize}
+\paragraph{Cheyenne and the Estate carried their burden on the
+claim-preclusion
+defense.}\label{cheyenne-and-the-estate-carried-their-burden-on-the-claim-preclusion-defense.}
 
 Mr.~Johnson also contends that, even if the 1991 Action could give rise
 to claim preclusion, Cheyenne and the Estate have failed to muster
@@ -18061,11 +17776,7 @@ In sum, we reject Mr.~Johnson's argument that Cheyenne and the Estate
 have failed to muster legally sufficient proof to establish claim
 preclusion as to the 1991 Action.
 
-\begin{itemize}
-\tightlist
-\item
-  \emph{Heck v. Humphrey Redux}
-\end{itemize}
+\paragraph{Heck v. Humphrey Redux}\label{heck-v.-humphrey-redux}
 
 Mr.~Johnson also returns to an iteration of his \emph{Heck} argument. He
 argues that, under \emph{Heck}, he could not have brought the claims in
@@ -18120,7 +17831,8 @@ In sum, we hold that the claims in the 2017 Action against Cheyenne and
 the Estate are precluded by the 1991 Action. We, thus, affirm the
 dismissal of those claims.
 
-\textbf{The 1992 Action is not entitled to claim-preclusive effect.}
+\subsubsection{The 1992 Action is not entitled to claim-preclusive
+effect.}\label{the-1992-action-is-not-entitled-to-claim-preclusive-effect.}
 
 With respect to the 1992 Action, Mr.~Johnson primarily disputes the
 first element of claim preclusion, i.e., whether there was ``a final
@@ -18135,11 +17847,8 @@ adjudicated ``on the merits,'' we need not entertain Mr.~Johnson's
 separate argument that the 1992 Action did not afford him a ``full and
 fair opportunity to litigate.''
 
-\begin{itemize}
-\tightlist
-\item
-  \emph{Relevant Procedural History}
-\end{itemize}
+\paragraph{Relevant Procedural
+History}\label{relevant-procedural-history}
 
 Mr.~Johnson's 1992 Action was a §1983 suit alleging that Officer Spencer
 violated his due-process rights by providing false testimony about his
@@ -18185,11 +17894,8 @@ ground that ``Mr.~Johnson's lawsuit is based upon an indisputably
 meritless legal theory because a testifying police officer is entitled
 to absolute immunity.''
 
-\begin{itemize}
-\tightlist
-\item
-  \emph{The ``On the Merits'' Requirement}
-\end{itemize}
+\paragraph{The ``On the Merits''
+Requirement}\label{the-on-the-merits-requirement}
 
 As mentioned, a successful claim-preclusion defense requires ``a final
 judgment on the merits in the earlier action.'' Mr.~Johnson argues that
@@ -18348,13 +18054,13 @@ that occurred after August 7, 2011.'' She seeks statutory damages
 available under the FDCPA, as well as attorney fees and costs.
 
 By way of additional background, the Court notes that on July 1, 2011,
-Ms.~Hernandez initiated Civil Action No.~11-cv-01729 (\emph{Hernandez
-I}). In that case, Ms.~Hernandez claimed that in June 2011, the
-Defendant violated the FDCPA by failing to report the Xcel Energy
-account as disputed between May 5, 2011 and July 1, 2011. She alleged
-violations of the FDCPA. A two-day jury trial was held on September 10,
-2012. The jury returned a verdict in favor of the Defendant. Final
-judgment was entered in \emph{Hernandez I} on September 21, 2012.
+Ms.~Hernandez initiated {[}a prior suit{]} (\emph{Hernandez I}). In that
+case, Ms.~Hernandez claimed that in June 2011, the Defendant violated
+the FDCPA by failing to report the Xcel Energy account as disputed
+between May 5, 2011 and July 1, 2011. She alleged violations of the
+FDCPA. A two-day jury trial was held on September 10, 2012. The jury
+returned a verdict in favor of the Defendant. Final judgment was entered
+in \emph{Hernandez I} on September 21, 2012.
 
 As relevant here, the Defendant moved to dismiss Ms.~Hernandez's claims
 in this case under the doctrine of \emph{res judicata,} also referred to
@@ -18422,7 +18128,8 @@ entirety, with prejudice. The Clerk of the Court shall close this case.
 \subsection{Taylor v. Sturgell (U.S.
 2008)}\label{taylor-v.-sturgell-u.s.-2008}
 
-\textbf{Justice GINSBURG delivered the opinion of the Court.}
+\subsubsection{Justice Ginsburg delivered the opinion of the
+Court.}\label{justice-ginsburg-delivered-the-opinion-of-the-court.-1}
 
 ``It is a principle of general application in Anglo-American
 jurisprudence that one is not bound by a judgment \emph{in personam} in
@@ -18657,20 +18364,18 @@ directly, it also seems clear that preclusion is appropriate when a
 nonparty later brings suit as an agent for a party who is bound by a
 judgment.
 
-Sixth, in certain circumstances a special statutory scheme may
-``expressly foreclose successive litigation by nonlitigants. . . if the
-scheme is otherwise consistent with due process.'' Examples of such
-schemes include bankruptcy and probate proceedings, and \emph{quo
-warranto} {\marginnote{\begin{footnotesize}``\emph{Quo warranto} is
-Latin for `by what warrant' (or authority). A writ of \emph{quo
-warranto} is a common law remedy which is used to challenge a person's
-right to hold a public or corporate office. A state may also use a
-\emph{quo warranto} action to revoke a corporation's charter. When
-bringing a petition for writ of \emph{quo warranto}, individual members
-of the public have standing as citizens and taxpayers.''
+Sixth, {\marginnote{\begin{footnotesize}``\emph{Quo warranto} is Latin
+for `by what warrant' (or authority). A writ of \emph{quo warranto} is a
+common law remedy which is used to challenge a person's right to hold a
+public or corporate office.''
 \href{https://www.law.cornell.edu/wex/quo_warranto}{Wex Legal
-Dictionary}\end{footnotesize}}} actions or other suits that, ``under the
-governing law, may be brought only on behalf of the public at large''.
+Dictionary}\end{footnotesize}}} in certain circumstances a special
+statutory scheme may ``expressly foreclose successive litigation by
+nonlitigants. . . if the scheme is otherwise consistent with due
+process.'' Examples of such schemes include bankruptcy and probate
+proceedings, and \emph{quo warranto} actions or other suits that,
+``under the governing law, may be brought only on behalf of the public
+at large''.
 
 \subsubsection{III}\label{iii-6}
 
@@ -18912,7 +18617,7 @@ to Stan Lee's intellectual property, name, and likeness, and asserts a
 cause of action against POW for cybersquatting in violation of 15 U.S.C.
 §1125(d).
 
-\subsubsection{Factual Background}\label{factual-background-3}
+\subsubsection{Factual Background}\label{factual-background-1}
 
 After departing from Marvel in August 1998, Stan Lee formed SLEI, to
 which he allegedly ``conveyed clear title to his name, likeness and all
@@ -19449,7 +19154,7 @@ court erred in failing to give preclusive effect to an adverse judgment
 against NSS in prior litigation between the parties on an allegedly
 controlling issue. We AFFIRM the judgment of the district court.
 
-\subsubsection{Factual background}\label{factual-background-4}
+\subsubsection{Factual background}\label{factual-background-2}
 
 NSS and Time Warner obtained their respective rights to broadcast the
 event through separate contracts. New Jersey Sports Productions, Inc.,
@@ -19599,20 +19304,14 @@ With regard to the ruling, NSS has failed to state a claim pursuant to
 the terms of the contracts at issue in this case as well as 47 United
 States Code Section 605.
 
-\begin{quote}
 Paragraph 14(e) of the Television Licensing Agreement provides for the
 enforcement of unauthorized display of the closed circuit television
 feed. That also provides that Joe Hand Promotions the licensor of the
 event could not assert any piracy claim without prior notice.
-\end{quote}
 
-\begin{quote}
-\begin{quote}
 The agreement provides that a sublicensee NSS has no rights to
 enforceability, quote, ``It being understood that your sublicensee shall
 have no right to commence or settle any claim or litigation hereunder.''
-\end{quote}
-\end{quote}
 
 The other relevant agreement is the March 12, 1996 Closed Circuit
 Television Agreement entered into between the licensor and NSS.
@@ -19653,7 +19352,7 @@ an analysis of each is necessary in order to decide if the district
 court erred by failing to give preclusive effect to the \emph{Coach's
 Corner} decision.
 
-\textbf{1. Identity of issues}
+\paragraph{1. Identity of issues}\label{identity-of-issues}
 
 Time Warner argues that the \emph{Coach's Corner} court was faced with
 the precise threshold question that the district court encountered in
@@ -19686,7 +19385,8 @@ view a boxing match by being inaccurately listed as a residential
 customer of Time Warner. As a result, Time Warner has satisfied the
 first element for issue preclusion.
 
-\textbf{2. Necessary to the outcome of the prior proceeding}
+\paragraph{2. Necessary to the outcome of the prior
+proceeding}\label{necessary-to-the-outcome-of-the-prior-proceeding}
 
 The district court held that Time Warner failed to establish that NSS's
 lack of standing under §605 was necessary to the grant of summary
@@ -19751,7 +19451,8 @@ preclusion. \emph{Coach's Corner's} secondary holding that NSS failed to
 state a claim under §605 was thus not necessary to the granting of Time
 Warner's motion for summary judgment.
 
-\textbf{3. Final judgment on the merits}
+\paragraph{3. Final judgment on the
+merits}\label{final-judgment-on-the-merits}
 
 Although the district court held that the \emph{Coach's Corner} decision
 was a final judgment on the merits for the purpose of issue preclusion,
@@ -19768,7 +19469,8 @@ wrong.'' Finally, summary judgment is recognized as a final judgment for
 the purpose of issue preclusion. Time Warner has therefore satisfied
 this third element for issue preclusion.
 
-\textbf{4. Full and fair opportunity to litigate}
+\paragraph{4. Full and fair opportunity to
+litigate}\label{full-and-fair-opportunity-to-litigate}
 
 Turning to the final element, Time Warner contends that the district
 court in \emph{Coach's Corner} granted its motion for summary judgment
@@ -19924,7 +19626,7 @@ provided that proceeds from the sale of those properties would be held
 in escrow pending further order from this Court upon the resolution of
 the adversary proceeding. The Court granted the Trustee's motion.
 
-\subsubsection{Analysis}\label{analysis-2}
+\subsubsection{Analysis}\label{analysis-1}
 
 \paragraph{The Decoursey Pike
 Property}\label{the-decoursey-pike-property}
@@ -19977,18 +19679,18 @@ Partnership answers whether the estate has any interest in the property
 under §541. Plaintiff cannot make that showing, because the property
 interests encompassed by §541 are not limited to legal title.
 
-Section 541 states that the bankruptcy estate is comprised of ``all
-legal or equitable interests of the debtor in property as of the
-commencement of the case.'' Possessory interests
-{\marginnote{\begin{footnotesize}``Possessory interest refers to the
-right of an individual to occupy a piece of land or possess a piece of
-property. A person with a possessory interest does not own the property,
-but the person has some present right to control it such as a lease.''
+Section 541 {\marginnote{\begin{footnotesize}``Possessory interest
+refers to the right of an individual to occupy a piece of land or
+possess a piece of property. A person with a possessory interest does
+not own the property, but the person has some present right to control
+it such as a lease.''
 \href{https://www.law.cornell.edu/wex/possessory_interest}{Wex Legal
-Dictionary}\end{footnotesize}}} are among the property interests
-included. And, as this Court has recently held, the possessory interest
-in property of a debtor who lacks legal title to that property is
-property of the estate.
+Dictionary}\end{footnotesize}}} states that the bankruptcy estate is
+comprised of ``all legal or equitable interests of the debtor in
+property as of the commencement of the case.'' Possessory interests are
+among the property interests included. And, as this Court has recently
+held, the possessory interest in property of a debtor who lacks legal
+title to that property is property of the estate.
 
 The state-court judgment, while preclusively quieting legal title to the
 Decoursey Pike property in the Partnership, did not address any
@@ -20194,7 +19896,7 @@ asylum proceeding, it was not actually litigated. Issue preclusion does
 not bar the government from disputing that issue in Janjua's adjustment
 of status proceeding. We therefore affirm.
 
-\subsubsection{Factual Background}\label{factual-background-5}
+\subsubsection{Factual Background}\label{factual-background-3}
 
 Janjua is a native and citizen of Pakistan. As a Muhajir\footnote{(n.1
   in opinion) ``Muhajir'' refers to those people who are or are
@@ -20297,7 +19999,7 @@ motion for summary judgment.\footnote{(n.2 in opinion) The court further
   terrorist organization, which Janjua had not contested and therefore
   waived.} Janjua timely appealed.
 
-\subsubsection{Discussion}\label{discussion-6}
+\subsubsection{Discussion}\label{discussion-5}
 
 Issue preclusion, also known as collateral estoppel, ``bars the
 relitigation of issues actually adjudicated in previous litigation.''
@@ -20493,7 +20195,8 @@ permitted to relitigate the issue.
 \subsection{Parklane Hosiery Co.~v. Shore (U.S.
 1978)}\label{parklane-hosiery-co.-v.-shore-u.s.-1978}
 
-\textbf{Justice Stewart delivered the opinion of the Court.}
+\subsubsection{Justice Stewart delivered the opinion of the
+Court.}\label{justice-stewart-delivered-the-opinion-of-the-court.}
 
 This case presents the question whether a party who has had issues of
 fact adjudicated adversely to it in an equitable action may be
@@ -21530,8 +21233,6 @@ at trial if the court does not grant summary judgment.
 \subsection{Stout v. Vincent (5th Cir.
 2018)}\label{stout-v.-vincent-5th-cir.-2018}
 
-\textbf{Per Curiam}
-
 We decide whether the district court erred when granting summary
 judgment in favor of a police officer on the racial profiling claims of
 a black couple. The district court found that the couple failed to raise
@@ -21632,9 +21333,7 @@ district court erred when concluding there was no genuine issue of
 material fact that Officer Vincent's actions were impermissibly
 motivated by race.
 
-\subsubsection{Legal Standard}\label{legal-standard-3}
-
-\paragraph{Summary Judgment}\label{summary-judgment-1}
+\subsubsection{Summary Judgment}\label{summary-judgment-1}
 
 Under Federal Rule of Civil Procedure 56, a ``court shall grant summary
 judgment if the movant shows that there is no genuine dispute as to any
@@ -21661,7 +21360,7 @@ party seeking summary judgment but fails to properly acknowledge key
 evidence offered by the nonmoving party, it misapprehends the summary
 judgment standard.
 
-\paragraph{Fourteenth Amendment Racial
+\subsubsection{Fourteenth Amendment Racial
 Profiling}\label{fourteenth-amendment-racial-profiling}
 
 ``The Constitution prohibits selective enforcement of the law based on
@@ -21686,9 +21385,6 @@ Finally, ``discriminatory intent of one official may not be imputed to
 another for purposes of imposing individual liability under the civil
 rights laws.''
 
-\subsubsection{Lack of Evidence of Fourteenth Amendment
-Violation}\label{lack-of-evidence-of-fourteenth-amendment-violation}
-
 The district court concluded that Montgomery and Stout ``have not
 presented any evidence to support their claim'' that Officer Vincent's
 decision to detain them was ``at least partially based on their race.''
@@ -21704,37 +21400,41 @@ On appeal, Montgomery and Stout detail the evidence they claim
 demonstrates Officer Vincent's discriminatory intent and unequal
 treatment:
 
-• They were traveling from Memphis, Tennessee to Jackson, Mississippi,
-which are both predominantly black cities.
-
-• They are both black.
-
-• They were driving a Lexus SUV.
-
-• Stout believed ``they were being held because they are African
-American and for no other reason.''
-
-• Montgomery also believed ``it appeared that the only reason Officer
-Vincent was keeping them was that they were black and driving a Lexus.''
-
-• Officer Vincent later remembered that Stout and Montgomery had
-indicated that the purpose of their trip to Mississippi was a concert
-when in fact they had told him they were in Mississippi for Stout's
-graduate student research. According to Stout and Montgomery, this lapse
-is evidence that Officer Vincent had discriminatory intent because ``he
-did not see a highly educated Black woman and her partner; he saw two
-Black people in a nice car going to a concert.''
-
-• No trooper issued them a ticket or citation, even though the officers
-claim they found marijuana in the SUV.
-
-• They both stated there was no marijuana in the car that day.
-
-• On the day before Officer Vincent detained Appellants, the City of
-Mound Bayou approved a resolution against the racial profiling of people
-of color by the MHSP. The mayor of Winstonville also condemned racial
-profiling of black people by the MHSP. Officer Vincent has been with the
-MHSP since 1997.
+\begin{itemize}
+\item
+  • They were traveling from Memphis, Tennessee to Jackson, Mississippi,
+  which are both predominantly black cities.
+\item
+  • They are both black.
+\item
+  • They were driving a Lexus SUV.
+\item
+  • Stout believed ``they were being held because they are African
+  American and for no other reason.''
+\item
+  • Montgomery also believed ``it appeared that the only reason Officer
+  Vincent was keeping them was that they were black and driving a
+  Lexus.''
+\item
+  • Officer Vincent later remembered that Stout and Montgomery had
+  indicated that the purpose of their trip to Mississippi was a concert
+  when in fact they had told him they were in Mississippi for Stout's
+  graduate student research. According to Stout and Montgomery, this
+  lapse is evidence that Officer Vincent had discriminatory intent
+  because ``he did not see a highly educated Black woman and her
+  partner; he saw two Black people in a nice car going to a concert.''
+\item
+  • No trooper issued them a ticket or citation, even though the
+  officers claim they found marijuana in the SUV.
+\item
+  • They both stated there was no marijuana in the car that day.
+\item
+  • On the day before Officer Vincent detained Appellants, the City of
+  Mound Bayou approved a resolution against the racial profiling of
+  people of color by the MHSP. The mayor of Winstonville also condemned
+  racial profiling of black people by the MHSP. Officer Vincent has been
+  with the MHSP since 1997.
+\end{itemize}
 
 In light of this evidence, Montgomery and Stout argue that the district
 court misapplied the summary judgment standard when it concluded that
@@ -21835,14 +21535,22 @@ testified in his deposition that he designed the Swivel Tub Chair.
 Mebelmacher licensed the design to Hahn, Inc., which is the exclusive
 licensed manufacturer of the chairs.
 
-The chair consists of a ``tub'' seat attached to a plywood base in a
-manner that permits the ``tub'' to tilt and swivel. A chrome veneer,
-about one-sixteenth of an inch thick, is affixed to the outside of the
-base. The diameter of the base is about two inches less than the
-diameter of the tub, and the bottom of the tub is about three inches off
-the floor.
+The chair (Mebelmacher Deposition, Exhibit A) consists of a ``tub'' seat
+attached to a plywood base in a manner that permits the ``tub'' to tilt
+and swivel. A chrome veneer, about one-sixteenth of an inch thick, is
+affixed to the outside of the base. The diameter of the base is about
+two inches less than the diameter of the tub, and the bottom of the tub
+is about three inches off the floor.
 
-\includegraphics[width=0.5\linewidth,height=\textheight,keepaspectratio]{../img/TubChair.jpg}
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.66\linewidth,height=\textheight,keepaspectratio]{TubChair.jpg}
+
+}
+
+\caption{Mebelmacher Deposition, Exhibit A}
+
+\end{figure}%
 
 The chair was designed for residential use. Mebelmacher assumes that
 people commonly walk barefoot in their homes. Nonetheless, he never
@@ -21934,8 +21642,6 @@ chair resulted from the manufacturing process, not the design.
 \chapter*{Sources}
 
 {\bfseries\Large{Cases}}
-
-\textit{Amador County, Cal. v. U.S. Dept. of the Interior}, 772 F. 3d 901 (D.C. Cir. 2014)
 
 \textit{Buck v. Gordon}, 959 F. 3d 219 (6th Cir. 2020)
 
@@ -22072,8 +21778,6 @@ E. Polk Johnson,\href{https://play.google.com/books/reader?id=FXQUAAAAYAAJ\&pg=G
 Franz Kafka, \href{https://www.kafka-online.info/before-the-law.html}{\textit{Before the Law}}, (1915) 
 
 Thomas S. Kuhn \& Ian Hacking, \textit{The Structure of Scientific Revolutions: 50th Anniversary Edition} (2012)
-
-William P. LaPiana, \textit{Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America}, 20 Suffolk U. L. Rev. 771 (1986)
 
 David Marcus, \textit{The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform}, 44 Georgia Law Review 433 (2009)
 
