@@ -29,7 +29,7 @@ contributes:
                 href:  https://github.com/EricMFink/CivProCasebook/issues/new
       page-footer:
           center: 
-            - text: "Last updated: {{< modified >}}"
+            - text: "Last updated: {{< now >}}"
     format:
       html:
         page-layout: full
