@@ -8,28 +8,6 @@ contributes:
       type: book
     book:
       open-graph: true
-      author:
-      - name: Eric M. Fink
-        email: efink@elon.edu
-        affiliations:
-          - name: Elon University School of Law
-            address: 201 North Greene Street
-            city: Greensboro
-            state: North Carolina
-            postal-code: 27278
-      license: "CC BY NC SA"
-      downloads: [pdf] 
-      sidebar:
-        tools:
-          - icon: github
-            menu:
-              - text: View source code
-                href:  https://github.com/EricMFink/CivProCasebook
-              - text: Report an issue
-                href:  https://github.com/EricMFink/CivProCasebook/issues/new
-      page-footer:
-          center: 
-            - text: "Last updated: {{< now >}}"
     format:
       html:
         page-layout: full

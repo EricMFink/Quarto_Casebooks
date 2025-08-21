@@ -8,6 +8,7 @@
 \usepackage{marginnote}
 \usepackage{sidenotes}
 \usepackage{booktabs}
+\usepackage[]{pdfpages}
 
 %\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
@@ -45,9 +46,9 @@
 \renewcommand{\labelitemi}{}
 
 %=== Chapter & Section Headings ===
-\titlespacing*{\chapter}{0em}{0em}{2em}
-\titlespacing*{\section}{0mm}{10mm}{0mm}
-\titlespacing*{\subsection}{0mm}{8mm}{0mm}
+\titlespacing*{\chapter}{0em}{0mm}{12mm}
+\titlespacing*{\section}{0mm}{9mm}{0mm}
+\titlespacing*{\subsection}{0mm}{6mm}{0mm}
 \titlespacing*{\subsubsection}{0mm}{3mm}{0mm}
 \titlespacing*{\paragraph}{0mm}{3mm}{0mm}
 
@@ -94,9 +95,7 @@
   {}
   []
 
-\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
-
-\graphicspath{{../img/}}
+%\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
 \renewcommand*{\captionformat}{}
 
@@ -111,3 +110,5 @@
   July\or August\or September\or October\or November\or
   December\fi\space\number\year
 }
+
+\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}

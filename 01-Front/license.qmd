@@ -1,6 +1,6 @@
 # License {.unnumbered}
 
-[[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.license-i}
+[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}]{.license-i}
 
 [All original content is licensed under a [Creative Commons Attribution NonCommercial ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.license}
 
@@ -16,4 +16,4 @@
 
 [Source Code: [[github.com/EricMFink/CivProCasebook]{.mono-font}](https://github.com/EricMFink/CivProCasebook){.mono-font}]{.license-h3}
 
-[Version 4.1, August 2025]{.license-h3}
+[Version $version$]{.license-h3}5]{.license-h3}

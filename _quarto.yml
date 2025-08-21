@@ -2,13 +2,7 @@ project:
     type: tufte
 
 book:
-  open-graph: true
-  site-url: "https://www.emfink.net/CivProCasebook/"
-  output-file: "CivProCasebook"
-  title: "Civil Procedure"
-  title-short: "Civil Procedure"
-  subtitle: An Open-Source Casebook
-  author:
+  author: 
   - name: Eric M. Fink
     email: efink@elon.edu
     affiliations:
@@ -17,6 +11,25 @@ book:
         city: Greensboro
         state: North Carolina
         postal-code: 27278
+  title: "Civil Procedure"
+  title-short: "Civil Procedure"
+  subtitle: An Open-Source Casebook
+  version: "4.1, August 2025"
+  license: "CC BY NC SA"
+  site-url: "https://www.emfink.net/CivProCasebook/"
+  output-file: "CivProCasebook"
+  downloads: [pdf] 
+  sidebar:
+    tools:
+      - icon: github
+        menu:
+          - text: View source code
+            href:  https://github.com/EricMFink/CivProCasebook
+          - text: Report an issue
+            href:  https://github.com/EricMFink/CivProCasebook/issues/new
+  page-footer:
+      center: 
+        - text: "Last updated: {{< now >}}"
   chapters:
     - index.qmd
     - part: "Front Matter"
