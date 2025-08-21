@@ -78,6 +78,35 @@ ul.task-list li input[type="checkbox"] {
 <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
 <meta name="robots" content="noarchive">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../site_libs/quarto-contrib/quarto-project/fredguth/tufte/styles.css">
 <meta property="og:title" content="License – Civil Procedure">
@@ -277,7 +306,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><span class="license-i"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i></a></span></p>
+<p><span class="license-i"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i></span></p>
 <p><span class="license">All original content is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution NonCommercial ShareAlike 4.0 International License</a></span></p>
 <p><span class="license-h2">Eric M. Fink</span></p>
 <p><span class="license-h3">Associate Professor of Law</span></p>
@@ -285,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="license-h3">Greensboro, North Carolina 27408</span></p>
 <p><span class="license-h4"><a href="https://www.emfink.net/ElonLaw/">emfink.net/ElonLaw</a></span></p>
 <p><span class="license-h3">Source Code: <a href="https://github.com/EricMFink/CivProCasebook" class="mono-font"><span class="mono-font">github.com/EricMFink/CivProCasebook</span></a></span></p>
-<p><span class="license-h3">Version 4.1, August 2025</span></p>
+<p><span class="license-h3">Version <span class="math inline">\(version\)</span></span>5]{.license-h3}</p>
 
 
 
@@ -710,7 +739,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2025-08-20 22:35:06
+ Last updated: 2025-08-21 14:07:49
   </li>  
 </ul>
     </div>
