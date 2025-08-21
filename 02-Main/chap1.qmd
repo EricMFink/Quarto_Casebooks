@@ -1,72 +1,12 @@
 # Foundations of Civil Procedure 
 
+## At the Threshold
+
 ### Franz Kafka, _Before the Law_ (1915)
 
 Before the law sits a gatekeeper. To this gatekeeper comes a man from the country who asks to gain entry into the law. But the gatekeeper says that he cannot grant him entry at the moment. The man thinks about it and then asks if he will be allowed to come in later on. “It is possible,” says the gatekeeper, “but not now.” At the moment the gate to the law stands open, as always, and the gatekeeper walks to the side, so the man bends over in order to see through the gate into the inside. When the gatekeeper notices that, he laughs and says: “If it tempts you so much, try it in spite of my prohibition. But take note: I am powerful. And I am only the most lowly gatekeeper. But from room to room stand gatekeepers, each more powerful than the other. I can’t endure even one glimpse of the third.” The man from the country has not expected such difficulties: the law should always be accessible for everyone, he thinks, but as he now looks more closely at the gatekeeper in his fur coat, at his large pointed nose and his long, thin, black Tartar’s beard, he decides that it would be better to wait until he gets permission to go inside. The gatekeeper gives him a stool and allows him to sit down at the side in front of the gate. There he sits for days and years. He makes many attempts to be let in, and he wears the gatekeeper out with his requests. The gatekeeper often interrogates him briefly, questioning him about his homeland and many other things, but they are indifferent questions, the kind great men put, and at the end he always tells him once more that he cannot let him inside yet. The man, who has equipped himself with many things for his journey, spends everything, no matter how valuable, to win over the gatekeeper. The latter takes it all but, as he does so, says, “I am taking this only so that you do not think you have failed to do anything.” During the many years the man observes the gatekeeper almost continuously. He forgets the other gatekeepers, and this one seems to him the only obstacle for entry into the law. He curses the unlucky circumstance, in the first years thoughtlessly and out loud, later, as he grows old, he still mumbles to himself. He becomes childish and, since in the long years studying the gatekeeper he has come to know the fleas in his fur collar, he even asks the fleas to help him persuade the gatekeeper. Finally his eyesight grows weak, and he does not know whether things are really darker around him or whether his eyes are merely deceiving him. But he recognizes now in the darkness an illumination which breaks inextinguishably out of the gateway to the law. Now he no longer has much time to live. Before his death he gathers in his head all his experiences of the entire time up into one question which he has not yet put to the gatekeeper. He waves to him, since he can no longer lift up his stiffening body.
 
-![Franz Kafka, Mann zwishen Gittern](../img/Mann_zwischen_Gittern.png){width=50%}
-
-## The Federal Judicial System
-
-### U.S. Constitution, Article III
-
-#### Section 1
-
-The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.
-
-#### Section 2
-
-The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
-
-In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
-
-### Administrative Office of the U.S. Courts, _Understanding the Federal Courts_
-
-#### Structure of the Federal Courts
-
-The Supreme Court is the highest court in the United States. Article III of the U.S. Constitution created the Supreme Court and authorized Congress to pass laws establishing a system of lower courts. In the federal court system’s present form, 94 district-level trial courts and 13 courts of appeals sit below the Supreme Court.
-
-##### Trial Courts
-
-The U.S. district courts are the primary trial courts of the federal court system. Within limits set by Congress and the Constitution, the district courts have jurisdiction to hear nearly all categories of federal cases, including both civil and criminal matters. There are 94 federal judicial districts, including at least one district in each state, the District of Columbia, and Puerto Rico. Each district includes a U.S. bankruptcy court as a unit of the district court.
-
-There are two special trial courts that have nationwide jurisdiction over certain types of cases. The Court of International Trade addresses cases involving international trade and customs issues. The United States Court of Federal Claims has jurisdiction over most claims for money damages against the United States, disputes over federal contracts, unlawful "takings" of private property by the federal government, vaccine injury cases, and a variety of other claims against the United States.
-
-Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
-
-![Federal District Courts & Appellate Circuits](../img/FedCourtsMap.png){width=66%}
-
-##### Appellate Courts
-
-The 94 judicial districts are organized into 12 regional circuits, each of which has a United States court of appeals. A court of appeals hears challenges to district court decisions from courts located within its circuit, as well as appeals from decisions of federal administrative agencies. In addition, the Court of Appeals for the Federal Circuit has nationwide jurisdiction to hear appeals in specialized cases, such as those involving patent laws and cases decided by the Court of International Trade and the Court of Federal Claims.
-
-##### United States Supreme Court
-
-The U.S. Supreme Court consists of the Chief Justice of the United States and eight associate justices. At its discretion, and within certain guidelines established by Congress, the Supreme Court hears a small percentage of the cases it is asked to decide each year. Supreme Court cases are usually selected either because the lower courts have differed, or "split," on a legal issue or they involve important questions about the Constitution or federal law.
-
-#### Jurisdiction of the Federal Courts
-
-Before a federal court can hear a case, or "exercise its jurisdiction," certain conditions must be met.
-
-First, under the Constitution, federal courts exercise only "judicial" powers. This means that federal judges may interpret the law only through the resolution of actual legal disputes, referred to in Article III of the Constitution as "Cases or Controversies." A court cannot attempt to correct a problem on its own initiative, or to answer a hypothetical legal question.
-
-Second, in an actual case or controversy, the plaintiff in a federal lawsuit also must have legal "standing" to ask the court for a decision. That means the plaintiff must have been aggrieved, or legally harmed in some way, by the defendant.
-
-Third, the case must present a category of dispute that the law in question was designed to address, and it must be a complaint that the court has the power to remedy. In other words, the court must be authorized, under the Constitution or a federal law, to hear the case and grant appropriate relief to the plaintiff.
-
-Finally, the case cannot be "moot," that is, it must present an ongoing problem for the court to resolve. The federal courts, thus, are courts of "limited" jurisdiction because they may only decide certain types of cases as provided by Congress or as identified in the Constitution.
-
-Although the details of the complex web of federal jurisdiction that Congress has given the federal courts is beyond the scope of this brief guide,[Federal subject matter jurisdiction is covered in Chapter 3]{.aside} it is important to understand that there are two main sources of the cases coming before the federal courts: "federal question" jurisdiction and "diversity" jurisdiction.
-
-In general, federal question jurisdiction arises in cases that involve the U.S. government, the U.S. Constitution or federal laws, or controversies between states or between the United States and foreign governments. A case that raises such a "federal question" may be filed in federal court. Examples of such cases might include a claim by an individual for entitlement to money under a federal government program such as Social Security, a criminal prosecution by the government that alleges someone violated a federal law, or a challenge to actions taken by a federal agency.
-
-A case also may be filed in federal court based on the "diversity of citizenship" of the litigants, such as between citizens of different states, or between U.S. citizens and those of another country. To ensure fairness to the out-of-state litigant, the Constitution provides that such cases may be heard in a federal court. An important limit to diversity jurisdiction is that only cases involving more than $75,000 in potential damages may be filed in a federal court. Claims below that amount may only be pursued in state court. Moreover, any diversity jurisdiction case regardless of the amount of money involved may be brought in a state court rather than a federal court.
-
-Federal courts also have jurisdiction over all bankruptcy matters, which Congress has determined should be addressed in federal courts rather than the state courts. Through the bankruptcy process, individuals or businesses that can no longer pay their creditors may either seek a court-supervised liquidation of their assets, or they may reorganize their financial affairs and work out a plan to pay their debts.
-
-Although federal courts are located in every state, they are not the only forum available to potential litigants. In fact, the great majority of legal disputes in American courts, civil or criminal, are addressed in the separate state court systems. State courts have jurisdiction over virtually all divorce and child custody matters, probate and inheritance issues, real estate questions, and juvenile matters, and they handle most criminal cases, contract disputes, traffic violations, and personal injury cases. In addition, certain categories of legal disputes may be resolved in special courts or entities that are part of the federal executive or legislative branches or state and federal administrative agencies.
-
-## Civil Litigation
+![Franz Kafka, Mann zwishen Gittern](../img/Mann_zwischen_Gittern.png){width=33%}
 
 ### William Felstiner, et al, _The Emergence & Transformation of Disputes_ (1980)
 
@@ -158,7 +98,65 @@ The nature and potential transformational effects of courts can be seen best if 
 
 In between courts and psychotherapy there are many other dispute institutions---arbitration, mediation, administrative hearings, and investigations---that use ingredients of each process in different combinations but always effect a transformation.
 
-## The Federal Rules of Civil Procedure 
+## Civil Litigation in Federal Court
+
+### U.S. Constitution, Article III
+
+#### Section 1
+
+The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.
+
+#### Section 2
+
+The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
+
+In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
+
+### Administrative Office of the U.S. Courts, _Understanding the Federal Courts_
+
+#### Structure of the Federal Courts
+
+The Supreme Court is the highest court in the United States. Article III of the U.S. Constitution created the Supreme Court and authorized Congress to pass laws establishing a system of lower courts. In the federal court system’s present form, 94 district-level trial courts and 13 courts of appeals sit below the Supreme Court.
+
+##### Trial Courts
+
+The U.S. district courts are the primary trial courts of the federal court system. Within limits set by Congress and the Constitution, the district courts have jurisdiction to hear nearly all categories of federal cases, including both civil and criminal matters. There are 94 federal judicial districts, including at least one district in each state, the District of Columbia, and Puerto Rico. Each district includes a U.S. bankruptcy court as a unit of the district court.
+
+There are two special trial courts that have nationwide jurisdiction over certain types of cases. The Court of International Trade addresses cases involving international trade and customs issues. The United States Court of Federal Claims has jurisdiction over most claims for money damages against the United States, disputes over federal contracts, unlawful "takings" of private property by the federal government, vaccine injury cases, and a variety of other claims against the United States.
+
+Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
+
+![Federal District Courts & Appellate Circuits](../img/FedCourtsMap.png){width=66%}
+
+##### Appellate Courts
+
+The 94 judicial districts are organized into 12 regional circuits, each of which has a United States court of appeals. A court of appeals hears challenges to district court decisions from courts located within its circuit, as well as appeals from decisions of federal administrative agencies. In addition, the Court of Appeals for the Federal Circuit has nationwide jurisdiction to hear appeals in specialized cases, such as those involving patent laws and cases decided by the Court of International Trade and the Court of Federal Claims.
+
+##### United States Supreme Court
+
+The U.S. Supreme Court consists of the Chief Justice of the United States and eight associate justices. At its discretion, and within certain guidelines established by Congress, the Supreme Court hears a small percentage of the cases it is asked to decide each year. Supreme Court cases are usually selected either because the lower courts have differed, or "split," on a legal issue or they involve important questions about the Constitution or federal law.
+
+#### Jurisdiction of the Federal Courts
+
+Before a federal court can hear a case, or "exercise its jurisdiction," certain conditions must be met.
+
+First, under the Constitution, federal courts exercise only "judicial" powers. This means that federal judges may interpret the law only through the resolution of actual legal disputes, referred to in Article III of the Constitution as "Cases or Controversies." A court cannot attempt to correct a problem on its own initiative, or to answer a hypothetical legal question.
+
+Second, in an actual case or controversy, the plaintiff in a federal lawsuit also must have legal "standing" to ask the court for a decision. That means the plaintiff must have been aggrieved, or legally harmed in some way, by the defendant.
+
+Third, the case must present a category of dispute that the law in question was designed to address, and it must be a complaint that the court has the power to remedy. In other words, the court must be authorized, under the Constitution or a federal law, to hear the case and grant appropriate relief to the plaintiff.
+
+Finally, the case cannot be "moot," that is, it must present an ongoing problem for the court to resolve. The federal courts, thus, are courts of "limited" jurisdiction because they may only decide certain types of cases as provided by Congress or as identified in the Constitution.
+
+Although the details of the complex web of federal jurisdiction that Congress has given the federal courts is beyond the scope of this brief guide,[Federal subject matter jurisdiction is covered in Chapter 3]{.aside} it is important to understand that there are two main sources of the cases coming before the federal courts: "federal question" jurisdiction and "diversity" jurisdiction.
+
+In general, federal question jurisdiction arises in cases that involve the U.S. government, the U.S. Constitution or federal laws, or controversies between states or between the United States and foreign governments. A case that raises such a "federal question" may be filed in federal court. Examples of such cases might include a claim by an individual for entitlement to money under a federal government program such as Social Security, a criminal prosecution by the government that alleges someone violated a federal law, or a challenge to actions taken by a federal agency.
+
+A case also may be filed in federal court based on the "diversity of citizenship" of the litigants, such as between citizens of different states, or between U.S. citizens and those of another country. To ensure fairness to the out-of-state litigant, the Constitution provides that such cases may be heard in a federal court. An important limit to diversity jurisdiction is that only cases involving more than $75,000 in potential damages may be filed in a federal court. Claims below that amount may only be pursued in state court. Moreover, any diversity jurisdiction case regardless of the amount of money involved may be brought in a state court rather than a federal court.
+
+Federal courts also have jurisdiction over all bankruptcy matters, which Congress has determined should be addressed in federal courts rather than the state courts. Through the bankruptcy process, individuals or businesses that can no longer pay their creditors may either seek a court-supervised liquidation of their assets, or they may reorganize their financial affairs and work out a plan to pay their debts.
+
+Although federal courts are located in every state, they are not the only forum available to potential litigants. In fact, the great majority of legal disputes in American courts, civil or criminal, are addressed in the separate state court systems. State courts have jurisdiction over virtually all divorce and child custody matters, probate and inheritance issues, real estate questions, and juvenile matters, and they handle most criminal cases, contract disputes, traffic violations, and personal injury cases. In addition, certain categories of legal disputes may be resolved in special courts or entities that are part of the federal executive or legislative branches or state and federal administrative agencies.
 
 ### The Rules Enabling Act, 28 U.S.C. §2071 et seq.
 
@@ -230,12 +228,12 @@ There is one form of action—the civil action.
 
 Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as parties (Party Joinder), what claims to assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about joinder may constrain the choice of forum, and vice versa. The limited subject matter jurisdiction of the federal courts means that federal courts may only decide certain claims. The constitutional limits on personal jurisdiction mean that courts may only decide cases against defendants having sufficient contacts with the forum state. At some point, it may also be necessary to determine which law---state or federal, and if state law, which state---will apply to the various issues in the case. 
 
-![Stages of a Civil Suit, part 1](../img/CivilAction1.png){width=66%}
+![Stages of a Civil Suit, part 1](../img/CivilAction1.png){width=60%}
 
 The next step is to file a complaint with the court and serve a copy on the defendant. The defendant must then respond, either by admitting or denying the allegations in the complaint (Answer) or moving to dismiss on procedural grounds (Rule 12 Motions). Defendants may also assert claims of their own against the plaintiff, other defendants, or new parties (Counterclaims, Crossclaims, Third party claims).
 
 If the case is not dismissed at the pleadings stage, the parties will produce evidence (Discovery). They may also ask the court to decide the suit, or particular issues, based on the evidence in the pre-trial record (Summary Judgment). 
 
-![Stages of a Civil Suit, part 2](../img/CivilAction2.png){width=66%}
+![Stages of a Civil Suit, part 2](../img/CivilAction2.png){width=60%}
 
 If the case is not fully decided on summary judgment (or settled), it will proceed to trial, at the end of which the court will enter judgment in favor of the prevailing party. The losing party may then appeal to a higher court. A final judgment may have consequences for other lawsuits involving the same parties (Claim and Issue Preclusion). 
