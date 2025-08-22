@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-This book presents judicial opinions, statutes and regulations, and other material pertaining to the law governing employment and labor relations.  Topics covered include establishing an employment relationship; recruitment and hiring; supervisory control and employee autonomy; confidentiality and competition; wages and hours; employee health and workplace injuries; and termination of employment.
+This book presents material for use in a first-year law school Civil Procedure course. Topics covered include the scope of a lawsuit (Party & Claim Joinder), selection of an appropriate forum (Personal & Subject Matter Jurisdiction), presentation of claims and defenses (Pleadings), choice of applicable law (the _Erie_ doctrine & the Rules Enabling Act), disposition without a trial (Summary Judgment), and the effect of judgments on future litigation (Claim & Issue Preclusion).
 
 Most of the materials reproduced here are in the public domain; excerpts from copyrighted materials are included for teaching purposes under the fair use doctrine. Materials have been redacted to omit passages not pertinent to the learning objectives. Judicial opinions have also been "cleaned up"[^Preface1] for ease of reading. 
 

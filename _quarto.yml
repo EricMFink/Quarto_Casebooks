@@ -11,22 +11,22 @@ book:
         city: Greensboro
         state: North Carolina
         postal-code: 27278
-  title: "Employment Law"
-  title-short: "Employment Law"
+  title: "Civil Procedure"
+  title-short: "Civil Procedure"
   subtitle: An Open-Source Casebook
-  version: "5.0, September 2025"
+  version: "4.1, August 2025"
   license: "CC BY NC SA"
-  site-url: "https://www.emfink.net/EmploymentLawCasebook/"
-  output-file: "EmploymentLawCasebook"
+  site-url: "https://www.emfink.net/CivProCasebook/"
+  output-file: "CivProCasebook"
   downloads: [pdf] 
   sidebar:
     tools:
       - icon: github
         menu:
           - text: View source code
-            href:  https://github.com/EricMFink/EmploymentLawCasebook
+            href:  https://github.com/EricMFink/CivProCasebook
           - text: Report an issue
-            href:  https://github.com/EricMFink/EmploymentLawCasebook/issues/new
+            href:  https://github.com/EricMFink/CivProCasebook/issues/new
   page-footer:
       center: 
         - text: "Last updated: {{< now >}}"
