@@ -16,4 +16,4 @@
 
 [Source Code: [[github.com/EricMFink/CivProCasebook]{.mono-font}](https://github.com/EricMFink/CivProCasebook){.mono-font}]{.license-h3}
 
-[Version [Version 4.1, August 2025]{.license-h3}
+[Version 4.1, August 2025]{.license-h3}
